@@ -1,0 +1,1 @@
+# Sterkte, stijfheid en stabiliteit

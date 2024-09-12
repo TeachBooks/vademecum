@@ -1,10 +1,15 @@
 format: jb-book
-root: intro.md
+root: intro
+options:
+  numbered: 2
 
 parts:
-  - caption: Contents
+  - caption: Inhoudsopgave
+    numbered: 2
     chapters:
-    - file: some_content/overview.md
+    - file: voorwoord/voorwoord_intro
+    - file: basisprincipes/basisprincipes_intro
       sections:
-      - file: some_content/text_and_code.ipynb
-    - file: references.md
+      - file: basisprincipes/materialisatie
+      - file: basisprincipes/sterkte_stijfheid_stabiliteit
+      - file: basisprincipes/controleberekening
