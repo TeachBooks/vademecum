@@ -7,7 +7,7 @@ parts:
   - caption: Inhoudsopgave
     numbered: 2
     chapters:
-    - file: voorwoord/voorwoord_intro
+    - file: voorwoord_intro
     - file: basisprincipes/basisprincipes_intro
       sections:
       - file: basisprincipes/materialisatie
@@ -15,10 +15,25 @@ parts:
       - file: basisprincipes/controleberekening
     - file: ontwerp/ontwerp_intro
       sections:
-      - file: ontwerp/beton
-      - file: ontwerp/hout
       - file: ontwerp/staal
+      - file: ontwerp/hout
+      - file: ontwerp/beton
     - file: teken_instructies/teken_instructies_intro
       sections:
       - file: teken_instructies/lijnsoorten_arcering
       - file: teken_instructies/constructie_tekeningen
+    - file: mechanica/mechanica_intro
+      sections:
+      - file: mechanica/symbolen
+      - file: mechanica/doorsnedegrootheden
+      - file: mechanica/vergeet_me_nietjes
+      - file: mechanica/basisknikgevallen
+    - file: belastingen/belastingen_intro
+      sections:
+      - file: belastingen/belastingcombinaties_grenstoestanden
+      - file: belastingen/permanente_belastingen
+      - file: belastingen/veranderlijke_belastingen_1
+      - file: belastingen/veranderlijke_belastingen_2
+      - file: belastingen/veranderlijke_belastingen_3
+      - file: belastingen/veranderlijke_belastingen_4
+      - file: belastingen/bruikbaarheidscriteria
