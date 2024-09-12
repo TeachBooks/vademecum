@@ -1,1 +1,1 @@
-# LIjnsoorten en arcering
+# Lijnsoorten en arcering

@@ -13,3 +13,12 @@ parts:
       - file: basisprincipes/materialisatie
       - file: basisprincipes/sterkte_stijfheid_stabiliteit
       - file: basisprincipes/controleberekening
+    - file: ontwerp/ontwerp_intro
+      sections:
+      - file: ontwerp/beton
+      - file: ontwerp/hout
+      - file: ontwerp/staal
+    - file: teken_instructies/teken_instructies_intro
+      sections:
+      - file: teken_instructies/lijnsoorten_arcering
+      - file: teken_instructies/constructie_tekeningen
