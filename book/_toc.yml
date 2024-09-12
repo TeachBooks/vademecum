@@ -37,3 +37,23 @@ parts:
       - file: belastingen/veranderlijke_belastingen_3
       - file: belastingen/veranderlijke_belastingen_4
       - file: belastingen/bruikbaarheidscriteria
+    - file: materiaaleigenschappen/materiaaleigenschappen_intro
+      sections:
+      - file: materiaaleigenschappen/staal
+      - file: materiaaleigenschappen/hout
+      - file: materiaaleigenschappen/beton
+      - file: materiaaleigenschappen/betonstaal
+    - file: voorbeeldberekeningen/voorbeeldberekeningen_intro
+      sections:
+      - file: voorbeeldberekeningen/globale_dimensionering_ligger
+      - file: voorbeeldberekeningen/globale_dimensionering_kolom
+      - file: voorbeeldberekeningen/globale_dimensionering_uitkragende_liggers
+      - file: voorbeeldberekeningen/globale_dimensionering_vakwerkliggers
+    - file: voorbeeldtekeningen/voorbeeldtekeningen_intro
+      sections:
+      - file: voorbeeldtekeningen/staal
+      - file: voorbeeldtekeningen/hout
+      - file: voorbeeldtekeningen/beton
+    - file: bijlagen/bijlagen_intro
+      sections:
+      - file: bijlagen/eurocodes
