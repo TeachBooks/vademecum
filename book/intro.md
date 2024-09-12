@@ -1,5 +1,4 @@
-(intro)=
-# Welcome to the Template Book
+# Welcome to the Vademecum
 
 _Write book intro here. This is the first page the student will see when opening the url._
 
