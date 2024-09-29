@@ -1,14 +1,14 @@
 # Ontwerp
 
 Dit hoofdstuk is geordend per constructiemateriaal:
-• Staal
-• Hout
-• Beton
+- Staal
+- Hout
+- Beton
 
 Per constructiemateriaal worden drie onderdelen gepresenteerd:
-• Schattingsregels
-• Voorbeelden van constructies
-• Voorbeelden van verbindingen
+- Schattingsregels
+- Voorbeelden van constructies
+- Voorbeelden van verbindingen
 
 De schattingsregels zijn overgenomen uit Jellema deel 7 - Bouwmethodiek. Ze kunnen worden gebruikt in het vroege ontwerpstadium om veelvoorkomende overspanningsconstructies te dimensioneren. De hierdoor verkregen afmetingen van de constructie zijn uiteraard slechts indicatief. Uiteindelijk moeten constructieberekeningen worden uitgevoerd om te toetsen of de constructiedelen daadwerkelijk voldoende sterk en stijf zijn. 
 
