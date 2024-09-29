@@ -31,5 +31,16 @@ het gebied van constructieve veiligheid voldoet aan de prestatie-eisen van het B
 
 In dit vademecum zijn grote delen van de ’Quick Reference Guide’ van de faculteit CiTG overgenomen. De auteurs zijn hun collega’s van CiTG hiervoor zeer dankbaar.
 
+````{margin}
+```{note}
+Here's my note!
+```
+````
+
+`````{admonition} This admonition was styled...
+:class: tip
+With a tip class!
+`````
+
 [^1]: [Bouwbesluit](www.rijksoverheid.bouwbesluit.com)
 
