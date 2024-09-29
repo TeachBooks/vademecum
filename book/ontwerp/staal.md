@@ -2,9 +2,12 @@
 
 ## Schattingsregels staalconstructies
 
-![Afbeelding](images/ontwerp/Jellema%207%20Bouwmethodiek%20206.pdf)
-
+```{figure} Images/Jellema7Bouwmethodiek206.png
 ---
+name: Jellema Staal
+---
+```
+
 
 ## Schattingsregels kolommen en wanden
 
@@ -18,11 +21,11 @@ De onderstaande schattingsregels voor stalen kolommen gelden voor:
 - De verdiepingshoogtes zoals in de tabel aangegeven.
 - Een geschoorde constructie (dat betekent dat de standzekerheid van het gebouw wordt gewaarborgd door de wanden of windverbanden en niet door momentvaste verbindingen).
 
+
 > **Staalkolom**  
 > 
-> | Aantal  | Verdiepings- | Kolom afmeting *  |
-> | ------- | ------------- | ----------------- |
-> | verdiepingen | hoogte | [mm] |
+> | Aantal verdiepingen | Verdiepingshoogte | Kolom afmeting * [mm] |
+> | --- | --- | --- |
 > | v = 1 | L ≤ 8m | L / 25 |
 > | 1 < v ≤ 3 | L ≤ 4m | L / 20 |
 > | 3 < v ≤ 5 | L ≤ 4m | L / 16 |
