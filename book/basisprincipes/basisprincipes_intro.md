@@ -10,6 +10,7 @@ Niet zelden zijn er grote kolomvrije ruimtes nodig, waarbij grote overspanningen
 
 ```{figure} Images/Figuur1draagconstructieprincipe.jpg
 ---
+height: 500px
 name: draagconstructie principe
 ---
 draagconstructie principe
