@@ -10,6 +10,7 @@ Een draagconstructie kan zowel lokaal als globaal instabiel zijn. De meest voork
 
 ```{figure} Images/Figuur2WVB.jpg
 ---
+height: 500px
 name: WVB
 ---
 Windverband (wvb), windkruis, geschoord raamwerk. Vaak toegepast bij skeletbouw.
@@ -17,6 +18,7 @@ Windverband (wvb), windkruis, geschoord raamwerk. Vaak toegepast bij skeletbouw.
 
 ```{figure} Images/Figuur3Muren.jpg
 ---
+height: 500px
 name: Muren
 ---
 Schijf, wand, stabiliteitsmuur. Vaak toegepast in schijvenbouw. Vaak uitgevoerd in beton, metselwerk/kalkzandsteen, HSB.
@@ -24,6 +26,7 @@ Schijf, wand, stabiliteitsmuur. Vaak toegepast in schijvenbouw. Vaak uitgevoerd 
 
 ```{figure} Images/Figuur4portaal.jpg
 ---
+height: 500px
 name: portaal
 ---
 Portaal. Momentvaste verbinding tussen kolommen en ligger.
@@ -31,6 +34,7 @@ Portaal. Momentvaste verbinding tussen kolommen en ligger.
 
 ```{figure} Images/Figuur5portaalinfundering.jpg
 ---
+height: 500px
 name: portaal in fundering
 ---
 Portaal. Momentvaste verbinding tussen kolommen en fundering.
@@ -48,6 +52,7 @@ Hoe verder de snijassen uit elkaar liggen, hoe stijver de constructie is en des 
 
 ```{figure} Images/Figuur6horizontalestabiliteit.jpg
 ---
+height: 500px
 name: horizontale stabiliteit
 ---
 Minimaal drie schijven of windverbanden zijn nodig om horizontale stabiliteit te verzorgen (niet evenwijdig en niet snijdend in hetzelfde punt).
