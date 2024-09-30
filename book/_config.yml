@@ -31,7 +31,6 @@ sphinx:
     # - jupyterbook_patches
     # - download_link_replacer
     - sphinx.ext.extlinks
-    - html_image
 
 bibtex_bibfiles: 
   - references.bib
