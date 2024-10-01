@@ -54,128 +54,43 @@ Staalconstructies worden meestal standzeker gemaakt door middel van een geschoor
 | **Standaardprofielen** | ![Standaardprofielen](ontwerp/Images/2.2.1_staalconstructie_standaard_profielen.png) | Eén bouwlaag: $h_{bouwlaag} = 2 \; \text{a} \; 8 \, \text{m}$ $d = \frac{h_{bl}}{20} \; \text{a} \; \frac{h_{bl}}{25}$ 
 | |Gewalste en gelaste U- en H-profielen|Meerdere bouwlagen: $h_{bl} = 2 \; \text{a} \; 4 \, \text{m}$ $d = \frac{h_{bl}}{7} \; \text{a} \; \frac{h_{bl}}{18}$ |
 
-|  | **Stalen kolommen** | |
+| **Kokerprofielen** | ![Kokerprofielen](ontwerp/Images/2.2.1_staalconstructie_kokerprofielen.png) | Eén bouwlaag: $h_{bl} = 2 \; \text{a} \; 8 \, \text{m}$ $d = \frac{h_{bl}}{20} \; \text{a} \; \frac{h_{bl}}{35}$ |
+| | Kokerprofielen |Meerdere bouwlagen: $h_{bl} = 2 \; \text{a} \; 4 \, \text{m}$ $d = \frac{h_{bl}}{7} \; \text{a} \; \frac{h_{bl}}{28}$$ |
+
+| **Staal-betonkolommen** | ![Staalbeton kolommen](ontwerp/Images/2.2.1_staalconstructie_staalbeton_kolommen.png) | $h_{bl} = 2 \; \text{a} \; 4 \, \text{m}$ $d = \frac{h_{bl}}{6} \; \text{a} \; \frac{h_{bl}}{15}$ |
+| | Ingestorte en volgestorte profielen, bevatten altijd extra wapening | |
+
+|  | **Hoofdliggers van verdiepingsvloeren** | |
 |---|---|---|
-| **Standaardprofielen** | ![Standaardprofielen](Images/2.2.1_staalconstructie_standaard_profielen.png) Gewalste en gelaste U- en H-profielen | Eén bouwlaag: $h_{bouwlaag} = 2 \; \text{a} \; 8 \, \text{m}$, $d = \frac{h_{bl}}{20} \; \text{a} \; \frac{h_{bl}}{25}$|
+| **H-profielen en kokers** | ![H-profielen en kokers](ontwerp/Images/2.2.1_staalconstructie_H-profielen_en_kokers.png) | $l = 4 \; \text{a} \; 12 \, \text{m}$ $h = 100 \; \text{a} \; 500 \, \text{mm}$ $h = \frac{l}{18} \; \text{a} \; \frac{l}{28}$ |
+| | Breedflens (H-)profielen en kokers | |
 
-Meerdere bouwlagen:
-$h_{bl} = 2 \; \text{a} \; 4 \, \text{m}$
-$d = \frac{h_{bl}}{7} \; \text{a} \; \frac{h_{bl}}{18}$|
+| **I- en U-profielen** | ![I- en U-profielen](ontwerp/Images/2.2.1_staalconstructie_I_en_U_profielen.png) |$l = 6 \; \text{a} \; 30 \, \text{m}$ $h = 200 \; \text{a} \; 500 \, \text{mm}$ $h = \frac{l}{15} \; \text{a} \; \frac{l}{20}$$ |
+| | I- en U-profielen als hoofdliggers | |
 
-| **Kokerprofielen** | ```{figure} Images/2.2.1_staalconstructies_kokerprofielen.png
----
-name: Kokerprofielen
----``` |
-| | Eén bouwlaag: |
-| | $$h_{bl} = 2 \; \text{a} \; 8 \, \text{m}$$ |
-| | $$d = \frac{h_{bl}}{20} \; \text{a} \; \frac{h_{bl}}{35}$$ |
-| | Meerdere bouwlagen: |
-| | $$h_{bl} = 2 \; \text{a} \; 4 \, \text{m}$$ |
-| | $$d = \frac{h_{bl}}{7} \; \text{a} \; \frac{h_{bl}}{28}$$ |
-| | Kokerprofielen |
+| **Vakwerkliggers** | ![Vakwerkliggers](ontwerp/Images/2.2.1_staalconstructie_vakwerkliggers.png) |$l = 12 \; \text{a} \; 45 \, \text{m}$ $h = 1000 \; \text{a} \; 4000 \, \text{mm}$ $h = \frac{l}{8} \; \text{a} \; \frac{l}{15}$ |
 
-| **Staal-betonkolommen** | ```{figure} Images/2.2.1_staalconstructie_staalbeton_kolommen.png
----
-name: Staal-betonkolommen
----``` |
-| | |
-| | $$h_{bl} = 2 \; \text{a} \; 4 \, \text{m}$$ |
-| | $$d = \frac{h_{bl}}{6} \; \text{a} \; \frac{h_{bl}}{15}$$ |
-| | Ingestorte en volgestorte profielen, bevatten altijd extra wapening |
+| **Staal-betonvloeren** | ![Staalbetonvloeren](ontwerp/Images/2.2.1_staalconstructie_staalbetonvloeren.png) |$l = 7 \; \text{a} \; 15 \, \text{m}$ $h = 300 \; \text{a} \; 1000 \, \text{mm}$ $h = \frac{l}{20} \; \text{a} \; \frac{l}{25}$ |
+| | Hoedliggers met opgestorte druklaag, met of zonder deuvels | |
 
----
+|  | **Vloeren** | |
+|---|---|---|
+| **Staalplaatbetonvloer** | ![Staalplaatbetonvloer](ontwerp/Images/2.2.1_staalconstructie_staalplaatbetonvloer.png) |$l = 2 \; \text{a} \; 4 \, \text{m}$ $h = 100 \; \text{a} \; 150 \, \text{mm}$ $h = \frac{l}{25} \; \text{a} \; \frac{l}{30}$ |
+| | Staalplaatbetonvloer met extra wapening | |
 
-|  | **Hoofdliggers van verdiepingsvloeren** |
-|---|---|
-| **H-profielen en kokers** | ```{figure} Images/2.2.1_staalconstructie_H-profielen_en_kokers.png
----
-name: H-profielen en kokers
----``` |
-| | $$l = 4 \; \text{a} \; 12 \, \text{m}$$ |
-| | $$h = 100 \; \text{a} \; 500 \, \text{mm}$$ |
-| | $$h = \frac{l}{18} \; \text{a} \; \frac{l}{28}$$ |
-| | Breedflens (H-)profielen en kokers |
 
-| **I- en U-profielen** | ```{figure} Images/2.2.1_staalconstructie_I_en_U_profielen.png
----
-name: I- en U-profielen
----``` |
-| | $$l = 6 \; \text{a} \; 30 \, \text{m}$$ |
-| | $$h = 200 \; \text{a} \; 500 \, \text{mm}$$ |
-| | $$h = \frac{l}{15} \; \text{a} \; \frac{l}{20}$$ |
-| | I- en U-profielen als hoofdliggers |
+|  | **Hoofdliggers dakconstructies** | |
+|---|---|---|
+| **H-profielen en kokers** | ![H-profielen en kokers](ontwerp/Images/2.2.1_staalconstructie_H-profielen_en_kokers.png) |$l = 6 \; \text{a} \; 14 \, \text{m}$ $h = 100 \; \text{a} \; 500 \, \text{mm}$ $h = \frac{l}{20} \; \text{a} \; \frac{l}{30}$ |
+| | Breedflens (H-)profielen en kokers | |
 
-| **Vakwerkliggers** | ```{figure} Images/2.2.1_staalconstructie_vakwerkliggers.png
----
-name: Vakwerkliggers
----``` |
-| | $$l = 12 \; \text{a} \; 45 \, \text{m}$$ |
-| | $$h = 1000 \; \text{a} \; 4000 \, \text{mm}$$ |
-| | $$h = \frac{l}{8} \; \text{a} \; \frac{l}{15}$$ |
+| **Vakwerkligger I** | ![Vakwerkligger I](ontwerp/Images/2.2.1_staalconstructie_vakwerkligger_I.png) |$l = 12 \; \text{a} \; 75 \, \text{m}$ $h = \frac{l}{10} \; \text{a} \; \frac{l}{18}$ |
+| | Vakwerkligger van warmgewalste profielen (met zeeg) | |
 
-| **Staal-betonvloeren** | ```{figure} Images/2.2.1_staalconstructie_staalbetonvloeren.png
----
-name: Staal-betonvloeren
----``` |
-| | $$l = 7 \; \text{a} \; 15 \, \text{m}$$ |
-| | $$h = 300 \; \text{a} \; 1000 \, \text{mm}$$ |
-| | $$h = \frac{l}{20} \; \text{a} \; \frac{l}{25}$$ |
-| | Hoedliggers met opgestorte druklaag, met of zonder deuvels |
+| **Vakwerkligger II** | ![Vakwerkligger II](ontwerp/Images/2.2.1_staalconstructie_vakwerkligger_II.png) |$l = 5 \; \text{a} \; 28 \, \text{m}$ $h = 300 \; \text{a} \; 1000 \, \text{mm}$ $h = \frac{l}{15} \; \text{a} \; \frac{l}{25}$ |
+| | Vakwerkligger van koudgevormde profielen | |
 
----
+| **Driehoekdakligger** | ![Driehoekdakligger](ontwerp/Images/2.2.1_staalconstructie_driehoekdakligger.png) |$l = 8 \; \text{a} \; 20 \, \text{m}$ $h = 300 \; \text{a} \; 1000 \, \text{mm}$ $h = \frac{l}{5} \; \text{a} \; \frac{l}{10}$ |
+| | Vakwerkligger van warmgewalste profielen | |
 
-|  | **Vloeren** |
-|---|---|
-| **Staalplaatbetonvloer** | ```{figure} Images/2.2.1_staalconstructie_staalplaatbetonvloer.png
----
-name: Staalplaatbetonvloer
----``` |
-| | $$l = 2 \; \text{a} \; 4 \, \text{m}$$ |
-| | $$h = 100 \; \text{a} \; 150 \, \text{mm}$$ |
-| | $$h = \frac{l}{25} \; \text{a} \; \frac{l}{30}$$ |
-| | Staalplaatbetonvloer met extra wapening |
-
----
-
-|  | **Hoofdliggers dakconstructies** |
-|---|---|
-| **H-profielen en kokers** | ```{figure} Images/2.2.1_staalconstructie_H-profielen_en_kokers.png
----
-name: H-profielen en kokers
----``` |
-| | $$l = 6 \; \text{a} \; 14 \, \text{m}$$ |
-| | $$h = 100 \; \text{a} \; 500 \, \text{mm}$$ |
-| | $$h = \frac{l}{20} \; \text{a} \; \frac{l}{30}$$ |
-| | Breedflens (H-)profielen en kokers |
-
-| **Vakwerkligger I** | ```{figure} Images/2.2.1_staalconstructie_vakwerkligger_I.png
----
-name: Vakwerkligger I
----``` |
-| | $$l = 12 \; \text{a} \; 75 \, \text{m}$$ |
-| | $$h = \frac{l}{10} \; \text{a} \; \frac{l}{18}$$ |
-| | Vakwerkligger van warmgewalste profielen (met zeeg) |
-
-| **Vakwerkligger II** | ```{figure} Images/2.2.1_staalconstructie_vakwerkligger_II.png
----
-name: Vakwerkligger II
----``` |
-| | $$l = 5 \; \text{a} \; 28 \, \text{m}$$ |
-| | $$h = 300 \; \text{a} \; 1000 \, \text{mm}$$ |
-| | $$h = \frac{l}{15} \; \text{a} \; \frac{l}{25}$$ |
-| | Vakwerkligger van koudgevormde profielen |
-
-| **Driehoekdakligger** | ```{figure} Images/2.2.1_staalconstructie_driehoekdakligger.png
----
-name: Driehoekdakligger
----``` |
-| | $$l = 8 \; \text{a} \; 20 \, \text{m}$$ |
-| | $$h = 300 \; \text{a} \; 1000 \, \text{mm}$$ |
-| | $$h = \frac{l}{5} \; \text{a} \; \frac{l}{10}$$ |
-| | Vakwerkligger van warmgewalste profielen |
-
-| **Ruimtevakwerk** | ```{figure} Images/2.2.1_staalconstructie_ruimtevakwerk.png
----
-name: Ruimtevak
----
-```
+| **Ruimtevakwerk** | ![Ruimtevak](ontwerp/Images/2.2.1_staalconstructie_ruimtevakwerk.png) | |
