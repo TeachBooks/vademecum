@@ -51,6 +51,8 @@ Staalconstructies worden meestal standzeker gemaakt door middel van een geschoor
 
 **Stalen kolommen**
 
+![Standaard profielen](images/221_staalconstructies_standaard_profielen.png)
+
 | **Standaardprofielen** | |
 | ![Standaard profielen](images/221_staalconstructies_standaard_profielen.png) | Eén bouwlaag: $h_{bouwlaag} = 2 \; \text{a} \; 8 \, \text{m}$ $d = \frac{h_{bl}}{20} \; \text{a} \; \frac{h_{bl}}{25}$ |
 | |Gewalste en gelaste U- en H-profielen | Meerdere bouwlagen: $h_{bl} = 2 \; \text{a} \; 4 \, \text{m}$ $d = \frac{h_{bl}}{7} \; \text{a} \; \frac{h_{bl}}{18}$ |
