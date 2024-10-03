@@ -42,8 +42,12 @@ Schattingsregels voor kolommen zijn minder nauwkeurig dan voor vloeren en ligger
 
 > **Houten kolom**
 >
-> ![Houten kolom](images/hout.jpg)
-> 
+> ```{figure} Images/hout.png
+>---
+>name: Houten kolom
+>---
+>```
+>
 > * Rode lijn (boven): Tot max. 5 bouwlagen
 > * Blauwe lijn (onder): Tot max. 3 bouwlagen
 > 
@@ -62,8 +66,12 @@ De ontwerpgrafiek geldt voor:
 
 > **Gelamineerde kolom**
 >
-> ![Gelamineerde kolom](images/gelamineerd.jpg)
-> 
+> ```{figure} Images/gelamineerd.png
+>---
+>name: Gelamineerde kolom
+>---
+>```
+>
 > * Oranje lijn (boven): q=2 kN/m² en tot max. 5 bouwlagen
 > * Grijze lijn (midden): q=5 kN/m² en tot max. 5 bouwlagen
 > * Blauwe lijn (onder): q=2 kN/m² en tot max. 3 bouwlagen
@@ -83,8 +91,12 @@ De ontwerpgrafiek geldt voor:
 
 > **Gelamineerde ligger**
 >
-> ![Gelamineerde ligger](images/ligger.jpg)
-> 
+>```{figure} Images/ligger.png
+>---
+>name: Gelamineerde ligger
+>---
+>```
+>
 > * Grijze lijn: q=5 kN/m² (bijeenkomstruimte)
 > * Oranje lijn: q=2,5 kN/m² (kantoorfunctie)
 > * Blauwe lijn: q=1,75 kN/m² (woonfunctie)
@@ -95,7 +107,12 @@ Een houtenkanaalplaat vloer is een vloerdeel bestaande uit verlijmde houten dele
 
 > **Houten kanaalplaat**
 >
-> ![Houten kanaalplaat](images/kpv.jpg)
+> ```{figure} Images/kvp.png
+>---
+>name: Houten kanaalplaat
+>---
+>```
+>
 > Van links naar rechts:
 > 
 > * Grijze lijn: q=5 kN/m² (bijeenkomstruimte)
@@ -104,7 +121,11 @@ Een houtenkanaalplaat vloer is een vloerdeel bestaande uit verlijmde houten dele
 > * Gele lijn: q=1 kN/m² (dak)
 
 
-![Houtenkanaalplaat](images/houtenkpv2.png)
+```{figure} Images/houtenkpv2.png
+---
+name: Houtenkanaalplaatvloer
+---
+```
 
 
 **Wanden**  
@@ -145,7 +166,12 @@ Dit is niet de totale dikte van de vloer- of wandopbouw, maar enkel het CLT-pane
 
 > **Meest voorkomende afmetingen CLT**
 >
-> ![CLT afmetingen](images/CLT01.jpg)
+> ```{figure} Images/CLT01.png
+>---
+>name: CLT afmetingen
+>---
+>```
+>
 
 Voor de middenlagen van CLT wordt hout gebruikt wat anders afgekeurd zou worden; knoesten, verkleuring of beschadigd hout. Het is nooit de kern van de boom.
 
@@ -161,21 +187,37 @@ In CLT panelen wordt lijm gebruikt. Veelal wordt gebruikt gemaakt van twee soort
 
 > **Hoogte CLT vloer**
 >
-> ![Hoogte CLT vloer](images/CLT02.jpg)  
+> ```{figure} Images/CLT02.png
+>---
+>name: Hoogte CLT vloer
+>---
+>```
 > © Swedish Wood
 
 > **CLT wand 80mm**
 >
-> ![CLT wand 80mm](images/CLT03.jpg)  
+> ```{figure} Images/CLT03.png
+>---
+>name: CLT wand 80 mm
+>---
+>``` 
 > © Swedish Wood
 
 > **CLT wand 100mm**
 >
-> ![CLT wand 100mm](images/CLT04.jpg)  
+> ```{figure} Images/CLT04.png
+>---
+>name: CLT wand 100 mm
+>---
+>``` 
 > © Swedish Wood
 
 > **CLT wand 120mm**
->
-> ![CLT wand 120mm](images/CLT05.jpg)  
+> 
+> ```{figure} Images/CLT05.png
+>---
+>name: CLT wand 120 mm
+>---
+>```
 > © Swedish Wood
 
