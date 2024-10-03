@@ -10,7 +10,7 @@ name: Jellema Hout
 
 ## Producten
 
-## Schattingsregels kolommen en wanden
+### Schattingsregels kolommen en wanden
 
 > De onderstaande schattingsregels voor houten kolommen gelden voor:
 > 
