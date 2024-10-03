@@ -53,7 +53,7 @@ Staalconstructies worden meestal standzeker gemaakt door middel van een geschoor
 
 ```{figure} images/221_staalconstructies_standaard_profielen.png
 ---
-Standaard profielen
+name: Standaard profielen
 ---
 ```
 
