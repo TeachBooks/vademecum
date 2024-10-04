@@ -42,11 +42,7 @@ Schattingsregels voor kolommen zijn minder nauwkeurig dan voor vloeren en ligger
 
 > **Houten kolom**
 >
-> ```{figure} Images/hout.png
->---
->name: Houten kolom
->---
->```
+> ![Houten kolom](Images/hout.jpg)
 >
 > * Rode lijn (boven): Tot max. 5 bouwlagen
 > * Blauwe lijn (onder): Tot max. 3 bouwlagen
