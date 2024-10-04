@@ -53,8 +53,7 @@ Staalconstructies worden meestal standzeker gemaakt door middel van een geschoor
 
 | Materiaal | Plaatje | Vergelijking |
 |---|---|---|
-| Staal  |  ![Standaardprofielen](Images/221_staalconstructies_kokerprofielen.png) | $ \frac{a}{b} $ |
-
+| Staal  |  ![Standaardprofielen](Images/2.2.1_staalconstructies_kokerprofielen.png) | $ \frac{a}{b} $ |
 
 **Stalen kolommen**
 
