@@ -73,12 +73,12 @@ Staalconstructies worden meestal standzeker gemaakt door middel van een geschoor
 
 | Stalen kolommen |  |  |
 |---|---|---|
-| Standaard profielen  |  ![Standaardprofielen](Images/221_staalconstructies_standaard_profielen_verschaald.png) | één bouwlaag: |
+| Standaard profielen  |  ![Standaardprofielen](Images/2.2.1_staalconstructies_standaard_profielen.png) | één bouwlaag: |
 
 
 | Stalen kolommen |  |  |
 |---|---|---|
-| Standaard profielen  |  ![Standaardprofielen](Images/221_staalconstructies_standaard_profielen_verschaald.png) | één bouwlaag: $ h_{bouwlaag} = 2 \; \text{à} \; 8 \, \text{m} $ $ d = \frac{h_{bl}}{20} \; \text{à} \; \frac{h_{bl}}{25} $ Meerdere bouwlagen: $ h_{bl} = 2 \; \text{à} \; 4 \, \text{m} $ $ d = \frac{h_{bl}}{7} \; \text{à} \; \frac{h_{bl}}{18} $ |
+| Standaard profielen | ![Standaardprofielen](Images/2.2.1_staalconstructies_standaard_profielen.png) | één bouwlaag: $ h_{bouwlaag} = 2 \; \text{à} \; 8 \, \text{m} $ $ d = \frac{h_{bl}}{20} \; \text{à} \; \frac{h_{bl}}{25} $ <br> Meerdere bouwlagen: $ h_{bl} = 2 \; \text{à} \; 4 \, \text{m} $ $ d = \frac{h_{bl}}{7} \; \text{à} \; \frac{h_{bl}}{18} $ |
 
 
 

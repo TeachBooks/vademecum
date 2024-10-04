@@ -61,6 +61,8 @@ Minimaal drie schijven of windverbanden zijn nodig om horizontale stabiliteit te
 ![Figuur 6](Images/Figuur6horizontalestabiliteit.jpg)
 
 
-| Tekst | Figuur |
-|---|---|
+| Tekst | Figuur | Formule |
+|---|---|---|
 | Figuur 6 | ![Figuur 6](Images/Figuur6horizontalestabiliteit.jpg) |
+
+<img src="Image/Figuur6horizontalestabiliteit.jpg" alt=Figuur 6>
