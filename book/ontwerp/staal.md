@@ -1,3 +1,13 @@
+---
+myst:
+  substitutions:
+    Standaard Profielen: |
+      ```{image} Image/221_staalconstructies_standaard_profielen.png
+      :alt: Standaard Profielen
+      :scale: 50%
+      ```
+---
+
 # Staal
 
 ## Schattingsregels staalconstructies
@@ -63,7 +73,9 @@ Staalconstructies worden meestal standzeker gemaakt door middel van een geschoor
 
 | Stalen kolommen |  |  |
 |---|---|---|
+
 | Standaard profielen  |  ![Standaardprofielen](Images/2.2.1_staalconstructies_standaard_profielen_verschaald.png) | één bouwlaag: |
+
 
 
 | Stalen kolommen |  |  |
