@@ -70,6 +70,12 @@ Staalconstructies worden meestal standzeker gemaakt door middel van een geschoor
 | Standaard profielen  | {Standaard Profielen} | één bouwlaag: |
 
 
+
+| Stalen kolommen |  |  |
+|---|---|---|
+| Standaard profielen  |  ![Standaardprofielen](Images/221_staalconstructies_standaard_profielen_verschaald.png) | één bouwlaag: |
+
+
 | Stalen kolommen |  |  |
 |---|---|---|
 | Standaard profielen  |  ![Standaardprofielen](Images/221_staalconstructies_standaard_profielen_verschaald.png) | één bouwlaag: $ h_{bouwlaag} = 2 \; \text{à} \; 8 \, \text{m} $ $ d = \frac{h_{bl}}{20} \; \text{à} \; \frac{h_{bl}}{25} $ Meerdere bouwlagen: $ h_{bl} = 2 \; \text{à} \; 4 \, \text{m} $ $ d = \frac{h_{bl}}{7} \; \text{à} \; \frac{h_{bl}}{18} $ |
