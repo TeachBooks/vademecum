@@ -72,7 +72,7 @@ Staalconstructies worden meestal standzeker gemaakt door middel van een geschoor
 
 |                                    | **stalen kolommen**                                                                                                   |                                   |
 |------------------------------------|---------------------------------------------------------------------------------------------------------------------|-----------------------------------|
-| standaardprofielen                 | ![standaardprofielen](images/221_staalconstructies_standaard_profielen.png)                         | één bouwlaag:                    |
+| standaardprofielen                 | ![standaardprofielen](Images/221_staalconstructies_standaard_profielen.png)                         | één bouwlaag:                    |
 |                                    | $\mathsf{h_{bouwlaag} = 2 \; \Grave{a} \; 8 m}$                                                                    |                                   |
 |                                    | $\mathsf{d = h_{bl}/20 \; \Grave{a} \; h_{bl}/25}$                                                                 |                                   |
 |                                    | meerdere bouwlagen:                                                                                                  |                                   |
@@ -80,7 +80,7 @@ Staalconstructies worden meestal standzeker gemaakt door middel van een geschoor
 |                                    | $\mathsf{d = h_{bl}/7 \; \Grave{a} \; h_{bl}/18}$                                                                  |                                   |
 |                                    | gewalste en gelaste U- en H-profielen                                                                                |                                   |
 
-| kokerprofielen                     | ![kokerprofielen](images/2. formules/2.2.1 staalconstructies_kokerprofielen.png)                                   | één bouwlaag:                    |
+| kokerprofielen                     | ![kokerprofielen](Images/2. formules/2.2.1 staalconstructies_kokerprofielen.png)                                   | één bouwlaag:                    |
 |                                    | $\mathsf{h_{bl} = 2 \; \Grave{a} \; 8 m}$                                                                          |                                   |
 |                                    | $\mathsf{d = h_{bl}/20 \; \Grave{a} \; h_{bl}/35}$                                                                 |                                   |
 |                                    | meerdere bouwlagen:                                                                                                  |                                   |
@@ -88,19 +88,19 @@ Staalconstructies worden meestal standzeker gemaakt door middel van een geschoor
 |                                    | $\mathsf{d = h_{bl}/7 \; \Grave{a} \; h_{bl}/28}$                                                                  |                                   |
 |                                    | kokerprofielen                                                                                                      |                                   |
 
-| staal-betonkolommen                | ![staal-betonkolommen](images/2. formules/2.2.1 staalconstructies_staalbeton kolommen.png)                       |                                   |
+| staal-betonkolommen                | ![staal-betonkolommen](Images/2. formules/2.2.1 staalconstructies_staalbeton kolommen.png)                       |                                   |
 |                                    | $\mathsf{h_{bl} = 2 \; \Grave{a} \; 4 m}$                                                                          |                                   |
 |                                    | $\mathsf{d = h_{bl}/6 \; \Grave{a} \; h_{bl}/15}$                                                                  |                                   |
 |                                    | ingestorte en volgestorte profielen, bevatten altijd extra wapening                                                |                                   |
 
 |                                    | **hoofdliggers van verdiepingsvloeren**                                                                             |                                   |
 |------------------------------------|---------------------------------------------------------------------------------------------------------------------|-----------------------------------|
-| H-profielen en kokers              | ![H-profielen en kokers](images/2. formules/2.2.1 staalconstructies_H-profielen en kokers.png)                     |                                   |
+| H-profielen en kokers              | ![H-profielen en kokers](i°Images/2. formules/2.2.1 staalconstructies_H-profielen en kokers.png)                     |                                   |
 |                                    | $\mathsf{l = 4 \; \Grave{a} \; 12m}$                                                                               |                                   |
 |                                    | $\mathsf{h=100 \; \Grave{a} \; 500mm}$                                                                            |                                   |
 |                                    | $\mathsf{h=l/18 \; \Grave{a} \; l/28}$                                                                            | breedflens (H-)profielen en kokers |
 
-| I- en U-profielen                  | ![I- en U-profielen](images/2. formules/2.2.1 staalconstructies_I en U profielen.png)                             |                                   |
+| I- en U-profielen                  | ![I- en U-profielen](Images/2. formules/2.2.1 staalconstructies_I en U profielen.png)                             |                                   |
 |                                    | $\mathsf{l = 6 \; \Grave{a} \;30m}$                                                                                |                                   |
 |                                    | $\mathsf{h=200 \; \Grave{a} \;500mm}$                                                                             |                                   |
 |                                    | $\mathsf{h=l/15 \; \Grave{a} \;l/20}$                                                                             | I- en U-profielen als hoofdliggers|
