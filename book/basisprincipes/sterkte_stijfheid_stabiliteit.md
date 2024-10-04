@@ -57,3 +57,10 @@ name: horizontale stabiliteit
 ---
 Minimaal drie schijven of windverbanden zijn nodig om horizontale stabiliteit te verzorgen (niet evenwijdig en niet snijdend in hetzelfde punt).
 ```
+
+![Figuur 6](Images/Figuur6horizontalestabiliteit.jpg)
+
+
+| Tekst | Figuur |
+|---|---|
+| Figuur 6 | ![Figuur 6](Images/Figuur6horizontalestabiliteit.jpg) |
