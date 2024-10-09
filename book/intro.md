@@ -3,7 +3,7 @@
 © Chair of Structural Design and Mechanics, Delft
 
 
-**Versie 01: September 2022**
+### Versie 01: September 2022
 
 **Auteurs:**
 - Jan Arends
@@ -18,7 +18,7 @@
 - Silke Prinsse
 
 
-**Versie 02: April 2024**
+### Versie 02: April 2024
 
 **Herzien:**
 - Ertuğ Çiftçi
@@ -26,7 +26,7 @@
 - Ate Snijder
 
 
-**Versie 03: December 2024**
+### Versie 03: December 2024
 
 **Herzien:**
 - Ate Snijder

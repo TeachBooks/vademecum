@@ -9,7 +9,6 @@ parts:
     chapters:
     - file: voorwoord_intro
 
-parts:
   - caption: Instructie
     numbered: 2
     chapters:
@@ -19,8 +18,7 @@ parts:
     - file: instructie/ontwerpen_van_draagconstructies
     - file: instructie/teken_instructies
 
-parts:
-  - caption: Basis_gegevens
+  - caption: Basis gegevens
     numbered: 2
     chapters:
     - file: basis_gegevens/basis_gegevens_intro
@@ -47,7 +45,6 @@ parts:
       - file: basis_gegevens/materiaaleigenschappen/betonstaal
     - file: basis_gegevens/kerngetallen_milieubelasting
 
-parts:
   - caption: Ontwerp
     numbered: 2
     chapters:
@@ -75,7 +72,6 @@ parts:
       - file: ontwerp/beton/kolommen
       - file: ontwerp/beton/verbindingen
 
-parts:
   - caption: Voorbeelden
     numbered: 2
     chapters:
@@ -99,7 +95,6 @@ parts:
       - file: voorbeelden/beton/berekeningen
       - file: voorbeelden/beton/milieu_impact_berekening
 
-parts:
   - caption: Bijlagen
     numbered: 2
     chapters:
