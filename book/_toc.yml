@@ -14,10 +14,7 @@ parts:
       - file: instructie/veiligheidsfilosofie_en_belastingcombinaties
       - file: instructie/ontwerpen_van_draagconstructies
       - file: instructie/teken_instructies
-        sections:
-        - file: instructie/teken_instructies/lijnsoorten_arcering
-        - file: instructie/teken_instructies/constructie_tekeningen
-    - file: basis_gegevens/basisgegevens_intro
+    - file: basis_gegevens/basis_gegevens_intro
       sections:
       - file: basis_gegevens/mechanica
         sections:
@@ -36,10 +33,10 @@ parts:
         - file: basis_gegevens/belastingen/bruikbaarheidscriteria
       - file: basis_gegevens/materiaaleigenschappen
         sections:
-        - file: basisgegevens/materiaaleigenschappen/staal
-        - file: basisgegevens/materiaaleigenschappen/hout
-        - file: basisgegevens/materiaaleigenschappen/beton
-        - file: basisgegevens/materiaaleigenschappen/betonstaal
+        - file: basis_gegevens/materiaaleigenschappen/staal
+        - file: basis_gegevens/materiaaleigenschappen/hout
+        - file: basis_gegevens/materiaaleigenschappen/beton
+        - file: basis_gegevens/materiaaleigenschappen/betonstaal
       - file: basis_gegevens/kerngetallen_milieubelasting
     - file: ontwerp/ontwerp_intro
       sections:
