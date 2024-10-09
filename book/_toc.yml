@@ -8,52 +8,83 @@ parts:
     numbered: 2
     chapters:
     - file: voorwoord_intro
-    - file: basisprincipes/basisprincipes_intro
+    - file: instructie/instructie_intro
       sections:
-      - file: basisprincipes/materialisatie
-      - file: basisprincipes/sterkte_stijfheid_stabiliteit
-      - file: basisprincipes/controleberekening
+      - file: instructie/sterkte_stijfheid_stabiliteit
+      - file: instructie/veiligheidsfilosofie_en_belastingcombinaties
+      - file: instructie/ontwerpen_van_draagconstructies
+      - file: instructie/teken_instructies
+        sections:
+        - file: instructie/teken_instructies/lijnsoorten_arcering
+        - file: instructie/teken_instructies/constructie_tekeningen
+    - file: basis_gegevens/basisgegevens_intro
+      sections:
+      - file: basis_gegevens/mechanica
+        sections:
+        - file: basis_gegevens/mechanica/symbolen
+        - file: basis_gegevens/mechanica/doorsnedegrootheden
+        - file: basis_gegevens/mechanica/vergeet_me_nietjes
+        - file: basis_gegevens/mechanica/basisknikgevallen
+      - file: basis_gegevens/belastingen
+        sections:
+        - file: basis_gegevens/belastingen/belastingcombinaties_grenstoestanden
+        - file: basis_gegevens/belastingen/permanente_belastingen
+        - file: basis_gegevens/belastingen/veranderlijke_belastingen_1
+        - file: basis_gegevens/belastingen/veranderlijke_belastingen_2
+        - file: basis_gegevens/belastingen/veranderlijke_belastingen_3
+        - file: basis_gegevens/belastingen/veranderlijke_belastingen_4
+        - file: basis_gegevens/belastingen/bruikbaarheidscriteria
+      - file: basis_gegevens/materiaaleigenschappen
+        sections:
+        - file: basisgegevens/materiaaleigenschappen/staal
+        - file: basisgegevens/materiaaleigenschappen/hout
+        - file: basisgegevens/materiaaleigenschappen/beton
+        - file: basisgegevens/materiaaleigenschappen/betonstaal
+      - file: basis_gegevens/kerngetallen_milieubelasting
     - file: ontwerp/ontwerp_intro
       sections:
-      - file: ontwerp/staal
+      - file: ontwerp/staal/staal_intro
+        sections:
+        - file: ontwerp/staal/stabiliteit
+        - file: ontwerp/staal/vloeren
+        - file: ontwerp/staal/liggers
+        - file: ontwerp/staal/wanden
+        - file: ontwerp/staal/kolommen
+        - file: ontwerp/staal/verbindingen
       - file: ontwerp/hout
+        sections:
+        - file: ontwerp/hout/stabiliteit
+        - file: ontwerp/hout/vloeren
+        - file: ontwerp/hout/wanden
+        - file: ontwerp/hout/kolommen
+        - file: ontwerp/hout/verbindingen
       - file: ontwerp/beton
-    - file: teken_instructies/teken_instructies_intro
+        sections:
+        - file: ontwerp/beton/stabiliteit
+        - file: ontwerp/beton/vloeren
+        - file: ontwerp/beton/wanden
+        - file: ontwerp/beton/kolommen
+        - file: ontwerp/beton/verbindingen
+    - file: voorbeelden/voorbeelden_intro
       sections:
-      - file: teken_instructies/lijnsoorten_arcering
-      - file: teken_instructies/constructie_tekeningen
-    - file: mechanica/mechanica_intro
-      sections:
-      - file: mechanica/symbolen
-      - file: mechanica/doorsnedegrootheden
-      - file: mechanica/vergeet_me_nietjes
-      - file: mechanica/basisknikgevallen
-    - file: belastingen/belastingen_intro
-      sections:
-      - file: belastingen/belastingcombinaties_grenstoestanden
-      - file: belastingen/permanente_belastingen
-      - file: belastingen/veranderlijke_belastingen_1
-      - file: belastingen/veranderlijke_belastingen_2
-      - file: belastingen/veranderlijke_belastingen_3
-      - file: belastingen/veranderlijke_belastingen_4
-      - file: belastingen/bruikbaarheidscriteria
-    - file: materiaaleigenschappen/materiaaleigenschappen_intro
-      sections:
-      - file: materiaaleigenschappen/staal
-      - file: materiaaleigenschappen/hout
-      - file: materiaaleigenschappen/beton
-      - file: materiaaleigenschappen/betonstaal
-    - file: voorbeeldberekeningen/voorbeeldberekeningen_intro
-      sections:
-      - file: voorbeeldberekeningen/globale_dimensionering_ligger
-      - file: voorbeeldberekeningen/globale_dimensionering_kolom
-      - file: voorbeeldberekeningen/globale_dimensionering_uitkragende_liggers
-      - file: voorbeeldberekeningen/globale_dimensionering_vakwerkliggers
-    - file: voorbeeldtekeningen/voorbeeldtekeningen_intro
-      sections:
-      - file: voorbeeldtekeningen/staal
-      - file: voorbeeldtekeningen/hout
-      - file: voorbeeldtekeningen/beton
+      - file: voorbeelden/staal
+        sections:
+        - file: voorbeelden/staal/tekeningen
+        - file: voorbeelden/staal/details
+        - file: voorbeelden/staal/berekeningen
+        - file: voorbeelden/staal/milieu_impact_berekening
+      - file: voorbeelden/hout
+        sections:
+        - file: voorbeelden/hout/tekeningen
+        - file: voorbeelden/hout/details
+        - file: voorbeelden/hout/berekeningen
+        - file: voorbeelden/hout/milieu_impact_berekening
+      - file: voorbeelden/beton
+        sections:
+        - file: voorbeelden/beton/tekeningen
+        - file: voorbeelden/beton/details
+        - file: voorbeelden/beton/berekeningen
+        - file: voorbeelden/beton/milieu_impact_berekening
     - file: bijlagen/bijlagen_intro
       sections:
       - file: bijlagen/eurocodes

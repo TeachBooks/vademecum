@@ -1,5 +1,32 @@
-# Welcome to the Vademecum
+# Vademecum voor draagconstructies van gebouwen
 
-_Write book intro here. This is the first page the student will see when opening the url._
+## © Chair of Structural Design and Mechanics, Delft
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative.
+### Versie 01: September 2022
+
+**Auteurs:**
+- Jan Arends
+- Ate Snijder
+- Basia van Vliet
+- Stijn Brancart
+
+**Redacteurs:**
+- Pim Buskermolen
+- Julia Schönwälder
+- Dirk Rinze Visser
+- Silke Prinsse
+
+### Versie 02: April 2024
+
+**Herzien:**
+- Ertuğ Çiftçi
+- Silke Prinsse
+- Ate Snijder
+
+### Versie 03: December 2024
+
+**Herzien:**
+- Ate Snijder
+- Minke van den Boogaard
+- Niels van Vliet
+- Guus Meinema
