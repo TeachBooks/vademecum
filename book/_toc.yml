@@ -12,23 +12,24 @@ parts:
   - caption: Instructie
     numbered: 2
     chapters:
-    - file: instructie/instructie_intro
     - file: instructie/sterkte_stijfheid_stabiliteit
     - file: instructie/veiligheidsfilosofie_en_belastingcombinaties
     - file: instructie/ontwerpen_van_draagconstructies
-    - file: instructie/teken_instructies
+    - file: instructie/teken_instructies/teken_instructies_intro
+      sections:
+      - file: instructie/teken_instructies/constructie_tekeningen
+      - file: instructie/teken_instructies/lijnsoorten_arcering
 
   - caption: Basis gegevens
     numbered: 2
     chapters:
-    - file: basis_gegevens/basis_gegevens_intro
-    - file: basis_gegevens/mechanica
+    - file: basis_gegevens/mechanica/mechanica_intro
       sections:
       - file: basis_gegevens/mechanica/symbolen
       - file: basis_gegevens/mechanica/doorsnedegrootheden
       - file: basis_gegevens/mechanica/vergeet_me_nietjes
       - file: basis_gegevens/mechanica/basisknikgevallen
-    - file: basis_gegevens/belastingen
+    - file: basis_gegevens/belastingen/belastingen_intro
       sections:
       - file: basis_gegevens/belastingen/belastingcombinaties_grenstoestanden
       - file: basis_gegevens/belastingen/permanente_belastingen
@@ -37,7 +38,7 @@ parts:
       - file: basis_gegevens/belastingen/veranderlijke_belastingen_3
       - file: basis_gegevens/belastingen/veranderlijke_belastingen_4
       - file: basis_gegevens/belastingen/bruikbaarheidscriteria
-    - file: basis_gegevens/materiaaleigenschappen
+    - file: basis_gegevens/materiaaleigenschappen/materiaaleigenschappen_intro
       sections:
       - file: basis_gegevens/materiaaleigenschappen/staal
       - file: basis_gegevens/materiaaleigenschappen/hout
@@ -48,7 +49,7 @@ parts:
   - caption: Ontwerp
     numbered: 2
     chapters:
-    - file: ontwerp/ontwerp_intro
+    # - file: ontwerp/ontwerp_intro
     - file: ontwerp/staal/staal_intro
       sections:
       - file: ontwerp/staal/stabiliteit
@@ -57,17 +58,19 @@ parts:
       - file: ontwerp/staal/wanden
       - file: ontwerp/staal/kolommen
       - file: ontwerp/staal/verbindingen
-    - file: ontwerp/hout
+    - file: ontwerp/hout/hout_intro
       sections:
       - file: ontwerp/hout/stabiliteit
       - file: ontwerp/hout/vloeren
+      - file: ontwerp/hout/liggers
       - file: ontwerp/hout/wanden
       - file: ontwerp/hout/kolommen
       - file: ontwerp/hout/verbindingen
-    - file: ontwerp/beton
+    - file: ontwerp/beton/beton_intro
       sections:
       - file: ontwerp/beton/stabiliteit
       - file: ontwerp/beton/vloeren
+      - file: ontwerp/beton/liggers    
       - file: ontwerp/beton/wanden
       - file: ontwerp/beton/kolommen
       - file: ontwerp/beton/verbindingen
@@ -75,29 +78,38 @@ parts:
   - caption: Voorbeelden
     numbered: 2
     chapters:
-    - file: voorbeelden/voorbeelden_intro
-    - file: voorbeelden/staal
+    - file: voorbeelden/staal/staal_intro
       sections:
       - file: voorbeelden/staal/tekeningen
       - file: voorbeelden/staal/details
       - file: voorbeelden/staal/berekeningen
+        sections:
+        - file: voorbeelden/staal/kolom
+        - file: voorbeelden/staal/ligger
+        - file: voorbeelden/staal/vloer
       - file: voorbeelden/staal/milieu_impact_berekening
-    - file: voorbeelden/hout
+    - file: voorbeelden/hout/hout_intro.md
       sections:
       - file: voorbeelden/hout/tekeningen
       - file: voorbeelden/hout/details
       - file: voorbeelden/hout/berekeningen
+        sections:
+        - file: voorbeelden/hout/kolom
+        - file: voorbeelden/hout/ligger
+        - file: voorbeelden/hout/vloer
       - file: voorbeelden/hout/milieu_impact_berekening
-    - file: voorbeelden/beton
+    - file: voorbeelden/beton/beton_intro
       sections:
       - file: voorbeelden/beton/tekeningen
       - file: voorbeelden/beton/details
       - file: voorbeelden/beton/berekeningen
+        sections:
+        - file: voorbeelden/beton/kolom
+        - file: voorbeelden/beton/ligger
+        - file: voorbeelden/beton/vloer
       - file: voorbeelden/beton/milieu_impact_berekening
 
   - caption: Bijlagen
     numbered: 2
     chapters:
-    - file: bijlagen/bijlagen_intro
-      sections:
-      - file: bijlagen/eurocodes
+    - file: bijlagen/eurocodes
