@@ -4,27 +4,24 @@
 **Houten kanaalplaatvloer**  
 Een houtenkanaalplaat vloer is een vloerdeel bestaande uit verlijmde houten delen. Het is een betrekkelijk licht vloersysteem. Met onderstaande grafiek kan de benodigde hoogte van de plaat horend bij een bepaalde overspanning geschat worden.
 
-> **Houten kanaalplaat**
->
-> ```{figure} Images/kvp.png
->---
->name: Houten kanaalplaat
->---
->```
->
-> Van links naar rechts:
-> 
-> * Grijze lijn: q=5 kN/m² (bijeenkomstruimte)
-> * Oranje lijn: q=2,5 kN/m² (kantoorfunctie)
-> * Blauwe lijn: q=1,75 kN/m² (woonfunctie)
-> * Gele lijn: q=1 kN/m² (dak)
+
+`````{admonition} Houten kanaalplaat
+:class: tip
 
 
-```{figure} Images/houtenkpv2.png
----
-name: Houtenkanaalplaatvloer
----
-```
+<img src="ImagesHout/kpv.jpg" alt="Houten kanaalplaat" width="400px">
+
+
+Van links naar rechts:
+
+* Grijze lijn: q=5 kN/m² (bijeenkomstruimte)
+* Oranje lijn: q=2,5 kN/m² (kantoorfunctie)
+* Blauwe lijn: q=1,75 kN/m² (woonfunctie)
+* Gele lijn: q=1 kN/m² (dak)
+
+
+`````
+
 
 
 **CLT**  
@@ -50,14 +47,15 @@ Andere afmetingen zijn mogelijk, maar dan kom je al snel in de ‘specials’. D
 
 Dit is niet de totale dikte van de vloer- of wandopbouw, maar enkel het CLT-paneel. De dikte van de panelen is afhankelijk van de constructieve belasting en de akoestische- en brandveiligheidseisen.
 
-> **Meest voorkomende afmetingen CLT**
->
-> ```{figure} Images/CLT01.png
->---
->name: CLT afmetingen
->---
->```
->
+
+`````{admonition} Meest voorkomende afmetingen CLT
+:class: tip
+
+
+<img src="ImagesHout/CLT01.jpg" alt="CLT afmetingen" width="400px">
+
+
+`````
 
 Voor de middenlagen van CLT wordt hout gebruikt wat anders afgekeurd zou worden; knoesten, verkleuring of beschadigd hout. Het is nooit de kern van de boom.
 
@@ -70,11 +68,14 @@ Er zijn 3 zichtklassen:
 In CLT panelen wordt lijm gebruikt. Veelal wordt gebruikt gemaakt van twee soorten lijm: PUR-lijm of MUF-lijm. PUR is een lijm op basis van polyurethaan, MUF is gebaseerd op melamin-ureum-formaldehyde. Doorgaans wordt de voorkeur gegeven aan PUR-lijm; deze lijm is vrij van oplosmiddelen en formaldehyde en daarmee beter voor toekomstig hergebruik of recycling. Lijm is over het algemeen niet duurzaam, maar maakt slechts 1-2 procent van het product uit. Er zijn ook leveranciers die CLT panelen leveren met houtverbindingen in plaats van lijm. Dit is duurzamer, maar gaat ten koste van de stabiliteit van een paneel.
 
 
-> **Hoogte CLT vloer**
->
-> ```{figure} Images/CLT02.png
->---
->name: Hoogte CLT vloer
->---
->```
-> © Swedish Wood
+`````{admonition} Hoogte CLT vloer
+:class: tip
+
+
+<img src="ImagesHout/CLT02.jpg" alt="Hoogte CLT vloer" width="400px">
+
+
+© Swedish Wood
+
+
+`````
