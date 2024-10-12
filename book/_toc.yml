@@ -17,8 +17,8 @@ parts:
     - file: instructie/ontwerpen_van_draagconstructies
     - file: instructie/teken_instructies/teken_instructies_intro
       sections:
-      - file: instructie/teken_instructies/constructie_tekeningen
       - file: instructie/teken_instructies/lijnsoorten_arcering
+      - file: instructie/teken_instructies/constructie_tekeningen
 
   - caption: Basis gegevens
     numbered: 2
