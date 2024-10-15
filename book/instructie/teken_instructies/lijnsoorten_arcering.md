@@ -10,7 +10,7 @@ De gegeven benaming van de lijnsoorten en arceringen gelden voor constructie-tek
 | ----------- | Getrokken lijn |
 | - - - - - - | Streeplijn |
 | -- - -- - -- | Gemengde streeplijn |
-| ............... | Stippellijn |
+| ............ | Stippellijn |
 
 ## Arceringen
 
