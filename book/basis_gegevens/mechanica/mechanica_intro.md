@@ -9,14 +9,22 @@ De volgende onderdelen zijn in dit hoofdstuk te vinden:
 - Formules voor het bepalen van krachten in, en vervorming van balken in een aantal standaardgevallen.
 - Formules voor het bepalen van de knikkracht van kolommen in een aantal standaardgevallen.
 
-<br>
+## Dictaten Krachtswerking
 
-<img src="Images/0.jpg" alt="Image 1" width="200px">
-<img src="Images/2.jpg" alt="Image 2" width="200px">
-<img src="Images/3.jpg" alt="Image 3" width="200px">
+[Krachtswerking deel 0 Basiskennis](Krachtswerking_deel_0_Basiskennis.pdf)
 
 <br>
 
-<img src="Images/4.jpg" alt="Image 4" width="200px">
-<img src="Images/5.jpg" alt="Image 5" width="200px">
+[Krachtswerking deel 2 Liggers](Krachtswerking_deel_2_Liggers.pdf)
 
+<br>
+
+[Krachtswerking deel 3 Vakwerken Standzekerheid](Krachtswerking_deel_3_Vakwerken_Standzekerheid.pdf)
+
+<br>
+
+[Krachtswerking deel 4 Spanningen](Krachtswerking_deel_4_Spanningen.pdf)
+
+<br>
+
+[Krachtswerking deel 5 Vervormingen](Krachtswerking_deel_5_vervormingen.pdf)

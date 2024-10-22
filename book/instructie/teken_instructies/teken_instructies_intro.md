@@ -14,6 +14,6 @@ Onderstaand is een voorbeeld gegeven. In hoofdstuk [voorbeelden](#voorbeelden) z
 
 Onderstaand is een voorbeeld gegeven. In hoofdstuk [voorbeelden](#voorbeelden) zijn voorbeelden van DC plattegronden van houten, stalen en betonnen draagconstructies gegeven.
 
-![DC Plattegronden](Images/Pages from constructief ontwerp - casusgebouw - staal 6.pdf)
+![DC Plattegronden](Images/staal6.png)
 
 **Verbindingsdetail:** Hier teken je alleen de constructieve delen. Dit kan in een 3D of een aantal 2D tekeningen. In het hoofdstuk [ontwerp](#ontwerp) zijn een aantal voorbeelden van tekeningen van verbindingen gegeven.
