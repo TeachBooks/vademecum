@@ -158,7 +158,7 @@ In eenvoudige berekeningen en toetsing van de constructie wordt er lineair elast
 
 De staalprofielen app van 'Bouwen met Staal' bevat alle gangbare profielafmetingen met bijbehorende doorsnede grootheden. 
 
-## IPE doorsnede (IPE 100 - IPE 300)
+### IPE doorsnede (IPE 100 - IPE 300)
 
 ```{figure} Images/IPE.png
 ---
@@ -203,7 +203,7 @@ IPE axo
 | IPE 300O   | 49.3   | 304.0  | 152.0  | 8.00     | 12.7     | 62.8    | 9994     | 746      | 658     | 98.1    |           | 126.0     |
 | IPE 300 R  | 51.7   | 306.0  | 147.0  | 8.50     | 13.7     | 65.9    | 10500    | 728      | 686     | 99.0    |           | 126.0     |
 
-## IPE doorsnede (IPE 330 - IPE 750)
+### IPE doorsnede (IPE 330 - IPE 750)
 
 ```{figure} Images/IPE.png
 ---
@@ -253,7 +253,7 @@ IPE axo
 | IPE 750 x 185 | 185.0 | 766.0 | 267.0 | 14.9    | 23.6     | 236     | 223000   | 7510     | 5821    | 563     | 308.0        | 56.5         
 
 
-## HEA/HEB/HEM doorsnede (HEA 100 - HEA 340)
+### HEA/HEB/HEM doorsnede (HEA 100 - HEA 340)
 
 ```{figure} Images/HEA_HEB_HEM.png
 ---
@@ -314,7 +314,7 @@ HEA/HEB/HEM axo
 | HE 340 B  | 134.2  | 340.0  | 300.0  | 12.0     | 21.5     | 171     | 36660    | 9690     | 2156    | 646     | 146.0       | 75.3        |
 | HE 340 M  | 247.9  | 377.0  | 309.0  | 21.0     | 40.0     | 316     | 76370    | 19710    | 4052    | 1276    | 156.0       | 79.0        |
 
-## HEA/HEB/HEM doorsnede (HEA 360 - HEA 1000)
+### HEA/HEB/HEM doorsnede (HEA 360 - HEA 1000)
 
 ```{figure} Images/HEA_HEB_HEM.png
 ---
@@ -376,7 +376,7 @@ HEA/HEB/HEM axo
 | HE 1000 | B | 314.0 | 1000.0 | 300.0 | 19.0 | 36.0 | 400 | 644700 | 16280 | 12890 | 1085 | 401.0 | 63.8 |
 | HE 1000 | M | 348.7 | 1008.0 | 302.0 | 21.0 | 40.0 | 444 | 722300 | 18460 | 14330 | 1222 | 403.0 | 64.5 |
 
-## CHS holle doorsnede (warmgewalste profielen)
+### CHS holle doorsnede (warmgewalste profielen)
 
 ```{figure} Images/CHS.png
 ---
@@ -449,7 +449,7 @@ CHS axo
 |               | 16.0   | 194     | 247      | 74900    | 2950      | 174.0     |
 |               | 20.0   | 241     | 307      | 91400    | 3600      | 173.0     |
 
-## RHS holle doorsnede 40 x 40 tot 180 x 180 (warmgewalste profielen, vierkant)
+### RHS holle doorsnede 40 x 40 tot 180 x 180 (warmgewalste profielen, vierkant)
 
 ```{figure} Images/RHS.png
 ---
@@ -520,7 +520,7 @@ RHS axo
 |          | 12.5   | 64.4    | 82.1     | 3790     | 421       | 68.0      |
 |          | 16.0   | 80.2    | 102      | 4500     | 500       | 66.4      |
 
-## RHS holle doorsnede 200 x 200 - 400 x 400 (continued)
+### RHS holle doorsnede 200 x 200 - 400 x 400 
 
 ```{figure} Images/RHS.png
 ---
@@ -555,7 +555,7 @@ RHS axo
 |         | 16.0 | 191    | 243   | 59300 | 2970  | 156.0|
 |         | 20.0 | 235    | 300   | 71500 | 3580  | 154.0|
 
-## RHS holle doorsnede 50 x 30 - 100 x 60 (warmgewalste profielen, niet-vierkant)
+### RHS holle doorsnede 50 x 30 - 100 x 60 (warmgewalste profielen, niet-vierkant)
 
 ```{figure} Images/RHS.png
 ---
@@ -588,7 +588,7 @@ RHS axo
 |       | 6.3    | 14.2   | 32.7  | 225     | 98.1    | 45.0     | 32.7     | 35.2      | 23.3      |
 |       | 8.0    | 17.5   | 37.8  | 264     | 113     | 52.8     | 37.8     | 34.4      | 22.5      |
 
-## RHS holle doorsnede 120 x 60 tot 500 x 300 (continued)
+### RHS holle doorsnede 120 x 60 tot 500 x 300 
 
 ```{figure} Images/RHS.png
 ---
@@ -656,7 +656,7 @@ RHS axo
 |         | 16.0   | 191    | 243  | 81800   | 36800   | 3270     | 2450      | 183.0       | 123.0       |
 |         | 20.0   | 235    | 300  | 98800   | 44100   | 3950     | 2940       | 182.0       | 121.0       |
 
-## UNP doorsnede
+### UNP doorsnede
 
 ```{figure} Images/UNP.png
 ---
@@ -683,7 +683,7 @@ UNP axo
 | 380x102  | 13.5   | 40.3  | 63.1  | 80.4      | 15760   | 615.2    | 829      | 78.7       |
 | 400x110  | 14     | 44.1  | 71.8  | 91.5      | 20350   | 851.0    | 1020     | 102        |
 
-## Corrugated sheet-sections
+### Corrugated sheet-sections
 
 | Shape | $h \\ [mm]$ | $t \\ [mm]$ | $\\sigma \\ [N/mm^2]$ | $I_y \\ [mm^4]$ | $W_{y;el} \\\cdot 10^4 [mm^4]$ |
 |-----|-------|------------|------|--------------|------|
