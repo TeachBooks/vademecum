@@ -282,6 +282,7 @@ De eisen ten aanzien van de bruikbaarheidsgrenstoestand zijn gegeven in sectie \
 | 1750 |  |  |  |  |  |  |  |  |  |
 | 1800 |  |  |  |  |  |  |  |  |  |
 
+
 |  | **breedte 135mm**  |  |  | **breedte 160mm** |  |  | **breedte 185mm** |  |  | **breedte 205mm** |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | h | A <br> $10^3$ <br> $[mm^2]$ | $W_y$ <br> $10^6$ <br> $[mm^3]$ | $I_y$ <br> $10^6$ <br> $[mm^4]$ | A <br> $10^3$ <br> $[mm^4]$ | $W_y$ <br> $10^6$ <br> $[mm^2]$ | $I_y$ <br> $10^6$ <br> $[mm^3]$ | A <br> $10^3$ <br> $[mm^4]$ | $W_y$ <br> $10^6$ <br> $[mm^2]$ | $I_y$ <br> $10^6$ <br> $[mm^4]$ | A <br> $10^3$ <br> $[mm^4]$ | $W_y$ <br> $10^6$ <br> $[mm^2]$ | $I_y$ <br> $10^6$ <br> $[mm^4]$ |
@@ -318,3 +319,4 @@ De eisen ten aanzien van de bruikbaarheidsgrenstoestand zijn gegeven in sectie \
 | 1700 |   |   |   |   |   |   | 314,5 | 89,10 | 75742,0 | 348,5 | 98,74 | 83930,4 |
 | 1750 |   |   |   |   |   |   | 323,7 | 94,42 | 82623,6 | 358,7 | 104,63 | 91555,9 |
 | 1800 |   |   |   |   |   |   | 333,0 | 99,90 | 89910,0 | 369,0 | 110,70 | 99630,0 |
+
