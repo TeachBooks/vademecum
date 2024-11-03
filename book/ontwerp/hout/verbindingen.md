@@ -2,28 +2,28 @@
 
 | **Voorbeelden van verbinding met liggers** | |
 |--------------------------------------------|--|
-| ![Verbinding van CLT vloer met stalen ligger. © Swedish Wood](ImagesHout/verb1.jpg) | ![Verbinding van CLT vloer met gelamineerde houten ligger. © Swedish Wood](ImagesHout/verb2.jpg) |
+| <img src="ImagesHout/verb1.jpg" alt="Verbinding van CLT vloer met stalen ligger. © Swedish Wood" class="bg-primary" height="300px"> | <img src="ImagesHout/verb2.jpg" alt="Verbinding van CLT vloer met gelamineerde houten ligger. © Swedish Wood" class="bg-primary" height="300px"> |
 
 <br>
 
 | **Voorbeelden van verbinding met de fundering** | |
 |------------------------------------------------|--|
-| ![Verbinding van CLT wand aan fundering met een hoekstaal. © Swedish Wood](ImagesHout/verb3.jpg) | ![Verbinding van CLT wand aan fundering met een onderslagbalk. © Swedish Wood](ImagesHout/verb3a.jpg) |
+| <img src="ImagesHout/verb3.jpg" alt="Verbinding van CLT wand aan fundering met een hoekstaal. © Swedish Wood" class="bg-primary" height="200px"> | <img src="ImagesHout/verb3a.jpg" alt="Verbinding van CLT wand aan fundering met een onderslagbalk. © Swedish Wood" class="bg-primary" height="200px"> |
 
 <br>
 
 | **Voorbeelden van verbinding tussen CLT wanden en vloeren** | | |
 |-------------------------------------------------------------|--|--|
-| ![Verbinding met lange houtschroeven. © Swedish Wood](ImagesHout/verb4a.jpg) | ![Verbinding met hoekstaal. © Swedish Wood](ImagesHout/verb4b.jpg) | ![Verbinding met draadeinden en koppelmoer. © Swedish Wood](ImagesHout/verb4c.jpg) |
+| <img src="ImagesHout/verb4a.jpg" alt="Verbinding met lange houtschroeven. © Swedish Wood" class="bg-primary" height="300px"> | <img src="ImagesHout/verb4b.jpg" alt="Verbinding met hoekstaal. © Swedish Wood" class="bg-primary" height="300px"> | <img src="ImagesHout/verb4c.jpg" alt="Verbinding met draadeinden en koppelmoer. © Swedish Wood" class="bg-primary" height="300px"> |
 
 <br>
 
 | **Voorbeeld van detail** |
 |--------------------------|
-| ![Voorbeeld van detail (verticaal) - aansluiting vloeren op dragende wanden - voor een gebouw zonder hoge eisen aan geluidsisolatie. © Swedish Wood](ImagesHout/verb6.jpg) |
+| <img src="ImagesHout/verb6.jpg" alt="Voorbeeld van detail (verticaal) - aansluiting vloeren op dragende wanden - voor een gebouw zonder hoge eisen aan geluidsisolatie. © Swedish Wood" class="bg-primary" width="300px"> |
 
 <br>
 
 | **Voorbeeld van detail** |
 |--------------------------|
-| ![Voorbeeld van detail (verticaal) - aansluiting vloeren op dragende wanden - voor een gebouw met hoge eisen aan geluidsisolatie (bijvoorbeeld een woongebouw). © Swedish Wood](ImagesHout/verb7.jpg) |
+| <img src="ImagesHout/verb7.jpg" alt="Voorbeeld van detail (verticaal) - aansluiting vloeren op dragende wanden - voor een gebouw met hoge eisen aan geluidsisolatie (bijvoorbeeld een woongebouw). © Swedish Wood" class="bg-primary" width="450px"> |

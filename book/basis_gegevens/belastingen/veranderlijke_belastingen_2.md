@@ -33,7 +33,7 @@ Allereerst moeten de verschillende windbelastingen worden bepaald: de krachtcoë
 
 | Positieve uitwendige druk | Positieve inwendige druk |
 |---------------------------|---------------------------|
-| ![Positieve uitwendige druk](Images/542_external.png) | ![Positieve inwendige druk](Images/542_internal.png) |
+| <img src="Images/542_external.png" alt="Positieve uitwendige druk" class="bg-primary" width="200px"> | <img src="Images/542_internal.png" alt="Positieve inwendige druk" class="bg-primary" width="200px"> |
 
 Beide krachten worden gecombineerd in een ongunstige situatie.
 
@@ -48,7 +48,7 @@ Let op dat voor beide windrichtingen verschillende parameters gelden.
 
 ```{figure} Images/543_parameters.png
 ---
-scale: 50%
+scale: 25%
 name: Parameters
 ---
 ```
@@ -57,8 +57,17 @@ name: Parameters
 
 De verschillende windzones voor de gevels van een gebouw zijn hieronder weergegeven. Het aantal windzones op de gevel varieert van 1 tot 3, afhankelijk van de waardes van $e$ en $d$. Voor gebouwen met een zadeldak gelden dezelfde zones. De waarde van $h$ dient dan genomen te worden als de hoogte van de nok boven maaiveldniveau. De parameters $e$ en $d$jaa zijn hierboven gedefinieerd.
 
-![Windzones gevels](Images/544_windzones_gevels.png)
-![Windzones gevels 2](Images/544_windzones_gevels_2.png)
+```{figure} Images/544_windzones_gevels.png
+---
+scale: 25%
+---
+```
+
+```{figure} Images/544_windzones_gevels_2.png
+---
+scale: 25%
+---
+```
 
 **Gevels: Krachtcoëfficiënt $C_f$ voor zone**
 | **$h/d$**        | **A** | **B** | **C** | **D** | **E** |
@@ -71,7 +80,7 @@ De verschillende windzones voor de gevels van een gebouw zijn hieronder weergege
 
 ```{figure} Images/545_windonzes_platte_daken.png
 ---
-scale: 30%
+scale: 25%
 name: Windzones platte daken
 ---
 ```
@@ -85,7 +94,11 @@ Op andere randen zijn mogelijk lagere krachtcoëfficiënten van toepassing, zie 
 
 ## Windzones voor zadeldaken
 
-![Windzones duopitched](Images/546_windzones_duopitched.png)
+```{figure} Images/546_windzones_duopitched.png
+---
+scale: 25%
+---
+```
 
 **Zadeldaken ($\theta = 0$): Krachtcoëfficiënt $C_f$ voor zone**
 | hellingshoek $\alpha$     | F     | G     | H     | I     | J     |
@@ -123,7 +136,7 @@ Lokaal kan de winddruk of -zuiging op de overkapping natuurlijk groter zijn dan 
 
 ```{figure} Images/547_windzones_canopies_2.png
 ---
-scale: 30%
+scale: 25%
 name: Windzones Canopies 2
 ---
 ```

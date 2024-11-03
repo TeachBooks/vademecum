@@ -705,6 +705,7 @@ De secties hebben een variabele breedte. Sectiemoduli en traagheidsmomenten word
 
 ```{figure} Images/corrugated_sheets_sections.png
 ---
+scale: 80%
 ---
 Corrugated sheet-sections
 ```

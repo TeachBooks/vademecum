@@ -13,7 +13,7 @@ Zie NEN-EN 1991-1-7 voor een volledige lijst en de bepaling van buitengewone bel
 
 ```{figure} Images/3841.jpg
 ---
-scale: 30%
+scale: 25%
 name: Voorbeeld van stootbelasting
 ---
 ```

@@ -18,9 +18,9 @@
 
 | Rekenwaarde | Formule | |
 |---|---|---|
-| Rekenwaarde druksterkte: |  $$\mathsf{ f_{cd}=\frac{f_{ck}}{\gamma_C}}$$ | $\mathsf{\gamma_C}$ is de partiele veiligheidsfactor voor beton. $\mathsf{\gamma_C}=1,5$ |
-| Rekenwaarde afschuifsterkte: | $$\mathsf{0,035\cdot k^{3/2}\cdot \sqrt{f_{ck}}}$$ | Ondergrens, voor preciese waarde, zie NEN-EN1992. De afschuif weerstand van het beton kan als vergroot worden door wapening toe te passen. |
-|  | $$\mathsf{k=1+\sqrt{\frac{200}{d}}\leq 2}$$ | d in mm |
+| Rekenwaarde druksterkte: |  $\mathsf{ f_{cd}=\frac{f_{ck}}{\gamma_C}}$ | $\mathsf{\gamma_C}$ is de partiele veiligheidsfactor voor beton. $\mathsf{\gamma_C}=1,5$ |
+| Rekenwaarde afschuifsterkte: | $\mathsf{0,035\cdot k^{3/2}\cdot \sqrt{f_{ck}}}$ | Ondergrens, voor preciese waarde, zie NEN-EN1992. De afschuif weerstand van het beton kan als vergroot worden door wapening toe te passen. |
+|  | $\mathsf{k=1+\sqrt{\frac{200}{d}}\leq 2}$ | d in mm |
 
 <br>
 
@@ -28,6 +28,6 @@
 
 | Diagram | | |
 |---|---|---|
-| ![Spannings-rek diagram](Images/8gegevens_beton_spanning_rek.png) | $\mathsf{\sigma_c}$ <br> $\mathsf{\epsilon_c}$ <br> $\mathsf{f_{ck}}$ <br> $\mathsf{f_{cd}}$ <br> $\mathsf{\epsilon_{c3}}$ <br> $\mathsf{\epsilon'_{bu}}$ <br> $\mathsf{\epsilon_{c3}}$ <br> $\mathsf{\epsilon_{cu3}}$ | : drukspanning van het beton <br> : rek van het beton <br> : karakteristieke waarde druksterkte <br> : rekenwaarde druksterkte <br> : betonstuik bij het begin van de plastische vervorming <br> : grenswaarde van de betonstuik <br> : 1,75 ‰ * <br> : 3,50 ‰ * |
+| <img src="Images/8gegevens_beton_spanning_rek.png" alt="Spannings-rek diagram" class="bg-primary" width="300px"> | $\mathsf{\sigma_c}$ <br> $\mathsf{\epsilon_c}$ <br> $\mathsf{f_{ck}}$ <br> $\mathsf{f_{cd}}$ <br> $\mathsf{\epsilon_{c3}}$ <br> $\mathsf{\epsilon'_{bu}}$ <br> $\mathsf{\epsilon_{c3}}$ <br> $\mathsf{\epsilon_{cu3}}$ | : drukspanning van het beton <br> : rek van het beton <br> : karakteristieke waarde druksterkte <br> : rekenwaarde druksterkte <br> : betonstuik bij het begin van de plastische vervorming <br> : grenswaarde van de betonstuik <br> : 1,75 ‰ * <br> : 3,50 ‰ * |
 
 $^{*}$ Deze waardes zijn geldig voor de sterkteklassen in bovenstaande tabel, niet bij hogere sterkteklassen.

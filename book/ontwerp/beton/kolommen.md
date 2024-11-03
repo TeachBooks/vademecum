@@ -23,8 +23,12 @@ De onderstaande schattingsregels voor betonnen kolommen gelden voor:
 
 ## Prefab Kolommen
 
-![Prefab Kolommen](ImagesBeton/8.gegevens_beton_prefab_kolom.png)  
-*Prefab kolommen (<2 vrd.) oplegging op neopreen met aangegoten ankers.*
+```{figure} ImagesBeton/8.gegevens_beton_prefab_kolom.png
+---
+scale: 50%
+---
+Prefab kolommen (<2 vrd.) oplegging op neopreen met aangegoten ankers.
+```
 
 **Toepassingen:**  
 Onderdeel van prefab bouwsystemen met mogelijkheden van 0 tot 2 verdiepingen. Wordt toegepast in combinatie met prefab (voorgespannen) balken en bijvoorbeeld kanaalplaat- of breedplaatvloeren.
@@ -35,8 +39,12 @@ Onderdeel van prefab bouwsystemen met mogelijkheden van 0 tot 2 verdiepingen. Wo
 
 ## In Het Werk Gestorte Kolommen
 
-![In Het Werk Gestorte Kolommen](ImagesBeton/8.gegevens_beton_in_het_werk_kolom.png)  
-*In het werk gestorte betonnen kolommen rond en vierkant.*
+```{figure} ImagesBeton/8.gegevens_beton_in_het_werk_kolom.png
+---
+scale: 50%
+---
+In het werk gestorte betonnen kolommen rond en vierkant.
+```
 
 **Toepassingen:**  
 Tegenwoordig zijn ronde kartonnen bekistingen een goedkope optie aangezien er niet getimmerd hoeft te worden. Herbruikbare bekistingen voor vierkante of rechthoekige kolommen worden ook gebruikt.
