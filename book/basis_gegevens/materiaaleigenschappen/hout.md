@@ -201,11 +201,14 @@ $$
 | $\mathsf{w_{tot}}$ | = totale doorbuiging als de som van $\mathsf{w_1, w_2}$ en $\mathsf{w_3}$ |
 | $\mathsf{w_{max}}$ | = blijvende totale doorbuiging rekening houdend met de zeeg |
 
-![Figuur A1.1 - Definities van verticale doorbuigingen uit NEN-EN 1990 bijlage A.1.4.3](Images/Definities_van_verticale_doorbuigingen.png)
+```{figure} Images/Definities_van_verticale_doorbuigingen.png
+---
+scale: 25%
+name: Definities van verticale doorbuiging uit NEN-EN 1990 bijlage A.1.4.3
+---
+Definities van verticale doorbuiging uit NEN-EN 1990 bijlage A.1.4.3
+```
 
-Figuur A1.1 - Definities van verticale doorbuiging uit NEN-EN 1990 bijlage A.1.4.3
-
-De eisen ten aanzien van de bruikbaarheidsgrenstoestand zijn gegeven in sectie \ref{sec:bgt-crit} in dit document.
 
 ## Dimensietabellen
 

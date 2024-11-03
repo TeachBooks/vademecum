@@ -29,13 +29,13 @@ De onderstaande schattingsregels voor stalen kolommen gelden voor:
 
 | **Standaardprofielen** |  |
 |---|---|
-| ![Standaardprofielen](ImagesStaal/2.2.1_staalconstructies_standaard_profielen.png) <br> Gewalste en gelaste U- en H-profielen | **Één bouwlaag:** <br> $ h_{\text{bouwlaag}} = 2 \; \text{m} $ <br> $ d = \frac{h_{\text{bl}}}{20} \; \text{of} \; \frac{h_{\text{bl}}}{25} $ <br> <br> **Meerdere bouwlagen:** <br> $ h_{\text{bl}} = 2 \; \text{m} $ <br> $ d = \frac{h_{\text{bl}}}{7} \; \text{of} \; \frac{h_{\text{bl}}}{18} $ |
+| <img src="ImagesStaal/2.2.1_staalconstructies_standaard_profielen.png" alt="Standaardprofielen" class="bg-primary" width="300px"> <br> Gewalste en gelaste U- en H-profielen | **Één bouwlaag:** <br> $ h_{\text{bouwlaag}} = 2 \; \text{m} $ <br> $ d = \frac{h_{\text{bl}}}{20} \; \text{of} \; \frac{h_{\text{bl}}}{25} $ <br> <br> **Meerdere bouwlagen:** <br> $ h_{\text{bl}} = 2 \; \text{m} $ <br> $ d = \frac{h_{\text{bl}}}{7} \; \text{of} \; \frac{h_{\text{bl}}}{18} $ |
 
 | **Kokerprofielen** |  |
 |---|---|
-| ![Kokerprofielen](ImagesStaal/2.2.1_staalconstructies_kokerprofielen.png) | **Één bouwlaag:** <br> $ h_{\text{bl}} = 2 \; \text{m} $ <br> $ d = \frac{h_{\text{bl}}}{20} \; \text{of} \; \frac{h_{\text{bl}}}{35} $ <br> <br> **Meerdere bouwlagen:** <br> $ h_{\text{bl}} = 2 \; \text{m} $ <br> $ d = \frac{h_{\text{bl}}}{7} \; \text{of} \; \frac{h_{\text{bl}}}{28} $ |
+| <img src="ImagesStaal/2.2.1_staalconstructies_kokerprofielen.png" alt="Kokerprofielen" class="bg-primary" width="300px"> | **Één bouwlaag:** <br> $ h_{\text{bl}} = 2 \; \text{m} $ <br> $ d = \frac{h_{\text{bl}}}{20} \; \text{of} \; \frac{h_{\text{bl}}}{35} $ <br> <br> **Meerdere bouwlagen:** <br> $ h_{\text{bl}} = 2 \; \text{m} $ <br> $ d = \frac{h_{\text{bl}}}{7} \; \text{of} \; \frac{h_{\text{bl}}}{28} $ |
 
 | **Staal-betonkolommen** |  |
 |---|---|
-| ![Staal-betonkolommen](ImagesStaal/2.2.1_staalconstructies_staalbeton_kolommen.png) <br> Ingestorte en volgestorte profielen, bevatten altijd extra wapening | **Één bouwlaag:** <br> $ h_{\text{bl}} = 2 \; \text{m} $ <br> $ d = \frac{h_{\text{bl}}}{6} \; \text{of} \; \frac{h_{\text{bl}}}{15} $ |
+| <img src="ImagesStaal/2.2.1_staalconstructies_staalbeton_kolommen.png" alt="Staal-betonkolommen" class="bg-primary" width="300px"> <br> Ingestorte en volgestorte profielen, <br> bevatten altijd extra wapening | **Één bouwlaag:** <br> $ h_{\text{bl}} = 2 \; \text{m} $ <br> $ d = \frac{h_{\text{bl}}}{6} \; \text{of} \; \frac{h_{\text{bl}}}{15} $ |
 

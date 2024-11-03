@@ -2,8 +2,12 @@
 
 ## Kanaalplaten
 
-![Kanaalplaten](ImagesBeton/8.gegevens_beton_kanaalplaten.png)  
-*Doorsneden van kanaalplaten, geprefabriceerd, voorgespannen*
+```{figure} ImagesBeton/8.gegevens_beton_kanaalplaten.png
+---
+scale: 50%
+---
+Doorsneden van kanaalplaten, geprefabriceerd, voorgespannen
+```
 
 **Toepassingen:**  
 In alle gebouwen kunnen kanaalplaten toegepast worden als vloerelementen en dakvloeren. Leidingen en uitsparingen zijn eenvoudig in de fabricage mee te nemen. Interessant is de combinatie met hoedliggers.  
@@ -15,8 +19,12 @@ In alle gebouwen kunnen kanaalplaten toegepast worden als vloerelementen en dakv
 
 ## Ribbenvloer
 
-![Ribbenvloer](ImagesBeton/8.gegevens_beton_ribbenvloer.png)  
-*Ribbenvloer met geïntegreerde isolatie, geprefabriceerd, naden worden aangestort met betonmortel*
+```{figure} ImagesBeton/8.gegevens_beton_ribbenvloer.png
+---
+scale: 50%
+---
+Ribbenvloer met geïntegreerde isolatie, geprefabriceerd, naden worden aangestort met betonmortel
+```
 
 **Toepassingen:**  
 Toepassing als beganegrondvloer boven kruipruimten in de utiliteitsbouw en woningbouw.  
@@ -28,8 +36,12 @@ Toepassing als beganegrondvloer boven kruipruimten in de utiliteitsbouw en wonin
 
 ## Combinatievloeren
 
-![Combinatievloeren](ImagesBeton/8.gegevens_beton_combinatievloeren.png)  
-*De combinatievloer, prefab balkjes met EPS isolatie en in het werk gestort beton*
+```{figure} ImagesBeton/8.gegevens_beton_combinatievloeren.png
+---
+scale: 50%
+---
+De combinatievloer, prefab balkjes met EPS isolatie en in het werk gestort beton
+```
 
 **Toepassingen:**  
 Dit vloertype wordt veelvuldig gebruikt als beganegrondvloer (boven kruipruimtes) in de woningbouw wegens de eenvoudige constructie en de gunstige isolerende eigenschappen.
@@ -41,8 +53,12 @@ Dit vloertype wordt veelvuldig gebruikt als beganegrondvloer (boven kruipruimtes
 
 ## Staalplaatbetonvloer
 
-![Staalplaatbetonvloer](ImagesBeton/8.gegevens_beton_staalplaatbetonvloer.png)  
-*De geprofileerde staalplaten worden gebruikt als werkvloer, bekisting en uiteindelijk wapening*
+```{figure} ImagesBeton/8.gegevens_beton_staalplaatbetonvloer.png
+---
+scale: 50%
+---
+De geprofileerde staalplaten worden gebruikt als werkvloer, bekisting en uiteindelijk wapening
+```
 
 **Toepassingen:**  
 Veelgebruikt vloersysteem bij (hoogbouw) staalconstructies. Al dan niet onderstempeld tijdens het storten. Kunnen met aanzienlijke overspanningen en grote flexibiliteit worden gerealiseerd.
@@ -54,8 +70,12 @@ Veelgebruikt vloersysteem bij (hoogbouw) staalconstructies. Al dan niet onderste
 
 ## Bekistingsplaatvloer (breedplaatvloer)
 
-![Bekistingsplaatvloer](ImagesBeton/8.gegevens_beton_bekistingsplaatvloer.png)  
-*Een dunne prefab betonnen schil met wapening wordt in het werk met een constructieve druklaag afgewerkt.*
+```{figure} ImagesBeton/8.gegevens_beton_bekistingsplaatvloer.png
+---
+scale: 50%
+---
+Een dunne prefab betonnen schil met wapening wordt in het werk met een constructieve druklaag afgewerkt.
+```
 
 **Toepassingen:**  
 Vloeren van betonnen constructies in de woning en utiliteitsbouw.
@@ -66,8 +86,12 @@ Vloeren van betonnen constructies in de woning en utiliteitsbouw.
 
 ## Dubbel T platen (TT-platen)
 
-![Dubbel T platen](ImagesBeton/8.gegevens_beton_TT_platen.png)  
-*Prefab voorgespannen TT-balk*
+```{figure} ImagesBeton/8.gegevens_beton_TT_platen.png
+---
+scale: 50%
+---
+Prefab voorgespannen TT-balk
+```
 
 **Toepassingen:**  
 Voorgespannen, prefab vloerbalksysteem voor grote overspanningen en grote vloerlasten, gebruikt in utiliteitsbouw zoals parkeergarages en kantoren.
@@ -75,9 +99,14 @@ Voorgespannen, prefab vloerbalksysteem voor grote overspanningen en grote vloerl
 - [www.spanbeton.nl (parkeergarages)](http://www.spanbeton.nl)  
 - [www.haitsma.nl (parkeergarages)](http://www.haitsma.nl)
 
-# Kanaalplaatvloer
+## Kanaalplaatvloer
 
-![Kanaalplaatvloer](ImagesBeton/2.4.1betonconstructies_Tekengebied1.png)
+```{figure} ImagesBeton/2.4.1betonconstructies_Tekengebied1.png
+---
+scale: 50%
+---
+Kanaalplaatvloer
+```
 
 Kanaalplaatvloeren zijn fabrieksmatig vervaardigde vrijdragende woningscheidende plaatvloeren voor gestapelde woningbouw en de utiliteitsbouw. Deze holle vloerplaten zijn eenzijdig voorgespannen en worden volledig geprefabriceerd. Hiermee wordt een aanzienlijke gewichtsreductie behaald ten opzichte van de massieve vloer, wat kan oplopen tot circa 50%. Door deze gewichtsbesparing kan het totaalgewicht van de draagconstructie aanzienlijk worden verminderd. 
 
@@ -88,23 +117,25 @@ Kanaalplaatvloeren zijn fabrieksmatig vervaardigde vrijdragende woningscheidende
 - Standaard brandwerendheid.
 - Een bijkomende doorbuiging van maximaal 0.003 lt.
 
-[www.vbi.nl](http://www.vbi.nl)
-[www.dycore.nl](http://www.dycore.nl)
-[www.heembetonvloersystemen.nl](http://www.heembetonvloersystemen.nl)
+<br>
+
+- [www.vbi.nl](http://www.vbi.nl)
+- [www.dycore.nl](http://www.dycore.nl)
+- [www.heembetonvloersystemen.nl](http://www.heembetonvloersystemen.nl)
 
 
-## Toepassingen
+### Toepassingen
 
 In tegenstelling tot wat men zou verwachten, bieden kanaalplaten ook mogelijkheden voor vrije plattegrondvormen. Niet alleen de in de woningbouw en kantoorbouw bekende rechthoekige plattegrond zijn mogelijk, maar ook rondvormen en afschuinende vlakken. Het is belangrijk te realiseren dat kanaalplaten onder een hoek zijn af te zagen. Onderstaand enkele legplannen van kanaalplaten voor vloeren met afwijkende vormen. De tussenruimtes (grijze arcering in onderstaande tekeningen) worden bekist, gewapend en aangestort.
 
 | Mogelijkheden | |
 | --- | --- |
-| ![Mogelijkheden 1](ImagesBeton/mogelijkheden_1.jpg) | ![Mogelijkheden 2](ImagesBeton/mogelijkheden_2.jpg) |
-| ![Mogelijkheden 3](ImagesBeton/mogelijkheden_3.jpg) | ![Mogelijkheden 4](ImagesBeton/mogelijkheden_4.jpg) |
-| ![Mogelijkheden 5](ImagesBeton/mogelijkheden_5.jpg) | ![Mogelijkheden 6](ImagesBeton/mogelijkheden_6.jpg) |
+| <img src="ImagesBeton/mogelijkheden_1.jpg" alt="Mogelijkheden 1" class="bg-primary" width="200px"> | <img src="ImagesBeton/mogelijkheden_2.jpg" alt="Mogelijkheden 2" class="bg-primary" width="200px"> |
+| <img src="ImagesBeton/mogelijkheden_3.jpg" alt="Mogelijkheden 3" class="bg-primary" width="200px"> | <img src="ImagesBeton/mogelijkheden_4.jpg" alt="Mogelijkheden 4" class="bg-primary" width="200px"> |
+| <img src="ImagesBeton/mogelijkheden_5.jpg" alt="Mogelijkheden 5" class="bg-primary" width="200px"> | <img src="ImagesBeton/mogelijkheden_6.jpg" alt="Mogelijkheden 6" class="bg-primary" width="200px"> |
 
 
-## Uitvoeringsaspecten
+### Uitvoeringsaspecten
 
 Kleine sparingen kunnen fabrieksmatig worden opgenomen. De vloerplaten kunnen ook met ingestorte centraaldozen worden geleerd.
 
@@ -128,12 +159,21 @@ De schijfwerking van de vloeren kan op meerdere manieren worden gerealiseerd, op
 
 De horizontale belastingen vanuit de vloer worden door middel van “betonnen” deuvels overgebracht op de stabiliserende elementen van de draagconstructie van het gebouw.
 
-![Schijfwerking 2](ImagesBeton/schijf_2.jpg)  
-![Schijfwerking](ImagesBeton/schijf.jpg)  
-*Schijfwerking in kanaalplaatvloer.*
+```{figure} ImagesBeton/schijf_2.jpg
+---
+scale: 50%
+---
+```
+```{figure} ImagesBeton/schijf.jpg
+---
+scale: 50%
+---
+Schijfwerking in kanaalplaatvloer.
+```
 
 
-## Product Specificaties VBI Isolatieplaatvloer A200
+
+### Product Specificaties VBI Isolatieplaatvloer A200
 
 | Kenmerk | Specificatie |
 | --- | --- |
@@ -154,11 +194,17 @@ De horizontale belastingen vanuit de vloer worden door middel van “betonnen”
 | Betonpuingranulaat | 20% op aanvraag |
 
 
-## Overspanningen
+### Overspanningen
 
-![Overspanningen A200](ImagesBeton/2.4.1_betonconstructies_VBI_A200_2.png)
+```{figure} ImagesBeton/2.4.1_betonconstructies_VBI_A200_2.png
+---
+scale: 25%
+---
+Overspanningen A200
+```
 
-## Aansluitdetails (alle typen kanaalplaten)
+
+### Aansluitdetails (alle typen kanaalplaten)
 
 De opleglengte a moet, indien er vanuit wordt gegaan dat in vloerbelastingsklasse II altijd een SBR centreerstrip (o.g.) wordt toegepast, voldoen aan de voorwaarde:
 
@@ -172,7 +218,7 @@ a = aₗ + aₒ
 aₒ = zie figuur  
 aₗ = afstand van rand tussenlaag tot rand oplegging, voor aₗ mag geen grotere waarde dan 25 mm in rekening worden gebracht. Voorkeursmaat: beton/metselwerk: 25 mm
 
-### SBR Centreerstrips
+#### SBR Centreerstrips
 
 Centreerstrips hebben afhankelijk van de toepassing de volgende functie:
 - Centrieren van de belasting.
@@ -185,7 +231,7 @@ Centreerstrips worden toegepast in de volgende situaties:
 - Bij opleggingen op staalconstructies waar de belasting gecentreerd dient te worden.
 
 
-## Product Specificaties VBI Isolatieplaatvloer A320
+#### Product Specificaties VBI Isolatieplaatvloer A320
 
 | Kenmerk | Specificatie |
 | --- | --- |
@@ -202,11 +248,16 @@ Centreerstrips worden toegepast in de volgende situaties:
 | Betonpuingranulaat | 20% op aanvraag |
 
 
-## Overspanningen
+#### Overspanningen
 
-![Overspanningen A320](ImagesBeton/2.4.1_betonconstructies_VBI_A320_2.png)
+```{figure} ImagesBeton/2.4.1_betonconstructies_VBI_A320_2.png
+---
+scale: 25%
+---
+Overspanningen A320
+```
 
-## Aansluitdetails (alle typen kanaalplaten)
+### Aansluitdetails (alle typen kanaalplaten)
 
 ![Aansluitdetails A320](ImagesBeton/2.4.1_betonconstructies_VBI_A320_3.png)
 
@@ -214,7 +265,7 @@ Oplegging op spouwmuur: bij woningscheidende wanden de kanalen ter plaatse van a
 Oplegging op console.
 
 
-## Product Specificaties Dycore Kanaalplaatvloeren
+#### Product Specificaties Dycore Kanaalplaatvloeren
 
 | Kenmerk | Specificatie |
 | --- | --- |
@@ -234,29 +285,38 @@ Oplegging op console.
 | K | 400 | 5,0 | 10,9 | 0,23 | 4625 | 18 |
 
 
-## Overspanningen
+#### Overspanningen
 
 ![Overspanningen Dycore](ImagesBeton/2.4.1_betonconstructies_dycore_2.png)  
 De grafiek is een indicatie van de toelaatbare gelijkmatig verdeelde belasting in kN/m² boven het eigen gewicht voor platen op twee steunpunten bij verschillende overspanningen.
 
-## Aansluitdetails (alle typen kanaalplaten)
+### Aansluitdetails (alle typen kanaalplaten)
 
-![Aansluitdetails Dycore](ImagesBeton/2.4.1betonconstructies_dycore3.png)
+```{figure} ImagesBeton/2.4.1betonconstructies_dycore3.png
+---
+scale: 50%
+---
+Aansluitdetails Dycore
+```
 
+#### Bekistingsplaatvloer
 
-## Bekistingsplaatvloer
-
-![Bekistingsplaatvloer](ImagesBeton/2.4.1_betonconstructies_bekistingsplaatvloer_1.png)
+```{figure} ImagesBeton/2.4.1_betonconstructies_bekistingsplaatvloer_1.png
+---
+scale: 50%
+---
+Bekistingsplaatvloer
+```
 
 De bekistingplaatvloer is een systeemvloer van geprefabriceerde betonnen bekistingelementen waarop een constructief meewerkende betonlaag wordt gestort. Hij is geschikt als een vrijdragende vloer in de woning- en utiliteitsbouw. De bekistingplaten hebben gebruikelijk een dikte van 50 tot 90 mm, een maximale plaatlengte van 8500 mm en een onderwapening aangevuld met tralieliggers. De dimensionering van de tralieliggers wordt door de vloerbelasting bepaald en per project berekend. De hoofdwapening en de tralieliggers liggen evenwijdig aan de overspanningrichting van de vloer. 
 
 Leidingen kunnen worden ingestort en de constructieve druklaag kan van zowel een boven- als onderwapening worden voorzien. De constructieve druklaag is minimaal van een betonsoort B25. Sparingen kunnen fabrieksmatig worden aangebracht en begane grondvloeren kunnen aan de onderzijde worden voorzien van isolatiemateriaal. De onderstempeling dient overeen te komen met een vooraf door de producent goedgekeurd legplan. Het geheel is een samenwerkende betonvloer, die een redelijke mate van ontwerpvrijheid heeft.
 
-[www.dycore.nl](http://www.dycore.nl)
-[www.heembetonvloersystemen.nl](http://www.heembetonvloersystemen.nl)
+- [www.dycore.nl](http://www.dycore.nl)
+- [www.heembetonvloersystemen.nl](http://www.heembetonvloersystemen.nl)
 
 
-## Product Specificaties Dycore Bekistingsplaatvloer
+#### Product Specificaties Dycore Bekistingsplaatvloer
 
 | Kenmerk | Specificatie |
 | --- | --- |
@@ -269,8 +329,18 @@ Leidingen kunnen worden ingestort en de constructieve druklaag kan van zowel een
 |  | 70 mm / 1,68 kN/m² |
 |  | 80 mm / 1,92 kN/m² |
 
-![Bekistingsplaatvloer Details](ImagesBeton/2.4.1betonconstructies_dycorebekisting1.png)
+```{figure} ImagesBeton/2.4.1betonconstructies_dycorebekisting1.png
+---
+scale: 50%
+---
+Bekistingsplaatvloer Details
+```
 
-## Aansluitdetails
+#### Aansluitdetails
 
-![Aansluitdetails Bekistingsplaatvloer](ImagesBeton/2.4.1betonconstructies_dycorebekisting2.png)
+```{figure} ImagesBeton/2.4.1betonconstructies_dycorebekisting2.png
+---
+scale: 50%
+---
+Aansluitdetails Bekistingsplaatvloer
+```

@@ -4,9 +4,7 @@
 
 Belastingen door regenwater zijn een gevolg van accumulerend water, bijvoorbeeld door het doorbuigen van aanliggende dakelementen of het verstoppen van afvoersystemen. De meest praktische manier om deze belasting te beschouwen, is door sneeuwbelasting om te zetten in een laag water (e.g.: $\mathsf{0,56 \, kN/m^2}$ is gelijk aan 56 mm water op het dak), en te voorkomen dat water boven dit peil uitkomt door het ontwerpen van noodoverstorten. Ontwerp daarnaast een plat dak altijd met een kleine hellingshoek (zie sectie [Bruikbaarheidscriteria](#) voor meer informatie over de hellingshoek en wateraccumulatie).
 
-| Noodoverstort | |
-|---------------------------|---------------------------|
-| ![Noodoverstort 1](Images/noodafvoer_4_brievenbus_www_adviesbureau_hageman_nl.jpg) | ![Noodoverstort 2](Images/noodafvoer_6_plaatselijk_sterk_verlaagde_borstwering_www_adviesbureau_hageman_nl.jpg) |
+<img src="Images/noodafvoer_4_brievenbus_www_adviesbureau_hageman_nl.jpg" alt="Noodoverstort 1" class="bg-primary" width="240px"> <img src="Images/noodafvoer_6_plaatselijk_sterk_verlaagde_borstwering_www_adviesbureau_hageman_nl.jpg" alt="Noodoverstort 2" class="bg-primary" width="300px">
 
 Een brievenbusvormige noodoverstort en een verlaagde borstwering als noodoverstort.
 

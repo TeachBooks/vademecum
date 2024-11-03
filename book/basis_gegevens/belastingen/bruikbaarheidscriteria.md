@@ -13,7 +13,7 @@ Definities van verticale doorbuiging uit NEN-EN 1990 bijlage A.1.4.3
 
 ```{figure} Images/Definities_van_verticale_doorbuigingen.png
 ---
-scale: 50%
+scale: 25%
 name: Definities van verticale doorbuigingen - NEN-EN 1990 bijlage A.1.4.3
 ---
 ```
@@ -45,14 +45,14 @@ Zelfs als de waterafvoer goed werkt is er een kans op water accumulatie. Om dit 
 
 ```{figure} Images/waterschade.jpg
 ---
-scale: 50%
+scale: 25%
 name: Waterschade
 ---
 ```
 
 ```{figure} Images/dakligger.jpg
 ---
-scale: 50%
+scale: 25%
 name: Dakligger
 ---
 ```
@@ -66,7 +66,7 @@ Zie voor een uitgebreidere toelichting: NEN-EN 1990 bijlage A.1.4.3.
 
 ```{figure} Images/Definitie_van_horizontale_verplaatsingen.png
 ---
-scale: 50%
+scale: 25%
 name: Definities van horizontale verplaatsingen - NEN-EN 1990 bijlage A.1.4.3
 ---
 ```

@@ -3,14 +3,14 @@
 Elke draagconstructie moet aan drie eisen voldoen: sterkte, stijfheid en stabiliteit. Dat betekent dat ze onder een bepaalde belasting (zie **hoofdstuk 6** voor het bepalen van belastingen en belastingcombinaties) niet mag bezwijken, niet overdreven mag vervormen en niet mag omvallen. Alle belastingen, zowel verticaal als horizontaal, moeten daarbij via de draagconstructie naar de fundering geleid kunnen worden. Verticale belastingen zijn voornamelijk afkomstig van het gewicht van de gebruikte materialen en het gebruik. De belangrijkste horizontale belasting voor Nederland is wind. Ook aardbevingskrachten worden steeds minder zeldzaam, die komen hier niet aan bod.
 
 ## Sterkte en stijfheid
-Het dimensioneren van constructie-elementen gebeurt in grote mate op basis van de eisen voor sterkte en stijfheid. De zwaarst belaste constructie-elementen zullen doorgaans maatgevend zijn en bepalen de afmetingen van de volledige draagconstructie. Zowel sterkte als stijfheid kunnen daarbij maatgevend zijn. Kolommen en wanden die hoofdzakelijk op druk worden belast, zullen eerst op sterkte falen. Bij vloerplaten zal dan weer vaak de stijfheid bepalend zijn. Uiteraard is het belangrijk altijd beide na te kijken. Hoofdstuk 3 toont enkele schattingsregels om tijdens het voorontwerp constructieelementen te dimensioneren. **Hoofdstuk 7.4.2** toont aan de hand van voorbeeldberekeningen hoe je met eenvoudige formules constructie-elementen op sterkte en stijfheid kan controleren en dimensioneren. Als ontwerper heb je heel wat instrumenten in handen om de sterkte en stijfheid van een draagconstructie te verhogen. Je kiest de materialen, maar ook de afmetingen van de profielen. Een grotere doorsnede verlaagt bijvoorbeeld de normaalspanning in een kolom of trekstaaf. Een grotere profielhoogte zorgt dan weer voor een hoger oppervlaktemoment en dus een lagere buigspanning in bijvoorbeeld een ligger. Maar ook de overspanningslengte, de hart-op-hart afstand en het gewicht van een constructie spelen een belangrijke rol.
+Het dimensioneren van constructie-elementen gebeurt in grote mate op basis van de eisen voor sterkte en stijfheid. De zwaarst belaste constructie-elementen zullen doorgaans maatgevend zijn en bepalen de afmetingen van de volledige draagconstructie. Zowel sterkte als stijfheid kunnen daarbij maatgevend zijn. Kolommen en wanden die hoofdzakelijk op druk worden belast, zullen eerst op sterkte falen. Bij vloerplaten zal dan weer vaak de stijfheid bepalend zijn. Uiteraard is het belangrijk altijd beide na te kijken. **Hoofdstuk 3** toont enkele schattingsregels om tijdens het voorontwerp constructieelementen te dimensioneren. **Hoofdstuk 7.4.2** toont aan de hand van voorbeeldberekeningen hoe je met eenvoudige formules constructie-elementen op sterkte en stijfheid kan controleren en dimensioneren. Als ontwerper heb je heel wat instrumenten in handen om de sterkte en stijfheid van een draagconstructie te verhogen. Je kiest de materialen, maar ook de afmetingen van de profielen. Een grotere doorsnede verlaagt bijvoorbeeld de normaalspanning in een kolom of trekstaaf. Een grotere profielhoogte zorgt dan weer voor een hoger oppervlaktemoment en dus een lagere buigspanning in bijvoorbeeld een ligger. Maar ook de overspanningslengte, de hart-op-hart afstand en het gewicht van een constructie spelen een belangrijke rol.
 
 ## Stabiliteit
 Een draagconstructie kan zowel lokaal als globaal instabiel zijn. De meest voorkomende lokale instabiliteit is knik. Knik ontstaat wanneer elementen die worden onderworpen aan een hoge drukkracht plots uit het vlak gaan buigen. De verplaatsingen die daardoor ontstaan zijn vaak erg groot en hebben doorgaans gevolgen voor de stabiliteit van het volledige gebouw. Knik is voornamelijk een aandachtspunt in kolommen, drukstaven, dragende wanden en andere draagconstructie-elementen die voornamelijk op druk worden belast. **Hoofdstuk 5** toont enkele veel voorkomende knikgevallen. Naast het nakijken van individuele elementen, is het ook belangrijk de horizontale stabiliteit van de volledige draagconstructie in orde te brengen. Horizontale belastingen zoals de windbelasting moeten, net als de verticale belasting, via de draagconstructie naar de fundering worden afgeleid. De constructie moet daarbij standzeker zijn. Algemeen maken we onderscheid tussen een geschoorde en ongeschoorde constructie. Een ongeschoorde constructie ontleent zijn stabiliteit aan de primaire constructie door moment- of buigvaste verbindingen (portalen). Bij een geschoorde constructie worden stabiliteitselementen zoals stabiliteitskruisen of schijven toegevoegd om de horizontale stabiliteit te verzekeren.
 
 ```{figure} Images/Figuur2WVB.jpg
 ---
-scale: 50%
+scale: 25%
 name: WVB
 ---
 Windverband (wvb), windkruis, geschoord raamwerk. Vaak toegepast bij skeletbouw.
@@ -18,7 +18,7 @@ Windverband (wvb), windkruis, geschoord raamwerk. Vaak toegepast bij skeletbouw.
 
 ```{figure} Images/Figuur3Muren.jpg
 ---
-scale: 50%
+scale: 25%
 name: Muren
 ---
 Schijf, wand, stabiliteitsmuur. Vaak toegepast in schijvenbouw. Vaak uitgevoerd in beton, metselwerk/kalkzandsteen, HSB.
@@ -26,7 +26,7 @@ Schijf, wand, stabiliteitsmuur. Vaak toegepast in schijvenbouw. Vaak uitgevoerd 
 
 ```{figure} Images/Figuur4portaal.jpg
 ---
-scale: 50%
+scale: 25%
 name: portaal
 ---
 Portaal. Momentvaste verbinding tussen kolommen en ligger.
@@ -34,7 +34,7 @@ Portaal. Momentvaste verbinding tussen kolommen en ligger.
 
 ```{figure} Images/Figuur5portaalinfundering.jpg
 ---
-scale: 50%
+scale: 25%
 name: portaal in fundering
 ---
 Portaal. Momentvaste verbinding tussen kolommen en fundering.
@@ -52,7 +52,7 @@ Hoe verder de snijassen uit elkaar liggen, hoe stijver de constructie is en des 
 
 ```{figure} Images/Figuur6horizontalestabiliteit.jpg
 ---
-scale: 50%
+scale: 25%
 name: horizontale stabiliteit
 ---
 Minimaal drie schijven of windverbanden zijn nodig om horizontale stabiliteit te verzorgen (niet evenwijdig en niet snijdend in hetzelfde punt).
