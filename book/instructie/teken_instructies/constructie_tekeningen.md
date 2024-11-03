@@ -13,7 +13,6 @@ Bij het tekenen van een draagconstructie plattegrond kan je onderstaande tekenvo
 ```{figure} Images/LijnsoortenVDM_Tekengebied4.png
 ---
 scale: 20%
-align: left
 ---
 ```
 
@@ -22,7 +21,6 @@ align: left
 ```{figure} Images/LijnsoortenVDM_Tekengebied5.png
 ---
 scale: 20%
-align: left
 ---
 ```
 
@@ -31,7 +29,6 @@ align: left
 ```{figure} Images/LijnsoortenVDM_Tekengebied6.png
 ---
 scale: 20%
-align: left
 ---
 ```
 
@@ -39,7 +36,6 @@ align: left
 ```{figure} Images/LijnsoortenVDM_Tekengebied7.png
 ---
 scale: 20%
-align: left
 ---
 ```
 
@@ -48,7 +44,6 @@ align: left
 ```{figure} Images/LijnsoortenVDM_Tekengebied8.png
 ---
 scale: 20%
-align: left
 ---
 ```
 
@@ -57,7 +52,6 @@ align: left
 ```{figure} Images/LijnsoortenVDM_Tekengebied9.png
 ---
 scale: 20%
-align: left
 ---
 ```
 
@@ -66,7 +60,6 @@ align: left
 ```{figure} Images/LijnsoortenVDM_Tekengebied10.png
 ---
 scale: 20%
-align: left
 ---
 ```
 
@@ -75,7 +68,6 @@ align: left
 ```{figure} Images/LijnsoortenVDM_Tekengebied11.png
 ---
 scale: 20%
-align: left
 ---
 ```
 
@@ -84,7 +76,6 @@ align: left
 ```{figure} Images/LijnsoortenVDM_Tekengebied12.png
 ---
 scale: 20%
-align: left
 ---
 ```
 
@@ -92,7 +83,6 @@ align: left
 ```{figure} Images/LijnsoortenVDM_Tekengebied13.png
 ---
 scale: 20%
-align: left
 ---
 ```
 
@@ -119,7 +109,6 @@ align: left
 ```{figure} Images/LijnsoortenVDM_Tekengebied14.png
 ---
 scale: 20%
-align: left
 ---
 ```
 
@@ -132,7 +121,6 @@ align: left
 ```{figure} Images/LijnsoortenVDM_Tekengebied15.png
 ---
 scale: 20%
-align: left
 ---
 ```
 
@@ -150,7 +138,6 @@ Plaats de plattegronden van de draagconstructie boven elkaar onder een hoek van 
 ```{figure} Images/LijnsoortenVDM_Tekengebied16.png
 ---
 scale: 20%
-align: left
 ---
 ```
 
@@ -159,7 +146,6 @@ align: left
 ```{figure} Images/LijnsoortenVDM_Tekengebied17.png
 ---
 scale: 20%
-align: left
 ---
 ```
 
@@ -168,7 +154,6 @@ align: left
 ```{figure} Images/LijnsoortenVDM_Tekengebied18.png
 ---
 scale: 20%
-align: left
 ---
 ```
 
@@ -177,7 +162,6 @@ align: left
 ```{figure} Images/LijnsoortenVDM_Tekengebied19.png
 ---
 scale: 20%
-align: left
 ---
 ```
 
@@ -200,7 +184,6 @@ In het hoofdstuk ‘Ontwerp’ zijn standaardverbindingen van de verschillende m
 ```{figure} Images/LijnsoortenVDM_Tekengebied22.png
 ---
 scale: 20%
-align: left
 ---
 ```
 
@@ -209,7 +192,6 @@ align: left
 ```{figure} Images/LijnsoortenVDM_Tekengebied21.png
 ---
 scale: 20%
-align: left
 ---
 ```
 
@@ -218,7 +200,6 @@ align: left
 ```{figure} Images/LijnsoortenVDM_Tekengebied21.png
 ---
 scale: 20%
-align: left
 ---
 ```
 
@@ -227,7 +208,6 @@ align: left
 ```{figure} Images/LijnsoortenVDM_Tekengebied22.png
 ---
 scale: 20%
-align: left
 ---
 ```
 
@@ -236,6 +216,5 @@ align: left
 ```{figure} Images/LijnsoortenVDM_Tekengebied23.png
 ---
 scale: 20%
-align: left
 ---
 ```
