@@ -10,81 +10,51 @@ Bij het tekenen van een draagconstructie plattegrond kan je onderstaande tekenvo
 
 - Teken de omtrek van de vloer incl. trap/lift gaten, vides, enz. 
 **doorgetrokken lijn 0.3mm**
-```{figure} Images/LijnsoortenVDM_Tekengebied4.png
----
-scale: 20%
----
-```
+
+<img src="Images/LijnsoortenVDM_Tekengebied4.png" alt="lijn" class="bg-primary" width="100px">
 
 - Teken de stramien lijnen 
 **gemengde streeplijn 0.15mm, evt in andere kleur**; letter/nummer deze.
-```{figure} Images/LijnsoortenVDM_Tekengebied5.png
----
-scale: 20%
----
-```
+
+<img src="Images/LijnsoortenVDM_Tekengebied5.png" alt="lijn" class="bg-primary" width="100px">
 
 - Teken de kolommen en muren **op** de vloer. 
 **doorgetrokken lijn 0.3mm** 
-```{figure} Images/LijnsoortenVDM_Tekengebied6.png
----
-scale: 20%
----
-```
+
+<img src="Images/LijnsoortenVDM_Tekengebied6.png" alt="lijn" class="bg-primary" width="100px">
 
 - arceer ze **0.1mm pen of inkleuren met stift**.
-```{figure} Images/LijnsoortenVDM_Tekengebied7.png
----
-scale: 20%
----
-```
+
+<img src="Images/LijnsoortenVDM_Tekengebied7.png" alt="lijn" class="bg-primary" width="100px">
 
 - Teken de kolommen en muren **onder** de vloer. 
 **streeplijn 0.13 mm**.
-```{figure} Images/LijnsoortenVDM_Tekengebied8.png
----
-scale: 20%
----
-```
+
+<img src="Images/LijnsoortenVDM_Tekengebied8.png" alt="lijn" class="bg-primary" width="100px">
 
 - Teken de dragende balken **onder** de vloer. Gebruik een dubbele lijn om de dikte aan te geven. 
 **streeplijn 0.13 mm**.
-```{figure} Images/LijnsoortenVDM_Tekengebied9.png
----
-scale: 20%
----
-```
+
+<img src="Images/LijnsoortenVDM_Tekengebied9.png" alt="lijn" class="bg-primary" width="100px">
 
 - Teken overspanningspijlen in de vloer velden. Gebruik een lijn met enkele pijlkop om uitkragingen aan te geven 
 **doorgetrokken lijn 0.13 mm**.
-```{figure} Images/LijnsoortenVDM_Tekengebied10.png
----
-scale: 20%
----
-```
+
+<img src="Images/LijnsoortenVDM_Tekengebied10.png" alt="lijn" class="bg-primary" width="100px">
 
 - Teken kruisen in gaten in de vloer. 
 **doorgetrokken lijn 0.13mm**.
-```{figure} Images/LijnsoortenVDM_Tekengebied11.png
----
-scale: 20%
----
-```
+
+<img src="Images/LijnsoortenVDM_Tekengebied11.png" alt="lijn" class="bg-primary" width="100px">
 
 - Teken eventuele stabiliteitskruizen in de constructies als andreaskruis naast het vak waarin het stabiliteitskruis zich bevind. 
 **streeplijn 0.2mm, evt in een andere kleur**. 
-```{figure} Images/LijnsoortenVDM_Tekengebied12.png
----
-scale: 20%
----
-```
+
+<img src="Images/LijnsoortenVDM_Tekengebied12.png" alt="lijn" class="bg-primary" width="100px">
 
 - Een schoor teken je als één schuine lijn.
-```{figure} Images/LijnsoortenVDM_Tekengebied13.png
----
-scale: 20%
----
-```
+
+<img src="Images/LijnsoortenVDM_Tekengebied13.png" alt="lijn" class="bg-primary" width="100px">
 
 - Plaats tekstuele aanduiding bij de stabiliteits-elementen: w.v.b of schoor, materiaal en sterkteklasse, profielaanduiding.
 
@@ -106,11 +76,8 @@ scale: 20%
 
 - Teken de afmetingen tussen de stramienlijnen. 
 **doorgetrokken lijn 0.13mm**.
-```{figure} Images/LijnsoortenVDM_Tekengebied14.png
----
-scale: 20%
----
-```
+
+<img src="Images/LijnsoortenVDM_Tekengebied14.png" alt="lijn" class="bg-primary" width="100px">
 
 - Uitzonderlijke constructie elementen zoals hang kolommen moeten naar eigen inzicht zo duidelijk mogelijk in de tekening worden verwerkt met extra tekst ter verduidelijking.
 
@@ -118,11 +85,8 @@ scale: 20%
 
 - Vermeld de schaal van de tekening en het verdiepingsnummer. 
 **doorgetrokken lijn 0.13mm**.
-```{figure} Images/LijnsoortenVDM_Tekengebied15.png
----
-scale: 20%
----
-```
+
+<img src="Images/LijnsoortenVDM_Tekengebied15.png" alt="lijn" class="bg-primary" width="100px">
 
 
 ## Geëxplodeerde axonometrie
@@ -135,35 +99,23 @@ Plaats de plattegronden van de draagconstructie boven elkaar onder een hoek van 
 
 - Teken de verticale constructieve onderdelen onder elke vloer (kolommen, wanden, enz.) 
 **doorgetrokken lijn 0.13mm**.
-```{figure} Images/LijnsoortenVDM_Tekengebied16.png
----
-scale: 20%
----
-```
+
+<img src="Images/LijnsoortenVDM_Tekengebied16.png" alt="lijn" class="bg-primary" width="100px">
 
 - Maak dichte vloeren half transparant in kleur en teken overspanningspijlen in de vloer velden 
 **[doorgetrokken lijn 0.13 mm]**.
-```{figure} Images/LijnsoortenVDM_Tekengebied17.png
----
-scale: 20%
----
-```
+
+<img src="Images/LijnsoortenVDM_Tekengebied17.png" alt="lijn" class="bg-primary" width="100px">
 
 - Zorg ervoor dat de uiterste punten van de plattegronden verbonden zijn met verticale lijnen 
 **[streeplijn 0.2 mm zwart]**.
-```{figure} Images/LijnsoortenVDM_Tekengebied18.png
----
-scale: 20%
----
-```
+
+<img src="Images/LijnsoortenVDM_Tekengebied18.png" alt="lijn" class="bg-primary" width="100px">
 
 - Teken alleen op de begane grond plattegrond de stramienlijnen 
 **[gemengde streeplijn 0.13 mm]**.
-```{figure} Images/LijnsoortenVDM_Tekengebied19.png
----
-scale: 20%
----
-```
+
+<img src="Images/LijnsoortenVDM_Tekengebied19.png" alt="lijn" class="bg-primary" width="100px">
 
 - Teken eventueel de fundering onder de begane grond.
 
@@ -181,40 +133,25 @@ In het hoofdstuk ‘Ontwerp’ zijn standaardverbindingen van de verschillende m
 
 - Teken de hartlijn (vaak stramienlijn) van de te verbinden constructiedelen 
 **gemengde streeplijn 0.3 mm**.
-```{figure} Images/LijnsoortenVDM_Tekengebied22.png
----
-scale: 20%
----
-```
+
+<img src="Images/LijnsoortenVDM_Tekengebied22.png" alt="lijn" class="bg-primary" width="100px">
 
 - Teken de constructiedelen op schaal met de juiste afmetingen 
 **doorgetrokken lijn 0.8mm**, laat alle niet-constructieve delen achterwege.
-```{figure} Images/LijnsoortenVDM_Tekengebied21.png
----
-scale: 20%
----
-```
+
+<img src="Images/LijnsoortenVDM_Tekengebied21.png" alt="lijn" class="bg-primary" width="100px">
 
 - Teken hoe de delen zijn verbonden (lassen, bouten, lijmen, stortnaden, enz.) 
 **[doorgetrokken lijn 0.8mm]**
-```{figure} Images/LijnsoortenVDM_Tekengebied21.png
----
-scale: 20%
----
-```
+
+<img src="Images/LijnsoortenVDM_Tekengebied21.png" alt="lijn" class="bg-primary" width="100px">
 
 - teken ook de onderdelen die niet zichtbaar zijn 
 **streeplijn 0.3 mm grijs**.
-```{figure} Images/LijnsoortenVDM_Tekengebied22.png
----
-scale: 20%
----
-```
+
+<img src="Images/LijnsoortenVDM_Tekengebied22.png" alt="lijn" class="bg-primary" width="100px">
 
 - Benoem relevante materialen en afmetingen 
 **doorgetrokken lijn 0.1mm**.
-```{figure} Images/LijnsoortenVDM_Tekengebied23.png
----
-scale: 20%
----
-```
+
+<img src="Images/LijnsoortenVDM_Tekengebied23.png" alt="lijn" class="bg-primary" width="100px">
