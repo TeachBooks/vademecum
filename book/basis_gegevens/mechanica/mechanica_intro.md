@@ -1,6 +1,6 @@
 # Mechanica
 
-In dit hoofdstuk worden de meestgebruikte formules gepresenteerd. Om te begrijpen wat de formules betekenen kunnen de dictaten Krachtswerking van Beranek geraadpleegd worden. Deze zijn gratis online beschikbaar: [BK-wiki](http://wiki.bk.tudelft.nl/bk-wiki/Dictaten_TM).
+In dit hoofdstuk worden de meestgebruikte formules gepresenteerd. Om te begrijpen wat de formules betekenen kunnen de dictaten Krachtswerking van Beranek geraadpleegd worden.
 
 De volgende onderdelen zijn in dit hoofdstuk te vinden:
 

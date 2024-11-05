@@ -158,7 +158,7 @@ In eenvoudige berekeningen en toetsing van de constructie wordt er lineair elast
 
 De staalprofielen app van 'Bouwen met Staal' bevat alle gangbare profielafmetingen met bijbehorende doorsnede grootheden. 
 
-### IPE doorsnede (IPE 100 - IPE 300)
+### IPE profiel (IPE 100 - IPE 300)
 
 ```{figure} Images/IPE.png
 ---
@@ -203,7 +203,7 @@ IPE axo
 | IPE 300O   | 49.3   | 304.0  | 152.0  | 8.00     | 12.7     | 62.8    | 9994     | 746      | 658     | 98.1    |           | 126.0     |
 | IPE 300 R  | 51.7   | 306.0  | 147.0  | 8.50     | 13.7     | 65.9    | 10500    | 728      | 686     | 99.0    |           | 126.0     |
 
-### IPE doorsnede (IPE 330 - IPE 750)
+### IPE profiel (IPE 330 - IPE 750)
 
 ```{figure} Images/IPE.png
 ---
@@ -253,7 +253,78 @@ IPE axo
 | IPE 750 x 185 | 185.0 | 766.0 | 267.0 | 14.9    | 23.6     | 236     | 223000   | 7510     | 5821    | 563     | 308.0        | 56.5         
 
 
-### HEA/HEB/HEM doorsnede (HEA 100 - HEA 340)
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bevroren Tabelkop - IPE Profielen</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        thead {
+            position: sticky;
+            top: 0;
+            background-color: #f1f1f1;
+            z-index: 1;
+        }
+        tbody {
+            display: block;
+            height: 400px;
+            overflow-y: auto;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>Profiel</th>
+                <th>$G \\ [kg/m]$</th>
+                <th>$h \\ [mm]$</th>
+                <th>$b \\ [mm]$</th>
+                <th>$t_w \\ [mm]$</th>
+                <th>$t_f \\ [mm]$</th>
+                <th>$A_{tot} \cdot 10^2 \\ [mm²]$</th>
+                <th>$I_y \cdot 10^4 \\ [mm^4]$</th>
+                <th>$I_z \cdot 10^4 \\ [mm^4]$</th>
+                <th>$W_{y;el} \cdot 10^3 \\ [mm^3]$</th>
+                <th>$W_{z;el} \cdot 10^3 \\ [mm^3]$</th>
+                <th>$i_y \\ [mm]$</th>
+                <th>$i_z \\ [mm]$</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>IPE 100A</td><td>6.9</td><td>98.0</td><td>55.0</td><td>3.60</td><td>4.70</td><td>8.78</td><td>141</td><td>13.1</td><td>28.8</td><td>4.77</td><td>40.1</td><td>12.2</td></tr>
+            <tr><td>IPE 100</td><td>8.1</td><td>100.0</td><td>55.0</td><td>4.10</td><td>5.70</td><td>10.3</td><td>171</td><td>15.9</td><td>34.2</td><td>5.79</td><td>40.7</td><td>12.4</td></tr>
+            <tr><td>IPE 120 A</td><td>8.7</td><td>117.6</td><td>64.0</td><td>3.80</td><td>5.10</td><td>11.0</td><td>257</td><td>22.4</td><td>43.8</td><td>7.00</td><td>48.3</td><td>14.2</td></tr>
+            <tr><td>IPE 120</td><td>10.4</td><td>120.0</td><td>64.0</td><td>4.40</td><td>6.30</td><td>13.2</td><td>318</td><td>27.7</td><td>53.0</td><td>8.65</td><td>49.0</td><td>14.5</td></tr>
+            <tr><td>IPE 140 A</td><td>10.5</td><td>137.4</td><td>73.0</td><td>3.80</td><td>5.60</td><td>13.4</td><td>435</td><td>36.4</td><td>63.3</td><td>9.98</td><td>57.0</td><td>16.5</td></tr>
+            <tr><td>IPE 140</td><td>12.9</td><td>140.0</td><td>73.0</td><td>4.70</td><td>6.90</td><td>16.4</td><td>541</td><td>44.9</td><td>77.3</td><td>12.3</td><td>57.4</td><td>16.5</td></tr>
+            <tr><td>IPE 140 R</td><td>14.4</td><td>142.0</td><td>72.0</td><td>5.30</td><td>7.80</td><td>18.4</td><td>611</td><td>48.8</td><td>86.1</td><td>13.5</td><td>57.7</td><td>16.3</td></tr>
+            <tr><td>IPE 160 A</td><td>12.7</td><td>157.0</td><td>82.0</td><td>4.00</td><td>5.90</td><td>16.2</td><td>689</td><td>54.4</td><td>87.8</td><td>13.3</td><td>65.3</td><td>18.3</td></tr>
+            <tr><td>IPE 160</td><td>15.8</td><td>160.0</td><td>82.0</td><td>5.00</td><td>7.40</td><td>20.1</td><td>869</td><td>68.3</td><td>109</td><td>16.7</td><td>65.8</td><td>18.4</td></tr>
+            <tr><td>IPE 160 R</td><td>17.7</td><td>162.0</td><td>81.0</td><td>5.60</td><td>8.50</td><td>22.6</td><td>989</td><td>75.7</td><td>122</td><td>18.7</td><td>66.2</td><td>18.3</td></tr>
+            <tr><td>IPE 180 A</td><td>15.4</td><td>177.0</td><td>91.0</td><td>4.30</td><td>6.50</td><td>19.6</td><td>1063</td><td>81.9</td><td>120</td><td>18.0</td><td>73.7</td><td>20.5</td></tr>
+            <tr><td>IPE 180</td><td>18.8</td><td>180.0</td><td>91.0</td><td>5.30</td><td>8.00</td><td>23.9</td><td>1317</td><td>101</td><td>146</td><td>22.2</td><td>74.2</td><td>20.5</td></tr>
+            <tr><td>IPE 180 O</td><td>21.3</td><td>182.0</td><td>92.0</td><td>6.00</td><td>9.00</td><td>27.1</td><td>1505</td><td>117</td><td>165</td><td>25.5</td><td>74.5</td><td>20.8</td></tr>
+            <tr><td>IPE 180 R</td><td>22.1</td><td>183.0</td><td>89.0</td><td>6.40</td><td>9.50</td><td>28.1</td><td>1554</td><td>112</td><td>170</td><td>25.2</td><td>74.4</td><td>20.0</td></tr>
+            <tr><td>IPE 200 A</td><td>18.4</td><td>197.0</td><td>100.0</td><td>4.50</td><td>7.00</td><td>23.5</td><td>1591</td><td>117</td><td>162</td><td>24.1</td><td>81.5</td><td>22.5</td></tr>
+            <tr><td>IPE 200</td><td>22.1</td><td>200.0</td><td>100.0</td><td>5.60</td><td>8.50</td><td>27.6</td><td>1990</td><td>147</td><td>190</td><td>28.5</td><td>82.0</td><td>22.7</td></tr>
+        </tbody>
+    </table>
+</body>
+</html>
+
+
+### HEA/HEB/HEM profiel (HEA 100 - HEA 340)
 
 ```{figure} Images/HEA_HEB_HEM.png
 ---
@@ -314,7 +385,7 @@ HEA/HEB/HEM axo
 | HE 340 B  | 134.2  | 340.0  | 300.0  | 12.0     | 21.5     | 171     | 36660    | 9690     | 2156    | 646     | 146.0       | 75.3        |
 | HE 340 M  | 247.9  | 377.0  | 309.0  | 21.0     | 40.0     | 316     | 76370    | 19710    | 4052    | 1276    | 156.0       | 79.0        |
 
-### HEA/HEB/HEM doorsnede (HEA 360 - HEA 1000)
+### HEA/HEB/HEM profiel (HEA 360 - HEA 1000)
 
 ```{figure} Images/HEA_HEB_HEM.png
 ---
@@ -376,7 +447,7 @@ HEA/HEB/HEM axo
 | HE 1000 | B | 314.0 | 1000.0 | 300.0 | 19.0 | 36.0 | 400 | 644700 | 16280 | 12890 | 1085 | 401.0 | 63.8 |
 | HE 1000 | M | 348.7 | 1008.0 | 302.0 | 21.0 | 40.0 | 444 | 722300 | 18460 | 14330 | 1222 | 403.0 | 64.5 |
 
-### CHS holle doorsnede (warmgewalste profielen)
+### CHS-HF: circular hollow section - hot formed (warmgewalste profielen)
 
 ```{figure} Images/CHS.png
 ---
@@ -449,7 +520,7 @@ CHS axo
 |               | 16.0   | 194     | 247      | 74900    | 2950      | 174.0     |
 |               | 20.0   | 241     | 307      | 91400    | 3600      | 173.0     |
 
-### RHS holle doorsnede 40 x 40 tot 180 x 180 (warmgewalste profielen, vierkant)
+### RHS-HF: rectanguler hollow section - hot formed (warmgewalste profielen)
 
 ```{figure} Images/RHS.png
 ---
@@ -520,7 +591,7 @@ RHS axo
 |          | 12.5   | 64.4    | 82.1     | 3790     | 421       | 68.0      |
 |          | 16.0   | 80.2    | 102      | 4500     | 500       | 66.4      |
 
-### RHS holle doorsnede 200 x 200 - 400 x 400 
+### RHS-HF: rectanguler hollow section - hot formed (warmgewalste profielen)
 
 ```{figure} Images/RHS.png
 ---
@@ -555,7 +626,7 @@ RHS axo
 |         | 16.0 | 191    | 243   | 59300 | 2970  | 156.0|
 |         | 20.0 | 235    | 300   | 71500 | 3580  | 154.0|
 
-### RHS holle doorsnede 50 x 30 - 100 x 60 (warmgewalste profielen, niet-vierkant)
+### RHS-HF: rectanguler hollow section - hot formed (warmgewalste profielen)
 
 ```{figure} Images/RHS.png
 ---
@@ -588,7 +659,7 @@ RHS axo
 |       | 6.3    | 14.2   | 32.7  | 225     | 98.1    | 45.0     | 32.7     | 35.2      | 23.3      |
 |       | 8.0    | 17.5   | 37.8  | 264     | 113     | 52.8     | 37.8     | 34.4      | 22.5      |
 
-### RHS holle doorsnede 120 x 60 tot 500 x 300 
+### RHS-HF: rectanguler hollow section - hot formed (warmgewalste profielen)
 
 ```{figure} Images/RHS.png
 ---
@@ -656,7 +727,7 @@ RHS axo
 |         | 16.0   | 191    | 243  | 81800   | 36800   | 3270     | 2450      | 183.0       | 123.0       |
 |         | 20.0   | 235    | 300  | 98800   | 44100   | 3950     | 2940       | 182.0       | 121.0       |
 
-### UNP doorsnede
+### UNP section
 
 ```{figure} Images/UNP.png
 ---
@@ -683,9 +754,9 @@ UNP axo
 | 380x102  | 13.5   | 40.3  | 63.1  | 80.4      | 15760   | 615.2    | 829      | 78.7       |
 | 400x110  | 14     | 44.1  | 71.8  | 91.5      | 20350   | 851.0    | 1020     | 102        |
 
-### Corrugated sheet-sections
+### Geprofileerde staalplaten
 
-| Shape | $h \\ [mm]$ | $t \\ [mm]$ | $\\sigma \\ [N/mm^2]$ | $I_y \\ [mm^4]$ | $W_{y;el} \\\cdot 10^4 [mm^4]$ |
+| Vorm | $h \\ [mm]$ | $t \\ [mm]$ | $\\sigma \\ [N/mm^2]$ | $I_y \\ [mm^4]$ | $W_{y;el} \\\cdot 10^4 [mm^4]$ |
 |-----|-------|------------|------|--------------|------|
 | ![css_40](Images/css_40.png) | 40    | 0.88       | 94   | 30     | 9.1   |
 | |       | 1.00       | 107  | 33     | 10.4  |
@@ -700,12 +771,12 @@ UNP axo
 
 
 ```{Note}
-De secties hebben een variabele breedte. Sectiemoduli en traagheidsmomenten worden gegeven per meter breedte.
+De profielplaten hebben een variabele breedte. Weerstandsmomenten en traagheidsmomenten worden gegeven per meter breedte.
 ```
 
 ```{figure} Images/corrugated_sheets_sections.png
 ---
 scale: 80%
 ---
-Corrugated sheet-sections
+Geprofileerde staalplaten
 ```
