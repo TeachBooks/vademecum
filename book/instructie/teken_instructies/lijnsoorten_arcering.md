@@ -4,21 +4,21 @@ De gegeven benaming van de lijnsoorten en arceringen gelden voor constructie-tek
 
 ## Lijnsoorten
 
-<img src="Images/LijnsoortenVDM_Tekengebied.png" alt="Getrokken lijn" class="bg-primary" width="200px">
-
 - Getrokken lijn
 
-<img src="Images/LijnsoortenVDM_Tekengebied1.png" alt="Streeplijn" class="bg-primary" width="200px">
+<img src="Images/LijnsoortenVDM_Tekengebied.png" alt="Getrokken lijn" class="bg-primary" width="200px">
 
 - Streeplijn
 
-<img src="Images/LijnsoortenVDM_Tekengebied2.png" alt="Gemengde streeplijn" class="bg-primary" width="200px">
+<img src="Images/LijnsoortenVDM_Tekengebied1.png" alt="Streeplijn" class="bg-primary" width="200px">
 
 - Gemengde streeplijn
 
-<img src="Images/LijnsoortenVDM_Tekengebied3.png" alt="Stippellijn" class="bg-primary" width="200px">
+<img src="Images/LijnsoortenVDM_Tekengebied2.png" alt="Gemengde streeplijn" class="bg-primary" width="200px">
 
 - Stippellijn
+
+<img src="Images/LijnsoortenVDM_Tekengebied3.png" alt="Stippellijn" class="bg-primary" width="200px">
 
 ## Arceringen
 
