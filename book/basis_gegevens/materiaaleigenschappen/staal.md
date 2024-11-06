@@ -172,18 +172,18 @@ IPE axo
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
                 <th>Profiel (IPE)</th>
-                <th>$G \\ [kg/m]$</th>
-                <th>$h \\ [mm]$</th>
-                <th>$b \\ [mm]$</th>
-                <th>$t_w \\ [mm]$</th>
-                <th>$t_f \\ [mm]$</th>
-                <th>$A_{tot} \cdot 10^2 \\ [mm²]$</th>
-                <th>$I_y \cdot 10^4 \\ [mm^4]$</th>
-                <th>$I_z \cdot 10^4 \\ [mm^4]$</th>
-                <th>$W_{y;el} \cdot 10^3 \\ [mm^3]$</th>
-                <th>$W_{z;el} \cdot 10^3 \\ [mm^3]$</th>
-                <th>$i_y \\ [mm]$</th>
-                <th>$i_z \\ [mm]$</th>
+                <th>G [kg/m]</th>
+                <th>h [mm]</th>
+                <th>b [mm]</th>
+                <th>t_w [mm]</th>
+                <th>t_f [mm]</th>
+                <th>Aₜₒₜ · 10² [mm²]</th>
+                <th>Iᵧ · 10⁴ [mm⁴]</th>
+                <th>I_z · 10⁴ [mm⁴]</th>
+                <th>Wᵧₑⱼ · 10³ [mm³]</th>
+                <th>W_zₑⱼ · 10³ [mm³]</th>
+                <th>iᵧ [mm]</th>
+                <th>i_z [mm]</th>
             </tr>
         </thead>
         <tbody>
@@ -1233,24 +1233,23 @@ IPE axo
 HEA/HEB/HEM axo
 ```
 
-
 <div style="max-height: 400px; overflow-y: auto;">
     <table style="width: 100%; border-collapse: collapse;">
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
                 <th>Profiel (HE)</th>
-                <th>$G \\ [kg/m]$</th>
-                <th>$h \\ [mm]$</th>
-                <th>$b \\ [mm]$</th>
-                <th>$t_w \\ [mm]$</th>
-                <th>$t_f \\ [mm]$</th>
-                <th>$A_{tot} \cdot 10^2 \\ [mm²]$</th>
-                <th>$I_y \cdot 10^4 \\ [mm^4]$</th>
-                <th>$I_z \cdot 10^4 \\ [mm^4]$</th>
-                <th>$W_{y;el} \cdot 10^3 \\ [mm^3]$</th>
-                <th>$W_{z;el} \cdot 10^3 \\ [mm^3]$</th>
-                <th>$i_y \\ [mm]$</th>
-                <th>$i_z \\ [mm]$</th>
+                <th>G [kg/m]</th>
+                <th>h [mm]</th>
+                <th>b [mm]</th>
+                <th>t_w [mm]</th>
+                <th>t_f [mm]</th>
+                <th>Aₜₒₜ · 10² [mm²]</th>
+                <th>Iᵧ · 10⁴ [mm⁴]</th>
+                <th>I_z · 10⁴ [mm⁴]</th>
+                <th>Wᵧₑⱼ · 10³ [mm³]</th>
+                <th>W_zₑⱼ · 10³ [mm³]</th>
+                <th>iᵧ [mm]</th>
+                <th>i_z [mm]</th>
             </tr>
         </thead>
         <tbody>
@@ -2772,18 +2771,18 @@ CHS axo
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
                 <th>Profiel (HE)</th>
-                <th>$G \\ [kg/m]$</th>
-                <th>$h \\ [mm]$</th>
-                <th>$b \\ [mm]$</th>
-                <th>$t_w \\ [mm]$</th>
-                <th>$t_f \\ [mm]$</th>
-                <th>$A_{tot} \cdot 10^2 \\ [mm²]$</th>
-                <th>$I_y \cdot 10^4 \\ [mm^4]$</th>
-                <th>$I_z \cdot 10^4 \\ [mm^4]$</th>
-                <th>$W_{y;el} \cdot 10^3 \\ [mm^3]$</th>
-                <th>$W_{z;el} \cdot 10^3 \\ [mm^3]$</th>
-                <th>$i_y \\ [mm]$</th>
-                <th>$i_z \\ [mm]$</th>
+                <th>G [kg/m]</th>
+                <th>h [mm]</th>
+                <th>b [mm]</th>
+                <th>t_w [mm]</th>
+                <th>t_f [mm]</th>
+                <th>Aₜₒₜ · 10² [mm²]</th>
+                <th>Iᵧ · 10⁴ [mm⁴]</th>
+                <th>I_z · 10⁴ [mm⁴]</th>
+                <th>Wᵧₑⱼ · 10³ [mm³]</th>
+                <th>W_zₑⱼ · 10³ [mm³]</th>
+                <th>iᵧ [mm]</th>
+                <th>i_z [mm]</th>
             </tr>
         </thead>
         <tbody>
@@ -3043,13 +3042,13 @@ RHS axo
     <table style="width: 100%; border-collapse: collapse;">
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
-                <th>$b$ x $h$ $[mm \\ x \\ mm]$</th>
-                <th>$t \\ [mm]$</th>
-                <th>$G \\ [kg/m]$</th>
-                <th>$A_{tot} \\cdot 10^2 \\ [mm²]$</th>
-                <th>$I_y = I_z \\cdot 10^4 \\ [mm^4]$</th>
-                <th>$W_{y;el} = W_{z;el} \\cdot 10^3 \\ [mm^3]$</th>
-                <th>$i_y = i_z \\ [mm]$</th>
+                <th>b x h [mm x mm]</th>
+                <th>t [mm]</th>
+                <th>G [kg/m]</th>
+                <th>Aₜₒₜ · 10² [mm²]</th>
+                <th>Iᵧ = I_z · 10⁴ [mm⁴]</th>
+                <th>Wᵧₑⱼ = W_zₑⱼ · 10³ [mm³]</th>
+                <th>iᵧ= i_z [mm]</th>
             </tr>
         </thead>
         <tbody>
@@ -3607,17 +3606,18 @@ RHS axo
 ```
 
 
+
 <div style="max-height: 400px; overflow-y: auto;">
     <table style="width: 100%; border-collapse: collapse;">
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
-                <th>$b$ x $h$ $[mm \\ x \\ mm]$</th>
-                <th>$t \\ [mm]$</th>
-                <th>$G \\ [kg/m]$</th>
-                <th>$A_{tot} \\cdot 10^2 \\ [mm²]$</th>
-                <th>$I_y = I_z \\cdot 10^4 \\ [mm^4]$</th>
-                <th>$W_{y;el} = W_{z;el} \\cdot 10^3 \\ [mm^3]$</th>
-                <th>$i_y = i_z \\ [mm]$</th>
+                <th>b x h [mm x mm]</th>
+                <th>t [mm]</th>
+                <th>G [kg/m]</th>
+                <th>Aₜₒₜ · 10² [mm²]</th>
+                <th>Iᵧ = I_z · 10⁴ [mm⁴]</th>
+                <th>Wᵧₑⱼ = W_zₑⱼ · 10³ [mm³]</th>
+                <th>iᵧ= i_z [mm]</th>
             </tr>
         </thead>
         <tbody>
@@ -3856,16 +3856,16 @@ RHS axo
     <table style="width: 100%; border-collapse: collapse;">
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
-                <th>$b$ x $h$ $[mm \\ x \\ mm]$</th>
-                <th>$t \\ [mm]$</th>
-                <th>$G \\ [kg/m]$</th>
-                <th>$A_{tot} \\cdot 10^2 \\ [mm²]$</th>
-                <th>$I_y \\cdot 10^4 \\ [mm^4]$</th>
-                <th>$I_z \\cdot 10^4 \\ [mm^4]$</th>
-                <th>$W_{y;el} \\cdot 10^3 \\ [mm^3]$</th>
-                <th>$W_{z;el} \\cdot 10^3 \\ [mm^3]$</th>
-                <th>$i_y \\ [mm]$</th>
-                <th>$i_z \\ [mm]$</th>
+                <th>b x h [mm x mm]</th>
+                <th>t [mm]</th>
+                <th>G [kg/m]</th>
+                <th>Aₜₒₜ · 10² [mm²]</th>
+                <th>Iᵧ = I_z · 10⁴ [mm⁴]</th>
+                <th>I_z · 10⁴ [mm⁴]</th>
+                <th>Wᵧₑⱼ = W_zₑⱼ · 10³ [mm³]</th>
+                <th>Wᵧₑⱼ = W_zₑⱼ · 10³ [mm³]</th>
+                <th>iᵧ [mm]</th>
+                <th>i_z [mm]</th>
             </tr>
         </thead>
         <tbody>
@@ -4147,20 +4147,21 @@ RHS axo
 RHS axo
 ```
 
+
 <div style="max-height: 600px; overflow-y: auto;">
     <table style="width: 100%; border-collapse: collapse;">
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
-                <th>$b$ x $h$ $[mm \\ x \\ mm]$</th>
-                <th>$t \\ [mm]$</th>
-                <th>$G \\ [kg/m]$</th>
-                <th>$A_{tot} \\cdot 10^2 \\ [mm²]$</th>
-                <th>$I_y \\cdot 10^4 \\ [mm^4]$</th>
-                <th>$I_z \\cdot 10^4 \\ [mm^4]$</th>
-                <th>$W_{y;el} \\cdot 10^3 \\ [mm^3]$</th>
-                <th>$W_{z;el} \\cdot 10^3 \\ [mm^3]$</th>
-                <th>$i_y \\ [mm]$</th>
-                <th>$i_z \\ [mm]$</th>
+                <th>b x h [mm x mm]</th>
+                <th>t [mm]</th>
+                <th>G [kg/m]</th>
+                <th>Aₜₒₜ · 10² [mm²]</th>
+                <th>Iᵧ = I_z · 10⁴ [mm⁴]</th>
+                <th>I_z · 10⁴ [mm⁴]</th>
+                <th>Wᵧₑⱼ = W_zₑⱼ · 10³ [mm³]</th>
+                <th>Wᵧₑⱼ = W_zₑⱼ · 10³ [mm³]</th>
+                <th>iᵧ [mm]</th>
+                <th>i_z [mm]</th>
             </tr>
         </thead>
         <tbody>
@@ -4860,18 +4861,19 @@ RHS axo
 UNP axo
 ```
 
+
 <div style="max-height: 600px; overflow-y: auto;">
     <table style="width: 100%; border-collapse: collapse;">
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
-                <th>$b$ x $h$ $[mm \\ x \\ mm]$</th>
-                <th>$t \\ [mm]$</th>
-                <th>$G \\ [kg/m]$</th>
-                <th>$A_{tot} \\cdot 10^2 \\ [mm²]$</th>
-                <th>$I_y \\cdot 10^4 \\ [mm^4]$</th>
-                <th>$I_z \\cdot 10^4 \\ [mm^4]$</th>
-                <th>$W_{y;el} \\cdot 10^3 \\ [mm^3]$</th>
-                <th>$W_{z;el} \\cdot 10^3 \\ [mm^3]$</th>
+                <th>b x h [mm x mm]</th>
+                <th>t [mm]</th>
+                <th>G [kg/m]</th>
+                <th>Aₜₒₜ · 10² [mm²]</th>
+                <th>Iᵧ = I_z · 10⁴ [mm⁴]</th>
+                <th>I_z · 10⁴ [mm⁴]</th>
+                <th>Wᵧₑⱼ = W_zₑⱼ · 10³ [mm³]</th>
+                <th>Wᵧₑⱼ = W_zₑⱼ · 10³ [mm³]</th>
             </tr>
         </thead>
         <tbody>
