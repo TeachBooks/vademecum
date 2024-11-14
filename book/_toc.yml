@@ -49,7 +49,6 @@ parts:
   - caption: Ontwerp
     numbered: 2
     chapters:
-    # - file: ontwerp/ontwerp_intro
     - file: ontwerp/staal/staal_intro
       sections:
       - file: ontwerp/staal/stabiliteit
