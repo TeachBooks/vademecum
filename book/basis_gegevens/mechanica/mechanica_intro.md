@@ -9,7 +9,7 @@ De volgende onderdelen zijn in dit hoofdstuk te vinden:
 - Formules voor het bepalen van krachten in, en vervorming van balken in een aantal standaardgevallen.
 - Formules voor het bepalen van de knikkracht van kolommen in een aantal standaardgevallen.
 
-## Dictaten Krachtswerking
+**Dictaten Krachtswerking**
 
 <img src="Images/0.jpg" alt="Krachtswerking deel 0 Basiskennis" width="200px">
 

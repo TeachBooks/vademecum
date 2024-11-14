@@ -1,6 +1,9 @@
 # Hout
 
-## Producten
+![HoutConstructie](ImagesHout/IntroductieHout.jpg)
+
+
+**Producten:**
 
 | Rondhout | | |
 |---|---|---|
