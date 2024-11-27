@@ -4,11 +4,6 @@ options:
   numbered: 2
 
 parts:
-  - caption: Voorwoord
-    numbered: 2
-    chapters:
-    - file: voorwoord_intro
-
   - caption: Instructie
     numbered: 2
     chapters:
@@ -44,7 +39,11 @@ parts:
       - file: basis_gegevens/materiaaleigenschappen/hout
       - file: basis_gegevens/materiaaleigenschappen/beton
       - file: basis_gegevens/materiaaleigenschappen/betonstaal
-    - file: basis_gegevens/kerngetallen_milieubelasting
+    - file: basis_gegevens/kerngetallen_milieubelasting_intro
+      sections:
+      - file: basis_gegevens/kerngetallen_milieubelasting/waardes_per_kg
+      - file: basis_gegevens/kerngetallen_milieubelasting/waardes_per_oppervlakte
+
 
   - caption: Ontwerp
     numbered: 2
@@ -107,8 +106,3 @@ parts:
         - file: voorbeelden/beton/ligger
         - file: voorbeelden/beton/vloer
       - file: voorbeelden/beton/milieu_impact_berekening
-
-  - caption: Bijlagen
-    numbered: 2
-    chapters:
-    - file: bijlagen/eurocodes

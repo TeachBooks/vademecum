@@ -52,7 +52,7 @@ name: Waterschade
 
 ```{figure} Images/dakligger.jpg
 ---
-scale: 25%
+scale: 50%
 name: Dakligger
 ---
 ```
