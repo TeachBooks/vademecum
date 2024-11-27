@@ -33,7 +33,7 @@ H-ligger voor op druk belaste kolommen en op buiging belaste liggers waarbij de 
 <br>
 
 **U-profielen**  
-| ![U-profielen](Images/7gegevens_staal_U_profielen.png) | 
+| ![U-profielen](Images/UAPUNPProfielenMinke.png) | 
 | --- |
 | UP en UNP profieldoorsneden | 
 
@@ -63,14 +63,14 @@ Vloerranden en bordessen. Moeilijke onderlinge verbindingen bij UNP-profielen do
 <br>
 
 **Damwandprofielen**  
-| ![Damwandprofielen](Images/7gegevens_staal_damwandprofielen.png) | 
+| ![Damwandprofielen](Images/DamwandprofielenMinke.png) | 
 | --- |
 | Toepassingen: | 
 | Kelderwanden, funderingen, waterbouw. Damwandprofielen zijn er in uiteenlopende soorten en maten. Wanden van bouwputten en verdiepte objecten (verzonken infrastructuur) en kadewanden behoren tot de mogelijkheden voor grondkerende constructies. Ook verticale belastingen kunnen worden opgenomen. |
 
 ## Producten II, koudgewalste profielen
 **U en C profielen**  
-| ![U en C profielen](Images/7gegevens_staal_U_en_C_profielen.png) | 
+| ![U en C profielen](Images/U_CProfielenMinke.png) | 
 | --- |
 | Koudgevormde U met gelijke (eq) of ongelijke (eu) hoogte en breedte en C profielen met en zonder verstijvingen | 
 
@@ -86,7 +86,7 @@ Wordt toegepast in woningbouw, cascobouw, opslagsystemen, afbouw. Staalframe-bou
 <br>
 
 **L en Z profielen**  
-| ![L en Z profielen](Images/7gegevens_staal_L_en_Z_profielen.png) | 
+| ![L en Z profielen](Images/L_ZProfielenMinke.png) | 
 | --- |
 | Koudgevormde L met gelijke (eq) of ongelijke (eu) hoogte en breedte en Z profielen met en zonder verstijvingen | 
 
@@ -119,7 +119,7 @@ Grote lichte overspanningen, mogelijkheden voor leidingen doorvoer. De doorsnede
 <br>
 
 **Hoedliggers**  
-| ![Hoedliggers](Images/7_gegevens_staal_hoedliggers.png) | 
+| ![Hoedliggers](Images/HoedliggersMinke.png) | 
 | --- |
 | Gelaste geïntegreerde liggers (hoedliggers) | 
 
@@ -134,7 +134,7 @@ Wordt voornamelijk toegepast bij (onder)grondse constructies en overspanningen, 
 | elasticiteitsmodulus | $\mathsf{E_{rep}}$ | $\mathsf{[N/mm^2]}$ | $\mathsf{210 \cdot 10^3}$ | $\mathsf{210 \cdot 10^3}$ | $\mathsf{210 \cdot 10^3}$ | $\mathsf{210 \cdot 10^3}$ | $\mathsf{210 \cdot 10^3}$ |
 | rekenwaarde vloeigrens | $\mathsf{f_{y;d}}$ | $\mathsf{[N/mm^2]}$ | 235 | 275 | 355 | 420 | 460 |
 | rekenwaarde treksterkte | $\mathsf{f_{t;d}}$ | $\mathsf{[N/mm^2]}$ | 360 | 430 | 510 | -- | -- |
-| vloergrens | $\mathsf{\epsilon_{y;d}}$ | [\%] | 1,12 | 1,31 | 1,69 | -- | -- |
+| vloeigrens | $\mathsf{\epsilon_{y;d}}$ | [\%] | 1,12 | 1,31 | 1,69 | -- | -- |
 | afschuifmodulus | $\mathsf{G_{rep}}$ | $\mathsf{[N/mm^2]}$ | $\mathsf{8,1 \cdot 10^4}$ | $\mathsf{8,1 \cdot 10^4}$ | $\mathsf{8,1 \cdot 10^4}$ | $\mathsf{8,1 \cdot 10^4}$ | $\mathsf{8,1 \cdot 10^4}$ |
 | uitzettingscoëfficient | $\mathsf{\alpha}$ | $\mathsf{[K^{-1}]}$ | $\mathsf{12 \cdot 10^{-6}}$ | $\mathsf{12 \cdot 10^{-6}}$ | $\mathsf{12 \cdot 10^{-6}}$ | $\mathsf{12 \cdot 10^{-6}}$ | $\mathsf{12 \cdot 10^{-6}}$ |
 
@@ -171,7 +171,7 @@ IPE axo
     <table style="width: 100%; border-collapse: collapse;">
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
-                <th>Profiel (IPE)</th>
+                <th style="width: 100px;"> Profiel (IPE) </th>
                 <th>G [kg/m]</th>
                 <th>h [mm]</th>
                 <th>b [mm]</th>
@@ -1237,7 +1237,7 @@ HEA/HEB/HEM axo
     <table style="width: 100%; border-collapse: collapse;">
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
-                <th>Profiel (HE)</th>
+                <th style="width: 75px;">Profiel (HE)</th>
                 <th>G [kg/m]</th>
                 <th>h [mm]</th>
                 <th>b [mm]</th>
@@ -3029,7 +3029,7 @@ CHS axo
 </div>
 
 
-### RHS-HF: rectanguler hollow section - hot formed (warmgewalste profielen)
+### RHS-HF: rectangular hollow section - hot formed (warmgewalste profielen)
 
 ```{figure} Images/RHS.png
 ---
@@ -3042,7 +3042,7 @@ RHS axo
     <table style="width: 100%; border-collapse: collapse;">
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
-                <th>b x h [mm x mm]</th>
+                <th>b x h <br> [mm x mm]</th>
                 <th>t [mm]</th>
                 <th>G [kg/m]</th>
                 <th>Aₜₒₜ · 10² [mm²]</th>
@@ -3597,7 +3597,7 @@ RHS axo
 </div>
 
 
-### RHS-HF: rectanguler hollow section - hot formed (warmgewalste profielen)
+### RHS-HF: rectangular hollow section - hot formed (warmgewalste profielen)
 
 ```{figure} Images/RHS.png
 ---
@@ -3611,7 +3611,7 @@ RHS axo
     <table style="width: 100%; border-collapse: collapse;">
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
-                <th>b x h [mm x mm]</th>
+                <th>b x h <br> [mm x mm]</th>
                 <th>t [mm]</th>
                 <th>G [kg/m]</th>
                 <th>Aₜₒₜ · 10² [mm²]</th>
@@ -3843,7 +3843,7 @@ RHS axo
 
 
 
-### RHS-HF: rectanguler hollow section - hot formed (warmgewalste profielen)
+### RHS-HF: rectangular hollow section - hot formed (warmgewalste profielen)
 
 ```{figure} Images/RHS.png
 ---
@@ -3856,7 +3856,7 @@ RHS axo
     <table style="width: 100%; border-collapse: collapse;">
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
-                <th>b x h [mm x mm]</th>
+                <th>b x h <br> [mm x mm]</th>
                 <th>t [mm]</th>
                 <th>G [kg/m]</th>
                 <th>Aₜₒₜ · 10² [mm²]</th>
@@ -4139,7 +4139,7 @@ RHS axo
 
 
 
-### RHS-HF: rectanguler hollow section - hot formed (warmgewalste profielen)
+### RHS-HF: rectangular hollow section - hot formed (warmgewalste profielen)
 
 ```{figure} Images/RHS.png
 ---
@@ -4152,7 +4152,7 @@ RHS axo
     <table style="width: 100%; border-collapse: collapse;">
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
-                <th>b x h [mm x mm]</th>
+                <th>b x h <br> [mm x mm]</th>
                 <th>t [mm]</th>
                 <th>G [kg/m]</th>
                 <th>Aₜₒₜ · 10² [mm²]</th>
@@ -4866,7 +4866,7 @@ UNP axo
     <table style="width: 100%; border-collapse: collapse;">
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
-                <th>b x h [mm x mm]</th>
+                <th>b x h <br> [mm x mm]</th>
                 <th>t [mm]</th>
                 <th>G [kg/m]</th>
                 <th>Aₜₒₜ · 10² [mm²]</th>
