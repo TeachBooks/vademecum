@@ -69,12 +69,31 @@ scale: 25%
 ---
 ```
 
-**Gevels: Krachtcoëfficiënt $C_f$ voor zone**
-| **$h/d$**        | **A** | **B** | **C** | **D** | **E** |
-|------------------|-----|-------|-------|-------|-------|
-| 5                | -1.2| -0.8  | -0.5  | +0.8  | -0.7  |
-| 1                | -1.2| -0.8  | -0.5  | +0.8  | -0.5  |
-| $\geq 0.25$      | -1.2| -0.8  | -0.5  | +0.7  | -0.3  |
+
+<div style="max-height: 400px; overflow-y: auto;">
+    <table style="width: 100%; border-collapse: collapse;">
+        <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
+            <tr>
+                <th>Gevels</th>
+                <th colspan="5">Krachtcoëfficiënt C_f voor zone</th>
+            </tr>
+            <tr>
+                <th style="width: 250px;">h/d</th>
+                <th>A</th>
+                <th>B</th>
+                <th>C</th>
+                <th>D</th>
+                <th>E</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>5</td><td>-1,2</td><td>-0,8</td><td>-0,5</td><td>+0,8</td><td>-0,7</td></tr>
+            <tr><td>1</td><td>-1,2</td><td>-0,8</td><td>-0,5</td><td>+0,8</td><td>-0,5</td></tr>
+            <tr><td>&#x2265; 0,25</td><td>-1,2</td><td>-0,8</td><td>-0,5</td><td>+0,7</td><td>-0,3</td></tr>
+        </tbody>
+    </table>
+</div>
+
 
 ## Windzones voor platte daken
 
@@ -85,10 +104,27 @@ name: Windzones platte daken
 ---
 ```
 
-**Platte daken: Krachtcoëfficiënt $C_f$ voor zone**
-| type              | F     | G     | H     | I     |
-|-------------------|-------|-------|-------|-------|
-| scherpe dakranden | -1.8  | -1.2  | -0.7  | +0.2/-0.2 |
+<div style="max-height: 400px; overflow-y: auto;">
+    <table style="width: 100%; border-collapse: collapse;">
+        <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
+            <tr>
+                <th>Platte daken</th>
+                <th colspan="4">Krachtcoëfficiënt C_f voor zone</th>
+            </tr>
+            <tr>
+                <th style="width: 250px;">type</th>
+                <th>F</th>
+                <th>G</th>
+                <th>H</th>
+                <th>I</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>scherpe dakranden</td><td>-1,8</td><td>-1,2</td><td>-0,7</td><td>+0,2/-0,2</td></tr>
+        </tbody>
+    </table>
+</div>
+
 
 Op andere randen zijn mogelijk lagere krachtcoëfficiënten van toepassing, zie NEN-EN-1991-1-4.
 
@@ -100,30 +136,64 @@ scale: 25%
 ---
 ```
 
-**Zadeldaken ($\theta = 0$): Krachtcoëfficiënt $C_f$ voor zone**
-| hellingshoek $\alpha$     | F     | G     | H     | I     | J     |
-|------------------------------|-------|-------|-------|-------|-------|
-| 5°                           | -1.7  | -1.2  | -0.6  | -0.6  | +0.2  |
-|                              | +0.0  | +0.0  | +0.0  | -0.6  | -0.6  |
-| 15°                          | -0.9  | -0.8  | -0.3  | -0.4  | -1.0  |
-|                              | +0.2  | +0.2  | +0.2  | 0.0   | 0.0   |
-| 30°                          | -0.5  | -0.5  | -0.2  | -0.4  | -0.5  |
-|                              | +0.7  | +0.7  | +0.4  | +0.0  | +0.0  |
-| 45°                          | -0.0  | -0.0  | -0.0  | -0.2  | -0.3  |
-|                              | +0.7  | +0.7  | +0.6  | +0.0  | +0.0  |
-| 60°                          | +0.7  | +0.7  | +0.7  | -0.2  | -0.3  |
-| 75°                          | +0.8  | +0.8  | +0.8  | -0.2  | -0.3  |
+
+<div style="max-height: 400px; overflow-y: auto;">
+    <table style="width: 100%; border-collapse: collapse;">
+        <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
+            <tr>
+                <th>Zadeldaken θ = 0</th>
+                <th colspan="5">Krachtcoëfficiënt C_f voor zone</th>
+            </tr>
+            <tr>
+                <th style="width: 250px;">hellingshoek α</th>
+                <th>F</th>
+                <th>G</th>
+                <th>H</th>
+                <th>I</th>
+                <th>J</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>5°</td><td>-1,7</td><td>-1,2</td><td>-0,6</td><td>-0,6</td><td>+0,2</td></tr>
+            <tr><td></td><td>+0,0</td><td>+0,0</td><td>+0,0</td><td>-0,6</td><td>-0,6</td></tr>
+            <tr><td>15°</td><td>-0,9</td><td>-0,8</td><td>-0,3</td><td>-0,4</td><td>-1,0</td></tr>
+            <tr><td></td><td>+0,2</td><td>+0,2</td><td>+0,2</td><td>0,0</td><td>0,0</td></tr>
+            <tr><td>30°</td><td>-0,5</td><td>-0,5</td><td>-0,2</td><td>-0,4</td><td>-0,5</td></tr>
+            <tr><td></td><td>+0,7</td><td>+0,7</td><td>+0,4</td><td>+0,0</td><td>+0,0</td></tr>
+            <tr><td>45°</td><td>-0,0</td><td>-0,0</td><td>-0,0</td><td>-0,2</td><td>-0,3</td></tr>
+            <tr><td></td><td>+0,7</td><td>+0,7</td><td>+0,6</td><td>+0,0</td><td>+0,0</td></tr>
+            <tr><td>60°</td><td>+0,7</td><td>+0,7</td><td>+0,7</td><td>-0,2</td><td>-0,3</td></tr>
+            <tr><td>75°</td><td>+0,8</td><td>+0,8</td><td>+0,8</td><td>-0,2</td><td>-0,3</td></tr>
+        </tbody>
+    </table>
+</div>
 
 
-**Zadeldaken ($\theta = 90$): Krachtcoëfficiënt $C_f$ voor zone**
-| hellingshoek $\alpha$         | F     | G     | H     | I     |
-|-------------------------------|-------|-------|-------|-------|
-| 5°                            | -1.6  | -2.2  | -0.7  | -0.6  |
-| 15°                           | -1.3  | -2.0  | -0.6  | -0.5  |
-| 30°                           | -1.1  | -1.5  | -0.8  | -0.5  |
-| 45°                           | -1.1  | -1.5  | -0.9  | -0.5  |
-| 60°                           | -1.1  | -1.5  | -0.8  | -0.5  |
-| 75°                           | -1.1  | -1.5  | -0.8  | -0.5  |
+<div style="max-height: 400px; overflow-y: auto;">
+    <table style="width: 100%; border-collapse: collapse;">
+        <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
+            <tr>
+                <th>Zadeldaken θ = 90</th>
+                <th colspan="4">Krachtcoëfficiënt C_f voor zone</th>
+            </tr>
+            <tr>
+                <th style="width: 250px;">hellingshoek α</th>
+                <th>F</th>
+                <th>G</th>
+                <th>H</th>
+                <th>I</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>5°</td><td>-1,6</td><td>-2,2</td><td>-0,7</td><td>-0,6</td></tr>
+            <tr><td>15°</td><td>-1,3</td><td>-2,0</td><td>-0,6</td><td>-0,5</td></tr>
+            <tr><td>30°</td><td>-1,1</td><td>-1,5</td><td>-0,8</td><td>-0,5</td></tr>
+            <tr><td>45°</td><td>-1,1</td><td>-1,5</td><td>-0,9</td><td>-0,5</td></tr>
+            <tr><td>60°</td><td>-1,1</td><td>-1,5</td><td>-0,8</td><td>-0,5</td></tr>
+            <tr><td>75°</td><td>-1,1</td><td>-1,5</td><td>-0,8</td><td>-0,5</td></tr>
+        </tbody>
+    </table>
+</div>
 
 
 ## Windzones voor open overkappingen
@@ -145,30 +215,51 @@ De blokkeringsgraad onder een open overkapping is weergegeven in onderstaande fi
 
 ![Windzones Canopies 3](Images/547_windzones_canopies_3.png)
 
-| **Lessenaarsdaken**  |  | **Krachtcoëfficiënt C$\mathsf{_f}$ voor zone** | | | |
-|----------------------|--|------------------------------------------------|-|-|-|
-| Dakhelling $\alpha$  | blokkering $\varphi$ | globale krachtcoëfficient $\mathsf{c_f}$ | A | B | C |
-| 0°                   | Maximaal voor alle $\varphi$ | +0,2 | +0,5 | +1,8 + | +1,1 |
-|                      | Minimaal voor $\mathsf{\varphi=0}$ | -0,5 | -0,6 | -1,3 | -1,4 |
-|                      | Minimaal voor $\mathsf{\varphi=1}$ | -1,3 | -1,5 | -1,8 | -2,2 |
-| 5°                   | Maximaal voor alle $\varphi$ | +0,4 | +0,8 | +2,1 | +1,3 |
-|                      | Minimaal voor $\mathsf{\varphi=0}$ | -0,7 | -1,1 | -1,7 | -1,8 |
-|                      | Minimaal voor $\mathsf{\varphi=1}$ | -1,4 | -1,6 | -2,2 | -2,5 |
-| 10°                  | Maximaal voor alle $\varphi$ | +0,5 | +1,2 | +2,4 | +1,6 |
-|                      | Minimaal voor $\mathsf{\varphi=0}$ | -0,9 | -1,5 | -2,0 | -2,1 |
-|                      | Minimaal voor $\mathsf{\varphi=1}$ | -1,4 | -2,1 | -2,6 | -2,7 |
-| 15°                  | Maximaal voor alle $\varphi$ | +0,7 | +1,4 | +2,7 | +1,8 |
-|                      | Minimaal voor $\mathsf{\varphi=0}$ | -1,1 | -1,8 | -2,4 | -2,5 |
-|                      | Minimaal voor $\mathsf{\varphi=1}$ | +1,4 | -1,6 | -2,9 | -3,0 |
-| 20°                  | Maximaal voor alle $\varphi$ | +0,8 | +1,7 | +2,9 | +2,1 |
-|                      | Minimaal voor $\mathsf{\varphi=0}$ | -1,3 | -2,2 | -2,8 | -2,9 |
-|                      | Minimaal voor $\mathsf{\varphi=1}$ | -1,4 | -1,6 | -2,29 | -3,0 |
-| 25°                  | Maximaal voor alle $\varphi$ | +1,0 | +2,0 | +3,1 | +2,3 |
-|                      | Minimaal voor $\mathsf{\varphi=0}$ | -1,6 | -2,6 | -3,2 | -3,2 |
-|                      | Minimaal voor $\mathsf{\varphi=1}$ | -1,4 | -1,5 | -2,5 | -2,8 |
-| 30°                  | Maximaal voor alle $\varphi$ | +1,2 | +2,2 | +3,2 | +2,4 |
-|                      | Minimaal voor $\mathsf{\varphi=0}$ | -1,8 | -3,0 | -3,8 | -3,6 |
-|                      | Minimaal voor $\mathsf{\varphi=1}$ | -1,4 | -1,5 | -2,2 | -2,7 |
+
+<div style="max-height: 400px; overflow-y: auto;">
+    <table style="width: 100%; border-collapse: collapse;">
+        <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
+            <tr>
+                <th>Lessenaarsdaken</th>
+                <th> </th>
+                <th> </th>
+                <th colspan="3">Krachtcoëfficiënt C_f voor zone</th>
+            </tr>
+            <tr>
+                <th style="width: 100px;">Dakhelling α</th>
+                <th style="width: 200px;">blokkering Φ</th>
+                <th>globale kracht- <br> coëfficient c_f</th>
+                <th>A</th>
+                <th>B</th>
+                <th>C</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>0°</td><td>Maximaal voor alle Φ</td><td>+0,2</td><td>+0,5</td><td>+1,8</td><td>+1,1</td></tr>
+            <tr><td></td><td>Minimaal voor Φ=0</td><td>-0,5</td><td>-0,6</td><td>-1,3</td><td>-1,4</td></tr>
+            <tr><td></td><td>Minimaal voor Φ=1</td><td>-1,3</td><td>-1,5</td><td>-1,8</td><td>-2,2</td></tr>
+            <tr><td>5°</td><td>Maximaal voor alle Φ</td><td>+0,4</td><td>+0,8</td><td>+2,1</td><td>+1,3</td></tr>
+            <tr><td></td><td>Minimaal voor Φ=0</td><td>-0,7</td><td>-1,1</td><td>-1,7</td><td>-1,8</td></tr>
+            <tr><td></td><td>Minimaal voor Φ=1</td><td>-1,4</td><td>-1,6</td><td>-2,2</td><td>-2,5</td></tr>
+            <tr><td>10°</td><td>Maximaal voor alle Φ</td><td>+0,5</td><td>+1,2</td><td>+2,4</td><td>+1,6</td></tr>
+            <tr><td></td><td>Minimaal voor Φ=0</td><td>-0,9</td><td>-1,5</td><td>-2,0</td><td>-2,1</td></tr>
+            <tr><td></td><td>Minimaal voor Φ=1</td><td>-1,4</td><td>-2,1</td><td>-2,6</td><td>-2,7</td></tr>
+            <tr><td>15°</td><td>Maximaal voor alle Φ</td><td>+0,7</td><td>+1,4</td><td>+2,7</td><td>+1,8</td></tr>
+            <tr><td></td><td>Minimaal voor Φ=0</td><td>-1,1</td><td>-1,8</td><td>-2,4</td><td>-2,5</td></tr>
+            <tr><td></td><td>Minimaal voor Φ=1</td><td>+1,4</td><td>-1,6</td><td>-2,9</td><td>-3,0</td></tr>
+            <tr><td>20°</td><td>Maximaal voor alle Φ</td><td>+0,8</td><td>+1,7</td><td>+2,9</td><td>+2,1</td></tr>
+            <tr><td></td><td>Minimaal voor Φ=0</td><td>-1,3</td><td>-2,2</td><td>-2,8</td><td>-2,9</td></tr>
+            <tr><td></td><td>Minimaal voor Φ=1</td><td>-1,4</td><td>-1,6</td><td>-2,29</td><td>-3,0</td></tr>
+            <tr><td>25°</td><td>Maximaal voor alle Φ</td><td>+1,0</td><td>+2,0</td><td>+3,1</td><td>+2,3</td></tr>
+            <tr><td></td><td>Minimaal voor Φ=0</td><td>-1,6</td><td>-2,6</td><td>-3,2</td><td>-3,2</td></tr>
+            <tr><td></td><td>Minimaal voor Φ=1</td><td>-1,4</td><td>-1,5</td><td>-2,5</td><td>-2,8</td></tr>
+            <tr><td>30°</td><td>Maximaal voor alle Φ</td><td>+1,2</td><td>+2,2</td><td>+3,2</td><td>+2,4</td></tr>
+            <tr><td></td><td>Minimaal voor Φ=0</td><td>-1,8</td><td>-3,0</td><td>-3,8</td><td>-3,6</td></tr>
+            <tr><td></td><td>Minimaal voor Φ=1</td><td>-1,4</td><td>-1,5</td><td>-2,2</td><td>-2,7</td></tr>
+        </tbody>
+    </table>
+</div>
+
 
 Voor $\mathsf{\theta=0}$, tussen $\mathsf{\alpha=0°}$ en $\mathsf{\alpha=45°}$ varieert de winddruk snel tussen positieve en negatieve waarden. Voor deze daken dienen vier gevallen te worden beschouwd, waar de grootste of kleinste waarden van alle zones F, G en H worden gecombineerd met de grootste of kleinste waarden in gebieden I en J. Het is niet toegestaan om positieve en negatieve waarden te combineren op hetzelfde vlak.
 
@@ -205,45 +296,56 @@ $q_p(z) = C_e(z) \cdot q_b$
 
 Onderstaand is een tabel opgenomen waarin de verschillende waarden voor de extreme stuwdruk zijn weergegeven.
 
-| | $z_e$ [m] | | | $q_p(z_e)$ [kN/m^2] | | | | |
-|---|---|---|---|---|---|---|---|---|
-|   | regio 1 |   |   | regio 2 |   |   | regio 3 |   |
-|   | kust | onbebouwd | bebouwd | kust | onbebouwd | bebouwd | onbebouwd | bebouwd |
-| 1 | 0,93 | 0,71 | 0,69 | 0,78 | 0,60 | 0,58 | 0,49 | 0,48 |
-| 2 | 1,11 | 0,71 | 0,69 | 0,93 | 0,60 | 0,58 | 0,49 | 0,48 |
-| 3 | 1,22 | 0,71 | 0,69 | 1,02 | 0,60 | 0,58 | 0,49 | 0,48 |
-| 4 | 1,30 | 0,71 | 0,69 | 1,09 | 0,60 | 0,58 | 0,49 | 0,48 |
-| 5 | 1,37 | 0,78 | 0,69 | 1,14 | 0,66 | 0,58 | 0,54 | 0,48 |
-| 6 | 1,42 | 0,84 | 0,69 | 1,19 | 0,71 | 0,58 | 0,58 | 0,48 |
-| 7 | 1,47 | 0,89 | 0,69 | 1,23 | 0,75 | 0,58 | 0,62 | 0,48 |
-| 8 | 1,51 | 0,94 | 0,73 | 1,26 | 0,79 | 0,62 | 0,65 | 0,51 |
-| 9 | 1,55 | 0,98 | 0,77 | 1,29 | 0,82 | 0,65 | 0,68 | 0,53 |
-| 10 | 1,58 | 1,02 | 0,81 | 1,32 | 0,85 | 0,68 | 0,70 | 0,56 |
-| 15 | 1,71 | 1,16 | 0,96 | 1,43 | 0,98 | 0,80 | 0,80 | 0,66 |
-| 20 | 1,80 | 1,27 | 1,07 | 1,51 | 1,07 | 0,90 | 0,88 | 0,74 |
-| 25 | 1,88 | 1,36 | 1,16 | 1,57 | 1,14 | 0,97 | 0,94 | 0,80 |
-| 30 | 1,94 | 1,43 | 1,23 | 1,63 | 1,20 | 1,03 | 0,99 | 0,85 |
-| 35 | 2,00 | 1,50 | 1,30 | 1,67 | 1,25 | 1,09 | 1,03 | 0,89 |
-| 40 | 2,04 | 1,55 | 1,35 | 1,71 | 1,30 | 1,13 | 1,07 | 0,93 |
-| 45 | 2,09 | 1,60 | 1,40 | 1,75 | 1,34 | 1,17 | 1,11 | 0,97 |
-| 50 | 2,21 | 1,65 | 1,45 | 1,78 | 1,38 | 1,21 | 1,14 | 1,00 |
-| 55 | 2,16 | 1,69 | 1,49 | 1,81 | 1,42 | 1,25 | 1,17 | 1,03 |
-| 60 | 2,19 | 1,73 | 1,53 | 1,83 | 1,45 | 1,28 | 1,19 | 1,05 |
-| 65 | 2,22 | 1,76 | 1,57 | 1,86 | 1,48 | 1,31 | 1,22 | 1,08 |
-| 70 | 2,25 | 1,80 | 1,60 | 1,88 | 1,50 | 1,34 | 1,24 | 1,10 |
-| 75 | 2,27 | 1,83 | 1,63 | 1,90 | 1,53 | 1,37 | 1,26 | 1,13 |
-| 80 | 2,30 | 1,86 | 1,66 | 1,92 | 1,55 | 1,39 | 1,28 | 1,15 |
-| 85 | 2,32 | 1,88 | 1,69 | 1,94 | 1,58 | 1,42 | 1,30 | 1,17 |
-| 90 | 2,34 | 1,91 | 1,72 | 1,96 | 1,60 | 1,44 | 1,32 | 1,18 |
-| 95 | 2,36 | 1,93 | 1,74 | 1,98 | 1,62 | 1,46 | 1,33 | 1,20 |
-| 100 | 2,38 | 1,96 | 1,77 | 1,99 | 1,64 | 1,48 | 1,35 | 1,22 |
-| 110 | 2,42 | 2,00 | 1,81 | 2,03 | 1,68 | 1,52 | 1,38 | 1,25 |
-| 120 | 2,45 | 2,04 | 1,85 | 2,05 | 1,71 | 1,55 | 1,41 | 1,28 |
-| 130 | 2,48 | 2,08 | 1,89 | 2,08 | 1,74 | 1,59 | 1,44 | 1,31 |
-| 140 | 2,51 | 2,12 | 1,93 | 2,10 | 1,77 | 1,62 | 1,46 | 1,33 |
-| 150 | 2,54 | 2,15 | 1,96 | 2,13 | 1,80 | 1,65 | 1,48 | 1,35 |
-| 160 | 2,56 | 2,18 | 2,00 | 2,15 | 1,83 | 1,67 | 1,50 | 1,38 |
-| 170 | 2,59 | 2,21 | 2,03 | 2,17 | 1,85 | 1,70 | 1,52 | 1,40 |
-| 180 | 2,61 | 2,24 | 2,06 | 2,19 | 1,88 | 1,72 | 1,54 | 1,42 |
-| 190 | 2,63 | 2,27 | 2,08 | 2,20 | 1,90 | 1,75 | 1,56 | 1,44 |
-| 200 | 2,65 | 2,29 | 2,11 | 2,22 | 1,92 | 1,77 | 1,58 | 1,46 |
+
+
+<div style="max-height: 400px; overflow-y: auto;">
+    <table style="width: 100%; border-collapse: collapse;">
+        <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
+            <tr>
+                <th > </th>
+                <th colspan="3">Regio 1</th>
+                <th colspan="3">Regio 2</th>
+                <th colspan="2">Regio 3</th>
+            </tr>
+            <tr>
+                <th>Z_e [m]</th>           
+                <th>kust</th>
+                <th>onbebouwd</th>
+                <th>bebouwd</th>
+                <th>kust</th>
+                <th>onbebouwd</th>
+                <th>bebouwd</th>
+                <th>onbebouwd</th>
+                <th>bebouwd</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>1</td><td>0,93</td><td>0,71</td><td>0,69</td><td>0,78</td><td>0,60</td><td>0,58</td><td>0,49</td><td>0,48</td></tr>
+            <tr><td>2</td><td>1,11</td><td>0,71</td><td>0,69</td><td>0,93</td><td>0,60</td><td>0,58</td><td>0,49</td><td>0,48</td></tr>
+            <tr><td>3</td><td>1,22</td><td>0,71</td><td>0,69</td><td>1,02</td><td>0,60</td><td>0,58</td><td>0,49</td><td>0,48</td></tr>
+            <tr><td>4</td><td>1,30</td><td>0,71</td><td>0,69</td><td>1,09</td><td>0,60</td><td>0,58</td><td>0,49</td><td>0,48</td></tr>
+            <tr><td>5</td><td>1,37</td><td>0,78</td><td>0,69</td><td>1,14</td><td>0,66</td><td>0,58</td><td>0,54</td><td>0,48</td></tr>
+            <tr><td>6</td><td>1,42</td><td>0,84</td><td>0,69</td><td>1,19</td><td>0,71</td><td>0,58</td><td>0,58</td><td>0,48</td></tr>
+            <tr><td>7</td><td>1,47</td><td>0,89</td><td>0,69</td><td>1,23</td><td>0,75</td><td>0,58</td><td>0,62</td><td>0,48</td></tr>
+            <tr><td>8</td><td>1,51</td><td>0,94</td><td>0,73</td><td>1,26</td><td>0,79</td><td>0,62</td><td>0,65</td><td>0,51</td></tr>
+            <tr><td>9</td><td>1,55</td><td>0,98</td><td>0,77</td><td>1,29</td><td>0,82</td><td>0,65</td><td>0,68</td><td>0,53</td></tr>
+            <tr><td>10</td><td>1,58</td><td>1,02</td><td>0,81</td><td>1,32</td><td>0,85</td><td>0,68</td><td>0,70</td><td>0,56</td></tr>
+            <tr><td>15</td><td>1,71</td><td>1,16</td><td>0,96</td><td>1,43</td><td>0,98</td><td>0,80</td><td>0,80</td><td>0,66</td></tr>
+            <tr><td>20</td><td>1,80</td><td>1,27</td><td>1,07</td><td>1,51</td><td>1,07</td><td>0,90</td><td>0,88</td><td>0,74</td></tr>
+            <tr><td>25</td><td>1,88</td><td>1,36</td><td>1,16</td><td>1,57</td><td>1,14</td><td>0,97</td><td>0,94</td><td>0,80</td></tr>
+            <tr><td>30</td><td>1,94</td><td>1,43</td><td>1,23</td><td>1,63</td><td>1,20</td><td>1,03</td><td>0,99</td><td>0,85</td></tr>
+            <tr><td>35</td><td>2,00</td><td>1,50</td><td>1,30</td><td>1,67</td><td>1,25</td><td>1,09</td><td>1,03</td><td>0,89</td></tr>
+            <tr><td>40</td><td>2,04</td><td>1,55</td><td>1,35</td><td>1,71</td><td>1,30</td><td>1,13</td><td>1,07</td><td>0,93</td></tr>
+            <tr><td>45</td><td>2,09</td><td>1,60</td><td>1,40</td><td>1,75</td><td>1,34</td><td>1,17</td><td>1,11</td><td>0,97</td></tr>
+            <tr><td>50</td><td>2,21</td><td>1,65</td><td>1,45</td><td>1,78</td><td>1,38</td><td>1,21</td><td>1,14</td><td>1,00</td></tr>
+            <tr><td>55</td><td>2,16</td><td>1,69</td><td>1,49</td><td>1,81</td><td>1,42</td><td>1,25</td><td>1,17</td><td>1,03</td></tr>
+            <tr><td>60</td><td>2,19</td><td>1,73</td><td>1,53</td><td>1,83</td><td>1,45</td><td>1,28</td><td>1,19</td><td>1,05</td></tr>
+            <tr><td>65</td><td>2,22</td><td>1,76</td><td>1,57</td><td>1,86</td><td>1,48</td><td>1,31</td><td>1,22</td><td>1,08</td></tr>
+            <tr><td>70</td><td>2,25</td><td>1,80</td><td>1,60</td><td>1,88</td><td>1,50</td><td>1,34</td><td>1,24</td><td>1,10</td></tr>
+            <tr><td>75</td><td>2,27</td><td>1,83</td><td>1,63</td><td>1,90</td><td>1,53</td><td>1,37</td><td>1,26</td><td>1,12</td></tr>
+            <tr><td>80</td><td>2,30</td><td>1,87</td><td>1,67</td><td>1,92</td><td>1,56</td><td>1,39</td><td>1,28</td><td>1,14</td></tr>
+            <tr><td>85</td><td>2,32</td><td>1,90</td><td>1,70</td><td>1,94</td><td>1,59</td><td>1,42</td><td>1,29</td><td>1,16</td></tr>
+            <tr><td>90</td><td>2,34</td><td>1,92</td><td>1,73</td><td>1,95</td><td>1,61</td><td>1,44</td><td>1,30</td><td>1,17</td></tr>
+        </tbody>
+    </table>
+</div>

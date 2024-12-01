@@ -5,7 +5,7 @@
 
 | Rondhout | | |
 |---|---|---|
-| <img src="ImagesHout/hout_dsn_rond.jpg" alt="Rondhout 1" class="bg-primary" width="300px"> | <img src="ImagesHout/Rondhout-palen-foto-4.jpg" alt="Rondhout 2" class="bg-primary" width="300px"> | <img src="ImagesHout/15066.jpg" alt="Rondhout 3" class="bg-primary" width="300px"> |
+| <img src="Images/hout_dsn_rond.jpg" alt="Rondhout 1" class="bg-primary" width="300px"> | <img src="Images/Rondhout-palen-foto-4.jpg" alt="Rondhout 2" class="bg-primary" width="300px"> | <img src="Images/15066.jpg" alt="Rondhout 3" class="bg-primary" width="300px"> |
 
 **Rondhout** wordt gebruikt voor uiteenlopende constructies, zoals bruggen, houten torens, gebouwen en heipalen. In de architectuur van deze tijd zijn stammen terug te vinden in bijvoorbeeld de eiken kolommen van het expogebouw van MVRDV in Hannover.
 
@@ -13,7 +13,7 @@
 
 | Gezaagd hout | | |
 |---|---|---|
-| <img src="ImagesHout/hout_dsn_massief.jpg" alt="Gezaagd Hout 1" class="bg-primary" width="300px"> | <img src="ImagesHout/Pitch_pine_balken.jpg" alt="Gezaagd Hout 2" class="bg-primary" width="300px"> | <img src="ImagesHout/3109_massieve_ligger.jpg" alt="Gezaagd Hout 1" class="bg-primary" width="300px"> |
+| <img src="Images/hout_dsn_massief.jpg" alt="Gezaagd Hout 1" class="bg-primary" width="300px"> | <img src="Images/Pitch_pine_balken.jpg" alt="Gezaagd Hout 2" class="bg-primary" width="300px"> | <img src="Images/3109_massieve_ligger.jpg" alt="Gezaagd Hout 1" class="bg-primary" width="300px"> |
 
 **Gezaagd hout** wordt in allerlei toepassingen gevonden, zoals kleinere constructies, daken van woningen, vloeren (balken en gordingen), en vakwerken. Hout wordt ook veel toegepast vanwege de gunstige eigenschappen bij brand (isolerend verkoolde laag).
 
@@ -21,7 +21,7 @@
 
 | Gelijms gelamineerd hout | | |
 |---|---|---|
-| <img src="ImagesHout/hout_dsn_gelamineerd.jpg" alt="Gelijmd Gelamineerd Hout 1" class="bg-primary" width="300px"> | <img src="ImagesHout/Br1.jpg" alt="Gelijmd Gelamineerd Hout 2" class="bg-primary" width="300px"> | <img src="ImagesHout/35207.jpg" alt="Gelijmd Gelamineerd Hout 3" class="bg-primary" width="300px"> |
+| <img src="Images/hout_dsn_gelamineerd.jpg" alt="Gelijmd Gelamineerd Hout 1" class="bg-primary" width="300px"> | <img src="Images/Br1.jpg" alt="Gelijmd Gelamineerd Hout 2" class="bg-primary" width="300px"> | <img src="Images/35207.jpg" alt="Gelijmd Gelamineerd Hout 3" class="bg-primary" width="300px"> |
 
 **Gelijmd gelamineerd hout** wordt veel gebruikt vanwege de vele vormen en bijna oneindige lengtematen die te fabriceren zijn. Overigens moet altijd rekening gehouden worden met het vervoer van dergelijke lange elementen. Grote overspanningen, driescharnierspanten, en portaalspanten zijn mogelijk in hout.
 
@@ -29,7 +29,7 @@
 
 | Cross Laminated Timber (CLT) | | |
 |---|---|---|
-| <img src="ImagesHout/CLT.jpg" alt="Cross Laminated Timber 1" class="bg-primary" width="300px"> | <img src="ImagesHout/CLT2.jpg" alt="Cross Laminated Timber 2" class="bg-primary" width="300px"> | <img src="ImagesHout/CLT3.jpg" alt="Cross Laminated Timber 3" class="bg-primary" width="300px"> |
+| <img src="Images/CLT.jpg" alt="Cross Laminated Timber 1" class="bg-primary" width="300px"> | <img src="Images/CLT2.jpg" alt="Cross Laminated Timber 2" class="bg-primary" width="300px"> | <img src="Images/CLT3.jpg" alt="Cross Laminated Timber 3" class="bg-primary" width="300px"> |
 
 **Cross Laminated Timber (CLT)** bestaat uit kruislings gelijmde houten delen en is geschikt als constructieve en woningscheidende wanden, binnenspouwblad en woningscheidende vloeren.
 
@@ -37,7 +37,7 @@
 
 | Houtskeletbouw (HSB) | | |
 |---|---|---|
-| <img src="ImagesHout/HSB.jpg" alt="Houtskeletbouw 1" class="bg-primary" width="300px"> | <img src="ImagesHout/HSB.jpg" alt="Houtskeletbouw 2" class="bg-primary" width="300px"> | <img src="ImagesHout/HSB.jpg" alt="Houtskeletbouw 3" class="bg-primary" width="300px"> |
+| <img src="Images/HSB.jpg" alt="Houtskeletbouw 1" class="bg-primary" width="300px"> | <img src="Images/HSB.jpg" alt="Houtskeletbouw 2" class="bg-primary" width="300px"> | <img src="Images/HSB.jpg" alt="Houtskeletbouw 3" class="bg-primary" width="300px"> |
 
 **Houtskeletbouw (HSB)** bestaat uit houten frames met isolatie erin, geschikt om te gebruiken als constructieve, woningscheidende wanden en binnenspouwblad.
 
@@ -263,112 +263,208 @@ Definities van verticale doorbuiging uit NEN-EN 1990 bijlage A.1.4.3
 
 **Gezaagd (geschaafd) hout**
 
-|  | **breedte 33mm** |  |  |  |  | **breedte 45mm** |  |  |  |  | **breedte 58mm** |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| h | A <br> $10^3$ <br> $[mm^2]$ | $W_y$ <br> $10^3$ <br> $[mm^3]$ | $I_y$ <br> $10^6$ <br> $[mm^4]$ | $W_z$ <br> $10^3$ <br> $[mm^3]$ | $I_z$ <br> $10^6$ <br> $[mm^4]$ | A <br> $10^3$ <br> $[mm^2]$ | $W_y$ <br> $10^3$ <br> $[mm^3]$ | $I_y$ <br> $10^6$ <br> $[mm^4]$ | $W_z$ <br> $10^3$ <br> $[mm^3]$ | $I_z$ <br> $10^6$ <br> $[mm^4]$ | A <br> $10^3$ <br> $[mm^2]$ | $W_y$ <br> $10^3$ <br> $[mm^3]$ | $I_y$ <br> $10^6$ <br> $[mm^4]$ | $W_z$ <br> $10^3$ <br> $[mm^3]$ | $I_z$ <br> $10^6$ <br> $[mm^4]$ |
-| 69 | 2,20 | 26,1 | 0,90 | 12,5 | 0,21 | 3,10 | 35,7 | 1,23 | 23,2 | 0,52 |   |   |   |   |   |
-| 95 | 3,10 | 49,6 | 2,35 | 17,2 | 0,28 | 4,20 | 67,6 | 3,21 | 32,0 | 0,72 | 5,50 | 87,2 | 4,14 | 53,2 | 1,54 |
-| 120 | 3,90 | 79,2 | 4,75 | 21,7 | 0,36 | 5,40 | 108,0 | 6,48 | 40,5 | 0,91 | 6,90 | 139,2 | 8,35 | 67,2 | 1,95 |
-| 133 | 4,30 | 97,2 | 6,46 | 24,1 | 0,40 | 5,90 | 132,6 | 8,82 | 44,8 | 1,01 | 7,70 | 170,9 | 11,37 | 74,5 | 2,16 |
-| 145 | 4,70 | 115,6 | 8,38 | 26,3 | 0,43 | 6,50 | 157,6 | 11,43 | 48,9 | 1,10 | 8,40 | 203,2 | 14,73 | 81,2 | 2,36 |
-| 170 | 5,56 | 158,9 | 13,51 | 30,8 | 0,51 | 7,60 | 216,7 | 18,42 | 57,3 | 1,29 | 9,80 | 279,3 | 23,74 | 95,3 | 2,76 |
-| 195 | 6,40 | 209,1 | 20,39 | 35,3 | 0,58 | 8,70 | 285,1 | 27,80 | 65,8 | 1,48 | 11,30 | 367,5 | 35,83 | 109,3 | 3,17 |
-| 220 | 7,20 | 266,2 | 29,28 | 39,9 | 0,66 | 9,90 | 363,0 | 39,93 | 74,2 | 1,67 | 12,70 | 467,8 | 51,46 | 123,3 | 3,58 |
-| 245 |   |   |   |   |   |   |   |   |   |   | 14,20 | 580,2 | 71,07 | 137,3 | 3,98 |
-| 270 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
+<div style="max-height: 400px; overflow-y: auto;">
+    <table style="width: 100%; border-collapse: collapse;">
+        <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
+            <tr>
+                <th></th>
+                <th colspan="3">Breedte 33mm</th>
+                <th colspan="3">Breedte 45mm</th>
+                <th colspan="3">Breedte 58mm</th>
+            </tr>
+            <tr>
+                <th style="width: 50px;">h</th>
+                <th>A [mm²]</th>
+                <th>W_y [mm³]</th>
+                <th>I_y [mm⁴]</th>
+                <th>A [mm²]</th>
+                <th>W_y [mm³]</th>
+                <th>I_y [mm⁴]</th>
+                <th>A [mm²]</th>
+                <th>W_y [mm³]</th>
+                <th>I_y [mm⁴]</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>69</td><td>2,20</td><td>26,1</td><td>0,90</td><td>12,5</td><td>0,21</td><td>3,10</td><td>35,7</td><td>1,23</td><td>23,2</td></tr>
+            <tr><td>95</td><td>3,10</td><td>49,6</td><td>2,35</td><td>17,2</td><td>0,28</td><td>4,20</td><td>67,6</td><td>3,21</td><td>32,0</td></tr>
+            <tr><td>120</td><td>3,90</td><td>79,2</td><td>4,75</td><td>21,7</td><td>0,36</td><td>5,40</td><td>108,0</td><td>6,48</td><td>40,5</td></tr>
+            <tr><td>133</td><td>4,30</td><td>97,2</td><td>6,46</td><td>24,1</td><td>0,40</td><td>5,90</td><td>132,6</td><td>8,82</td><td>44,8</td></tr>
+            <tr><td>145</td><td>4,70</td><td>115,6</td><td>8,38</td><td>26,3</td><td>0,43</td><td>6,50</td><td>157,6</td><td>11,43</td><td>48,9</td></tr>
+            <tr><td>170</td><td>5,56</td><td>158,9</td><td>13,51</td><td>30,8</td><td>0,51</td><td>7,60</td><td>216,7</td><td>18,42</td><td>57,3</td></tr>
+            <tr><td>195</td><td>6,40</td><td>209,1</td><td>20,39</td><td>35,3</td><td>0,58</td><td>8,70</td><td>285,1</td><td>27,80</td><td>65,8</td></tr>
+            <tr><td>220</td><td>7,20</td><td>266,2</td><td>29,28</td><td>39,9</td><td>0,66</td><td>9,90</td><td>363,0</td><td>39,93</td><td>74,2</td></tr>
+            <tr><td>245</td><td></td><td></td><td></td><td></td><td></td><td></td><td>14,20</td><td>580,2</td><td>71,07</td></tr>
+            <tr><td>270</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+        </tbody>
+    </table>
+</div>
 
 <br>
 
-|  | **breedte 69mm** |  |  |  |  | **breedte 95mm** |  |  |  |  | **breedte 120mm** |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| h | A <br> $10^3$ <br> $[mm^2]$ | $W_y$ <br> $10^3$ <br> $[mm^3]$ | $I_y$ <br> $10^6$ <br> $[mm^4]$ | $W_z$ <br> $10^3$ <br> $[mm^3]$ | $I_z$ <br> $10^6$ <br> $[mm^4]$ | A <br> $10^3$ <br> $[mm^2]$ | $W_y$ <br> $10^3$ <br> $[mm^3]$ | $I_y$ <br> $10^6$ <br> $[mm^4]$ | $W_z$ <br> $10^3$ <br> $[mm^3]$ | $I_z$ <br> $10^6$ <br> $[mm^4]$ | A <br> $10^3$ <br> $[mm^2]$ | $W_y$ <br> $10^3$ <br> $[mm^3]$ | $I_y$ <br> $10^6$ <br> $[mm^4]$ | $W_z$ <br> $10^3$ <br> $[mm^3]$ | $I_z$ <br> $10^6$ <br> $[mm^4]$ |
-| 69 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| 95 | 6,60 | 105,2 | 5,00 | 77,5 | 2,72 |   |   |   |   |   |   |   |   |   |   |
-| 120 | 8,40 | 168,0 | 10,08 | 98,0 | 3,43 |   |   |   |   |   |   |   |   |   |   |
-| 133 | 9,30 | 206,3 | 13,72 | 108,6 | 3,80 |   |   |   |   |   |   |   |   |   |   |
-| 145 | 10,10 | 245,2 | 17,78 | 118,4 | 4,14 |   |   |   |   |   |   |   |   |   |   |
-| 170 | 11,90 | 337,1 | 28,65 | 138,8 | 4,86 |   |   |   |   |   |   |   |   |   |   |
-| 195 | 13,60 | 443,6 | 43,25 | 159,2 | 5,57 | 18,50 | 602,0 | 58,70 | 293,3 | 13,93 | 23,40 | 760,5 | 74,14 | 468,0 | 28,08 |
-| 220 | 15,40 | 564,6 | 62,11 | 179,6 | 6,29 | 20,90 | 766,3 | 84,29 | 330,9 | 15,72 | 26,40 | 968,0 | 106,5 | 528,0 | 31,68 |
-| 245 | 17,10 | 700,2 | 85,78 | 200,0 | 7,06 | 23,30 | 889,8 | 106,0 | 368,4 | 17,45 | 29,40 | 1.099,0 | 130,2 | 610,0 | 36,15 |
-| 270 | 18,90 | 846,2 | 114,19 | 220,2 | 7,84 | 26,50 | 1.020,0 | 130,2 | 405,8 | 19,25 | 32,80 | 1.205,0 | 154,5 | 715,0 | 40,98 |
+<div style="max-height: 400px; overflow-y: auto;">
+    <table style="width: 100%; border-collapse: collapse;">
+        <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
+            <tr>
+                <th></th>
+                <th colspan="3">Breedte 69mm</th>
+                <th colspan="3">Breedte 95mm</th>
+                <th colspan="3">Breedte 120mm</th>
+            </tr>
+            <tr>
+                <th style="width: 50px;">h</th>
+                <th>A [mm²]</th>
+                <th>W_y [mm³]</th>
+                <th>I_y [mm⁴]</th>
+                <th>A [mm²]</th>
+                <th>W_y [mm³]</th>
+                <th>I_y [mm⁴]</th>
+                <th>A [mm²]</th>
+                <th>W_y [mm³]</th>
+                <th>I_y [mm⁴]</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>69</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td>95</td><td>6,60</td><td>105,2</td><td>5,00</td><td>77,5</td><td>2,72</td><td></td><td></td><td></td></tr>
+            <tr><td>120</td><td>8,40</td><td>168,0</td><td>10,08</td><td>98,0</td><td>3,43</td><td></td><td></td><td></td></tr>
+            <tr><td>133</td><td>9,30</td><td>206,3</td><td>13,72</td><td>108,6</td><td>3,80</td><td></td><td></td><td></td></tr>
+            <tr><td>145</td><td>10,10</td><td>245,2</td><td>17,78</td><td>118,4</td><td>4,14</td><td></td><td></td><td></td></tr>
+            <tr><td>170</td><td>11,90</td><td>337,1</td><td>28,65</td><td>138,8</td><td>4,86</td><td></td><td></td><td></td></tr>
+            <tr><td>195</td><td>13,60</td><td>443,6</td><td>43,25</td><td>159,2</td><td>5,57</td><td>18,50</td><td>602,0</td><td>58,70</td></tr>
+            <tr><td>220</td><td>15,40</td><td>564,6</td><td>62,11</td><td>179,6</td><td>6,29</td><td>20,90</td><td>766,3</td><td>84,29</td></tr>
+            <tr><td>245</td><td>17,10</td><td>700,2</td><td>85,78</td><td>200,0</td><td>7,06</td><td>23,30</td><td>889,8</td><td>106,0</td></tr>
+            <tr><td>270</td><td>18,90</td><td>846,2</td><td>114,19</td><td>220,2</td><td>7,84</td><td>26,50</td><td>1.020,0</td><td>130,2</td></tr>
+        </tbody>
+    </table>
+</div>
 
 
 **Gelijmd gelamineerd hout**
 
+<div style="max-height: 400px; overflow-y: auto;">
+    <table style="width: 100%; border-collapse: collapse;">
+        <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
+            <tr>
+                <th></th>
+                <th colspan="3">Breedte 55mm</th>
+                <th colspan="3">Breedte 85mm</th>
+                <th colspan="3">Breedte 110mm</th>
+            </tr>
+            <tr>
+                <th style="width: 50px;">h</th>
+                <th>A [mm²]</th>
+                <th>W_y [mm³]</th>
+                <th>I_y [mm⁴]</th>
+                <th>A [mm²]</th>
+                <th>W_y [mm³]</th>
+                <th>I_y [mm⁴]</th>
+                <th>A [mm²]</th>
+                <th>W_y [mm³]</th>
+                <th>I_y [mm⁴]</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>200</td><td>11,0</td><td>0,36</td><td>36,6</td><td>17,0</td><td>0,56</td><td>56,6</td><td>22,0</td><td>0,73</td><td>73,3</td></tr>
+            <tr><td>250</td><td>13,7</td><td>0,57</td><td>71,6</td><td>21,2</td><td>0,88</td><td>110,6</td><td>27,5</td><td>1,14</td><td>143,2</td></tr>
+            <tr><td>300</td><td>16,5</td><td>0,82</td><td>123,7</td><td>25,5</td><td>1,27</td><td>191,2</td><td>33,0</td><td>1,65</td><td>247,5</td></tr>
+            <tr><td>350</td><td>19,2</td><td>1,12</td><td>196,5</td><td>29,7</td><td>1,73</td><td>303,6</td><td>38,5</td><td>2,24</td><td>393,0</td></tr>
+            <tr><td>400</td><td>22,0</td><td>1,46</td><td>293,3</td><td>34,0</td><td>2,26</td><td>453,3</td><td>44,0</td><td>2,93</td><td>586,6</td></tr>
+            <tr><td>450</td><td>24,7</td><td>1,85</td><td>417,6</td><td>38,2</td><td>2,86</td><td>645,4</td><td>49,5</td><td>3,71</td><td>835,3</td></tr>
+            <tr><td>500</td><td>27,5</td><td>2,29</td><td>572,9</td><td>42,5</td><td>3,54</td><td>885,4</td><td>55,0</td><td>4,58</td><td>1145,8</td></tr>
+            <tr><td>550</td><td>30,2</td><td>2,77</td><td>762,5</td><td>46,7</td><td>4,28</td><td>1178,4</td><td>60,5</td><td>5,54</td><td>1525,1</td></tr>
+            <tr><td>600</td><td></td><td></td><td></td><td>51,0</td><td>5,10</td><td>1530,0</td><td>66,0</td><td>6,60</td><td>1980,0</td></tr>
+            <tr><td>650</td><td></td><td></td><td></td><td>55,2</td><td>5,98</td><td>1945,2</td><td>71,5</td><td>7,74</td><td>2517,3</td></tr>
+            <tr><td>700</td><td></td><td></td><td></td><td>59,5</td><td>6,94</td><td>2429,5</td><td>77,0</td><td>8,98</td><td>3144,1</td></tr>
+            <tr><td>750</td><td></td><td></td><td></td><td>63,7</td><td>7,96</td><td>2988,2</td><td>82,5</td><td>10,31</td><td>3867,1</td></tr>
+            <tr><td>800</td><td></td><td></td><td></td><td>68,0</td><td>9,06</td><td>3626,6</td><td>88,0</td><td>11,73</td><td>4693,3</td></tr>
+            <tr><td>850</td><td></td><td></td><td></td><td>72,2</td><td>10,23</td><td>4350,0</td><td>93,5</td><td>13,24</td><td>5629,4</td></tr>
+            <tr><td>900</td><td></td><td></td><td></td><td></td><td></td><td></td><td>99,0</td><td>14,85</td><td>6682,5</td></tr>
+            <tr><td>950</td><td></td><td></td><td></td><td></td><td></td><td></td><td>104,5</td><td>16,54</td><td>7859,2</td></tr>
+            <tr><td>1000</td><td></td><td></td><td></td><td></td><td></td><td></td><td>110,0</td><td>18,33</td><td>9166,6</td></tr>
+            <tr><td>1050</td><td></td><td></td><td></td><td></td><td></td><td></td><td>115,5</td><td>20,21</td><td>10611,5</td></tr>
+            <tr><td>1100</td><td></td><td></td><td></td><td></td><td></td><td></td><td>121,0</td><td>22,18</td><td>12200,8</td></tr>
+            <tr><td>1150</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td>1200</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td>1250</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td>1300</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td>1350</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td>1400</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td>1450</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td>1500</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td>1550</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td>1600</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td>1650</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td>1700</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td>1750</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td>1800</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+        </tbody>
+    </table>
+</div>
 
-|  | **breedte 55mm** |  |  | **breedte 85mm** |  |  | **breedte 110mm** |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-| h | A <br> $10^3$ <br> $[mm^2]$ | $W_y$ <br> $10^6$ <br> $[mm^3]$ | $I_y$ <br> $10^6$ <br> $[mm^4]$ | A <br> $10^3$ <br> $[mm^4]$ | $W_y$ <br> $10^6$ <br> $[mm^2]$ | $I_y$ <br> $10^6$ <br> $[mm^3]$ | A <br> $10^3$ <br> $[mm^4]$ | $W_y$ <br> $10^6$ <br>  $[mm^2]$| $I_y$ <br> $10^6$ <br> $[mm^4]$ |
-| 200 | 11,0 | 0,36 | 36,6 | 17,0 | 0,56 | 56,6 | 22,0 | 0,73 | 73,3 |
-| 250 | 13,7 | 0,57 | 71,6 | 21,2 | 0,88 | 110,6 | 27,5 | 1,14 | 143,2 |
-| 300 | 16,5 | 0,82 | 123,7 | 25,5 | 1,27 | 191,2 | 33,0 | 1,65 | 247,5 |
-| 350 | 19,2 | 1,12 | 196,5 | 29,7 | 1,73 | 303,6 | 38,5 | 2,24 | 393,0 |
-| 400 | 22,0 | 1,46 | 293,3 | 34,0 | 2,26 | 453,3 | 44,0 | 2,93 | 586,6 |
-| 450 | 24,7 | 1,85 | 417,6 | 38,2 | 2,86 | 645,4 | 49,5 | 3,71 | 835,3 |
-| 500 | 27,5 | 2,29 | 572,9 | 42,5 | 3,54 | 885,4 | 55,0 | 4,58 | 1145,8 |
-| 550 | 30,2 | 2,77 | 762,5 | 46,7 | 4,28 | 1178,4 | 60,5 | 5,54 | 1525,1 |
-| 600 |  |  |  | 51,0 | 5,10 | 1530,0 | 66,0 | 6,60 | 1980,0 |
-| 650 |  |  |  | 55,2 | 5,98 | 1945,2 | 71,5 | 7,74 | 2517,3 |
-| 700 |  |  |  | 59,5 | 6,94 | 2429,5 | 77,0 | 8,98 | 3144,1 |
-| 750 |  |  |  | 63,7 | 7,96 | 2988,2 | 82,5 | 10,31 | 3867,1 |
-| 800 |  |  |  | 68,0 | 9,06 | 3626,6 | 88,0 | 11,73 | 4693,3 |
-| 850 |  |  |  | 72,2 | 10,23 | 4350,0 | 93,5 | 13,24 | 5629,4 |
-| 900 |  |  |  |  |  |  | 99,0 | 14,85 | 6682,5 |
-| 950 |  |  |  |  |  |  | 104,5 | 16,54 | 7859,2 |
-| 1000 |  |  |  |  |  |  | 110,0 | 18,33 | 9166,6 |
-| 1050 |  |  |  |  |  |  | 115,5 | 20,21 | 10611,5 |
-| 1100 |  |  |  |  |  |  | 121,0 | 22,18 | 12200,8 |
-| 1150 |  |  |  |  |  |  |  |  |  |
-| 1200 |  |  |  |  |  |  |  |  |  |
-| 1250 |  |  |  |  |  |  |  |  |  |
-| 1300 |  |  |  |  |  |  |  |  |  |
-| 1350 |  |  |  |  |  |  |  |  |  |
-| 1400 |  |  |  |  |  |  |  |  |  |
-| 1450 |  |  |  |  |  |  |  |  |  |
-| 1500 |  |  |  |  |  |  |  |  |  |
-| 1550 |  |  |  |  |  |  |  |  |  |
-| 1600 |  |  |  |  |  |  |  |  |  |
-| 1650 |  |  |  |  |  |  |  |  |  |
-| 1700 |  |  |  |  |  |  |  |  |  |
-| 1750 |  |  |  |  |  |  |  |  |  |
-| 1800 |  |  |  |  |  |  |  |  |  |
+<br>
 
-
-|  | **breedte 135mm**  |  |  | **breedte 160mm** |  |  | **breedte 185mm** |  |  | **breedte 205mm** |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| h | A <br> $10^3$ <br> $[mm^2]$ | $W_y$ <br> $10^6$ <br> $[mm^3]$ | $I_y$ <br> $10^6$ <br> $[mm^4]$ | A <br> $10^3$ <br> $[mm^4]$ | $W_y$ <br> $10^6$ <br> $[mm^2]$ | $I_y$ <br> $10^6$ <br> $[mm^3]$ | A <br> $10^3$ <br> $[mm^4]$ | $W_y$ <br> $10^6$ <br> $[mm^2]$ | $I_y$ <br> $10^6$ <br> $[mm^4]$ | A <br> $10^3$ <br> $[mm^4]$ | $W_y$ <br> $10^6$ <br> $[mm^2]$ | $I_y$ <br> $10^6$ <br> $[mm^4]$ |
-| 200 | 27,0 | 0,90 | 90,0 | 32,0 | 1,06 | 106,6 | 37,0 | 1,23 | 123,3 | 41,0 | 1,36 | 136,6 |
-| 250 | 33,7 | 1,40 | 175,7 | 40,0 | 1,66 | 208,3 | 46,2 | 1,92 | 240,8 | 51,2 | 2,13 | 266,9 |
-| 300 | 40,5 | 2,02 | 303,7 | 48,0 | 2,40 | 360,0 | 55,5 | 2,77 | 416,2 | 61,5 | 3,07 | 461,2 |
-| 350 | 47,2 | 2,75 | 482,3 | 56,0 | 3,26 | 571,6 | 64,7 | 3,77 | 660,9 | 71,7 | 4,18 | 732,4 |
-| 400 | 54,0 | 3,60 | 720,0 | 64,0 | 4,26 | 853,3 | 74,0 | 4,93 | 986,6 | 82,0 | 5,46 | 1093,3 |
-| 450 | 60,7 | 4,55 | 1025,1 | 72,0 | 5,40 | 1215,0 | 83,2 | 6,24 | 1404,8 | 92,2 | 6,91 | 1556,7 |
-| 500 | 67,5 | 5,62 | 1406,2 | 80,0 | 6,66 | 1666,6 | 92,5 | 7,70 | 1927,0 | 102,5 | 8,54 | 2135,4 |
-| 550 | 74,2 | 6,80 | 1871,7 | 88,0 | 8,06 | 2218,3 | 101,7 | 9,32 | 2564,9 | 112,7 | 10,33 | 2842,2 |
-| 600 | 81,0 | 8,10 | 2430,0 | 96,0 | 9,60 | 2880,0 | 111,0 | 11,10 | 3330,0 | 123,0 | 12,30 | 3690,0 |
-| 650 | 87,7 | 9,50 | 3089,5 | 104,0 | 11,26 | 3661,6 | 120,2 | 13,02 | 4233,8 | 133,2 | 14,43 | 4691,5 |
-| 700 | 94,5 | 11,02 | 3858,7 | 112,0 | 13,06 | 4573,3 | 129,5 | 15,10 | 5287,9 | 143,5 | 16,74 | 5859,5 |
-| 750 | 101,2 | 12,65 | 4746,0 | 120,0 | 15,00 | 5625,0 | 138,7 | 17,34 | 6503,9 | 153,7 | 19,21 | 7202,0 |
-| 800 | 108,0 | 14,40 | 5760,0 | 128,0 | 17,06 | 6826,6 | 148,0 | 19,73 | 7893,3 | 164,0 | 21,86 | 8746,6 |
-| 850 | 114,7 | 16,25 | 6908,9 | 136,0 | 19,26 | 8188,3 | 157,2 | 22,27 | 9467,7 | 174,2 | 24,68 | 10491,3 |
-| 900 | 121,5 | 18,22 | 8201,2 | 144,0 | 21,60 | 9720,0 | 166,5 | 24,97 | 11238,7 | 184,5 | 27,67 | 12453,7 |
-| 950 | 128,2 | 20,30 | 9645,4 | 152,0 | 24,06 | 11431,6 | 175,7 | 27,82 | 13217,8 | 194,7 | 30,83 | 14646,8 |
-| 1000 | 135,0 | 22,50 | 11250,0 | 160,0 | 26,66 | 13333,3 | 185,0 | 30,83 | 15416,6 | 205,0 | 34,16 | 17083,3 |
-| 1050 | 141,7 | 24,80 | 13023,2 | 168,0 | 29,40 | 15435,0 | 194,2 | 33,99 | 17846,7 | 215,2 | 37,66 | 19776,0 |
-| 1100 | 148,5 | 27,22 | 14973,7 | 176,0 | 32,26 | 17746,6 | 203,5 | 37,30 | 20519,5 | 225,5 | 41,34 | 22737,9 |
-| 1150 | 155,2 | 29,75 | 17109,8 | 184,0 | 35,26 | 20278,3 | 212,7 | 40,77 | 23446,8 | 235,7 | 45,18 | 25981,6 |
-| 1200 | 162,0 | 32,40 | 19440,0 | 192,0 | 38,40 | 23040,0 | 222,0 | 44,40 | 26640,0 | 246,0 | 49,20 | 29520,0 |
-| 1250 | 168,7 | 35,15 | 21972,6 | 200,0 | 41,66 | 26041,6 | 231,2 | 48,17 | 30110,6 | 256,2 | 53,38 | 33365,8 |
-| 1300 | 175,5 | 38,02 | 24716,2 | 208,0 | 45,06 | 29293,3 | 240,5 | 52,10 | 33870,4 | 266,5 | 57,74 | 37532,0 |
-| 1350 | 182,2 | 41,00 | 27679,2 | 216,0 | 48,60 | 32805,0 | 249,7 | 56,19 | 37930,7 | 276,7 | 62,26 | 42031,4 |
-| 1400 |   |   |   | 224,0 | 52,26 | 36586,6 | 259,0 | 60,43 | 42303,3 | 287,0 | 66,96 | 46876,6 |
-| 1450 |   |   |   | 232,0 | 56,06 | 40648,3 | 268,2 | 64,82 | 46999,6 | 297,2 | 71,83 | 52080,6 |
-| 1500 |   |   |   | 240,0 | 60,00 | 45000,0 | 277,5 | 69,37 | 52031,2 | 307,5 | 76,87 | 57656,2 |
-| 1550 |   |   |   | 248,0 | 64,06 | 49651,6 | 286,7 | 74,07 | 57409,7 | 317,7 | 82,08 | 63616,1 |
-| 1600 |   |   |   | 256,0 | 68,26 | 54613,3 | 296,0 | 78,93 | 63146,6 | 328,0 | 87,46 | 69973,3 |
-| 1650 |   |   |   |   |   |   | 305,2 | 83,94 | 69253,5 | 338,2 | 93,01 | 76740,4 |
-| 1700 |   |   |   |   |   |   | 314,5 | 89,10 | 75742,0 | 348,5 | 98,74 | 83930,4 |
-| 1750 |   |   |   |   |   |   | 323,7 | 94,42 | 82623,6 | 358,7 | 104,63 | 91555,9 |
-| 1800 |   |   |   |   |   |   | 333,0 | 99,90 | 89910,0 | 369,0 | 110,70 | 99630,0 |
-
+<div style="max-height: 400px; overflow-y: auto;">
+    <table style="width: 100%; border-collapse: collapse;">
+        <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
+            <tr>
+                <th></th>
+                <th colspan="3">Breedte 135mm</th>
+                <th colspan="3">Breedte 160mm</th>
+                <th colspan="3">Breedte 185mm</th>
+                <th colspan="3">Breedte 205mm</th>
+            </tr>
+            <tr>
+                <th style="width: 50px;">h</th>
+                <th>A [mm²]</th>
+                <th>W_y [mm³]</th>
+                <th>I_y [mm⁴]</th>
+                <th>A [mm²]</th>
+                <th>W_y [mm³]</th>
+                <th>I_y [mm⁴]</th>
+                <th>A [mm²]</th>
+                <th>W_y [mm³]</th>
+                <th>I_y [mm⁴]</th>
+                <th>A [mm²]</th>
+                <th>W_y [mm³]</th>
+                <th>I_y [mm⁴]</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>200</td><td>27,0</td><td>0,90</td><td>90,0</td><td>32,0</td><td>1,06</td><td>106,6</td><td>37,0</td><td>1,23</td><td>123,3</td><td>41,0</td><td>1,36</td><td>136,6</td></tr>
+            <tr><td>250</td><td>33,7</td><td>1,40</td><td>175,7</td><td>40,0</td><td>1,66</td><td>208,3</td><td>46,2</td><td>1,92</td><td>240,8</td><td>51,2</td><td>2,13</td><td>266,9</td></tr>
+            <tr><td>300</td><td>40,5</td><td>2,02</td><td>303,7</td><td>48,0</td><td>2,40</td><td>360,0</td><td>55,5</td><td>2,77</td><td>416,2</td><td>61,5</td><td>3,07</td><td>461,2</td></tr>
+            <tr><td>350</td><td>47,2</td><td>2,75</td><td>482,3</td><td>56,0</td><td>3,26</td><td>571,6</td><td>64,7</td><td>3,77</td><td>660,9</td><td>71,7</td><td>4,18</td><td>732,4</td></tr>
+            <tr><td>400</td><td>54,0</td><td>3,60</td><td>720,0</td><td>64,0</td><td>4,26</td><td>853,3</td><td>74,0</td><td>4,93</td><td>986,6</td><td>82,0</td><td>5,46</td><td>1093,3</td></tr>
+            <tr><td>450</td><td>60,7</td><td>4,55</td><td>1025,1</td><td>72,0</td><td>5,40</td><td>1215,0</td><td>83,2</td><td>6,24</td><td>1404,8</td><td>92,2</td><td>6,91</td><td>1556,7</td></tr>
+            <tr><td>500</td><td>67,5</td><td>5,62</td><td>1406,2</td><td>80,0</td><td>6,66</td><td>1666,6</td><td>92,5</td><td>7,70</td><td>1927,0</td><td>102,5</td><td>8,54</td><td>2135,4</td></tr>
+            <tr><td>550</td><td>74,2</td><td>6,80</td><td>1871,7</td><td>88,0</td><td>8,06</td><td>2218,3</td><td>101,7</td><td>9,32</td><td>2564,9</td><td>112,7</td><td>10,33</td><td>2842,2</td></tr>
+            <tr><td>600</td><td>81,0</td><td>8,10</td><td>2430,0</td><td>96,0</td><td>9,60</td><td>2880,0</td><td>111,0</td><td>11,10</td><td>3330,0</td><td>123,0</td><td>12,30</td><td>3690,0</td></tr>
+            <tr><td>650</td><td>87,7</td><td>9,50</td><td>3089,5</td><td>104,0</td><td>11,26</td><td>3661,6</td><td>120,2</td><td>13,02</td><td>4233,8</td><td>133,2</td><td>14,43</td><td>4691,5</td></tr>
+            <tr><td>700</td><td>94,5</td><td>11,02</td><td>3858,7</td><td>112,0</td><td>13,06</td><td>4573,3</td><td>129,5</td><td>15,10</td><td>5287,9</td><td>143,5</td><td>16,74</td><td>5859,5</td></tr>
+            <tr><td>750</td><td>101,2</td><td>12,65</td><td>4746,0</td><td>120,0</td><td>15,00</td><td>5625,0</td><td>138,7</td><td>17,34</td><td>6503,9</td><td>153,7</td><td>19,21</td><td>7202,0</td></tr>
+            <tr><td>800</td><td>108,0</td><td>14,40</td><td>5760,0</td><td>128,0</td><td>17,06</td><td>6826,6</td><td>148,0</td><td>19,73</td><td>7893,3</td><td>164,0</td><td>21,86</td><td>8746,6</td></tr>
+            <tr><td>850</td><td>114,7</td><td>16,25</td><td>6908,9</td><td>136,0</td><td>19,26</td><td>8188,3</td><td>157,2</td><td>22,27</td><td>9467,7</td><td>174,2</td><td>24,68</td><td>10491,3</td></tr>
+            <tr><td>900</td><td>121,5</td><td>18,22</td><td>8201,2</td><td>144,0</td><td>21,60</td><td>9720,0</td><td>166,5</td><td>24,97</td><td>11238,7</td><td>184,5</td><td>27,67</td><td>12453,7</td></tr>
+            <tr><td>950</td><td>128,2</td><td>20,30</td><td>9645,4</td><td>152,0</td><td>24,06</td><td>11431,6</td><td>175,7</td><td>27,82</td><td>13217,8</td><td>194,7</td><td>30,83</td><td>14646,8</td></tr>
+            <tr><td>1000</td><td>135,0</td><td>22,50</td><td>11250,0</td><td>160,0</td><td>26,66</td><td>13333,3</td><td>185,0</td><td>30,83</td><td>15416,6</td><td>205,0</td><td>34,16</td><td>17083,3</td></tr>
+            <tr><td>1050</td><td>141,7</td><td>24,80</td><td>13023,2</td><td>168,0</td><td>29,40</td><td>15435,0</td><td>194,2</td><td>33,99</td><td>17846,7</td><td>215,2</td><td>37,66</td><td>19776,0</td></tr>
+            <tr><td>1100</td><td>148,5</td><td>27,22</td><td>14973,7</td><td>176,0</td><td>32,26</td><td>17746,6</td><td>203,5</td><td>37,30</td><td>20519,5</td><td>225,5</td><td>41,34</td><td>22737,9</td></tr>
+            <tr><td>1150</td><td>155,2</td><td>29,75</td><td>17109,8</td><td>184,0</td><td>35,26</td><td>20278,3</td><td>212,7</td><td>40,77</td><td>23446,8</td><td>235,7</td><td>45,18</td><td>25981,6</td></tr>
+            <tr><td>1200</td><td>162,0</td><td>32,40</td><td>19440,0</td><td>192,0</td><td>38,40</td><td>23040,0</td><td>222,0</td><td>44,40</td><td>26640,0</td><td>246,0</td><td>49,20</td><td>29520,0</td></tr>
+            <tr><td>1250</td><td>168,7</td><td>35,15</td><td>21972,6</td><td>200,0</td><td>41,66</td><td>26041,6</td><td>231,2</td><td>48,17</td><td>30110,6</td><td>256,2</td><td>53,38</td><td>33365,8</td></tr>
+            <tr><td>1300</td><td>175,5</td><td>38,02</td><td>24716,2</td><td>208,0</td><td>45,06</td><td>29293,3</td><td>240,5</td><td>52,10</td><td>33870,4</td><td>266,5</td><td>57,74</td><td>37532,0</td></tr>
+            <tr><td>1350</td><td>182,2</td><td>41,00</td><td>27679,2</td><td>216,0</td><td>48,60</td><td>32805,0</td><td>249,7</td><td>56,19</td><td>37930,7</td><td>276,7</td><td>62,26</td><td>42031,4</td></tr>
+            <tr><td>1400</td><td></td><td></td><td></td><td>224,0</td><td>52,26</td><td>36586,6</td><td>259,0</td><td>60,43</td><td>42303,3</td><td>287,0</td><td>66,96</td><td>46876,6</td></tr>
+            <tr><td>1450</td><td></td><td></td><td></td><td>232,0</td><td>56,06</td><td>40648,3</td><td>268,2</td><td>64,82</td><td>46999,6</td><td>297,2</td><td>71,83</td><td>52080,6</td></tr>
+            <tr><td>1500</td><td></td><td></td><td></td><td>240,0</td><td>60,00</td><td>45000,0</td><td>277,5</td><td>69,37</td><td>52031,2</td><td>307,5</td><td>76,87</td><td>57656,2</td></tr>
+            <tr><td>1550</td><td></td><td></td><td></td><td>248,0</td><td>64,06</td><td>49651,6</td><td>286,7</td><td>74,07</td><td>57409,7</td><td>317,7</td><td>82,08</td><td>63616,1</td></tr>
+            <tr><td>1600</td><td></td><td></td><td></td><td>256,0</td><td>68,26</td><td>54613,3</td><td>296,0</td><td>78,93</td><td>63146,6</td><td>328,0</td><td>87,46</td><td>69973,3</td></tr>
+            <tr><td>1650</td><td></td><td></td><td></td><td></td><td></td><td></td><td>305,2</td><td>83,94</td><td>69253,5</td><td>338,2</td><td>93,01</td><td>76740,4</td></tr>
+            <tr><td>1700</td><td></td><td></td><td></td><td></td><td></td><td></td><td>314,5</td><td>89,10</td><td>75742,0</td><td>348,5</td><td>98,74</td><td>83930,4</td></tr>
+            <tr><td>1750</td><td></td><td></td><td></td><td></td><td></td><td></td><td>323,7</td><td>94,42</td><td>82623,6</td><td>358,7</td><td>104,63</td><td>91555,9</td></tr>
+            <tr><td>1800</td><td></td><td></td><td></td><td></td><td></td><td></td><td>333,0</td><td>99,90</td><td>89910,0</td><td>369,0</td><td>110,70</td><td>99630,0</td></tr>
+        </tbody>
+    </table>
+</div>

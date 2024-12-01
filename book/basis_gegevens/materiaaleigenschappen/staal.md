@@ -138,6 +138,38 @@ Wordt voornamelijk toegepast bij (onder)grondse constructies en overspanningen, 
 | afschuifmodulus | $\mathsf{G_{rep}}$ | $\mathsf{[N/mm^2]}$ | $\mathsf{8,1 \cdot 10^4}$ | $\mathsf{8,1 \cdot 10^4}$ | $\mathsf{8,1 \cdot 10^4}$ | $\mathsf{8,1 \cdot 10^4}$ | $\mathsf{8,1 \cdot 10^4}$ |
 | uitzettingscoëfficient | $\mathsf{\alpha}$ | $\mathsf{[K^{-1}]}$ | $\mathsf{12 \cdot 10^{-6}}$ | $\mathsf{12 \cdot 10^{-6}}$ | $\mathsf{12 \cdot 10^{-6}}$ | $\mathsf{12 \cdot 10^{-6}}$ | $\mathsf{12 \cdot 10^{-6}}$ |
 
+
+<div style="max-height: 400px; overflow-y: auto;">
+    <table style="width: 100%; border-collapse: collapse;">
+        <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
+            <tr>
+                <th style="width: 200px;">materiaaleigenschap</th>
+                <th> </th>
+                <th colspan="5">staalkwaliteit</th>
+            </tr>
+            <tr>
+                <th></th>
+                <th></th>
+                <th>S235</th>
+                <th>S275</th>
+                <th>S355</th>
+                <th>S420*</th>
+                <th>S460*</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>volumieke massa</td><td>ρ_rep</td><td>7850</td><td>7850</td><td>7850</td><td>7850</td><td>7850</td></tr>
+            <tr><td>elasticiteitsmodulus</td><td>E_rep</td><td>210 x 10^3</td><td>210 x 10^3</td><td>210 x 10^3</td><td>210 x 10^3</td><td>210 x 10^3</td></tr>
+            <tr><td>rekenwaarde vloeigrens</td><td>f_y;d</td><td>235</td><td>275</td><td>355</td><td>420</td><td>460</td></tr>
+            <tr><td>rekenwaarde treksterkte</td><td>f_t;d</td><td>360</td><td>430</td><td>510</td><td>--</td><td>--</td></tr>
+            <tr><td>vloeigrens</td><td>ϵ_y;d</td><td>1,12</td><td>1,31</td><td>1,69</td><td>--</td><td>--</td></tr>
+            <tr><td>afschuifmodulus</td><td>G_rep</td><td>8,1 x 10^4</td><td>8,1 x 10^4</td><td>8,1 x 10^4</td><td>8,1 x 10^4</td><td>8,1 x 10^4</td></tr>
+            <tr><td>uitzettingscoëfficient</td><td>α</td><td>12 x 10^-6</td><td>12 x 10^-6</td><td>12 x 10^-6</td><td>12 x 10^-6</td><td>12 x 10^-6</td></tr>
+        </tbody>
+    </table>
+</div>
+
+
 ```{note}
 Volgens de norm 6770 mag men voor de vloeigrens geen hogere waarde aanhouden dan 355 N/mm². Wil men echter gebruik maken van S420 en S460 dan moeten de berekeningen extra getoetst worden. Bovenstaande waarden voor de vloeigrens en de treksterkte zijn van toepassing voor platen, flenzen, etc. met een dikte t<40 mm volgens NEN-EN 10025.
 ```
@@ -1237,7 +1269,7 @@ HEA/HEB/HEM axo
     <table style="width: 100%; border-collapse: collapse;">
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
-                <th style="width: 75px;">Profiel (HE)</th>
+                <th style="width: 100px;">Profiel (HE)</th>
                 <th>G [kg/m]</th>
                 <th>h [mm]</th>
                 <th>b [mm]</th>
@@ -2770,7 +2802,7 @@ CHS axo
     <table style="width: 100%; border-collapse: collapse;">
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
-                <th>Profiel (HE)</th>
+                <th style="width: 100px;">Profiel (HE)</th>
                 <th>G [kg/m]</th>
                 <th>h [mm]</th>
                 <th>b [mm]</th>
