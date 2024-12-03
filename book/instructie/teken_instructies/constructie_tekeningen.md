@@ -56,6 +56,9 @@ Bij het tekenen van een draagconstructie plattegrond kan je onderstaande tekenvo
 
 <img src="Images/LijnsoortenVDM_Tekengebied26.png" alt="lijn" class="bg-primary" width="200px">
 
+<br>
+<br>
+
 - Plaats tekstuele aanduiding bij de balken: materiaal en sterkteklasse, profiel aanduiding.
 
 <br>

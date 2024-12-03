@@ -1,44 +1,36 @@
 # Tekeningen
 
+<img src="Images/AXO_Beton-01.jpg" alt="Axonometry of the Octatube building in concrete" class="bg-primary" width="1000px">
 
-```{figure} Images/beton1.jpg
----
----
-Constructive design case study Octatube building in concrete.
-```
+<p style="text-align:center;"><b><i>Fig 3.29</i></b> Axonometry of the Octatube building in concrete</p>
 
-```{figure} Images/AXO_Beton-01.jpg
----
----
-Axonometry of the Octatube building in concrete.
-```
 
 ```{figure} Images/beton2.jpg
 ---
 ---
-Section 1 in concrete.
+Section 1 in concrete
 ```
 
 ```{figure} Images/beton3.jpg
 ---
 ---
-Section 2 in concrete.
+Section 2 in concrete
 ```
 
 ```{figure} Images/beton4.jpg
 ---
 ---
-Section 3 in concrete.
+Section 3 in concrete
 ```
 
 ```{figure} Images/beton5.jpg
 ---
 ---
-Section 4 in concrete.
+Section 4 in concrete
 ```
 
 ```{figure} Images/beton6.jpg
 ---
 ---
-Section 5 in concrete.
+Section 5 in concrete
 ```

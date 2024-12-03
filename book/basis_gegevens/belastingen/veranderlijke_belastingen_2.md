@@ -223,7 +223,7 @@ De blokkeringsgraad onder een open overkapping is weergegeven in onderstaande fi
                 <th>Lessenaarsdaken</th>
                 <th> </th>
                 <th> </th>
-                <th colspan="3">Krachtcoëfficiënt C_f voor zone</th>
+                <th colspan="3">Krachtcoëfficiënt C<sub>f</sub> voor zone</th>
             </tr>
             <tr>
                 <th style="width: 100px;">Dakhelling α</th>
