@@ -159,7 +159,7 @@ Wordt voornamelijk toegepast bij (onder)grondse constructies en overspanningen, 
         </thead>
         <tbody>
             <tr><td>volumieke massa</td><td>ρ_rep</td><td>7850</td><td>7850</td><td>7850</td><td>7850</td><td>7850</td></tr>
-            <tr><td>elasticiteitsmodulus</td><td>E_rep</td><td>210 x 10^3</td><td>210 x 10^3</td><td>210 x 10^3</td><td>210 x 10^3</td><td>210 x 10^3</td></tr>
+            <tr><td>elasticiteitsmodulus</td><td>E_rep</td><td>210 &middot 10<sup>3</sup></td><td>210 x 10^3</td><td>210 x 10^3</td><td>210 x 10^3</td><td>210 x 10^3</td></tr>
             <tr><td>rekenwaarde vloeigrens</td><td>f_y;d</td><td>235</td><td>275</td><td>355</td><td>420</td><td>460</td></tr>
             <tr><td>rekenwaarde treksterkte</td><td>f_t;d</td><td>360</td><td>430</td><td>510</td><td>--</td><td>--</td></tr>
             <tr><td>vloeigrens</td><td>ϵ_y;d</td><td>1,12</td><td>1,31</td><td>1,69</td><td>--</td><td>--</td></tr>

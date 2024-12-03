@@ -10,7 +10,7 @@ De permanente belastingen van constructies bestaan uit het eigen gewicht van het
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
                 <th>Materiaal</th>
-                <th>&#x3C9; [kg/m³]</th>
+                <th>ρ [kg/m³]</th>
             </tr>
         </thead>
         <tbody>
@@ -73,7 +73,7 @@ Let op: de bovengenomende waarden zijn volumieke massa's, $\mathsf{[kg/m^3]}$, d
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
                 <th>Materiaal</th>
-                <th>&#x3C9; [kg/m³]</th>
+                <th>ρ [kg/m³]</th>
             </tr>
         </thead>
         <tbody>
@@ -245,7 +245,7 @@ Let op: de bovengenomende waarden zijn volumieke massa's, $[kg/m^3]$, deze moet 
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
                 <th>Materiaal</th>
-                <th>&#x3C9; [kN/m²]</th>
+                <th>ρ [kN/m²]</th>
             </tr>
         </thead>
         <tbody>
