@@ -3061,7 +3061,7 @@ CHS axo
 </div>
 
 
-### RHS-HF: rectangular hollow section - hot formed (warmgewalste profielen)
+### SHS-HF: rectangular hollow section - hot formed (warmgewalste profielen)
 
 ```{figure} Images/RHS.png
 ---
