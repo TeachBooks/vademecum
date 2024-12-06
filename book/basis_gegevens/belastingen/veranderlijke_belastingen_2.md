@@ -75,7 +75,7 @@ scale: 25%
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
                 <th>Gevels</th>
-                <th colspan="5">Krachtcoëfficiënt C_f voor zone</th>
+                <th colspan="5" style="text-align: center;">Krachtcoëfficiënt C<sub>f</sub> voor zone</th>
             </tr>
             <tr>
                 <th style="width: 250px;">h/d</th>
@@ -142,7 +142,7 @@ scale: 25%
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
                 <th>Zadeldaken θ = 0</th>
-                <th colspan="5">Krachtcoëfficiënt C_f voor zone</th>
+                <th colspan="5">Krachtcoëfficiënt C<sub>f</sub> voor zone</th>
             </tr>
             <tr>
                 <th style="width: 250px;">hellingshoek α</th>
@@ -174,7 +174,7 @@ scale: 25%
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
                 <th>Zadeldaken θ = 90</th>
-                <th colspan="4">Krachtcoëfficiënt C_f voor zone</th>
+                <th colspan="4">Krachtcoëfficiënt C<sub>f</sub> voor zone</th>
             </tr>
             <tr>
                 <th style="width: 250px;">hellingshoek α</th>
@@ -228,7 +228,7 @@ De blokkeringsgraad onder een open overkapping is weergegeven in onderstaande fi
             <tr>
                 <th style="width: 100px;">Dakhelling α</th>
                 <th style="width: 200px;">blokkering Φ</th>
-                <th>globale kracht- <br> coëfficient c_f</th>
+                <th>globale kracht- <br> coëfficient C<sub>f</sub></th>
                 <th>A</th>
                 <th>B</th>
                 <th>C</th>
@@ -308,7 +308,7 @@ Onderstaand is een tabel opgenomen waarin de verschillende waarden voor de extre
                 <th colspan="2">Regio 3</th>
             </tr>
             <tr>
-                <th>Z_e [m]</th>           
+                <th>Z<sub>e</sub> [m]</th>           
                 <th>kust</th>
                 <th>onbebouwd</th>
                 <th>bebouwd</th>

@@ -88,7 +88,7 @@ Bij het tekenen van een draagconstructie plattegrond kan je onderstaande tekenvo
 
 De Axonometrische tekening is een overzicht van de totale draagconstructie, zie [Voorbeelden](../voorbeelden/staal/staal_intro.md). Het geeft inzicht in de ruimtelijke ordening in zowel het horizontale als verticale vlak. De verticale en horizontale krachtsafdracht van de constructie is vaak goed af te zien aan de Axo omdat alle constructieve delen in een enkel overzicht zijn gegeven. De tweede belangrijke functie van de Axo is om te laten zien hoe de draagconstructie past bij de architectonische ontwerpintentie. Daarom zet je de axo vaak op de presentatieposter.
 
-- Plaats de plattegronden van de draagconstructie boven elkaar onder een hoek van 45°, met voldoende ruimte ertussen (geen overlap).
+- Plaats de plattegronden van de draagconstructie boven, met voldoende ruimte ertussen (geen overlap).
 
 <br>
 
