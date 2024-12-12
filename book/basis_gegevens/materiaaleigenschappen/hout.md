@@ -53,38 +53,57 @@ Een combinatie van HSB en CLT is daarom zeer geschikt voor de seriematige woning
 
 **Gezaagd hout**
 
-| **Materiaaleigenschap** | | **Sterkteklasse:** | C14 | C16 | C18 | C20 | C22 | C24 | C27 | C30 | C35 |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| buigsterkte | $f_{m;k}$ | $[N/mm^2]$ | 14 | 16 | 18 | 20 | 22 | 24 | 27 | 30 | 35 |
-| treksterkte // | $f_{t;0;k}$ | $[N/mm^2]$ | 7,2 | 8,5 | 10 | 11,5 | 13 | 14,5 | 16,5 | 19 | 22,5 |
-| treksterkte $\perp$ | $f_{t;90;k}$ | $[N/mm^2]$ | 0,4 | 0,4 | 0,4 | 0,4 | 0,4 | 0,4 | 0,4 | 0,4 | 0,4 |
-| druksterkte // | $f_{c;0;k}$ | $[N/mm^2]$ | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 24 | 25 |
-| druksterkte $\perp$ | $f_{c;90;k}$ | $[N/mm^2]$ | 2,0 | 2,2 | 2,2 | 2,3 | 2,4 | 2,5 | 2,5 | 2,7 | 2,8 |
-| schuifsterkte | $f_{v;k}$ | $[N/mm^2]$ | 3,0 | 3,2 | 3,4 | 3,6 | 3,8 | 4,0 | 4,0 | 4,0 | 4,0 |
-| elasticiteitsmodulus // | $E_{0;mean}$ | $[N/mm^2]$ | 7000 | 8000 | 9000 | 9500 | 10000 | 11000 | 11500 | 12000 | 13000 |
-| 5% elasticiteitsmodulus // | $E_{0,05}$ | $[N/mm^2]$ | 4700 | 5400 | 6000 | 6400 | 6700 | 7400 | 7700 | 8000 | 8700 |
-| elasticiteitsmodulus $\perp$ | $E_{90;mean}$ | $[N/mm^2]$ | 230 | 270 | 300 | 320 | 330 | 370 | 380 | 400 | 430 |
-| afschuifmodulus | $G_{mean}$ | $[N/mm^2]$ | 440 | 500 | 560 | 590 | 630 | 690 | 720 | 750 | 810 |
-| 5% volumieke massa | $\rho_{k}$ | $[kg/m^3]$ | 290 | 310 | 320 | 330 | 340 | 350 | 360 | 380 | 390 |
-| volumieke massa | $\rho_{m}$ | $[kg/m^3]$ | 350 | 370 | 380 | 400 | 410 | 420 | 430 | 460 | 470 |
+<div style="max-height: 400px; overflow-y: auto;">
+    <table style="width: 100%; border-collapse: collapse;">
+        <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
+            <tr>
+                <th style="width: 200px;">Materiaaleigenschap</th>
+                <th></th>
+                <th colspan="20" style="text-align: center;">Sterkteklasse</th>
+            </tr>
+            <tr>
+                <th></th>
+                <th></th>
+                <th>C14</th>
+                <th>C16</th>
+                <th>C18</th>
+                <th>C20</th>
+                <th>C22</th>
+                <th>C24</th>
+                <th>C27</th>
+                <th>C30</th>
+                <th>C35</th>
+                <th>C40</th>
+                <th>C45</th>
+                <th>C50</th>
+                <th>D18</th>
+                <th>D24</th>
+                <th>D30</th>
+                <th>D35</th>
+                <th>D40</th>
+                <th>D50</th>
+                <th>D60</th>
+                <th>D70</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>buigsterkte</td><td>f<sub>m;k</sub></td><td>14</td><td>16</td><td>18</td><td>20</td><td>22</td><td>24</td><td>27</td><td>30</td><td>35</td><td>40</td><td>45</td><td>50</td><td>18</td><td>24</td><td>30</td><td>35</td><td>40</td><td>50</td><td>60</td><td>70</td></tr>
+            <tr><td>treksterkte //</td><td>f<sub>t;0;k</sub></td><td>7,2</td><td>8,5</td><td>10</td><td>11,5</td><td>13</td><td>14,5</td><td>16,5</td><td>19</td><td>22,5</td><td>26</td><td>30</td><td>33,5</td><td>11</td><td>14</td><td>18</td><td>21</td><td>24</td><td>30</td><td>36</td><td>42</td></tr>
+            <tr><td>treksterkte ⊥</td><td>f<sub>t;90;k</sub></td><td>0,4</td><td>0,4</td><td>0,4</td><td>0,4</td><td>0,4</td><td>0,4</td><td>0,4</td><td>0,4</td><td>0,4</td><td>0,4</td><td>0,4</td><td>0,4</td><td>0,6</td><td>0,6</td><td>0,6</td><td>0,6</td><td>0,6</td><td>0,6</td><td>0,6</td><td>0,6</td></tr>
+            <tr><td>druksterkte //</td><td>f<sub>c;0;k</sub></td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>24</td><td>25</td><td>27</td><td>29</td><td>30</td><td>18</td><td>21</td><td>24</td><td>25</td><td>27</td><td>30</td><td>33</td><td>36</td></tr>
+            <tr><td>druksterkte ⊥</td><td>f<sub>c;90;k</sub></td><td>2,0</td><td>2,2</td><td>2,2</td><td>2,3</td><td>2,4</td><td>2,5</td><td>2,5</td><td>2,7</td><td>2,8</td><td>2,8</td><td>3,9</td><td>3,0</td><td>4,8</td><td>4,9</td><td>5,3</td><td>5,4</td><td>5,5</td><td>6,2</td><td>10,5</td><td>12,0</td></tr>
+            <tr><td>schuifsterkte</td><td>f<sub>v;k</sub></td><td>3,0</td><td>3,2</td><td>3,4</td><td>3,6</td><td>3,8</td><td>4,0</td><td>4,0</td><td>4,0</td><td>4,0</td><td>4,0</td><td>4,0</td><td>4,0</td><td>3,5</td><td>3,7</td><td>3,9</td><td>4,1</td><td>4,2</td><td>4,5</td><td>4,8</td><td>5,0</td></tr>
+            <tr><td>elasticiteitsmodulus //</td><td>E<sub>0;mean</sub></td><td>7000</td><td>8000</td><td>9000</td><td>9500</td><td>10000</td><td>11000</td><td>11500</td><td>12000</td><td>13000</td><td>14000</td><td>15000</td><td>16000</td><td>9500</td><td>10000</td><td>11000</td><td>12000</td><td>13000</td><td>14000</td><td>17000</td><td>20000</td></tr>
+            <tr><td>5% elasticiteitsmodulus //</td><td>E<sub>0,05</sub></td><td>4700</td><td>5400</td><td>6000</td><td>6400</td><td>6700</td><td>7400</td><td>7700</td><td>8000</td><td>8700</td><td>9400</td><td>10100</td><td>10700</td><td>8000</td><td>8400</td><td>9200</td><td>10100</td><td>10900</td><td>11800</td><td>14300</td><td>16800</td></tr>
+            <tr><td>elasticiteitsmodulus ⊥</td><td>E<sub>90;mean</sub></td><td>230</td><td>270</td><td>300</td><td>320</td><td>330</td><td>370</td><td>380</td><td>400</td><td>430</td><td>470</td><td>500</td><td>530</td><td>630</td><td>670</td><td>730</td><td>800</td><td>870</td><td>930</td><td>1130</td><td>1330</td></tr>
+            <tr><td>afschuifmodulus</td><td>G<sub>mean</sub></td><td>440</td><td>500</td><td>560</td><td>590</td><td>630</td><td>690</td><td>720</td><td>750</td><td>810</td><td>880</td><td>940</td><td>1000</td><td>590</td><td>630</td><td>690</td><td>750</td><td>810</td><td>880</td><td>1060</td><td>1250</td></tr>
+            <tr><td>5% volumieke massa</td><td>ρ</td><td>290</td><td>310</td><td>320</td><td>330</td><td>340</td><td>350</td><td>360</td><td>380</td><td>390</td><td>400</td><td>410</td><td>430</td><td>475</td><td>485</td><td>530</td><td>540</td><td>550</td><td>620</td><td>700</td><td>800</td></tr>
+            <tr><td>volumieke massa</td><td>ρ</td><td>350</td><td>370</td><td>380</td><td>400</td><td>410</td><td>420</td><td>430</td><td>460</td><td>470</td><td>480</td><td>490</td><td>520</td><td>570</td><td>580</td><td>640</td><td>650</td><td>660</td><td>740</td><td>840</td><td>960</td></tr>
+        </tbody>
+    </table>
+</div>
 
 <br>
-
-| **Sterkteklasse:** | | C40 | C45 | C50 | D18 | D24 | D30 | D35 | D40 | D50 | D60 | D70 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| $f_{m;k}$ | $[N/mm^2]$ | 40 | 45 | 50 | 18 | 24 | 30 | 35 | 40 | 50 | 60 | 70 |
-| $f_{t;0;k}$ | $[N/mm^2]$ | 26 | 30 | 33,5 | 11 | 14 | 18 | 21 | 24 | 30 | 36 | 42 |
-| $f_{t;90;k}$ | $[N/mm^2]$ | 0,4 | 0,4 | 0,4 | 0,6 | 0,6 | 0,6 | 0,6 | 0,6 | 0,6 | 0,6 | 0,6 |
-| $f_{c;0;k}$ | $[N/mm^2]$ | 27 | 29 | 30 | 18 | 21 | 24 | 25 | 27 | 30 | 33 | 36 |
-| $f_{c;90;k}$ | $[N/mm^2]$ | 2,8 | 3,9 | 3,0 | 4,8 | 4,9 | 5,3 | 5,4 | 5,5 | 6,2 | 10,5 | 12,0 |
-| $f_{v;k}$ | $[N/mm^2]$ | 4,0 | 4,0 | 4,0 | 3,5 | 3,7 | 3,9 | 4,1 | 4,2 | 4,5 | 4,8 | 5,0 |
-| $E_{0;mean}$ | $[N/mm^2]$ | 14000 | 15000 | 16000 | 9500 | 10000 | 11000 | 12000 | 13000 | 14000 | 17000 | 20000 |
-| $E_{0,05}$ | $[N/mm^2]$ | 9400 | 10100 | 10700 | 8000 | 8400 | 9200 | 10100 | 10900 | 11800 | 14300 | 16800 |
-| $E_{90;mean}$ | $[N/mm^2]$ | 470 | 500 | 530 | 630 | 670 | 730 | 800 | 870 | 930 | 1130 | 1330 |
-| $G_{mean}$ | $[N/mm^2]$ | 880 | 940 | 1000 | 590 | 630 | 690 | 750 | 810 | 880 | 1060 | 1250 |
-| $\rho_{k}$ | $[kg/m^3]$ | 400 | 410 | 430 | 475 | 485 | 530 | 540 | 550 | 620 | 700 | 800 |
-| $\rho_{m}$ | $[kg/m^3]$ | 480 | 490 | 520 | 570 | 580 | 640 | 650 | 660 | 740 | 840 | 960 |
-
 
 Tabel 1 - Sterkteklasses voor zachthout, gebaseerd op 'edgewise' buigtesten (aan de smalle rand) - sterkte-, stijfheid-, en dichtheidswaarden - NEN-EN 338:2016 hout voor constructieve toepassingen - Sterkteklassen. Dit zijn karakteristieke waardes, niet de rekenwaardes.
 
@@ -92,44 +111,42 @@ Tabel 1 - Sterkteklasses voor zachthout, gebaseerd op 'edgewise' buigtesten (aan
 
 **Gelijmd gelamineerd hout**
 
-| **Materiaaleigenschap** | | **Sterkteklasse :** | GL24h | GL28h | GL32h |
-|---|---|---|---|---|---|
-| buigsterkte | $f_{m;k}$ | $[N/mm^2]$ | 24 | 28 | 32 |
-| treksterkte // | $f_{t;0;k}$ | $[N/mm^2]$ | 19,2 | 22,3 | 25,6 |
-| treksterkte $\perp$ | $f_{t;90;k}$ | $[N/mm^2]$ | 0,5 | 0,5 | 0,5 |
-| druksterkte // | $f_{c;0;k}$ | $[N/mm^2]$ | 24 | 28 | 32 |
-| druksterkte $\perp$ | $f_{c;90;k}$ | $[N/mm^2]$ | 2,5 | 2,5 | 2,5 |
-| schuifsterkte | $f_{v;k}$ | $[N/mm^2]$ | 3,5 | 3,5 | 3,5 |
-| elasticiteitsmodulus // | $E_{0;gem}$ | $[N/mm^2]$ | 11500 | 12600 | 14200 |
-| 5% elasticiteitsmodulus // | $E_{0,05}$ | $[N/mm^2]$ | 9600 | 10500 | 11800 |
-| elasticiteitsmodulus $\perp$ | $E_{90;gem}$ | $[N/mm^2]$ | 550 | 600 | 650 |
-| afschuifmodulus | $G_{gem}$ | $[N/mm^2]$ | 740 | 820 | 920 |
-| 5% volumieke massa | $\rho_{k}$ | $[kg/m^3]$ | 410 | 420 | 430 |
-| volumieke massa | $\rho_{m}$ | $[kg/m^3]$ | 550 | 560 | 580 |
-
-
-Tabel 2 - Sterkteklassen voor gelijmd gelamineerd hout, gebaseerd op 'edgewise' buigtesten (aan de smalle rand) - sterkte-, stijfheid-, en dichtheidswaarden - NEN-EN 14080:2013 hout voor constructieve toepassingen - Gelijmd gelamineerd hout. Dit zijn karakteristieke waardes, niet de rekenwaardes.
+<div style="max-height: 400px; overflow-y: auto;">
+    <table style="width: 100%; border-collapse: collapse;">
+        <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
+            <tr>
+                <th style="width: 300px;">Materiaaleigenschap</th>
+                <th></th>
+                <th colspan="3">Sterkteklasse</th>
+            </tr>
+            <tr>
+                <th style="width: 200px;"></th>
+                <th style="width: 100px;"></th>
+                <th style="width: 100px;">GL24h</th>
+                <th style="width: 100px;">GL28h</th>
+                <th style="width: 200px;">GL32h</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>buigsterkte</td><td>f<sub>m;k</sub></td><td>24</td><td>28</td><td>32</td></tr>
+            <tr><td>treksterkte //</td><td>f<sub>t;0;k</sub></td><td>19,2</td><td>22,3</td><td>25,6</td></tr>
+            <tr><td>treksterkte ⊥</td><td>f<sub>t;90;k</sub></td><td>0,5</td><td>0,5</td><td>0,5</td></tr>
+            <tr><td>druksterkte //</td><td>f<sub>c;0;k</sub></td><td>24</td><td>28</td><td>32</td></tr>
+            <tr><td>druksterkte ⊥</td><td>f<sub>c;90;k</sub></td><td>2,5</td><td>2,5</td><td>2,5</td></tr>
+            <tr><td>schuifsterkte</td><td>f<sub>v;k</sub></td><td>3,5</td><td>3,5</td><td>3,5</td></tr>
+            <tr><td>elasticiteitsmodulus //</td><td>E<sub>0;gem</sub></td><td>11500</td><td>12600</td><td>14200</td></tr>
+            <tr><td>5% elasticiteitsmodulus //</td><td>E<sub>0,05</sub></td><td>9600</td><td>10500</td><td>11800</td></tr>
+            <tr><td>elasticiteitsmodulus ⊥</td><td>E<sub>90;gem</sub></td><td>550</td><td>600</td><td>650</td></tr>
+            <tr><td>afschuifmodulus</td><td>G<sub>gem</sub></td><td>740</td><td>820</td><td>920</td></tr>
+            <tr><td>5% volumieke massa</td><td>ρ<sub>k</sub></td><td>410</td><td>420</td><td>430</td></tr>
+            <tr><td>volumieke massa</td><td>ρ<sub>m</sub></td><td>550</td><td>560</td><td>580</td></tr>
+        </tbody>
+    </table>
+</div>
 
 <br>
 
-**Gelijmd gelamineerd hout**
-
-| **Materiaaleigenschap** |   | **Sterkteklasse :** | GL24h | GL28h | GL32h |
-|---|---|---|---|---|---|
-| buigsterkte | $\mathsf{f_{m;k}}$ | $\mathsf{[N/mm^2]}$ | 24 | 28 | 32 |
-| treksterkte // | $\mathsf{f_{t;0;k}}$ | $\mathsf{[N/mm^2]}$ | 19,2 | 22,3 | 25,6 |
-| treksterkte $\perp$ | $\mathsf{f_{t;90;k}}$ | $\mathsf{[N/mm^2]}$ | 0,5 | 0,5 | 0,5 |
-| druksterkte // | $\mathsf{f_{c;0;k}}$ | $\mathsf{[N/mm^2]}$ | 24 | 28 | 32 |
-| druksterkte $\perp$ | $\mathsf{f_{c;90;k}}$ | $\mathsf{[N/mm^2]}$ | 2,5 | 2,5 | 2,5 |
-| schuifsterkte | $\mathsf{f_{v;k}}$ | $\mathsf{[N/mm^2]}$ | 3,5 | 3,5 | 3,5 |
-| elasticiteitsmodulus // | $\mathsf{E_{0;gem}}$ | $\mathsf{[N/mm^2]}$ | 11500 | 12600 | 14200 |
-| 5\% elasticiteitsmodulus // | $\mathsf{E_{0,05}}$ | $\mathsf{[N/mm^2]}$ | 9600 | 10500 | 11800 |
-| elasticiteitsmodulus $\perp$ | $\mathsf{E_{90;gem}}$ | $\mathsf{[N/mm^2]}$ | 300 | 300 | 300 |
-| schuifmodulus | $\mathsf{G_{mean}}$ | $\mathsf{[N/mm^2]}$ | 650 | 650 | 650 |
-| 5\% dichtheid | $\mathsf{\rho_{k}}$ | $\mathsf{[kg/m^3]}$ | 385 | 425 | 440 |
-| dichtheid | $\mathsf{\rho_{gem}}$ | $\mathsf{[kg/m^3]}$ | 420 | 460 | 490 |
-
-Tabel 5 - Karakteristieke sterkte- en stijfheidseigenschappen in $\mathsf{N/mm^2}$ en dichtheden in $\mathsf{kg/m^3}$ voor homogeen glulam - NEN-EN 14080:2013 Houtconstructies - Gelijmd gelamineerd hout en gelijmd massief hout
+Tabel 2 - Sterkteklassen voor gelijmd gelamineerd hout, gebaseerd op 'edgewise' buigtesten (aan de smalle rand) - sterkte-, stijfheid-, en dichtheidswaarden - NEN-EN 14080:2013 hout voor constructieve toepassingen - Gelijmd gelamineerd hout. Dit zijn karakteristieke waardes, niet de rekenwaardes.
 
 <br>
 
@@ -276,14 +293,14 @@ Definities van verticale doorbuiging uit NEN-EN 1990 bijlage A.1.4.3
             <tr>
                 <th style="width: 50px;">h</th>
                 <th>A [mm²]</th>
-                <th>W_y [mm³]</th>
-                <th>I_y [mm⁴]</th>
+                <th>W<sub>y</sub> [mm³]</th>
+                <th style="width: 100px;">I<sub>y</sub> [mm⁴]</th>
                 <th>A [mm²]</th>
-                <th>W_y [mm³]</th>
-                <th>I_y [mm⁴]</th>
+                <th>W<sub>y</sub> [mm³]</th>
+                <th style="width: 100px;">I<sub>y</sub> [mm⁴]</th>
                 <th>A [mm²]</th>
-                <th>W_y [mm³]</th>
-                <th>I_y [mm⁴]</th>
+                <th>W<sub>y</sub> [mm³]</th>
+                <th>I<sub>y</sub> [mm⁴]</th>
             </tr>
         </thead>
         <tbody>
@@ -315,14 +332,14 @@ Definities van verticale doorbuiging uit NEN-EN 1990 bijlage A.1.4.3
             <tr>
                 <th style="width: 50px;">h</th>
                 <th>A [mm²]</th>
-                <th>W_y [mm³]</th>
-                <th>I_y [mm⁴]</th>
+                <th>W<sub>y</sub> [mm³]</th>
+                <th style="width: 100px;">I<sub>y</sub> [mm⁴]</th>
                 <th>A [mm²]</th>
-                <th>W_y [mm³]</th>
-                <th>I_y [mm⁴]</th>
+                <th>W<sub>y</sub> [mm³]</th>
+                <th style="width: 100px;">I<sub>y</sub> [mm⁴]</th>
                 <th>A [mm²]</th>
-                <th>W_y [mm³]</th>
-                <th>I_y [mm⁴]</th>
+                <th>W<sub>y</sub> [mm³]</th>
+                <th>I<sub>y</sub> [mm⁴]</th>
             </tr>
         </thead>
         <tbody>
@@ -355,14 +372,14 @@ Definities van verticale doorbuiging uit NEN-EN 1990 bijlage A.1.4.3
             <tr>
                 <th style="width: 50px;">h</th>
                 <th>A [mm²]</th>
-                <th>W_y [mm³]</th>
-                <th>I_y [mm⁴]</th>
+                <th>W<sub>y</sub> [mm³]</th>
+                <th style="width: 100px;">I<sub>y</sub> [mm⁴]</th>
                 <th>A [mm²]</th>
-                <th>W_y [mm³]</th>
-                <th>I_y [mm⁴]</th>
+                <th>W<sub>y</sub> [mm³]</th>
+                <th style="width: 100px;">I<sub>y</sub> [mm⁴]</th>
                 <th>A [mm²]</th>
-                <th>W_y [mm³]</th>
-                <th>I_y [mm⁴]</th>
+                <th>W<sub>y</sub> [mm³]</th>
+                <th>I<sub>y</sub> [mm⁴]</th>
             </tr>
         </thead>
         <tbody>
@@ -418,17 +435,17 @@ Definities van verticale doorbuiging uit NEN-EN 1990 bijlage A.1.4.3
             <tr>
                 <th style="width: 50px;">h</th>
                 <th>A [mm²]</th>
-                <th>W_y [mm³]</th>
-                <th>I_y [mm⁴]</th>
+                <th>W<sub>y</sub> [mm³]</th>
+                <th>I<sub>y</sub> [mm⁴]</th>
                 <th>A [mm²]</th>
-                <th>W_y [mm³]</th>
-                <th>I_y [mm⁴]</th>
+                <th>W<sub>y</sub> [mm³]</th>
+                <th>I<sub>y</sub> [mm⁴]</th>
                 <th>A [mm²]</th>
-                <th>W_y [mm³]</th>
-                <th>I_y [mm⁴]</th>
+                <th>W<sub>y</sub> [mm³]</th>
+                <th>I<sub>y</sub> [mm⁴]</th>
                 <th>A [mm²]</th>
-                <th>W_y [mm³]</th>
-                <th>I_y [mm⁴]</th>
+                <th>W<sub>y</sub> [mm³]</th>
+                <th>I<sub>y</sub> [mm⁴]</th>
             </tr>
         </thead>
         <tbody>
