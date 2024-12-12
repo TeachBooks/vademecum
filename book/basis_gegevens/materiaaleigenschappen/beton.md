@@ -2,16 +2,38 @@
 
 ## Sterkte en stijfheid
 
-| **Materiaaleigenschap** | | | **Sterkteklasse** | | | | | |
-|---|---|---|---|---|---|---|---|---|
-| | | | C12/15 | C20/25 | C30/37 | C35/45 | C45/55 | C50/60 |
-| volumieke massa | $\mathsf{\rho_{rep}}$ | $\mathsf{[kg/m^3]}$ | 2500 | 2500 | 2500 | 2500 | 2500 | 2500 |
-| elasticiteitsmodulus | $\mathsf{E_{cm}}$ | $\mathsf{[N/mm^2]}$ | 27000 | 30000 | 33000 | 34000 | 36000 | 37000 |
-| gemiddelde druksterkte | $\mathsf{f_{cm}}$ | $\mathsf{[N/mm^2]}$ | 20 | 28 | 38 | 43 | 53 | 58 |
-| karakteristieke cilindersterkte | $\mathsf{f_{ck}}$ | $\mathsf{[N/mm^2]}$ | 12 | 20 | 30 | 35 | 45 | 50 |
-| karakteristieke kubussterkte | $\mathsf{f_{ck;cube}}$ | $\mathsf{[N/mm^2]}$ | 15 | 25 | 37 | 45 | 55 | 60 |
-| gemiddelde treksterkte | $\mathsf{f_{ctm}}$ | $\mathsf{[N/mm^2]}$ | 1,6 | 2,2 | 2,9 | 3,2 | 3,8 | 4,1 |
-| karakteristieke treksterkte | $\mathsf{f_{ctk;0,05}}$ | $\mathsf{[N/mm^2]}$ | 1,1 | 1,5 | 2,0 | 2,2 | 2,7 | 2,9 |
+<div style="max-height: 400px; overflow-y: auto;">
+    <table style="width: 100%; border-collapse: collapse;">
+        <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
+            <tr>
+                <th style="width: 200px;">Materiaaleigenschap</th>
+                <th></th>
+                <th></th>
+                <th colspan="6" style="text-align: center;">Sterkteklasse</th>
+            </tr>
+            <tr>
+                <th></th>
+                <th style="width: 150px;"></th>
+                <th style="width: 150px;"></th>
+                <th style="width: 150px;">C12/15</th>
+                <th style="width: 150px;">C20/25</th>
+                <th style="width: 150px;">C30/37</th>
+                <th style="width: 150px;">C35/45</th>
+                <th style="width: 150px;">C45/55</th>
+                <th style="width: 150px;">C50/60</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>volumieke massa</td><td>ρ<sub>rep</sub></td><td>[kg/m<sup>3</sup>]</td><td>2500</td><td>2500</td><td>2500</td><td>2500</td><td>2500</td><td>2500</td></tr>
+            <tr><td>elasticiteitsmodulus</td><td>E<sub>cm</sub></td><td>[N/mm<sup>2</sup>]</td><td>27000</td><td>30000</td><td>33000</td><td>34000</td><td>36000</td><td>37000</td></tr>
+            <tr><td>gemiddelde druksterkte</td><td>f<sub>cm</sub></td><td>[N/mm<sup>2</sup>]</td><td>20</td><td>28</td><td>38</td><td>43</td><td>53</td><td>58</td></tr>
+            <tr><td>karakteristieke cilindersterkte</td><td>f<sub>ck</sub></td><td>[N/mm<sup>2</sup>]</td><td>12</td><td>20</td><td>30</td><td>35</td><td>45</td><td>50</td></tr>
+            <tr><td>karakteristieke kubussterkte</td><td>f<sub>ck;cube</sub></td><td>[N/mm<sup>2</sup>]</td><td>15</td><td>25</td><td>37</td><td>45</td><td>55</td><td>60</td></tr>
+            <tr><td>gemiddelde treksterkte</td><td>f<sub>ctm</sub></td><td>[N/mm<sup>2</sup>]</td><td>1,6</td><td>2,2</td><td>2,9</td><td>3,2</td><td>3,8</td><td>4,1</td></tr>
+            <tr><td>karakteristieke treksterkte</td><td>f<sub>ctk;0,05</sub></td><td>[N/mm<sup>2</sup>]</td><td>1,1</td><td>1,5</td><td>2,0</td><td>2,2</td><td>2,7</td><td>2,9</td></tr>
+        </tbody>
+    </table>
+</div>
 
 
 ## Sterkte

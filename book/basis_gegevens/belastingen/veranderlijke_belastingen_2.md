@@ -79,11 +79,11 @@ scale: 25%
             </tr>
             <tr>
                 <th style="width: 250px;">h/d</th>
-                <th>A</th>
-                <th>B</th>
-                <th>C</th>
-                <th>D</th>
-                <th>E</th>
+                <th style="width: 100px;">A</th>
+                <th style="width: 100px;">B</th>
+                <th style="width: 100px;">C</th>
+                <th style="width: 100px;">D</th>
+                <th style="width: 100px;">E</th>
             </tr>
         </thead>
         <tbody>
@@ -109,14 +109,14 @@ name: Windzones platte daken
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
                 <th>Platte daken</th>
-                <th colspan="4">Krachtcoëfficiënt C_f voor zone</th>
+                <th colspan="4" style="text-align: center;">Krachtcoëfficiënt C<sub>f</sub> voor zone</th>
             </tr>
             <tr>
                 <th style="width: 250px;">type</th>
-                <th>F</th>
-                <th>G</th>
-                <th>H</th>
-                <th>I</th>
+                <th style="width: 100px;">F</th>
+                <th style="width: 100px;">G</th>
+                <th style="width: 100px;">H</th>
+                <th style="width: 100px;">I</th>
             </tr>
         </thead>
         <tbody>
@@ -142,15 +142,15 @@ scale: 25%
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
                 <th>Zadeldaken θ = 0</th>
-                <th colspan="5">Krachtcoëfficiënt C<sub>f</sub> voor zone</th>
+                <th colspan="5" style="text-align: center;">Krachtcoëfficiënt C<sub>f</sub> voor zone</th>
             </tr>
             <tr>
                 <th style="width: 250px;">hellingshoek α</th>
-                <th>F</th>
-                <th>G</th>
-                <th>H</th>
-                <th>I</th>
-                <th>J</th>
+                <th style="width: 100px;">F</th>
+                <th style="width: 100px;">G</th>
+                <th style="width: 100px;">H</th>
+                <th style="width: 100px;">I</th>
+                <th style="width: 100px;">J</th>
             </tr>
         </thead>
         <tbody>
@@ -168,20 +168,21 @@ scale: 25%
     </table>
 </div>
 
+<br>
 
 <div style="max-height: 400px; overflow-y: auto;">
     <table style="width: 100%; border-collapse: collapse;">
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
                 <th>Zadeldaken θ = 90</th>
-                <th colspan="4">Krachtcoëfficiënt C<sub>f</sub> voor zone</th>
+                <th colspan="4" style="text-align: center;">Krachtcoëfficiënt C<sub>f</sub> voor zone</th>
             </tr>
             <tr>
                 <th style="width: 250px;">hellingshoek α</th>
-                <th>F</th>
-                <th>G</th>
-                <th>H</th>
-                <th>I</th>
+                <th style="width: 100px;">F</th>
+                <th style="width: 100px;">G</th>
+                <th style="width: 100px;">H</th>
+                <th style="width: 100px;">I</th>
             </tr>
         </thead>
         <tbody>
@@ -223,7 +224,7 @@ De blokkeringsgraad onder een open overkapping is weergegeven in onderstaande fi
                 <th>Lessenaarsdaken</th>
                 <th> </th>
                 <th> </th>
-                <th colspan="3">Krachtcoëfficiënt C<sub>f</sub> voor zone</th>
+                <th colspan="3" style="text-align: center;">Krachtcoëfficiënt C<sub>f</sub> voor zone</th>
             </tr>
             <tr>
                 <th style="width: 100px;">Dakhelling α</th>
@@ -308,15 +309,15 @@ Onderstaand is een tabel opgenomen waarin de verschillende waarden voor de extre
                 <th colspan="2">Regio 3</th>
             </tr>
             <tr>
-                <th>Z<sub>e</sub> [m]</th>           
+                <th style="width: 100px;">Z<sub>e</sub> [m]</th>           
                 <th>kust</th>
                 <th>onbebouwd</th>
-                <th>bebouwd</th>
+                <th style="width: 100px;">bebouwd</th>
                 <th>kust</th>
                 <th>onbebouwd</th>
-                <th>bebouwd</th>
+                <th style="width: 100px;">bebouwd</th>
                 <th>onbebouwd</th>
-                <th>bebouwd</th>
+                <th style="width: 100px;">bebouwd</th>
             </tr>
         </thead>
         <tbody>

@@ -128,16 +128,6 @@ Wordt voornamelijk toegepast bij (onder)grondse constructies en overspanningen, 
 
 ## Sterkte en stijfheid
 
-| Materiaaleigenschap |   | Staalkwaliteit: | S235 | S275 | S355 | S420* | S460* |
-|---|---|---|---|---|---|---|---|
-| volumieke massa | $\mathsf{\rho_{rep}}$ | $\mathsf{[kg/m^3]}$ | 7850 | 7850 | 7850 | 7850 | 7850 |
-| elasticiteitsmodulus | $\mathsf{E_{rep}}$ | $\mathsf{[N/mm^2]}$ | $\mathsf{210 \cdot 10^3}$ | $\mathsf{210 \cdot 10^3}$ | $\mathsf{210 \cdot 10^3}$ | $\mathsf{210 \cdot 10^3}$ | $\mathsf{210 \cdot 10^3}$ |
-| rekenwaarde vloeigrens | $\mathsf{f_{y;d}}$ | $\mathsf{[N/mm^2]}$ | 235 | 275 | 355 | 420 | 460 |
-| rekenwaarde treksterkte | $\mathsf{f_{t;d}}$ | $\mathsf{[N/mm^2]}$ | 360 | 430 | 510 | -- | -- |
-| vloeigrens | $\mathsf{\epsilon_{y;d}}$ | [\%] | 1,12 | 1,31 | 1,69 | -- | -- |
-| afschuifmodulus | $\mathsf{G_{rep}}$ | $\mathsf{[N/mm^2]}$ | $\mathsf{8,1 \cdot 10^4}$ | $\mathsf{8,1 \cdot 10^4}$ | $\mathsf{8,1 \cdot 10^4}$ | $\mathsf{8,1 \cdot 10^4}$ | $\mathsf{8,1 \cdot 10^4}$ |
-| uitzettingscoëfficient | $\mathsf{\alpha}$ | $\mathsf{[K^{-1}]}$ | $\mathsf{12 \cdot 10^{-6}}$ | $\mathsf{12 \cdot 10^{-6}}$ | $\mathsf{12 \cdot 10^{-6}}$ | $\mathsf{12 \cdot 10^{-6}}$ | $\mathsf{12 \cdot 10^{-6}}$ |
-
 
 <div style="max-height: 400px; overflow-y: auto;">
     <table style="width: 100%; border-collapse: collapse;">
@@ -145,26 +135,26 @@ Wordt voornamelijk toegepast bij (onder)grondse constructies en overspanningen, 
             <tr>
                 <th style="width: 200px;">materiaaleigenschap</th>
                 <th> </th>
-                <th colspan="5">staalkwaliteit</th>
+                <th colspan="5" style="text-align: center;">staalkwaliteit</th>
             </tr>
             <tr>
                 <th></th>
-                <th></th>
-                <th>S235</th>
-                <th>S275</th>
-                <th>S355</th>
-                <th>S420*</th>
-                <th>S460*</th>
+                <th style="width: 100px;"></th>
+                <th style="width: 100px;">S235</th>
+                <th style="width: 100px;">S275</th>
+                <th style="width: 100px;">S355</th>
+                <th style="width: 100px;">S420*</th>
+                <th style="width: 100px;">S460*</th>
             </tr>
         </thead>
         <tbody>
-            <tr><td>volumieke massa</td><td>ρ_rep</td><td>7850</td><td>7850</td><td>7850</td><td>7850</td><td>7850</td></tr>
-            <tr><td>elasticiteitsmodulus</td><td>E_rep</td><td>210 &middot 10<sup>3</sup></td><td>210 x 10^3</td><td>210 x 10^3</td><td>210 x 10^3</td><td>210 x 10^3</td></tr>
-            <tr><td>rekenwaarde vloeigrens</td><td>f_y;d</td><td>235</td><td>275</td><td>355</td><td>420</td><td>460</td></tr>
-            <tr><td>rekenwaarde treksterkte</td><td>f_t;d</td><td>360</td><td>430</td><td>510</td><td>--</td><td>--</td></tr>
-            <tr><td>vloeigrens</td><td>ϵ_y;d</td><td>1,12</td><td>1,31</td><td>1,69</td><td>--</td><td>--</td></tr>
-            <tr><td>afschuifmodulus</td><td>G_rep</td><td>8,1 x 10^4</td><td>8,1 x 10^4</td><td>8,1 x 10^4</td><td>8,1 x 10^4</td><td>8,1 x 10^4</td></tr>
-            <tr><td>uitzettingscoëfficient</td><td>α</td><td>12 x 10^-6</td><td>12 x 10^-6</td><td>12 x 10^-6</td><td>12 x 10^-6</td><td>12 x 10^-6</td></tr>
+            <tr><td>volumieke massa</td><td>ρ<sub>rep</sub></td><td>7850</td><td>7850</td><td>7850</td><td>7850</td><td>7850</td></tr>
+            <tr><td>elasticiteitsmodulus</td><td>E<sub>rep</sub></td><td>210 &middot 10<sup>3</sup></td><td>210 &middot 10<sup>3</sup></td><td>210 &middot 10<sup>3</sup></td><td>210 &middot 10<sup>3</sup></td><td>210 &middot 10<sup>3</sup></td></tr>
+            <tr><td>rekenwaarde vloeigrens</td><td>f<sub>y;d</sub></td><td>235</td><td>275</td><td>355</td><td>420</td><td>460</td></tr>
+            <tr><td>rekenwaarde treksterkte</td><td>f<sub>t;d</sub></td><td>360</td><td>430</td><td>510</td><td>--</td><td>--</td></tr>
+            <tr><td>vloeigrens</td><td>ϵ<sub>y;d</sub></td><td>1,12</td><td>1,31</td><td>1,69</td><td>--</td><td>--</td></tr>
+            <tr><td>afschuifmodulus</td><td>G<sub>rep</sub></td><td>8,1 &middot 10<sup>4</sup></td><td>8,1 &middot 10<sup>4</sup></td><td>8,1 &middot 10<sup>4</sup></td><td>8,1 &middot 10<sup>4</sup></td><td>8,1 &middot 10<sup>4</sup></td></tr>
+            <tr><td>uitzettingscoëfficient</td><td>α</td><td>12 &middot 10<sup>-6</sup></td><td>12 &middot 10<sup>-6</sup></td><td>12 &middot 10<sup>-6</sup></td><td>12 &middot 10<sup>-6</sup></td><td>12 &middot 10<sup>-6</sup></td></tr>
         </tbody>
     </table>
 </div>
@@ -190,8 +180,8 @@ In eenvoudige berekeningen en toetsing van de constructie wordt er lineair elast
 
 De staalprofielen app van 'Bouwen met Staal' bevat alle gangbare profielafmetingen met bijbehorende doorsnede grootheden. 
 
-### IPE profiel (IPE 100 - IPE 300)
 
+## IPE sections 
 ```{figure} Images/IPE.png
 ---
 ---
@@ -207,15 +197,15 @@ IPE axo
                 <th>G [kg/m]</th>
                 <th>h [mm]</th>
                 <th>b [mm]</th>
-                <th>t_w [mm]</th>
-                <th>t_f [mm]</th>
-                <th>Aₜₒₜ · 10² [mm²]</th>
-                <th>Iᵧ · 10⁴ [mm⁴]</th>
-                <th>I_z · 10⁴ [mm⁴]</th>
-                <th>Wᵧₑⱼ · 10³ [mm³]</th>
-                <th>W_zₑⱼ · 10³ [mm³]</th>
-                <th>iᵧ [mm]</th>
-                <th>i_z [mm]</th>
+                <th>t<sub>w</sub> [mm]</th>
+                <th>t<sub>f</sub> [mm]</th>
+                <th>A<sub>tot</sub> · 10² [mm²]</th>
+                <th>I<sub>y</sub> · 10⁴ [mm⁴]</th>
+                <th>I<sub>z</sub> · 10⁴ [mm⁴]</th>
+                <th>W<sub>yej</sub> · 10³ [mm³]</th>
+                <th>W<sub>zej</sub> · 10³ [mm³]</th>
+                <th>i<sub>y</sub> [mm]</th>
+                <th>i<sub>z</sub> [mm]</th>
             </tr>
         </thead>
         <tbody>
@@ -1257,13 +1247,13 @@ IPE axo
 </div>
 
 
-### HEA/HEB/HEM profiel (HEA 100 - HEA 340)
-
+## HEA/HEB/HEM sections
 ```{figure} Images/HEA_HEB_HEM.png
 ---
 ---
 HEA/HEB/HEM axo
 ```
+
 
 <div style="max-height: 400px; overflow-y: auto;">
     <table style="width: 100%; border-collapse: collapse;">
@@ -1273,15 +1263,15 @@ HEA/HEB/HEM axo
                 <th>G [kg/m]</th>
                 <th>h [mm]</th>
                 <th>b [mm]</th>
-                <th>t_w [mm]</th>
-                <th>t_f [mm]</th>
-                <th>Aₜₒₜ · 10² [mm²]</th>
-                <th>Iᵧ · 10⁴ [mm⁴]</th>
-                <th>I_z · 10⁴ [mm⁴]</th>
-                <th>Wᵧₑⱼ · 10³ [mm³]</th>
-                <th>W_zₑⱼ · 10³ [mm³]</th>
-                <th>iᵧ [mm]</th>
-                <th>i_z [mm]</th>
+                <th>t<sub>w</sub> [mm]</th>
+                <th>t<sub>f</sub> [mm]</th>
+                <th>A<sub>tot</sub> · 10² [mm²]</th>
+                <th>I<sub>y</sub> · 10⁴ [mm⁴]</th>
+                <th>I<sub>z</sub> · 10⁴ [mm⁴]</th>
+                <th>W<sub>yej</sub> · 10³ [mm³]</th>
+                <th>W<sub>zej</sub> · 10³ [mm³]</th>
+                <th>i<sub>y</sub> [mm]</th>
+                <th>i<sub>z</sub> [mm]</th>
             </tr>
         </thead>
         <tbody>
@@ -2790,7 +2780,7 @@ HEA/HEB/HEM axo
 </div>
 
 
-### CHS-HF: circular hollow section - hot formed (warmgewalste profielen)
+## CHS-HF: circular hollow sections - hot formed (warmgewalds)
 
 ```{figure} Images/CHS.png
 ---
@@ -2798,275 +2788,589 @@ HEA/HEB/HEM axo
 CHS axo
 ```
 
-<div style="max-height: 400px; overflow-y: auto;">
+<div style="max-height: 600px; overflow-y: auto;">
     <table style="width: 100%; border-collapse: collapse;">
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
-                <th style="width: 100px;">Profiel (HE)</th>
+                <th>D [mm]</th>
+                <th>t [mm]</th>
                 <th>G [kg/m]</th>
-                <th>h [mm]</th>
-                <th>b [mm]</th>
-                <th>t_w [mm]</th>
-                <th>t_f [mm]</th>
-                <th>Aₜₒₜ · 10² [mm²]</th>
-                <th>Iᵧ · 10⁴ [mm⁴]</th>
-                <th>I_z · 10⁴ [mm⁴]</th>
-                <th>Wᵧₑⱼ · 10³ [mm³]</th>
-                <th>W_zₑⱼ · 10³ [mm³]</th>
-                <th>iᵧ [mm]</th>
-                <th>i_z [mm]</th>
+                <th>A<sub>tot</sub> · 10² [mm²]</th>
+                <th>I<sub>y</sub> = I<sub>z</sub> · 10⁴ [mm⁴]</th>
+                <th>W<sub>y;el</sub> = W<sub>z;el</sub> · 10³ [mm³]</th>
+                <th>i<sub>y</sub> = i<sub>z</sub> [mm]</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td>HE 26.9</td>
-                <td>1.87</td>
-                <td>3.2</td>
                 <td>26.9</td>
+                <td>3.2</td>
+                <td>1.87</td>
                 <td>2.38</td>
                 <td>1.70</td>
                 <td>1.27</td>
                 <td>8.5</td>
-                <td>8.5</td>
-                <td>1.70</td>
-                <td>1.27</td>
-                <td>8.5</td>
             </tr>
             <tr>
-                <td>HE 42.4</td>
-                <td>3.09</td>
-                <td>3.2</td>
                 <td>42.4</td>
+                <td>3.2</td>
+                <td>3.09</td>
                 <td>3.94</td>
                 <td>7.62</td>
                 <td>3.59</td>
                 <td>13.9</td>
-                <td>13.9</td>
-                <td>7.62</td>
-                <td>3.59</td>
-                <td>13.9</td>
             </tr>
             <tr>
-                <td>HE 48.3</td>
-                <td>3.56</td>
-                <td>3.2</td>
                 <td>48.3</td>
+                <td>3.2</td>
+                <td>3.56</td>
                 <td>4.53</td>
                 <td>11.6</td>
                 <td>4.80</td>
                 <td>16.0</td>
-                <td>16.0</td>
-                <td>11.6</td>
-                <td>4.80</td>
-                <td>16.0</td>
             </tr>
             <tr>
-                <td>HE 60.3</td>
-                <td>4.51</td>
-                <td>3.2</td>
+                <td></td>
+                <td>4.0</td>
+                <td>4.37</td>
+                <td>5.57</td>
+                <td>13.8</td>
+                <td>5.70</td>
+                <td>15.7</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>5.0</td>
+                <td>5.34</td>
+                <td>6.80</td>
+                <td>16.2</td>
+                <td>6.69</td>
+                <td>15.4</td>
+            </tr>
+            <tr>
                 <td>60.3</td>
+                <td>3.2</td>
+                <td>4.51</td>
                 <td>5.74</td>
                 <td>23.5</td>
                 <td>7.78</td>
                 <td>20.2</td>
-                <td>20.2</td>
-                <td>23.5</td>
-                <td>7.78</td>
-                <td>20.2</td>
             </tr>
             <tr>
-                <td>HE 76.1</td>
-                <td>5.24</td>
-                <td>2.9</td>
+                <td></td>
+                <td>5.0</td>
+                <td>6.82</td>
+                <td>8.69</td>
+                <td>33.5</td>
+                <td>11.1</td>
+                <td>19.6</td>
+            </tr>
+            <tr>
                 <td>76.1</td>
+                <td>2.9</td>
+                <td>5.24</td>
                 <td>6.67</td>
                 <td>44.7</td>
                 <td>11.8</td>
                 <td>25.9</td>
-                <td>25.9</td>
-                <td>44.7</td>
-                <td>11.8</td>
-                <td>25.9</td>
             </tr>
             <tr>
-                <td>HE 88.9</td>
-                <td>6.76</td>
+                <td></td>
                 <td>3.2</td>
+                <td>5.75</td>
+                <td>7.33</td>
+                <td>48.8</td>
+                <td>12.8</td>
+                <td>25.8</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>4.0</td>
+                <td>7.11</td>
+                <td>9.06</td>
+                <td>59.1</td>
+                <td>15.5</td>
+                <td>25.5</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>5.0</td>
+                <td>8.77</td>
+                <td>11.2</td>
+                <td>70.9</td>
+                <td>18.6</td>
+                <td>25.2</td>
+            </tr>
+            <tr>
                 <td>88.9</td>
+                <td>3.2</td>
+                <td>6.76</td>
                 <td>8.62</td>
                 <td>79.2</td>
                 <td>17.8</td>
                 <td>30.3</td>
-                <td>30.3</td>
-                <td>79.2</td>
-                <td>17.8</td>
-                <td>30.3</td>
             </tr>
             <tr>
-                <td>HE 114.3</td>
-                <td>8.77</td>
-                <td>3.2</td>
+                <td></td>
+                <td>4.0</td>
+                <td>8.38</td>
+                <td>10.7</td>
+                <td>96.3</td>
+                <td>21.7</td>
+                <td>30.0</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>5.0</td>
+                <td>10.4</td>
+                <td>13.2</td>
+                <td>116</td>
+                <td>26.2</td>
+                <td>29.7</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>6.3</td>
+                <td>12.8</td>
+                <td>16.3</td>
+                <td>140</td>
+                <td>31.5</td>
+                <td>29.3</td>
+            </tr>
+            <tr>
                 <td>114.3</td>
+                <td>3.2</td>
+                <td>8.77</td>
                 <td>11.2</td>
                 <td>172</td>
                 <td>30.2</td>
                 <td>39.3</td>
-                <td>39.3</td>
-                <td>172</td>
-                <td>30.2</td>
-                <td>39.3</td>
             </tr>
             <tr>
-                <td>HE 139.7</td>
-                <td>16.6</td>
+                <td></td>
+                <td>3.6</td>
+                <td>9.83</td>
+                <td>12.5</td>
+                <td>192</td>
+                <td>33.6</td>
+                <td>39.2</td>
+            </tr>
+            <tr>
+                <td></td>
                 <td>5.0</td>
+                <td>13.5</td>
+                <td>17.2</td>
+                <td>257</td>
+                <td>45.0</td>
+                <td>38.7</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>6.3</td>
+                <td>16.8</td>
+                <td>21.4</td>
+                <td>313</td>
+                <td>54.7</td>
+                <td>38.2</td>
+            </tr>
+            <tr>
                 <td>139.7</td>
+                <td>5.0</td>
+                <td>16.6</td>
                 <td>21.2</td>
                 <td>481</td>
                 <td>68.8</td>
                 <td>47.7</td>
-                <td>47.7</td>
-                <td>481</td>
-                <td>68.8</td>
-                <td>47.7</td>
             </tr>
             <tr>
-                <td>HE 168.3</td>
-                <td>20.1</td>
-                <td>5.0</td>
+                <td></td>
+                <td>6.3</td>
+                <td>20.7</td>
+                <td>26.4</td>
+                <td>589</td>
+                <td>84.3</td>
+                <td>47.2</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>8.0</td>
+                <td>26.0</td>
+                <td>33.1</td>
+                <td>720</td>
+                <td>103</td>
+                <td>46.6</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>10.0</td>
+                <td>32.0</td>
+                <td>40.7</td>
+                <td>862</td>
+                <td>123</td>
+                <td>46.0</td>
+            </tr>
+            <tr>
                 <td>168.3</td>
+                <td>5.0</td>
+                <td>20.1</td>
                 <td>25.7</td>
                 <td>856</td>
                 <td>102</td>
                 <td>57.8</td>
-                <td>57.8</td>
-                <td>856</td>
-                <td>102</td>
-                <td>57.8</td>
             </tr>
             <tr>
-                <td>HE 193.7</td>
-                <td>23.3</td>
-                <td>5.0</td>
+                <td></td>
+                <td>6.3</td>
+                <td>25.2</td>
+                <td>32.1</td>
+                <td>1050</td>
+                <td>125</td>
+                <td>57.3</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>8.0</td>
+                <td>31.6</td>
+                <td>40.3</td>
+                <td>1300</td>
+                <td>154</td>
+                <td>56.7</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>10.0</td>
+                <td>39.0</td>
+                <td>49.7</td>
+                <td>1560</td>
+                <td>186</td>
+                <td>56.1</td>
+            </tr>
+            <tr>
                 <td>193.7</td>
+                <td>5.0</td>
+                <td>23.3</td>
                 <td>29.6</td>
                 <td>1320</td>
                 <td>136</td>
                 <td>66.7</td>
-                <td>66.7</td>
-                <td>1320</td>
-                <td>136</td>
-                <td>66.7</td>
             </tr>
             <tr>
-                <td>HE 219.1</td>
-                <td>26.4</td>
-                <td>5.0</td>
+                <td></td>
+                <td>6.3</td>
+                <td>29.1</td>
+                <td>37.1</td>
+                <td>1630</td>
+                <td>168</td>
+                <td>66.3</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>8.0</td>
+                <td>36.6</td>
+                <td>46.7</td>
+                <td>2020</td>
+                <td>208</td>
+                <td>65.7</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>10.0</td>
+                <td>45.3</td>
+                <td>57.7</td>
+                <td>2440</td>
+                <td>252</td>
+                <td>65.0</td>
+            </tr>
+            <tr>
                 <td>219.1</td>
+                <td>5.0</td>
+                <td>26.4</td>
                 <td>33.6</td>
                 <td>1930</td>
                 <td>176</td>
                 <td>75.7</td>
-                <td>75.7</td>
-                <td>1930</td>
-                <td>176</td>
-                <td>75.7</td>
             </tr>
             <tr>
-                <td>HE 244.5</td>
-                <td>68.8</td>
-                <td>12.0</td>
+                <td></td>
+                <td>6.3</td>
+                <td>33.1</td>
+                <td>42.1</td>
+                <td>2390</td>
+                <td>218</td>
+                <td>75.3</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>8.0</td>
+                <td>41.6</td>
+                <td>53.1</td>
+                <td>2960</td>
+                <td>270</td>
+                <td>74.7</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>10.0</td>
+                <td>51.6</td>
+                <td>65.7</td>
+                <td>3600</td>
+                <td>328</td>
+                <td>74.0</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>12.5</td>
+                <td>63.7</td>
+                <td>81.1</td>
+                <td>4350</td>
+                <td>397</td>
+                <td>73.2</td>
+            </tr>
+            <tr>
                 <td>244.5</td>
+                <td>12.0</td>
+                <td>68.8</td>
                 <td>87.7</td>
                 <td>5940</td>
                 <td>486</td>
                 <td>82.3</td>
-                <td>82.3</td>
-                <td>5940</td>
-                <td>486</td>
-                <td>82.3</td>
             </tr>
             <tr>
-                <td>HE 273.0</td>
-                <td>33.0</td>
-                <td>5.0</td>
                 <td>273.0</td>
+                <td>5.0</td>
+                <td>33.0</td>
                 <td>42.1</td>
                 <td>3780</td>
                 <td>277</td>
                 <td>94.8</td>
-                <td>94.8</td>
-                <td>3780</td>
-                <td>277</td>
-                <td>94.8</td>
             </tr>
             <tr>
-                <td>HE 323.9</td>
-                <td>49.3</td>
+                <td></td>
                 <td>6.3</td>
+                <td>41.4</td>
+                <td>52.8</td>
+                <td>4700</td>
+                <td>344</td>
+                <td>94.3</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>8.0</td>
+                <td>52.3</td>
+                <td>66.6</td>
+                <td>5850</td>
+                <td>429</td>
+                <td>93.7</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>10.0</td>
+                <td>64.9</td>
+                <td>82.6</td>
+                <td>7150</td>
+                <td>524</td>
+                <td>93.1</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>12.5</td>
+                <td>80.3</td>
+                <td>102</td>
+                <td>8700</td>
+                <td>637</td>
+                <td>92.2</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>16.0</td>
+                <td>101</td>
+                <td>129</td>
+                <td>10700</td>
+                <td>784</td>
+                <td>91.0</td>
+            </tr>
+            <tr>
                 <td>323.9</td>
+                <td>6.3</td>
+                <td>49.3</td>
                 <td>62.9</td>
                 <td>7930</td>
                 <td>490</td>
                 <td>112.0</td>
-                <td>112.0</td>
-                <td>7930</td>
-                <td>490</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>8.0</td>
+                <td>62.3</td>
+                <td>79.4</td>
+                <td>9910</td>
+                <td>612</td>
                 <td>112.0</td>
             </tr>
             <tr>
-                <td>HE 406.4</td>
-                <td>62.2</td>
-                <td>6.3</td>
+                <td></td>
+                <td>10.0</td>
+                <td>77.4</td>
+                <td>98.6</td>
+                <td>12200</td>
+                <td>751</td>
+                <td>111.0</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>12.5</td>
+                <td>96.0</td>
+                <td>122</td>
+                <td>14800</td>
+                <td>917</td>
+                <td>110.0</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>16.0</td>
+                <td>122</td>
+                <td>155</td>
+                <td>18400</td>
+                <td>1140</td>
+                <td>109.0</td>
+            </tr>
+            <tr>
                 <td>406.4</td>
+                <td>6.3</td>
+                <td>62.2</td>
                 <td>79.2</td>
                 <td>15900</td>
                 <td>780</td>
                 <td>141.0</td>
-                <td>141.0</td>
-                <td>15900</td>
-                <td>780</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>8.0</td>
+                <td>78.6</td>
+                <td>100</td>
+                <td>19900</td>
+                <td>978</td>
                 <td>141.0</td>
             </tr>
             <tr>
-                <td>HE 457.0</td>
-                <td>88.6</td>
-                <td>8.0</td>
+                <td></td>
+                <td>10.0</td>
+                <td>97.8</td>
+                <td>125</td>
+                <td>24500</td>
+                <td>1210</td>
+                <td>140.0</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>12.5</td>
+                <td>121</td>
+                <td>155</td>
+                <td>30000</td>
+                <td>1480</td>
+                <td>139.0</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>16.0</td>
+                <td>154</td>
+                <td>196</td>
+                <td>37500</td>
+                <td>1840</td>
+                <td>138.0</td>
+            </tr>
+            <tr>
                 <td>457.0</td>
+                <td>8.0</td>
+                <td>88.6</td>
                 <td>113</td>
                 <td>28500</td>
                 <td>1250</td>
                 <td>159.0</td>
-                <td>159.0</td>
-                <td>28500</td>
-                <td>1250</td>
-                <td>159.0</td>
             </tr>
             <tr>
-                <td>HE 508.0</td>
-                <td>98.6</td>
-                <td>8.0</td>
+                <td></td>
+                <td>10.0</td>
+                <td>110</td>
+                <td>140</td>
+                <td>35100</td>
+                <td>1540</td>
+                <td>158.0</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>12.5</td>
+                <td>137</td>
+                <td>175</td>
+                <td>43100</td>
+                <td>1890</td>
+                <td>157.0</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>16.0</td>
+                <td>174</td>
+                <td>222</td>
+                <td>54000</td>
+                <td>2360</td>
+                <td>156.0</td>
+            </tr>
+            <tr>
                 <td>508.0</td>
+                <td>8.0</td>
+                <td>98.6</td>
                 <td>126</td>
                 <td>39300</td>
                 <td>1550</td>
                 <td>177.0</td>
-                <td>177.0</td>
-                <td>39300</td>
-                <td>1550</td>
-                <td>177.0</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>10.0</td>
+                <td>123</td>
+                <td>156</td>
+                <td>48500</td>
+                <td>1910</td>
+                <td>176.0</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>12.5</td>
+                <td>153</td>
+                <td>195</td>
+                <td>59800</td>
+                <td>2350</td>
+                <td>175.0</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>16.0</td>
+                <td>194</td>
+                <td>247</td>
+                <td>74900</td>
+                <td>2950</td>
+                <td>174.0</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>20.0</td>
+                <td>241</td>
+                <td>307</td>
+                <td>91400</td>
+                <td>3600</td>
+                <td>173.0</td>
             </tr>
         </tbody>
     </table>
 </div>
 
 
-### SHS-HF: rectangular hollow section - hot formed (warmgewalste profielen)
+## RHS: rectangular hollow sections (square)
 
 ```{figure} Images/RHS.png
 ---
 ---
-RHS axo
+RHS ax0
 ```
 
 
@@ -3077,10 +3381,10 @@ RHS axo
                 <th>b x h <br> [mm x mm]</th>
                 <th>t [mm]</th>
                 <th>G [kg/m]</th>
-                <th>Aₜₒₜ · 10² [mm²]</th>
-                <th>Iᵧ = I_z · 10⁴ [mm⁴]</th>
-                <th>Wᵧₑⱼ = W_zₑⱼ · 10³ [mm³]</th>
-                <th>iᵧ= i_z [mm]</th>
+                <th>A<sub>tot</sub> · 10² [mm²]</th>
+                <th>I<sub>y</sub> = I<sub>z</sub> · 10⁴ [mm⁴]</th>
+                <th>W<sub>yej</sub> = W<sub>zej</sub> · 10³ [mm³]</th>
+                <th>i<sub>y</sub>= i<sub>z</sub> [mm]</th>
             </tr>
         </thead>
         <tbody>
@@ -3624,35 +3928,6 @@ RHS axo
                 <td>500</td>
                 <td>66.4</td>
             </tr>
-        </tbody>
-    </table>
-</div>
-
-
-### RHS-HF: rectangular hollow section - hot formed (warmgewalste profielen)
-
-```{figure} Images/RHS.png
----
----
-RHS axo
-```
-
-
-
-<div style="max-height: 400px; overflow-y: auto;">
-    <table style="width: 100%; border-collapse: collapse;">
-        <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
-            <tr>
-                <th>b x h <br> [mm x mm]</th>
-                <th>t [mm]</th>
-                <th>G [kg/m]</th>
-                <th>Aₜₒₜ · 10² [mm²]</th>
-                <th>Iᵧ = I_z · 10⁴ [mm⁴]</th>
-                <th>Wᵧₑⱼ = W_zₑⱼ · 10³ [mm³]</th>
-                <th>iᵧ= i_z [mm]</th>
-            </tr>
-        </thead>
-        <tbody>
             <tr>
                 <td>200x200</td>
                 <td>5.0</td>
@@ -3875,12 +4150,13 @@ RHS axo
 
 
 
-### RHS-HF: rectangular hollow section - hot formed (warmgewalste profielen)
+## RHS-HF: rectangular hollow section - hot formed (warmgewalsd)
+
 
 ```{figure} Images/RHS.png
 ---
 ---
-RHS axo
+RHS ax0
 ```
 
 
@@ -3891,13 +4167,13 @@ RHS axo
                 <th>b x h <br> [mm x mm]</th>
                 <th>t [mm]</th>
                 <th>G [kg/m]</th>
-                <th>Aₜₒₜ · 10² [mm²]</th>
-                <th>Iᵧ = I_z · 10⁴ [mm⁴]</th>
-                <th>I_z · 10⁴ [mm⁴]</th>
-                <th>Wᵧₑⱼ = W_zₑⱼ · 10³ [mm³]</th>
-                <th>Wᵧₑⱼ = W_zₑⱼ · 10³ [mm³]</th>
-                <th>iᵧ [mm]</th>
-                <th>i_z [mm]</th>
+                <th>A<sub>tot</sub> · 10² [mm²]</th>
+                <th>I<sub>y</sub> = I<sub>z</sub> · 10⁴ [mm⁴]</th>
+                <th>I<sub>z</sub> · 10⁴ [mm⁴]</th>
+                <th>W<sub>yej</sub> = W<sub>zej</sub> · 10³ [mm³]</th>
+                <th>W<sub>yej</sub> = W<sub>zej</sub> · 10³ [mm³]</th>
+                <th>i<sub>y [mm]</sub></th>
+                <th>i<sub>z</sub> [mm]</th>
             </tr>
         </thead>
         <tbody>
@@ -4165,38 +4441,6 @@ RHS axo
                 <td>34.4</td>
                 <td>22.5</td>
             </tr>
-        </tbody>
-    </table>
-</div>
-
-
-
-### RHS-HF: rectangular hollow section - hot formed (warmgewalste profielen)
-
-```{figure} Images/RHS.png
----
----
-RHS axo
-```
-
-
-<div style="max-height: 600px; overflow-y: auto;">
-    <table style="width: 100%; border-collapse: collapse;">
-        <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
-            <tr>
-                <th>b x h <br> [mm x mm]</th>
-                <th>t [mm]</th>
-                <th>G [kg/m]</th>
-                <th>Aₜₒₜ · 10² [mm²]</th>
-                <th>Iᵧ = I_z · 10⁴ [mm⁴]</th>
-                <th>I_z · 10⁴ [mm⁴]</th>
-                <th>Wᵧₑⱼ = W_zₑⱼ · 10³ [mm³]</th>
-                <th>Wᵧₑⱼ = W_zₑⱼ · 10³ [mm³]</th>
-                <th>iᵧ [mm]</th>
-                <th>i_z [mm]</th>
-            </tr>
-        </thead>
-        <tbody>
             <tr>
                 <td>120x60</td>
                 <td>3.6</td>
@@ -4885,7 +5129,8 @@ RHS axo
     </table>
 </div>
 
-### UNP section
+
+## UNP sections
 
 ```{figure} Images/UNP.png
 ---
@@ -4901,11 +5146,11 @@ UNP axo
                 <th>b x h <br> [mm x mm]</th>
                 <th>t [mm]</th>
                 <th>G [kg/m]</th>
-                <th>Aₜₒₜ · 10² [mm²]</th>
-                <th>Iᵧ = I_z · 10⁴ [mm⁴]</th>
-                <th>I_z · 10⁴ [mm⁴]</th>
-                <th>Wᵧₑⱼ = W_zₑⱼ · 10³ [mm³]</th>
-                <th>Wᵧₑⱼ = W_zₑⱼ · 10³ [mm³]</th>
+                <th>A<sub>tot</sub> · 10² [mm²]</th>
+                <th>I<sub>y</sub> = I<sub>z</sub> · 10⁴ [mm⁴]</th>
+                <th>I<sub>z</sub> · 10⁴ [mm⁴]</th>
+                <th>W<sub>yej</sub> = W<sub>zej</sub> · 10³ [mm³]</th>
+                <th>W<sub>yej</sub> = W<sub>zej</sub> · 10³ [mm³]</th>
             </tr>
         </thead>
         <tbody>
