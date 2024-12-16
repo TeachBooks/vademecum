@@ -26,15 +26,50 @@ De ontwerpgrafiek geldt voor:
 ## Houtconstructies met liggers
 
 
-**rechte ligger (eventueel met toog)**
-```{margin} 
-**gezaagde balken** <br> l=2 tot 6m <br> h=l/15 à l/20 <br> <br> **gelamineerd hout** <br> l=6 à 30m <br> h.o.h<5m <br> h=l/17 <br> h.o.h=5-8m <br> h=l/16
-```
-![rechte ligger toog 1](ImagesHout/2.3.1houtconstructies_rechte_ligger_toog_1.png)
+|   | rechte ligger (eventueel met toog) |  |  |
+|---|---|---|---|
+|   | <img src="ImagesHout/2.3.1houtconstructies_rechte_ligger_toog_1.png" alt="rechte ligger" class="bg-primary"> |  | **gezaagde balken** <br> l=2 tot 6m <br> h=l/15 à l/20 <br> <br> **gelamineerd hout** <br> l=6 à 30m <br> h.o.h<5m <br> h=l/17 <br> h.o.h=5-8m <br> h=l/16 |
+| verschijningsvormen | <img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1.png" alt="1" class="bg-primary"> | <img src="ImagesHout/AfbeeldingenHoutOntwerpen-02.png" alt="2" class="bg-primary" width="150px"> | <img src="ImagesHout/AfbeeldingenHoutOntwerpen-03.png" alt="3" class="bg-primary"> |
+| details | <img src="ImagesHout/AfbeeldingenHoutOntwerpen-04.png" alt="4" class="bg-primary"> | <img src="ImagesHout/AfbeeldingenHoutOntwerpen-05.png" alt="5" class="bg-primary"> | <img src="ImagesHout/AfbeeldingenHoutOntwerpen-06.png" alt="6" class="bg-primary"> |
+|  | oplegging op betonnen wand | oplegging op stalen kolom | oplegging van liggers op een dubbelen houten kolom (op een blok) |
 
-![rechte ligger toog 2](ImagesHout/2.3.1houtconstructies_rechte_ligger_toog_2.png)  
+<div style="max-height: 400px; overflow-y: auto;">
+    <table style="width: 100%; border-collapse: collapse;">
+        <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
+            <tr>
+                <th></th>
+                <th colspan="2">Rechte ligger (eventueel met toog)</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td></td>
+                <td colspan="2"><img src="ImagesHout/2.3.1houtconstructies_rechte_ligger_toog_1.png" alt="rechte ligger" class="bg-primary"></td>
+                <td><strong>gezaagde balken</strong><br>l=2 tot 6m<br>h=l/15 à l/20 <br> <strong>gelamineerd hout</strong><br>l=6 à 30m<br>h.o.h<5m<br>h=l/17<br>h.o.h=5-8m<br>h=l/16</td>
+            </tr>
+            <tr>
+                <td>Verschijningsvormen</td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1.png" alt="1" class="bg-primary"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-02.png" alt="2" class="bg-primary" width="150px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-03.png" alt="3" class="bg-primary"></td>
+            </tr>
+            <tr>
+                <td>Details</td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-04.png" alt="4" class="bg-primary"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-05.png" alt="5" class="bg-primary"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-06.png" alt="6" class="bg-primary"></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Oplegging op betonnen wand</td>
+                <td>Oplegging op stalen kolom</td>
+                <td>Oplegging op een dubbelen houten kolom (op een blok)</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
-oplegging op betonnen wand <span style="margin-left: 40px;"></span> oplegging op stalen kolom <span style="margin-left: 40px;"></span> oplegging van liggers op een dubbelen houten kolom (op een blok)
 
 <br>
 
