@@ -46,7 +46,7 @@ De ontwerpgrafiek geldt voor:
         <tbody>
             <tr>
                 <td></td>
-                <td colspan="2"><img src="ImagesHout/2.3.1houtconstructies_rechte_ligger_toog_1.png" alt="rechte ligger" width="100px"></td>
+                <td colspan="2"><img src="ImagesHout/2.3.1houtconstructies_rechte_ligger_toog_1.png" alt="rechte ligger"></td>
                 <td><strong>gezaagde balken</strong><br>l=2 tot 6m<br>h=l/15 à l/20 <br> <strong>gelamineerd hout</strong><br>l=6 à 30m<br>h.o.h<5m<br>h=l/17<br>h.o.h=5-8m<br>h=l/16</td>
             </tr>
             <tr>
