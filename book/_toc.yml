@@ -39,11 +39,10 @@ parts:
       - file: basis_gegevens/materiaaleigenschappen/hout
       - file: basis_gegevens/materiaaleigenschappen/beton
       - file: basis_gegevens/materiaaleigenschappen/betonstaal
-    - file: basis_gegevens/kengetallen_milieubelasting/kerngetallen_milieubelasting_intro
+    - file: basis_gegevens/kengetallen_milieubelasting/kengetallen_milieubelasting_intro.md
       sections:
-      - file: basis_gegevens/kengetallen_milieubelasting/waardes_per_kg
-      - file: basis_gegevens/kengetallen_milieubelasting/waardes_per_oppervlakte
-
+      - file: basis_gegevens/kengetallen_milieubelasting/waardes_per_kg.md
+      - file: basis_gegevens/kengetallen_milieubelasting/waardes_per_oppervlakte.md
 
   - caption: Ontwerp
     numbered: 2
