@@ -7,8 +7,8 @@
 
 | omschrijving | MKI A1 [Euro/kg] |  MKI A2 [Euro/kg] | referentie periode |
 |---|---|---|---|
-| Zwaar constructiestaal (7820 kg/m3, incl. conservering)* | 0,12 | 0,21 | 100 jaar|
+| Zwaar constructiestaal (7820 kg/m3, incl. conservering) | 0,12 | 0,21 | 100 jaar|
 
-*Bron: (Milieudatabase.nl)[https://milieudatabase.nl/nl/viewer]*
+*Bron: Milieudatabase.nl*
 
 

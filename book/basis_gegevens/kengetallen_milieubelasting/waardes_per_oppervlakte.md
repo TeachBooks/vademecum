@@ -6,13 +6,13 @@ O.b.v. dikte 100 mm. Beton: 237 kg/m2; staal: 1,5 kg/m2
 
 | omschrijving | MKI A1 [Euro/m^2] |  MKI A2 [Euro/m^2] | referentie periode |
 |---|---|---|---|
-| 100mm wand* | 4,38 |  | 100 jaar|
-| 150mm wand* | 6,57 |  | 100 jaar|
-| 200mm wand* | 8,96 |  | 100 jaar|
-| 250mm wand* | 10,95 |  | 100 jaar|
-| 300mm wand* | 13,14 |  | 100 jaar|
+| 100mm wand | 4,38 |  | 100 jaar|
+| 150mm wand | 6,57 |  | 100 jaar|
+| 200mm wand | 8,96 |  | 100 jaar|
+| 250mm wand | 10,95 |  | 100 jaar|
+| 300mm wand | 13,14 |  | 100 jaar|
 
-*Bron: (Milieudatabase.nl)[https://milieudatabase.nl/nl/viewer]*
+*Bron: Milieudatabase.nl*
 
 
 ## Kanaalplaat vloer
@@ -21,11 +21,11 @@ Kanaalplaatvloeren zijn vrijdragende systeemvloeren van voorgespannen prefab bet
 
 | omschrijving | MKI A1 [Euro/m^2] |  MKI A2 [Euro/m^2] | referentie periode |
 |---|---|---|---|
-| VBI Kanaalplaatvloer 150 Groen* | 2,65 |  5,17 | 100 jaar|
-| VBI Kanaalplaatvloer 200 Groen* | 2,87 |  5,76 | 100 jaar|
-| VBI Kanaalplaatvloer 260 Groen* | 3,69 |  7,43 | 100 jaar|
-| VBI Kanaalplaatvloer 320 Groen* | 4,73 |  9,67 | 100 jaar|
-| VBI Kanaalplaatvloer 400 Groen* | 5,87 |  12,16 | 100 jaar|
-| VBI Kanaalplaatvloer 500 Groen* | 7,83 |  16,37 | 100 jaar|
+| VBI Kanaalplaatvloer 150 Groen | 2,65 |  5,17 | 100 jaar|
+| VBI Kanaalplaatvloer 200 Groen | 2,87 |  5,76 | 100 jaar|
+| VBI Kanaalplaatvloer 260 Groen | 3,69 |  7,43 | 100 jaar|
+| VBI Kanaalplaatvloer 320 Groen | 4,73 |  9,67 | 100 jaar|
+| VBI Kanaalplaatvloer 400 Groen | 5,87 |  12,16 | 100 jaar|
+| VBI Kanaalplaatvloer 500 Groen | 7,83 |  16,37 | 100 jaar|
 
-*Bron: (Milieudatabase.nl)[https://milieudatabase.nl/nl/viewer]*
+*Bron: Milieudatabase.nl*
