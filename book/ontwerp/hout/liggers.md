@@ -42,15 +42,15 @@ De ontwerpgrafiek geldt voor:
             </tr>
             <tr>
                 <td>Verschijningsvormen</td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1.png" alt="1" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-02.png" alt="2" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-03.png" alt="3" class="bg-primary" width="100px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1.png" alt="1" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-02.png" alt="2" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-03.png" alt="3" class="bg-primary" width="200px"></td>
             </tr>
             <tr>
                 <td>Details</td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-04.png" alt="4" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-05.png" alt="5" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-06.png" alt="6" class="bg-primary" width="100px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-04.png" alt="4" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-05.png" alt="5" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-06.png" alt="6" class="bg-primary" width="200px"></td>
             </tr>
             <tr>
                 <td></td>
@@ -83,15 +83,15 @@ De ontwerpgrafiek geldt voor:
             </tr>
             <tr>
                 <td>Verschijningsvormen</td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1kopie.png" alt="1" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-08.png" alt="2" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-09.png" alt="3" class="bg-primary" width="100px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1kopie.png" alt="1" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-08.png" alt="2" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-09.png" alt="3" class="bg-primary" width="200px"></td>
             </tr>
             <tr>
                 <td>Details</td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-10.png" alt="4" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-11.png" alt="5" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-12.png" alt="6" class="bg-primary" width="100px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-10.png" alt="4" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-11.png" alt="5" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-12.png" alt="6" class="bg-primary" width="200px"></td>
             </tr>
             <tr>
                 <td></td>
@@ -124,15 +124,15 @@ De ontwerpgrafiek geldt voor:
             </tr>
             <tr>
                 <td>Verschijningsvormen</td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1kopie2.png" alt="1" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-14.png" alt="2" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-15.png" alt="3" class="bg-primary" width="100px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1kopie2.png" alt="1" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-14.png" alt="2" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-15.png" alt="3" class="bg-primary" width="200px"></td>
             </tr>
             <tr>
                 <td>Details</td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-16.png" alt="4" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-17.png" alt="5" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-18.png" alt="6" class="bg-primary" width="100px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-16.png" alt="4" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-17.png" alt="5" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-18.png" alt="6" class="bg-primary" width="200px"></td>
             </tr>
             <tr>
                 <td></td>
@@ -171,15 +171,15 @@ De ontwerpgrafiek geldt voor:
             </tr>
             <tr>
                 <td>Verschijningsvormen</td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1kopie3.png" alt="1" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-20.png" alt="2" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-21.png" alt="3" class="bg-primary" width="100px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1kopie3.png" alt="1" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-20.png" alt="2" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-21.png" alt="3" class="bg-primary" width="200px"></td>
             </tr>
             <tr>
                 <td>Details</td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-22.png" alt="4" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-23.png" alt="5" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-24.png" alt="6" class="bg-primary" width="100px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-22.png" alt="4" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-23.png" alt="5" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-24.png" alt="6" class="bg-primary" width="200px"></td>
             </tr>
             <tr>
                 <td></td>
@@ -218,15 +218,15 @@ De ontwerpgrafiek geldt voor:
             </tr>
             <tr>
                 <td>Verschijningsvormen</td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1kopie4.png" alt="1" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-26.png" alt="2" class="bg-primary" width="100px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1kopie4.png" alt="1" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-26.png" alt="2" class="bg-primary" width="200px"></td>
                 <td><strong>vakwerkliggers gelamineerd hout</strong><br> l=10 tot 80m <br> h.o.h.=2 à 5m <br> h=l/16 à l/18</strong></td>
             </tr>
             <tr>
                 <td>Details</td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-27.png" alt="4" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-28.png" alt="5" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-29.png" alt="6" class="bg-primary" width="100px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-27.png" alt="4" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-28.png" alt="5" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-29.png" alt="6" class="bg-primary" width="200px"></td>
             </tr>
             <tr>
                 <td></td>
@@ -265,15 +265,15 @@ De ontwerpgrafiek geldt voor:
             </tr>
             <tr>
                 <td>Verschijningsvormen</td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1kopie5.png" alt="1" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-31.png" alt="2" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-32.png" alt="4" class="bg-primary" width="100px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1kopie5.png" alt="1" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-31.png" alt="2" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-32.png" alt="4" class="bg-primary" width="200px"></td>
             </tr>
             <tr>
                 <td>Details</td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-33.png" alt="4" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-34.png" alt="5" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-35.png" alt="6" class="bg-primary" width="100px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-33.png" alt="4" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-34.png" alt="5" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-35.png" alt="6" class="bg-primary" width="200px"></td>
             </tr>
             <tr>
                 <td></td>
@@ -312,15 +312,15 @@ De ontwerpgrafiek geldt voor:
             </tr>
             <tr>
                 <td>Verschijningsvormen</td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1kopie6.png" alt="1" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-37.png" alt="2" class="bg-primary" width="100px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1kopie6.png" alt="1" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-37.png" alt="2" class="bg-primary" width="200px"></td>
                 <td><strong>zadeldak gelamineerd hout</strong><br> l=7,5 tot 35m <br> h.o.h.=4 tot 10m <br> h=l/12</td>
             </tr>
             <tr>
                 <td>Details</td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-38.png" alt="4" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-39.png" alt="5" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-40.png" alt="6" class="bg-primary" width="100px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-38.png" alt="4" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-39.png" alt="5" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-40.png" alt="6" class="bg-primary" width="200px"></td>
             </tr>
             <tr>
                 <td>Toelichting</td>
@@ -353,15 +353,15 @@ De ontwerpgrafiek geldt voor:
             </tr>
             <tr>
                 <td>Verschijningsvormen</td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1kopie7.png" alt="1" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-42.png" alt="2" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-43.png" alt="4" class="bg-primary" width="100px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1kopie7.png" alt="1" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-42.png" alt="2" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-43.png" alt="4" class="bg-primary" width="200px"></td>
             </tr>
             <tr>
                 <td>Details</td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-44.png" alt="4" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-45.png" alt="5" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-46.png" alt="6" class="bg-primary" width="100px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-44.png" alt="4" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-45.png" alt="5" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-46.png" alt="6" class="bg-primary" width="200px"></td>
             </tr>
             <tr>
                 <td></td>
@@ -400,14 +400,14 @@ De ontwerpgrafiek geldt voor:
             </tr>
             <tr>
                 <td>Verschijningsvormen</td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1kopie8.png" alt="1" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-48.png" alt="2" class="bg-primary" width="100px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1kopie8.png" alt="1" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-48.png" alt="2" class="bg-primary" width="200px"></td>
             </tr>
             <tr>
                 <td>Details</td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-49.png" alt="4" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-50.png" alt="5" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-51.png" alt="6" class="bg-primary" width="100px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-49.png" alt="4" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-50.png" alt="5" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-51.png" alt="6" class="bg-primary" width="200px"></td>
             </tr>
             <tr>
                 <td></td>
@@ -446,14 +446,14 @@ De ontwerpgrafiek geldt voor:
             </tr>
             <tr>
                 <td>Verschijningsvormen</td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1kopie9.png" alt="1" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-53.png" alt="2" class="bg-primary" width="100px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1kopie9.png" alt="1" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-53.png" alt="2" class="bg-primary" width="200px"></td>
             </tr>
             <tr>
                 <td>Details</td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-54.png" alt="4" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-55.png" alt="5" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-56.png" alt="6" class="bg-primary" width="100px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-54.png" alt="4" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-55.png" alt="5" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-56.png" alt="6" class="bg-primary" width="200px"></td>
             </tr>
             <tr>
                 <td></td>
@@ -492,15 +492,15 @@ De ontwerpgrafiek geldt voor:
             </tr>
             <tr>
                 <td>Verschijningsvormen</td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1kopie10.png" alt="1" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-58.png" alt="2" class="bg-primary" width="100px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1kopie10.png" alt="1" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-58.png" alt="2" class="bg-primary" width="200px"></td>
                 <td><strong>spant met gebogen hoeken</strong> <br> l=15 tot 50m <br> <alpha> <approx> 20<sup><circ></sup> <br> h.o.h.=4 à 5m <br> h<sub>knik</sub> = (l+g)/28 <br> h<sub>voet</sub> = 0,4 <cdot> h<sub>knik</sub></td>
             </tr>
             <tr>
                 <td>Details</td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-59.png" alt="4" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-60.png" alt="5" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-61.png" alt="6" class="bg-primary" width="100px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-59.png" alt="4" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-60.png" alt="5" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-61.png" alt="6" class="bg-primary" width="200px"></td>
             </tr>
             <tr>
                 <td></td>
@@ -539,15 +539,15 @@ De ontwerpgrafiek geldt voor:
             </tr>
             <tr>
                 <td>Verschijningsvormen</td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1kopie10.png" alt="1" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-58.png" alt="2" class="bg-primary" width="100px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1kopie10.png" alt="1" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-58.png" alt="2" class="bg-primary" width="200px"></td>
                 <td><strong>vakwerk gelamineerd hout</strong> <br> l=50 tot 120m <br> f=l/5 à l/8 <br> h.o.h.=5 tot 10m <br> h=l/20 à h=l/40</td>
             </tr>
             <tr>
                 <td>Details</td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-59.png" alt="4" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-60.png" alt="5" class="bg-primary" width="100px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-61.png" alt="6" class="bg-primary" width="100px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-59.png" alt="4" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-60.png" alt="5" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-61.png" alt="6" class="bg-primary" width="200px"></td>
             </tr>
             <tr>
                 <td></td>
