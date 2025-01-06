@@ -11,4 +11,24 @@
 
 *Bron: Milieudatabase.nl*
 
+## Gezaagd hout
 
+Sterkteklassen C16, C18, C24 (NEN-EN 1912) naaldhout, 469 kg/m3 vochtgehalte 15%, milieuprofiel per m1 voor balken van 100 x 100 mm
+
+| omschrijving | MKI A1 [Euro/kg] |  MKI A2 [Euro/kg] | referentie periode |
+|---|---|---|---|
+| Europees Naaldhout, liggers en balken, gedroogd, gezaagd, duurzaam bosbeheer | 0,07 | 0,12 | 100 jaar|
+
+*Bron: Milieudatabase.nl*
+
+
+
+## Gelamineerd hout
+
+Naaldhout, sterkteklassen volgens EN 14080 Volumieke massa van 507 kg/m3
+
+| omschrijving | MKI A1 [Euro/kg] |  MKI A2 [Euro/kg] | referentie periode |
+|---|---|---|---|
+| Gelamineerd en/of gevingelast hout, kolommen en stijlen, gedroogd, duurzaam bosbeheer | 0,48 | 0,95 | 100 jaar|
+
+*Bron: Milieudatabase.nl*
