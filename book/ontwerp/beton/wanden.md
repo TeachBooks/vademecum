@@ -8,7 +8,7 @@ Voor dragende betonwanden geldt hetzelfde als voor betonkolommen, behalve dat ze
 > | Specificatie                | Wanddikte [mm]    |
 > |-----------------------------|--------------------|
 > |                             |                    |
-> | verdiepingshoogte < 4 m     | H / 17,5           |
+> | verdiepingshoogte < 4 m     | H / 175           |
 > | gebouwhoogte > 60 m         | H / 100            |
 > 
 > * H = Hoogte van het gehele gebouw

@@ -181,7 +181,7 @@ In eenvoudige berekeningen en toetsing van de constructie wordt er lineair elast
 De staalprofielen app van 'Bouwen met Staal' bevat alle gangbare profielafmetingen met bijbehorende doorsnede grootheden. 
 
 
-## IPE sections 
+### IPE sections 
 ```{figure} Images/IPE.png
 ---
 ---
@@ -1247,7 +1247,7 @@ IPE axo
 </div>
 
 
-## HEA/HEB/HEM sections
+### HEA/HEB/HEM sections
 ```{figure} Images/HEA_HEB_HEM.png
 ---
 ---
@@ -2780,7 +2780,7 @@ HEA/HEB/HEM axo
 </div>
 
 
-## CHS-HF: circular hollow sections - hot formed (warmgewalds)
+### CHS-HF: circular hollow sections - hot formed (warmgewalds)
 
 ```{figure} Images/CHS.png
 ---
@@ -3365,7 +3365,7 @@ CHS axo
 </div>
 
 
-## RHS: rectangular hollow sections (square)
+### SHS: square hollow sections 
 
 ```{figure} Images/RHS.png
 ---
@@ -4150,7 +4150,7 @@ RHS ax0
 
 
 
-## RHS-HF: rectangular hollow section - hot formed (warmgewalsd)
+### RHS-HF: rectangular hollow section - hot formed (warmgewalsd)
 
 
 ```{figure} Images/RHS.png
@@ -5130,7 +5130,7 @@ RHS ax0
 </div>
 
 
-## UNP sections
+### UNP sections
 
 ```{figure} Images/UNP.png
 ---
