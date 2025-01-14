@@ -60,6 +60,21 @@ Staalplaatbetonvloer bestaande uit: Verzinkt stalen geprofileerde plaat met dikt
 *Bron: Milieudatabase.nl*
 
 
+## Staalplaat dak
+
+Gecoate stalen dakplaat of liner tray die het structurele component vormt van een composietdaksysteem.
+
+| omschrijving | MKI A1 [€/m$^2$] |  MKI A2 [€/m$^2$] | referentie periode |
+|---|---|---|---|
+| 70R dakplaat  | 0,72  | 1,25 | 100 jaar|
+| 110R dakplaat | 1,13  | 1,97 | 100 jaar|
+| 135R dakplaat | 1,39  | 2,42 | 100 jaar| <<>>
+| 158R dakplaat | 1,63  | 2,83 | 100 jaar|
+| 200R dakplaat | 2,06  | 3,59 | 100 jaar|
+
+*Bron: Milieudatabase.nl*
+
+
 ## CLT vloer/wand
 
 Massieve houten plaatelementen voor gebruik als dragende of niet-dragende structurele elementen in gebouwen. Kruisgelamineerd hout, naaldhout (Europees vuren of gelijkwaardig naaldhout) uit duurzaam beheerde bossen, 10 cm dik (verkrijgbaar van 60 tot 360 mm dikte)
