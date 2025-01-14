@@ -25,6 +25,70 @@ De ontwerpgrafiek geldt voor:
 
 ## Houtconstructies met liggers
 
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        /* Verwijder focusoutline van afbeeldingen */
+        img:focus {
+            outline: none;
+        }
+        
+        /* Verwijder borders van de tabel en afbeeldingen */
+        table, th, td {
+            border: none;
+        }
+        
+        table td img {
+            border: none;
+        }
+    </style>
+</head>
+<body>
+
+<div style="overflow-y: auto;">
+    <table style="width: 100%; border-collapse: collapse;">
+        <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
+            <tr>
+                <th></th>
+                <th colspan="2">Rechte ligger (eventueel met toog)</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td></td>
+                <td colspan="2"><img src="ImagesHout/2.3.1houtconstructies_rechte_ligger_toog_1.png" alt="rechte ligger"></td>
+                <td><strong>gezaagde balken</strong><br>l=2 tot 6m<br>h=l/15 à l/20 <br> <strong>gelamineerd hout</strong><br>l=6 à 30m<br>h.o.h<5m<br>h=l/17<br>h.o.h=5-8m<br>h=l/16</td>
+            </tr>
+            <tr>
+                <td>Verschijningsvormen</td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1.png" alt="1" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-02.png" alt="2" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-03.png" alt="3" class="bg-primary" width="200px"></td>
+            </tr>
+            <tr>
+                <td>Details</td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-04.png" alt="4" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-05.png" alt="5" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-06.png" alt="6" class="bg-primary" width="200px"></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>oplegging op betonnen wand</td>
+                <td>oplegging op stalen kolom</td>
+                <td>oplegging op een dubbelen houten kolom (op een blok)</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+</body>
+</html>
+
+
 <div style="overflow-y: auto;">
     <table style="width: 100%; border-collapse: collapse;">
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
