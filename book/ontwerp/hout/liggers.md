@@ -25,28 +25,6 @@ De ontwerpgrafiek geldt voor:
 
 ## Houtconstructies met liggers
 
-<!DOCTYPE html>
-<html lang="nl">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        /* Verwijder focusoutline van afbeeldingen */
-        img:focus {
-            outline: none;
-        }
-        
-        /* Verwijder borders van de tabel en afbeeldingen */
-        table, th, td {
-            border: none;
-        }
-        
-        table td img {
-            border: none;
-        }
-    </style>
-</head>
-<body>
 
 <div style="overflow-y: auto;">
     <table style="width: 100%; border-collapse: collapse;">
@@ -506,7 +484,7 @@ De ontwerpgrafiek geldt voor:
             <tr>
                 <td></td>
                 <td colspan="2"><img src="ImagesHout/2.3.1houtconstructies_drie_scharnieren_1.png" alt="rechte ligger"></td>
-                <td><strong>gelamineerd hout, zonder trekband</strong> <br> l=15 tot 50m <br> f=l/3 <br> h.o.h.=5 à 8m <br> h=l/30 à l/50 <br> <br> <strong>gelamineerd hout, met trekband</strong> <br> l=15 à 50m <br> f=l/6 <br> h.o.h.=5 à 8m <br> h=l/30 à l/50</td>
+                <td><strong>gelamineerd hout, zonder trekband</strong> <br> l=15 tot 50m <br> f=l/3 <br> h.o.h.=5 à 8m <br> h=l/30 à l/50 <br> <strong>gelamineerd hout, met trekband</strong> <br> l=15 à 50m <br> f=l/6 <br> h.o.h.=5 à 8m <br> h=l/30 à l/50</td>
             </tr>
             <tr>
                 <td>Verschijningsvormen</td>
@@ -552,13 +530,13 @@ De ontwerpgrafiek geldt voor:
             <tr>
                 <td></td>
                 <td colspan="2"><img src="ImagesHout/2.3.1houtconstructies_drie_scharnieren_gebogen_1.png" alt="rechte ligger"></td>
-                <td><strong>spant met geknikte hoeken</strong> <br> l=15 tot 50m <br> <alpha> <approx> 20<sup><circ></sup> <br> h.o.h.=4 à 5m <br> h<sub>knik</sub> = (l+g)/28 <br> h<sub>voet</sub> = 0,4 <cdot> h<sub>knik</sub></td>
+                <td><strong>spant met geknikte hoeken</strong> <br> l=15 tot 50m <br> α ≈ 20° <br> h.o.h.=4 à 5m <br> h<sub>knik</sub> = (l+g)/28 <br> h<sub>voet</sub> = 0,4 <cdot> h<sub>knik</sub></td>
             </tr>
             <tr>
                 <td>Verschijningsvormen</td>
                 <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1kopie10.png" alt="1" class="bg-primary" width="200px"></td>
                 <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-58.png" alt="2" class="bg-primary" width="200px"></td>
-                <td><strong>spant met gebogen hoeken</strong> <br> l=15 tot 50m <br> <alpha> <approx> 20<sup><circ></sup> <br> h.o.h.=4 à 5m <br> h<sub>knik</sub> = (l+g)/28 <br> h<sub>voet</sub> = 0,4 <cdot> h<sub>knik</sub></td>
+                <td><strong>spant met gebogen hoeken</strong> <br> l=15 tot 50m <br> α ≈ 20° <br> h.o.h.=4 à 5m <br> h<sub>knik</sub> = (l+g)/28 <br> h<sub>voet</sub> = 0,4 <cdot> h<sub>knik</sub></td>
             </tr>
             <tr>
                 <td>Details</td>
