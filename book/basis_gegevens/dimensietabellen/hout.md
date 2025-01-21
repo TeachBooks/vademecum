@@ -1,4 +1,4 @@
-# Dimensietabellen hout
+# Hout
 
 **Gezaagd (geschaafd) hout**
 

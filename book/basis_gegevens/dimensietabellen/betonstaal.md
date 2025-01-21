@@ -1,4 +1,4 @@
-# Dimensietabellen betonstaal (Wapening)
+# Betonstaal (Wapening)
 
 **Betonstaal doorsneden voor balken en kolommen**
 
