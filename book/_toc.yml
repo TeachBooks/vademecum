@@ -4,7 +4,7 @@ options:
   numbered: 2
 
 parts:
-  - caption: Instructie
+  - caption: Instructies
     numbered: 2
     chapters:
     - file: instructie/sterkte_stijfheid_stabiliteit
@@ -15,36 +15,8 @@ parts:
       - file: instructie/teken_instructies/lijnsoorten_arcering
       - file: instructie/teken_instructies/constructie_tekeningen
 
-  - caption: Basis gegevens
-    numbered: 2
-    chapters:
-    - file: basis_gegevens/mechanica/mechanica_intro
-      sections:
-      - file: basis_gegevens/mechanica/symbolen
-      - file: basis_gegevens/mechanica/doorsnedegrootheden
-      - file: basis_gegevens/mechanica/vergeet_me_nietjes
-      - file: basis_gegevens/mechanica/basisknikgevallen
-    - file: basis_gegevens/belastingen/belastingen_intro
-      sections:
-      - file: basis_gegevens/belastingen/belastingcombinaties_grenstoestanden
-      - file: basis_gegevens/belastingen/permanente_belastingen
-      - file: basis_gegevens/belastingen/veranderlijke_belastingen_1
-      - file: basis_gegevens/belastingen/veranderlijke_belastingen_2
-      - file: basis_gegevens/belastingen/veranderlijke_belastingen_3
-      - file: basis_gegevens/belastingen/veranderlijke_belastingen_4
-      - file: basis_gegevens/belastingen/bruikbaarheidscriteria
-    - file: basis_gegevens/materiaaleigenschappen/materiaaleigenschappen_intro
-      sections:
-      - file: basis_gegevens/materiaaleigenschappen/staal
-      - file: basis_gegevens/materiaaleigenschappen/hout
-      - file: basis_gegevens/materiaaleigenschappen/beton
-      - file: basis_gegevens/materiaaleigenschappen/betonstaal
-    - file: basis_gegevens/kengetallen_milieubelasting/kengetallen_milieubelasting_intro.md
-      sections:
-      - file: basis_gegevens/kengetallen_milieubelasting/waardes_per_kg.md
-      - file: basis_gegevens/kengetallen_milieubelasting/waardes_per_oppervlakte.md
 
-  - caption: Ontwerp
+  - caption: Vuistregels
     numbered: 2
     chapters:
     - file: ontwerp/staal/staal_intro
@@ -71,6 +43,43 @@ parts:
       - file: ontwerp/beton/wanden
       - file: ontwerp/beton/kolommen
       - file: ontwerp/beton/verbindingen
+
+
+  - caption: Basis gegevens
+    numbered: 2
+    chapters:
+    - file: basis_gegevens/mechanica/mechanica_intro
+      sections:
+      - file: basis_gegevens/mechanica/symbolen
+      - file: basis_gegevens/mechanica/doorsnedegrootheden
+      - file: basis_gegevens/mechanica/vergeet_me_nietjes
+      - file: basis_gegevens/mechanica/basisknikgevallen
+    - file: basis_gegevens/belastingen/belastingen_intro
+      sections:
+      - file: basis_gegevens/belastingen/belastingcombinaties_grenstoestanden
+      - file: basis_gegevens/belastingen/permanente_belastingen
+      - file: basis_gegevens/belastingen/veranderlijke_belastingen_1
+      - file: basis_gegevens/belastingen/veranderlijke_belastingen_2
+      - file: basis_gegevens/belastingen/veranderlijke_belastingen_3
+      - file: basis_gegevens/belastingen/veranderlijke_belastingen_4
+      - file: basis_gegevens/belastingen/bruikbaarheidscriteria
+    - file: basis_gegevens/materiaaleigenschappen/materiaaleigenschappen_intro.md
+      sections:
+      - file: basis_gegevens/materiaaleigenschappen/staal.md
+      - file: basis_gegevens/materiaaleigenschappen/hout.md
+      - file: basis_gegevens/materiaaleigenschappen/beton.md
+      - file: basis_gegevens/materiaaleigenschappen/betonstaal.md
+    - file: basis_gegevens/dimensietabellen/dimensietabellen_intro.md
+      sections:
+      - file: basis_gegevens/dimensietabellen/staal
+      - file: basis_gegevens/dimensietabellen/hout
+      - file: basis_gegevens/dimensietabellen/beton
+      - file: basis_gegevens/dimensietabellen/betonstaal
+    - file: basis_gegevens/kengetallen_milieubelasting/kengetallen_milieubelasting_intro.md
+      sections:
+      - file: basis_gegevens/kengetallen_milieubelasting/waardes_per_kg.md
+      - file: basis_gegevens/kengetallen_milieubelasting/waardes_per_oppervlakte.md
+
 
   - caption: Voorbeelden
     numbered: 2
