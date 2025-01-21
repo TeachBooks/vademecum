@@ -71,10 +71,10 @@ parts:
       - file: basis_gegevens/materiaaleigenschappen/betonstaal.md
     - file: basis_gegevens/dimensietabellen/dimensietabellen_intro.md
       sections:
-      - file: basis_gegevens/dimensietabellen/staal
-      - file: basis_gegevens/dimensietabellen/hout
-      - file: basis_gegevens/dimensietabellen/beton
-      - file: basis_gegevens/dimensietabellen/betonstaal
+      - file: basis_gegevens/dimensietabellen/staal.md
+      - file: basis_gegevens/dimensietabellen/hout.md
+      - file: basis_gegevens/dimensietabellen/beton.md
+      - file: basis_gegevens/dimensietabellen/betonstaal.md
     - file: basis_gegevens/kengetallen_milieubelasting/kengetallen_milieubelasting_intro.md
       sections:
       - file: basis_gegevens/kengetallen_milieubelasting/waardes_per_kg.md
