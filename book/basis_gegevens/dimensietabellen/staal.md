@@ -1,4 +1,4 @@
-# Dimensietabellen staal
+# Staal
 
 De staalprofielen app van 'Bouwen met Staal' bevat alle gangbare profielafmetingen met bijbehorende doorsnede grootheden. 
 
