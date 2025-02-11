@@ -79,6 +79,7 @@
     </table>
 </div>
 
+<br>
 
 **Gelijmd gelamineerd hout**
 
