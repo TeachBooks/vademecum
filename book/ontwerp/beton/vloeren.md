@@ -68,22 +68,6 @@ Veelgebruikt vloersysteem bij (hoogbouw) staalconstructies. Al dan niet onderste
 - [www.hody.nl](http://www.hody.nl)
 
 
-## Bekistingsplaatvloer (breedplaatvloer)
-
-```{figure} ImagesBeton/8.gegevens_beton_bekistingsplaatvloer.png
----
-scale: 50%
----
-Een dunne prefab betonnen schil met wapening wordt in het werk met een constructieve druklaag afgewerkt.
-```
-
-**Toepassingen:**  
-Vloeren van betonnen constructies in de woning en utiliteitsbouw.
-
-- [www.dycore.nl](http://www.dycore.nl)  
-- [www.belton.nl/_betonboek/deel5-3-4.pdf](http://www.belton.nl/_betonboek/deel5-3-4.pdf)
-
-
 ## Dubbel T platen (TT-platen)
 
 ```{figure} ImagesBeton/8.gegevens_beton_TT_platen.png
@@ -93,11 +77,68 @@ scale: 50%
 Prefab voorgespannen TT-balk
 ```
 
+
 **Toepassingen:**  
 Voorgespannen, prefab vloerbalksysteem voor grote overspanningen en grote vloerlasten, gebruikt in utiliteitsbouw zoals parkeergarages en kantoren.
 
 - [www.spanbeton.nl (parkeergarages)](http://www.spanbeton.nl)  
 - [www.haitsma.nl (parkeergarages)](http://www.haitsma.nl)
+
+
+## Bekistingsplaatvloer (breedplaatvloer)
+
+
+```{figure} ImagesBeton/2.4.1_betonconstructies_bekistingsplaatvloer_1.png
+---
+scale: 50%
+---
+Een dunne prefab betonnen schil met wapening wordt in het werk met een constructieve druklaag afgewerkt.
+```
+
+De bekistingplaatvloer is een systeemvloer van geprefabriceerde betonnen bekistingelementen waarop een constructief meewerkende betonlaag wordt gestort. Hij is geschikt als een vrijdragende vloer in de woning- en utiliteitsbouw. De bekistingplaten hebben gebruikelijk een dikte van 50 tot 90 mm, een maximale plaatlengte van 8500 mm en een onderwapening aangevuld met tralieliggers. De dimensionering van de tralieliggers wordt door de vloerbelasting bepaald en per project berekend. De hoofdwapening en de tralieliggers liggen evenwijdig aan de overspanningrichting van de vloer. 
+
+Leidingen kunnen worden ingestort en de constructieve druklaag kan van zowel een boven- als onderwapening worden voorzien. De constructieve druklaag is minimaal van een betonsoort B25. Sparingen kunnen fabrieksmatig worden aangebracht en begane grondvloeren kunnen aan de onderzijde worden voorzien van isolatiemateriaal. De onderstempeling dient overeen te komen met een vooraf door de producent goedgekeurd legplan. Het geheel is een samenwerkende betonvloer, die een redelijke mate van ontwerpvrijheid heeft.
+
+- [www.dycore.nl](http://www.dycore.nl)
+- [www.heembetonvloersystemen.nl](http://www.heembetonvloersystemen.nl)
+
+
+### Product Specificaties Dycore Bekistingsplaatvloer
+
+| Kenmerk | Specificatie |
+| --- | --- |
+| Elementlengte tot ca. | 0,25 - 10 m |
+| Standaardbreedte | 2697 / 2997 mm (effectieve breedte 2700 / 3000 mm) |
+| Breedte pas-elementen | 250 - 2920 mm |
+| Voorspanstaal | FeP 1860 conform NEN 3868 |
+| Dikte / massa | 50 mm / 1,2 kN/m² |
+|  | 60 mm / 1,44 kN/m² |
+|  | 70 mm / 1,68 kN/m² |
+|  | 80 mm / 1,92 kN/m² |
+
+```{figure} ImagesBeton/2.4.1betonconstructies_dycorebekisting1.png
+---
+scale: 50%
+---
+Bekistingsplaatvloer Details
+```
+
+### Aansluitdetails
+
+```{figure} ImagesBeton/2.4.1betonconstructies_dycorebekisting2.png
+---
+scale: 50%
+---
+Aansluitdetails Bekistingsplaatvloer
+```
+
+
+**Toepassingen:**  
+Vloeren van betonnen constructies in de woning en utiliteitsbouw.
+
+- [www.dycore.nl](http://www.dycore.nl)  
+- [www.belton.nl/_betonboek/deel5-3-4.pdf](http://www.belton.nl/_betonboek/deel5-3-4.pdf)
+
 
 ## Kanaalplaatvloer
 
@@ -172,7 +213,6 @@ Schijfwerking in kanaalplaatvloer.
 ```
 
 
-
 ### Product Specificaties VBI Isolatieplaatvloer A200
 
 | Kenmerk | Specificatie |
@@ -203,7 +243,6 @@ scale: 25%
 Overspanningen A200
 ```
 
-
 ### Aansluitdetails (alle typen kanaalplaten)
 
 De opleglengte a moet, indien er vanuit wordt gegaan dat in vloerbelastingsklasse II altijd een SBR centreerstrip (o.g.) wordt toegepast, voldoen aan de voorwaarde:
@@ -231,34 +270,6 @@ Centreerstrips worden toegepast in de volgende situaties:
 - Bij opleggingen op staalconstructies waar de belasting gecentreerd dient te worden.
 
 
-#### Product Specificaties VBI Isolatieplaatvloer A320
-
-| Kenmerk | Specificatie |
-| --- | --- |
-| Gewicht inclusief voegvulling | 443 kg/m² |
-| Brandwerendheid | 90-120 minuten |
-| Maximum plaatlengte | 14,70 m |
-| Pasplaatbreedte | 300 + n x 150 mm |
-| Voegvulling | 11,9 l/m |
-| Sterkteklasse | C45/55 |
-| Betondoorsnede | 209918 mm² |
-| Zwaartepunt betondoorsnede | 153,8 mm |
-| Traagheidsmoment | 2568,1 E+06 mm⁴ |
-| Oppervlakte bovenzijde | Normaal of ruw |
-| Betonpuingranulaat | 20% op aanvraag |
-
-
-#### Overspanningen
-
-```{figure} ImagesBeton/2.4.1_betonconstructies_VBI_A320_2.png
----
-scale: 25%
----
-Overspanningen A320
-```
-
-### Aansluitdetails (alle typen kanaalplaten)
-
 ![Aansluitdetails A320](ImagesBeton/2.4.1_betonconstructies_VBI_A320_3.png)
 
 Oplegging op spouwmuur: bij woningscheidende wanden de kanalen ter plaatse van alle vloeropeningen zoals leidingdoorvoeren, trapgaten, etc., afdichten met mortel, minerale wol of kunststofschuim.  
@@ -273,16 +284,14 @@ Oplegging op console.
 | Volumieke massa | 2400 kg/m³ |
 | Voorspanstaal | FeP 1860 |
 
-| Type | Hoogte | Gewicht | Voegen | Doorsnede |  | Pasplaten |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | h | G | - | A | Iₗₗ | max. lengte |
-|  | [mm] | [kN/m²] | [l/m] | [mm²] | [mm⁴] | [m] |
-| W | 150 | 2,4 | 4,4 | 0,11 | 297 | 6 |
-| N | 200 | 2,7 | 5,7 | 0,13 | 643 | 9 |
-| U | 200 | 3,1 | 5,7 | 0,15 | 666 | 9 |
-| T | 255 | 3,7 | 7,2 | 0,17 | 1364 | 12 |
-| H | 320 | 4,3 | 8,7 | 0,20 | 2517 | 15 |
-| K | 400 | 5,0 | 10,9 | 0,23 | 4625 | 18 |
+| Type | Hoogte <br> h [mm] | Gewicht <br> G [kN/m²] | Voegen <br> [l/m] | Doorsnede <br> A [m²] | I<sub>zz</sub> <br> [mm⁴] | M<sub>br</sub> <br> [kNm] | max. lengte <br> [m] | pasplaten max. lengte <br> [m] |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| W | 150 | 2,4 | 4,4 | 0,11 | 297 | 87 | 6 | 5,0 |
+| N | 200 | 2,7 | 5,7 | 0,13 | 643 | 119 | 9 | 7,2 |
+| U | 200 | 3,1 | 5,7 | 0,15 | 666 | 164 | 9 | 7,2 |
+| T | 255 | 3,7 | 7,2 | 0,17 | 1364 | 290 | 12 | 9,3 |
+| H | 320 | 4,3 | 8,7 | 0,20 | 2517 | 436 | 15 | 11,5 |
+| K | 400 | 5,0 | 10,9 | 0,23 | 4625 | 593 | 18 | 14,4 |
 
 
 #### Overspanningen
@@ -290,7 +299,6 @@ Oplegging op console.
 ![Overspanningen Dycore](ImagesBeton/2.4.1_betonconstructies_dycore_2.png)  
 De grafiek is een indicatie van de toelaatbare gelijkmatig verdeelde belasting in kN/m² boven het eigen gewicht voor platen op twee steunpunten bij verschillende overspanningen.
 
-### Aansluitdetails (alle typen kanaalplaten)
 
 ```{figure} ImagesBeton/2.4.1betonconstructies_dycore3.png
 ---
@@ -299,48 +307,3 @@ scale: 50%
 Aansluitdetails Dycore
 ```
 
-#### Bekistingsplaatvloer
-
-```{figure} ImagesBeton/2.4.1_betonconstructies_bekistingsplaatvloer_1.png
----
-scale: 50%
----
-Bekistingsplaatvloer
-```
-
-De bekistingplaatvloer is een systeemvloer van geprefabriceerde betonnen bekistingelementen waarop een constructief meewerkende betonlaag wordt gestort. Hij is geschikt als een vrijdragende vloer in de woning- en utiliteitsbouw. De bekistingplaten hebben gebruikelijk een dikte van 50 tot 90 mm, een maximale plaatlengte van 8500 mm en een onderwapening aangevuld met tralieliggers. De dimensionering van de tralieliggers wordt door de vloerbelasting bepaald en per project berekend. De hoofdwapening en de tralieliggers liggen evenwijdig aan de overspanningrichting van de vloer. 
-
-Leidingen kunnen worden ingestort en de constructieve druklaag kan van zowel een boven- als onderwapening worden voorzien. De constructieve druklaag is minimaal van een betonsoort B25. Sparingen kunnen fabrieksmatig worden aangebracht en begane grondvloeren kunnen aan de onderzijde worden voorzien van isolatiemateriaal. De onderstempeling dient overeen te komen met een vooraf door de producent goedgekeurd legplan. Het geheel is een samenwerkende betonvloer, die een redelijke mate van ontwerpvrijheid heeft.
-
-- [www.dycore.nl](http://www.dycore.nl)
-- [www.heembetonvloersystemen.nl](http://www.heembetonvloersystemen.nl)
-
-
-#### Product Specificaties Dycore Bekistingsplaatvloer
-
-| Kenmerk | Specificatie |
-| --- | --- |
-| Elementlengte tot ca. | 0,25 - 10 m |
-| Standaardbreedte | 2697 / 2997 mm (effectieve breedte 2700 / 3000 mm) |
-| Breedte pas-elementen | 250 - 2920 mm |
-| Voorspanstaal | FeP 1860 conform NEN 3868 |
-| Dikte / massa | 50 mm / 1,2 kN/m² |
-|  | 60 mm / 1,44 kN/m² |
-|  | 70 mm / 1,68 kN/m² |
-|  | 80 mm / 1,92 kN/m² |
-
-```{figure} ImagesBeton/2.4.1betonconstructies_dycorebekisting1.png
----
-scale: 50%
----
-Bekistingsplaatvloer Details
-```
-
-#### Aansluitdetails
-
-```{figure} ImagesBeton/2.4.1betonconstructies_dycorebekisting2.png
----
-scale: 50%
----
-Aansluitdetails Bekistingsplaatvloer
-```
