@@ -213,35 +213,11 @@ Schijfwerking in kanaalplaatvloer.
 ```
 
 
-### Product Specificaties VBI Isolatieplaatvloer A200
-
-| Kenmerk | Specificatie |
-| --- | --- |
-| Gewicht inclusief voegvulling | 303 kg/m² |
-| Brandwerendheid | 60-90 minuten |
-| Maximum plaatlengte |  |
-| - Utiliteitsbouw | 10,00 m |
-| - Verdiepingsvloer woningbouw | 7,60 m |
-| - Dakvloer woningbouw | 9,00 m |
-| Pasplaatbreedte |  |
-| - Woningbouw | 300 + n x 100 mm (AL200) |
-| - Utiliteitsbouw | 300 + n x 150 mm |
-| Voegvulling | 7,3 l/m |
-| Sterkteklasse | C45/55 |
-| Betondoorsnede | 144623 mm² |
-| Zwaartepunt betondoorsnede | 99,3 mm |
-| Traagheidsmoment | 680,0 E+06 mm⁴ |
-| Betonpuingranulaat | 20% op aanvraag |
-
-
 ### Overspanningen
 
-```{figure} ImagesBeton/2.4.1_betonconstructies_VBI_A200_2.png
----
-scale: 25%
----
-Overspanningen A200
-```
+![Overspanningen Dycore](ImagesBeton/2.4.1_betonconstructies_dycore_2.png)  
+De grafiek is een indicatie van de toelaatbare gelijkmatig verdeelde belasting in kN/m² boven het eigen gewicht voor platen op twee steunpunten bij verschillende overspanningen.
+
 
 ### Aansluitdetails (alle typen kanaalplaten)
 
@@ -293,11 +269,6 @@ Oplegging op console.
 | H | 320 | 4,3 | 8,7 | 0,20 | 2517 | 436 | 15 | 11,5 |
 | K | 400 | 5,0 | 10,9 | 0,23 | 4625 | 593 | 18 | 14,4 |
 
-
-#### Overspanningen
-
-![Overspanningen Dycore](ImagesBeton/2.4.1_betonconstructies_dycore_2.png)  
-De grafiek is een indicatie van de toelaatbare gelijkmatig verdeelde belasting in kN/m² boven het eigen gewicht voor platen op twee steunpunten bij verschillende overspanningen.
 
 
 ```{figure} ImagesBeton/2.4.1betonconstructies_dycore3.png
