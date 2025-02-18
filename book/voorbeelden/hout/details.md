@@ -1,8 +1,9 @@
 # Details
 
-Explore the structural connections of timber through interactive 3D visualisations. This section highlights both standard and advanced connection techniques, showcasing their applications and benefits in timber construction.
+Verken de structurele verbindingen van beton via interactieve 3D-visualisaties. Dit gedeelte belicht zowel standaard- als geavanceerde verbindingstechnieken en toont hun toepassingen en voordelen in de houtbouw.  
 
-Use the menu in the left to add or remove layers. 
+Gebruik het menu aan de linkerkant om lagen toe te voegen of te verwijderen.
+
 
 ## Standard connection
 
@@ -10,7 +11,8 @@ Use the menu in the left to add or remove layers.
     <iframe src="../../_static/Connection_Timber_Standard.html" width="750" height="750" frameborder="0"></iframe>
 </div>
 
-Or download the file [here](../../_static/Connection_Timber_Standard.html) and open it in your web browser.
+Of download het bestand [hier](../../_static/Connection_Timber_Standard.html) en open het in je web browser.
+
 
 ## Advanced connection
 
@@ -18,4 +20,4 @@ Or download the file [here](../../_static/Connection_Timber_Standard.html) and o
     <iframe src="../../_static/Connection_Timber_Advanced.html" width="750" height="750" frameborder="0"></iframe>
 </div>
 
-Or download the file [here](../../_static/Connection_Timber_Advanced.html) and open it in your web browser.
+Of download het bestand [hier](../../_static/Connection_Timber_Advanced.html) en open het in je web browser.
