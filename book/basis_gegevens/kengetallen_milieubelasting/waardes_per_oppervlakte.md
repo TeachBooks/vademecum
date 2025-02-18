@@ -1,4 +1,4 @@
-# Waardes per oppervlakte (voor vloeren en wanden) [€ / m$^2$]
+# Waardes per oppervlakte (voor vloeren en wanden) [€ / m²]
 
 ## Gewapend beton
 
