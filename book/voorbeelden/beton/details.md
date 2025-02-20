@@ -7,7 +7,7 @@ Gebruik het menu aan de linkerkant om lagen toe te voegen of te verwijderen.
 
 ## Prefab concrete connection
 
-<div style="background-color: white; text-align: center;">
+<div style="background-color: white; background-color:rgb(255, 255, 255); text-align: center;">
     <iframe src="../../_static/Connection_Concrete_Standard.html" width="750" height="750" frameborder="0"></iframe>
 </div>
 
