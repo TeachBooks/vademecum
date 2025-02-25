@@ -1,31 +1,9 @@
 # Vademecum voor draagconstructies van gebouwen
 
 Dit vademecum is samengesteld voor studenten Bouwkunde aan de TU Delft en dient als hulpmiddel bij ontwerpprojecten en vakoefeningen. De informatie is bedoeld voor onderwijsdoeleinden en niet voor een uiteindelijke constructieve toetsing van werkelijke constructies. 
-Het document bestaat uit vier componenten: Instructie, Basis gegevens, Ontwerp en Voorbeelden.
+Het document bestaat uit vier componenten: Instructie, Basis gegevens, Vuistregels en Voorbeelden.
 
-- Instructie
-    - Sterkte, stijfheid en stabiliteit
-    - Veiligheidsfilosofie en belastingcombinaties
-    - Ontwerpen van draagconstructies 
-    - Tekeninstructies
-
-- Basis gegevens
-    - Mechanica 
-    - Belastingen 
-    - Materiaaleigenschappen
-    - Kerngetallen milieubelasting 
-
-- Ontwerp
-    - Staal
-    - Hout
-    - Beton
-
-- Voorbeelden
-    - Staal
-    - Hout
-    - Beton
-
-Voor een ’echte wereld’ toepassing wordt in elk hoofdstuk verwezen naar de bron. In grote lijnen zijn dat:
+Voor een ’echte wereld’ toepassing wordt in elk hoofdstuk verwezen naar de bron. In grote lijnen zijn dat het Bouwbesluit en de Eurocodes.
 
 ## Bouwbesluit
 Online beschikbaar via: [Bouwbesluit](https://www.rijksoverheid.bouwbesluit.com/). Om een bouwvergunning te verkrijgen moet een ontwerp voor een bouwwerk voldoen aan het Bouwbesluit. Verbouwingen vallen ook onder het bouwbesluit. Het Bouwbesluit beschrijft alle bouwkundige prestatie-eisen waaraan bouwwerken wettelijk minimaal moeten voldoen.
