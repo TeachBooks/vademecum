@@ -213,6 +213,25 @@ Schijfwerking in kanaalplaatvloer.
 ```
 
 
+#### Product Specificaties Dycore Kanaalplaatvloeren
+
+| Kenmerk | Specificatie |
+| --- | --- |
+| Brandwerendheid | 60-90 minuten |
+| Volumieke massa | 2400 kg/m³ |
+| Voorspanstaal | FeP 1860 |
+
+| Type | Hoogte <br> h [mm] | Gewicht <br> G [kN/m²] | Voegen <br> [l/m] | Doorsnede <br> A [m²] | I<sub>zz</sub> <br> [mm⁴] | M<sub>br</sub> <br> [kNm] | max. lengte <br> [m] | pasplaten max. lengte <br> [m] |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| W | 150 | 2,4 | 4,4 | 0,11 | 297 | 87 | 6 | 5,0 |
+| N | 200 | 2,7 | 5,7 | 0,13 | 643 | 119 | 9 | 7,2 |
+| U | 200 | 3,1 | 5,7 | 0,15 | 666 | 164 | 9 | 7,2 |
+| T | 255 | 3,7 | 7,2 | 0,17 | 1364 | 290 | 12 | 9,3 |
+| H | 320 | 4,3 | 8,7 | 0,20 | 2517 | 436 | 15 | 11,5 |
+| K | 400 | 5,0 | 10,9 | 0,23 | 4625 | 593 | 18 | 14,4 |
+
+
+
 ### Overspanningen
 
 ![Overspanningen Dycore](ImagesBeton/2.4.1_betonconstructies_dycore_2.png)  
@@ -250,25 +269,6 @@ Centreerstrips worden toegepast in de volgende situaties:
 
 Oplegging op spouwmuur: bij woningscheidende wanden de kanalen ter plaatse van alle vloeropeningen zoals leidingdoorvoeren, trapgaten, etc., afdichten met mortel, minerale wol of kunststofschuim.  
 Oplegging op console.
-
-
-#### Product Specificaties Dycore Kanaalplaatvloeren
-
-| Kenmerk | Specificatie |
-| --- | --- |
-| Brandwerendheid | 60-90 minuten |
-| Volumieke massa | 2400 kg/m³ |
-| Voorspanstaal | FeP 1860 |
-
-| Type | Hoogte <br> h [mm] | Gewicht <br> G [kN/m²] | Voegen <br> [l/m] | Doorsnede <br> A [m²] | I<sub>zz</sub> <br> [mm⁴] | M<sub>br</sub> <br> [kNm] | max. lengte <br> [m] | pasplaten max. lengte <br> [m] |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| W | 150 | 2,4 | 4,4 | 0,11 | 297 | 87 | 6 | 5,0 |
-| N | 200 | 2,7 | 5,7 | 0,13 | 643 | 119 | 9 | 7,2 |
-| U | 200 | 3,1 | 5,7 | 0,15 | 666 | 164 | 9 | 7,2 |
-| T | 255 | 3,7 | 7,2 | 0,17 | 1364 | 290 | 12 | 9,3 |
-| H | 320 | 4,3 | 8,7 | 0,20 | 2517 | 436 | 15 | 11,5 |
-| K | 400 | 5,0 | 10,9 | 0,23 | 4625 | 593 | 18 | 14,4 |
-
 
 
 ```{figure} ImagesBeton/2.4.1betonconstructies_dycore3.png

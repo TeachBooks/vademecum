@@ -18,7 +18,7 @@ Sterkteklassen C16, C18, C24 (NEN-EN 1912) naaldhout, 469 kg/m$^3$ vochtgehalte 
 
 | omschrijving | MKI A1 [€/kg] |  MKI A2 [€/kg] | referentie periode |
 |---|---|---|---|
-| European Softwood, liggers en balken, gedroogd, gezaagd, duurzaam bosbeheer | 0,01 | 0,03 | 100 jaar|
+| Europees naaldhout, liggers en balken, gedroogd, gezaagd, duurzaam bosbeheer | 0,01 | 0,03 | 100 jaar|
 
 *Bron: Centrum Hout*
 
