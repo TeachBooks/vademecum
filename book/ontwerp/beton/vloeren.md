@@ -1,21 +1,5 @@
 # Vloeren
 
-## Kanaalplaten
-
-```{figure} ImagesBeton/8.gegevens_beton_kanaalplaten.png
----
-scale: 50%
----
-Doorsneden van kanaalplaten, geprefabriceerd, voorgespannen
-```
-
-**Toepassingen:**  
-In alle gebouwen kunnen kanaalplaten toegepast worden als vloerelementen en dakvloeren. Leidingen en uitsparingen zijn eenvoudig in de fabricage mee te nemen. Interessant is de combinatie met hoedliggers.  
-
-- [www.vbi.nl](http://www.vbi.nl)  
-- [www.dycore.nl](http://www.dycore.nl)  
-- [www.belton.nl/_betonboek/deel5-3-1.pdf](http://www.belton.nl/_betonboek/deel5-3-1.pdf)
-
 
 ## Ribbenvloer
 
@@ -142,6 +126,15 @@ Vloeren van betonnen constructies in de woning en utiliteitsbouw.
 
 ## Kanaalplaatvloer
 
+
+```{figure} ImagesBeton/8.gegevens_beton_kanaalplaten.png
+---
+scale: 50%
+---
+Doorsneden van kanaalplaten, geprefabriceerd, voorgespannen
+```
+
+
 ```{figure} ImagesBeton/2.4.1betonconstructies_Tekengebied1.png
 ---
 scale: 50%
@@ -166,6 +159,13 @@ Kanaalplaatvloeren zijn fabrieksmatig vervaardigde vrijdragende woningscheidende
 
 
 ### Toepassingen
+
+In alle gebouwen kunnen kanaalplaten toegepast worden als vloerelementen en dakvloeren. Leidingen en uitsparingen zijn eenvoudig in de fabricage mee te nemen. Interessant is de combinatie met hoedliggers.  
+
+- [www.vbi.nl](http://www.vbi.nl)  
+- [www.dycore.nl](http://www.dycore.nl)  
+- [www.belton.nl/_betonboek/deel5-3-1.pdf](http://www.belton.nl/_betonboek/deel5-3-1.pdf)
+
 
 In tegenstelling tot wat men zou verwachten, bieden kanaalplaten ook mogelijkheden voor vrije plattegrondvormen. Niet alleen de in de woningbouw en kantoorbouw bekende rechthoekige plattegrond zijn mogelijk, maar ook rondvormen en afschuinende vlakken. Het is belangrijk te realiseren dat kanaalplaten onder een hoek zijn af te zagen. Onderstaand enkele legplannen van kanaalplaten voor vloeren met afwijkende vormen. De tussenruimtes (grijze arcering in onderstaande tekeningen) worden bekist, gewapend en aangestort.
 
