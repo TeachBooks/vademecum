@@ -1,6 +1,13 @@
 # Kengetallen Milieubelasting
 
-Dit hoofdstuk bevat tabellen met MKI (milieukostenindicator) waarden. Met de MKI per eenheid product, wordt gedoeld op de milieu-impact gedurende de levensloop van één eenheid product. In de database wordt gecatagoriseerd op categorie (1 - 5), norm (A1 en A2) en op scope (A1 – D).
+Dit hoofdstuk bevat tabellen met MKI (milieukostenindicator) waarden. Met de MKI per eenheid product, wordt gedoeld op de milieu-impact gedurende de levensloop van één eenheid product. In de [Nederlandse Milieu Database](https://milieudatabase.nl/) wordt gecatagoriseerd op categorie (1 - 5), norm (A1 en A2) en op scope (A1 – D).
+
+```{figure} Images/NMDscreenshot.png
+---
+scale: 40%
+---
+[Nederlandse Milieu Database](https://milieudatabase.nl/)
+```
 
 
 ## Categorieën
@@ -61,13 +68,6 @@ De producten in de Nationale Milieu Database zijn ingedeeld in categorieën:
 
 Door sommatie over alle fases uit de EN15804 wordt de totale milieu-impact per eenheid product over gehele levensloop verkregen.
 
-
-```{figure} Images/NMDscreenshot.png
----
-scale: 40%
----
-[Nederlandse Milieu Database](https://milieudatabase.nl/)
-```
 
 `````{admonition} Let op!
 :class: tip
