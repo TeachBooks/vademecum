@@ -43,9 +43,9 @@ parts:
       - file: ontwerp/beton/wanden
       - file: ontwerp/beton/kolommen
       - file: ontwerp/beton/verbindingen
-    - file: ontwerp/metselwerk/metselwerk_intro
+    - file: ontwerp/metselwerk/metselwerk_intro.md
       sections:
-      - file: ontwerp/metselwerk/kalkzandsteen
+      - file: ontwerp/metselwerk/kalkzandsteen.md
 
 
   - caption: Basis gegevens
