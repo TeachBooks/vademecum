@@ -10,6 +10,10 @@ scale: 50%
 Ribbenvloer met geïntegreerde isolatie, geprefabriceerd, naden worden aangestort met betonmortel
 ```
 
+| Element | Typische overspanningen (m) | Continu | Vrij opgelegd | Uitkragend |  
+|---|---|---|---|---|  
+| Geribde vloer | 6-14 | L/31 | L/23 | L/9 |
+
 **Toepassingen:**  
 Toepassing als beganegrondvloer boven kruipruimten in de utiliteitsbouw en woningbouw.  
 
@@ -43,6 +47,10 @@ scale: 50%
 ---
 De geprofileerde staalplaten worden gebruikt als werkvloer, bekisting en uiteindelijk wapening
 ```
+
+| Element | Diepte |  
+|---|---| 
+| Normal Weight Concrete | overspanning/25 |
 
 **Toepassingen:**  
 Veelgebruikt vloersysteem bij (hoogbouw) staalconstructies. Al dan niet onderstempeld tijdens het storten. Kunnen met aanzienlijke overspanningen en grote flexibiliteit worden gerealiseerd.
@@ -85,6 +93,11 @@ Leidingen kunnen worden ingestort en de constructieve druklaag kan van zowel een
 
 - [www.dycore.nl](http://www.dycore.nl)
 - [www.heembetonvloersystemen.nl](http://www.heembetonvloersystemen.nl)
+
+
+| Element | Typische overspanningen (m) | Continu | Vrij opgelegd | Uitkragend |  
+|---|---|---|---|---|  
+| Enkelvoudige plaat | 5-6 | L/28-36 | L/22-30 | L/10 |
 
 
 ### Product Specificaties Dycore Bekistingsplaatvloer
