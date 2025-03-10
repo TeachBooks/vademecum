@@ -9,6 +9,10 @@ scale: 50%
 Rechthoekige, I- en T-profielen, prefab voorgespannen betonnen balken
 ```
 
+| Voorgespannen balken |   |
+|---|---|
+| B45 voorgespannen | 1/20 |
+
 **Toepassingen:**  
 De verschillende typen balken worden zowel toegepast als hoofdliggers bij vloer- en dakconstructies, maar ook als lateien van metselwerkconstructies. Ook kunnen geprefabriceerde balken in de fundering worden toegepast.
 
@@ -40,6 +44,10 @@ scale: 50%
 ---
 In het werk gestort in bekistingen met wapening
 ```
+
+| I.W.G gewapende balken |   |
+|---|---|
+| B25 gewapend | 1/10 |
 
 **Toepassingen:**  
 Vaak toegepast als funderingsbalken en in eenvoudige constructies met kleine overspanningen.
