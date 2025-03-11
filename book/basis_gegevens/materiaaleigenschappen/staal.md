@@ -1,7 +1,8 @@
 # Staal
 
 ## Producten I, warmgewalste profielen
-**I-profielen**  
+
+### I-profielen
 | ![I-profielen](Images/7gegevens_staal_I_profielen.png) | 
 | --- |
 | IPE en INP profieldoorsneden & aansluiting balk-balk met behulp van een kopplaat & Balk (I-profiel)-kolom (H-profiel) verbinding met een verlengde kopplaat. | 
@@ -128,6 +129,7 @@ Wordt voornamelijk toegepast bij (onder)grondse constructies en overspanningen, 
 
 ## Sterkte en stijfheid
 
+<br>
 
 <div style="max-height: 400px; overflow-y: auto;">
     <table style="width: 100%; border-collapse: collapse;">
