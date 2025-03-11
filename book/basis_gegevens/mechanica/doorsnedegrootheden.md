@@ -1,12 +1,15 @@
 # Doorsnedegrootheden
 
-## Definitie doorsnedegrootheden
 
-| oppervlakte | statische <br> moment | traagheids- <br> moment | polair traagheids-<br> moment | verschuivingsregel van <br> Steiner | 
-|-------------|-----------|--------------|---------------------|-----------------------| 
-| $\mathsf{A = \int _{A} dA}$ | $\mathsf{S_y = \int_A y \cdot dA}$ | $\mathsf{I_{yy} = \int_A y^2 \cdot dA}$ | $\mathsf{I_p=\int_A r^2 \cdot dA = I_{yy} + I_{zz}}$ | $\mathsf{I_{\overline{y}\overline{y}} = I_{yy(eigen)} + \overline{y}^2_C \cdot A}$ |
-|             | $\mathsf{S_z = \int_A z \cdot dA}$ | $\mathsf{I_{yz} = I_{zy} = \int_{A}y \cdot z \cdot dA  }$ |                     | $\mathsf{I_{\overline{y}\overline{z}} = I_{\overline{z}\overline{y}} = I_{yz(eigen)} + \overline{y}_C \cdot \overline{Z}_C \cdot A}$ |
-|             |           | $\mathsf{I_{zz} = \int_{A}z^2 \cdot dA}$ |                     | $\mathsf{I_{\overline{z}\overline{z}} = I_{zz(eigen)} + \overline{z}^2_C \cdot A}$ |
+| Definitie Doorsnedegrootheid | Formules |   |   |
+|---|---|---|---|
+| oppervlakte | $\mathsf{A = \int _{A} dA}$ |  |  |
+| statische moment | $\mathsf{S_y = \int_A y \cdot dA}$ | $\mathsf{S_z = \int_A z \cdot dA}$ |  |
+| traagheidsmoment | $\mathsf{I_{yy} = \int_A y^2 \cdot dA}$ | $\mathsf{I_{yz} = I_{zy} = \int_{A}y \cdot z \cdot dA  }$ | $\mathsf{I_{zz} = \int_{A}z^2 \cdot dA}$ |
+| polair traagheidsmoment | $\mathsf{I_p=\int_A r^2 \cdot dA = I_{yy} + I_{zz}}$ |  |  |
+| verschuivingsregel van Steiner | $\mathsf{I_{\overline{y}\overline{y}} = I_{yy(eigen)} + \overline{y}^2_C \cdot A}$ | $\mathsf{I_{\overline{y}\overline{z}} = I_{\overline{z}\overline{y}} = I_{yz(eigen)} + \overline{y}_C \cdot \overline{Z}_C \cdot A}$ | $\mathsf{I_{\overline{z}\overline{z}} = I_{zz(eigen)} + \overline{z}^2_C \cdot A}$ |
+
+
 
 ## Doorsnedegrootheden
 
