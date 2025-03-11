@@ -18,7 +18,7 @@ $$
 \mathsf{s = \mu_i \cdot c_e \cdot c_t \cdot s_k}
 $$
 
-Zie NEN-EN 1991-1-3 sectie 5.2.
+*Zie NEN-EN 1991-1-3 sectie 5.2.*
 
 | Symbool         | Betekenis                                                      |
 |-----------------|---------------------------------------------------------------|

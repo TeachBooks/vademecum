@@ -9,13 +9,12 @@ Buitengewone belastingen zijn doorgaans hoge belastingen met grote gevolgen voor
 - hoog grondwater (overstromingen)
 - aardbevingen
 
-Zie NEN-EN 1991-1-7 voor een volledige lijst en de bepaling van buitengewone belastingen.
+*Zie NEN-EN 1991-1-7 voor een volledige lijst en de bepaling van buitengewone belastingen.*
 
 ```{figure} Images/3841.jpg
 ---
 scale: 25%
 name: Voorbeeld van stootbelasting
 ---
-```
-
 Voorbeeld van stootbelasting: Aanrijding door voertuig.
+```

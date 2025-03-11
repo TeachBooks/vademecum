@@ -63,5 +63,5 @@ De gegeven benaming van de lijnsoorten en arceringen gelden voor constructie-tek
 | Water                 | <img src="Images/16_Water.jpg" alt="Water" class="bg-primary" width="80px"> | ✓     | ✓    | ✓    | ✓    | ✓   | ✓   | In doorsnede.                          |
 | Zand                  | <img src="Images/17_Zand.jpg" alt="Zand" class="bg-primary" width="80px"> | ✓     | ✓    | ✓    | ✓    | ✓   | ✓   |                                         |
 
-Bron: Lecture Notes Technical Drawings (CT1052-09), ir. T.L.J. van Rij, J. Vries.
+*Bron: Lecture Notes Technical Drawings (CT1052-09), ir. T.L.J. van Rij, J. Vries.*
 

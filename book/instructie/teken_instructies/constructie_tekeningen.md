@@ -83,6 +83,7 @@ Bij het tekenen van een draagconstructie plattegrond kan je onderstaande tekenvo
 
 <img src="Images/LijnsoortenVDM_Tekengebied15.png" alt="lijn" class="bg-primary" width="200px">
 
+<br>
 
 ## Geëxplodeerde axonometrie
 
@@ -113,6 +114,8 @@ De Axonometrische tekening is een overzicht van de totale draagconstructie, zie 
 <br>
 
 - Duid alle constructieve elementen tekstueel aan.
+
+<br>
 
 ## Constructie details
 

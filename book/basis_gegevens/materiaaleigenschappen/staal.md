@@ -16,7 +16,7 @@ Licht belaste constructies voor de woning- en utiliteitsbouw. Veel toepassingen 
 
 <br>
 
-**H-profielen**  
+### H-profielen
 | ![H-profielen](Images/7gegevens_staal_H_profielen.png) | 
 | --- |
 | HE-A, HE-B, HE-M profieldoorsneden, bij een serie van deze drie zijn de binnenmaten gelijk & aansluiting tussen HE ligger en IPE ligger op een HE kolom & HE-A kolom oplegging |
@@ -32,7 +32,7 @@ H-ligger voor op druk belaste kolommen en op buiging belaste liggers waarbij de 
 
 <br>
 
-**U-profielen**  
+### U-profielen 
 | ![U-profielen](Images/UAPUNPProfielenMinke.png) | 
 | --- |
 | UP en UNP profieldoorsneden | 
@@ -47,7 +47,7 @@ Vloerranden en bordessen. Moeilijke onderlinge verbindingen bij UNP-profielen do
 
 <br>
 
-**Buisprofielen**  
+### Buisprofielen 
 | ![Buisprofielen](Images/7gegevens_staal_buisprofielen.png) | 
 | --- |
 | CHS (circular hollow section) en RHS (rectangular hollow section) & knooppunt van ruimtelijk vakwerk vervaardigd uit holle buizen & vakwerk van rechthoekige koker-profielen. | 
@@ -62,14 +62,14 @@ Vloerranden en bordessen. Moeilijke onderlinge verbindingen bij UNP-profielen do
 
 <br>
 
-**Damwandprofielen**  
+### Damwandprofielen 
 | ![Damwandprofielen](Images/DamwandprofielenMinke.png) | 
 | --- |
 | Toepassingen: | 
 | Kelderwanden, funderingen, waterbouw. Damwandprofielen zijn er in uiteenlopende soorten en maten. Wanden van bouwputten en verdiepte objecten (verzonken infrastructuur) en kadewanden behoren tot de mogelijkheden voor grondkerende constructies. Ook verticale belastingen kunnen worden opgenomen. |
 
 ## Producten II, koudgewalste profielen
-**U en C profielen**  
+### U en C profielen  
 | ![U en C profielen](Images/U_CProfielenMinke.png) | 
 | --- |
 | Koudgevormde U met gelijke (eq) of ongelijke (eu) hoogte en breedte en C profielen met en zonder verstijvingen | 
@@ -85,7 +85,7 @@ Wordt toegepast in woningbouw, cascobouw, opslagsystemen, afbouw. Staalframe-bou
 
 <br>
 
-**L en Z profielen**  
+### L en Z profielen 
 | ![L en Z profielen](Images/L_ZProfielenMinke.png) | 
 | --- |
 | Koudgevormde L met gelijke (eq) of ongelijke (eu) hoogte en breedte en Z profielen met en zonder verstijvingen | 
@@ -102,7 +102,7 @@ Zie koudgevormde U en C profielen.
 <br>
 
 ## Producten III, gelaste profielen
-**Raatliggers IPE/HEA/HEB**  
+### Raatliggers IPE/HEA/HEB 
 | ![Raatliggers](Images/7gegevens_staal_raatliggers.png) | 
 | --- |
 | Utiliteitsbouw. De onderdelen van een raatligger (met zeshoekige gaten) kunnen met een enkele snijbeweging worden gesneden zonder materiaalverlies. Raatliggers met ronde gaten zijn minder economisch vanwege het extra snijwerk en materiaalverlies | 
@@ -118,7 +118,7 @@ Grote lichte overspanningen, mogelijkheden voor leidingen doorvoer. De doorsnede
 
 <br>
 
-**Hoedliggers**  
+### Hoedliggers  
 | ![Hoedliggers](Images/HoedliggersMinke.png) | 
 | --- |
 | Gelaste geïntegreerde liggers (hoedliggers) | 
@@ -177,9 +177,12 @@ scale: 50%
 Spannings-rek diagram
 ```
 
-- rekenwaarde rek: $\mathsf{\epsilon_{y;d}}$ 
-- rekenwaarde treksterkte: $\mathsf{f_{t;d}}$ 
-- rekenwaarde vloeigrens: $\mathsf{f_{y;d}}$
-- $\mathsf{E_{d}}$ (elasticiteitsmodulus): tan $\mathsf{\alpha}$ 
+| Symbool | Betekenis |
+|---|---|
+| $\mathsf{\epsilon_{y;d}}$ | rekenwaarde rek |
+| $\mathsf{f_{t;d}}$ | rekenwaarde treksterkte |
+| $\mathsf{f_{y;d}}$ | rekenwaarde vloeigrens |
+| tan $\mathsf{\alpha}$ | $\mathsf{E_{d}}$ (elasticiteitsmodulus) |
+
 
 In eenvoudige berekeningen en toetsing van de constructie wordt er lineair elastisch gerekend. Praktisch gezien betekent dit dat als het staal begint te vloeien, de constructie of het constructieonderdeel als bezweken beschouwd dient te worden. Er wordt dus alleen met het eerste lineaire gedeelte van het spannings-rekdiagram gerekend. Er mogen dus geen grotere rekken optreden dan in de tabel per staalsoort weergegeven.
