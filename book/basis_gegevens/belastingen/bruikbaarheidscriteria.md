@@ -1,6 +1,8 @@
 # Bruikbaarheidscriteria
 
-*{zie NEN-EN 1990 bijlage A.1.4.2}*
+```{note}
+zie NEN-EN 1990 bijlage A.1.4.2
+```
 
 Bruikbaarheidsgrenstoestanden van gebouwen behoren criteria in aanmerking te nemen met betrekking tot, bijvoorbeeld, vloerstijfheid, vloerniveauverschillen, zijdelingse uitwijkingen van verdiepingen en/of van het gebouw en stijfheid van het dak. Stijfheidscriteria mogen zijn uitgedrukt in termen van grenzen voor verticale doorbuigingen en voor trillingen. Zijdelingse uitwijkingscriteria mogen zijn uitgedrukt in termen van grenzen voor horizontale verplaatsingen.
 
@@ -30,6 +32,8 @@ name: Definities van verticale doorbuigingen - NEN-EN 1990 bijlage A.1.4.3
 
 De eisen ten aanzien van de verticale doorbuiging uit de Nationale Bijlage bij de EN1990 zijn gegeven in onderstaande tabel.
 
+<br>
+
 | verticale doorbuigingseis | opmerking |
 |---------------------------|-----------|
 | $w_{bij} \leq 0.003 \cdot l$ | voor vloeren algemeen |
@@ -37,7 +41,9 @@ De eisen ten aanzien van de verticale doorbuiging uit de Nationale Bijlage bij d
 | $w_{bij} \leq 0.004 \cdot l$ | voor daken |
 | $w_{max} \leq 0.004 \cdot l$ | geldt alleen voor vloeren en daken als uiterlijk van belang is |
 
-$^{*}$ Voor uitkragingen kunnen bovenstaande eisen worden gehanteerd waarbij voor *l* twee maal de lengte van de uitkraging mag worden genomen.
+```{note}
+Voor uitkragingen kunnen bovenstaande eisen worden gehanteerd waarbij voor *l* twee maal de lengte van de uitkraging mag worden genomen.
+```
 
 
 ## Water accumulatie

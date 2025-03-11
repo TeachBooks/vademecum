@@ -10,7 +10,7 @@ $$
 F_i = c_sc_d \cdot c_f \cdot q_p(z_e) \cdot A_{ref}
 $$
 
-Zie NEN-EN 1991-1-4 sectie 5.3.
+*Zie NEN-EN 1991-1-4 sectie 5.3.*
 
 | Symbolen                  | Betekenis                                                      |
 |---------------------------|---------------------------------------------------------------|
