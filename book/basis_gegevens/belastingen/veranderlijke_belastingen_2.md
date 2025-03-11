@@ -310,13 +310,13 @@ Onderstaand is een tabel opgenomen waarin de verschillende waarden voor de extre
             </tr>
             <tr>
                 <th style="width: 100px;">Z<sub>e</sub> [m]</th>           
-                <th>kust</th>
-                <th>onbebouwd</th>
+                <th style="width: 100px;">kust</th>
+                <th style="width: 100px;">onbebouwd</th>
                 <th style="width: 100px;">bebouwd</th>
-                <th>kust</th>
-                <th>onbebouwd</th>
+                <th style="width: 100px;">kust</th>
+                <th style="width: 100px;">onbebouwd</th>
                 <th style="width: 100px;">bebouwd</th>
-                <th>onbebouwd</th>
+                <th style="width: 100px;">onbebouwd</th>
                 <th style="width: 100px;">bebouwd</th>
             </tr>
         </thead>

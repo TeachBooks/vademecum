@@ -1,7 +1,7 @@
 # Vademecum voor draagconstructies van gebouwen
 
 Dit vademecum is samengesteld voor studenten Bouwkunde aan de TU Delft en dient als hulpmiddel bij ontwerpprojecten en vakoefeningen. De informatie is bedoeld voor onderwijsdoeleinden en niet voor een uiteindelijke constructieve toetsing van werkelijke constructies. 
-Het document bestaat uit vier componenten: Instructie, Basis gegevens, Vuistregels en Voorbeelden.
+Het document bestaat uit vier componenten: Instructies, Vuistregels, Basis gegevens en Voorbeelden.
 
 Voor een ’echte wereld’ toepassing wordt in elk hoofdstuk verwezen naar de bron. In grote lijnen zijn dat het Bouwbesluit en de Eurocodes.
 

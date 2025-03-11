@@ -135,10 +135,12 @@ Wordt voornamelijk toegepast bij (onder)grondse constructies en overspanningen, 
             <tr>
                 <th style="width: 200px;">materiaaleigenschap</th>
                 <th> </th>
+                <th> </th>
                 <th colspan="5" style="text-align: center;">staalkwaliteit</th>
             </tr>
             <tr>
                 <th></th>
+                <th style="width: 100px;"></th>
                 <th style="width: 100px;"></th>
                 <th style="width: 100px;">S235</th>
                 <th style="width: 100px;">S275</th>
@@ -148,13 +150,13 @@ Wordt voornamelijk toegepast bij (onder)grondse constructies en overspanningen, 
             </tr>
         </thead>
         <tbody>
-            <tr><td>volumieke massa</td><td>ρ<sub>rep</sub></td><td>7850</td><td>7850</td><td>7850</td><td>7850</td><td>7850</td></tr>
-            <tr><td>elasticiteitsmodulus</td><td>E<sub>rep</sub></td><td>210 &middot 10<sup>3</sup></td><td>210 &middot 10<sup>3</sup></td><td>210 &middot 10<sup>3</sup></td><td>210 &middot 10<sup>3</sup></td><td>210 &middot 10<sup>3</sup></td></tr>
-            <tr><td>rekenwaarde vloeigrens</td><td>f<sub>y;d</sub></td><td>235</td><td>275</td><td>355</td><td>420</td><td>460</td></tr>
-            <tr><td>rekenwaarde treksterkte</td><td>f<sub>t;d</sub></td><td>360</td><td>430</td><td>510</td><td>--</td><td>--</td></tr>
-            <tr><td>vloeigrens</td><td>ϵ<sub>y;d</sub></td><td>1,12</td><td>1,31</td><td>1,69</td><td>--</td><td>--</td></tr>
-            <tr><td>afschuifmodulus</td><td>G<sub>rep</sub></td><td>8,1 &middot 10<sup>4</sup></td><td>8,1 &middot 10<sup>4</sup></td><td>8,1 &middot 10<sup>4</sup></td><td>8,1 &middot 10<sup>4</sup></td><td>8,1 &middot 10<sup>4</sup></td></tr>
-            <tr><td>uitzettingscoëfficient</td><td>α</td><td>12 &middot 10<sup>-6</sup></td><td>12 &middot 10<sup>-6</sup></td><td>12 &middot 10<sup>-6</sup></td><td>12 &middot 10<sup>-6</sup></td><td>12 &middot 10<sup>-6</sup></td></tr>
+            <tr><td>volumieke massa</td><td>ρ<sub>rep</sub></td><td>[kg/m<sup>3</sup>]</td><td>7850</td><td>7850</td><td>7850</td><td>7850</td><td>7850</td></tr>
+            <tr><td>elasticiteitsmodulus</td><td>E<sub>rep</sub></td><td>[N/mm<sup>2</sup>]</td><td>210 &middot 10<sup>3</sup></td><td>210 &middot 10<sup>3</sup></td><td>210 &middot 10<sup>3</sup></td><td>210 &middot 10<sup>3</sup></td><td>210 &middot 10<sup>3</sup></td></tr>
+            <tr><td>rekenwaarde vloeigrens</td><td>f<sub>y;d</sub></td><td>[N/mm<sup>2</sup>]</td><td>235</td><td>275</td><td>355</td><td>420</td><td>460</td></tr>
+            <tr><td>rekenwaarde treksterkte</td><td>f<sub>t;d</sub></td><td>[N/mm<sup>2</sup>]</td><td>360</td><td>430</td><td>510</td><td>--</td><td>--</td></tr>
+            <tr><td>vloeigrens</td><td>ϵ<sub>y;d</sub></td><td>[%]</td><td>1,12</td><td>1,31</td><td>1,69</td><td>--</td><td>--</td></tr>
+            <tr><td>afschuifmodulus</td><td>G<sub>rep</sub></td><td>[N/mm<sup>2</sup>]</td><td>8,1 &middot 10<sup>4</sup></td><td>8,1 &middot 10<sup>4</sup></td><td>8,1 &middot 10<sup>4</sup></td><td>8,1 &middot 10<sup>4</sup></td><td>8,1 &middot 10<sup>4</sup></td></tr>
+            <tr><td>uitzettingscoëfficient</td><td>α</td><td>[K<sup>-1</sup>]</td><td>12 &middot 10<sup>-6</sup></td><td>12 &middot 10<sup>-6</sup></td><td>12 &middot 10<sup>-6</sup></td><td>12 &middot 10<sup>-6</sup></td><td>12 &middot 10<sup>-6</sup></td></tr>
         </tbody>
     </table>
 </div>
@@ -168,8 +170,16 @@ Volgens de norm 6770 mag men voor de vloeigrens geen hogere waarde aanhouden dan
 
 ## Spannings-rek diagram
 
-| **Diagram** | | **Toelichting** |
-|---|---|---|
-| ![Spannings-rek diagram](Images/7gegevens_staal_spannings_rek_diagram.png) | $\mathsf{\epsilon_{y;d}}$ <br> $\mathsf{f_{t;d}}$ <br> $\mathsf{f_{y;d}}$ <br> tan $\mathsf{\alpha}$ | : rekenwaarde rek <br> : rekenwaarde treksterkte <br> : rekenwaarde vloeigrens <br> : $\mathsf{E_{d}}$ (elasticiteitsmodulus) |
+```{figure} Images/7gegevens_staal_spannings_rek_diagram.png
+---
+scale: 50%
+---
+Spannings-rek diagram
+```
+
+- rekenwaarde rek: $\mathsf{\epsilon_{y;d}}$ 
+- rekenwaarde treksterkte: $\mathsf{f_{t;d}}$ 
+- rekenwaarde vloeigrens: $\mathsf{f_{y;d}}$
+- $\mathsf{E_{d}}$ (elasticiteitsmodulus): tan $\mathsf{\alpha}$ 
 
 In eenvoudige berekeningen en toetsing van de constructie wordt er lineair elastisch gerekend. Praktisch gezien betekent dit dat als het staal begint te vloeien, de constructie of het constructieonderdeel als bezweken beschouwd dient te worden. Er wordt dus alleen met het eerste lineaire gedeelte van het spannings-rekdiagram gerekend. Er mogen dus geen grotere rekken optreden dan in de tabel per staalsoort weergegeven.
