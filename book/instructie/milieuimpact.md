@@ -64,7 +64,7 @@ Bepalingsmethode
 
 ## MKI (milieukostenindicator)
 
-Om milieukosten van materialen of producten te kunnen berekenen is een ‘milieukostenindicator’ bedacht. Je komt dit vaak tegen met de benaming MKI. Hierin zijn alle negatieve milieueffecten opgenomen over de gehele levensfase van een product. De eenheid is in Euro. In deze MKI schuilen dus alle milieu impacts voor de hele levenscyclus van een product, inclusief alle bijbehorende processen voor de productie en verwerking hiervan, en alle bovengenoemde impact categorieën. Je kunt de MKI opzoeken in de [Nederlandse Milieu Database](https://milieudatabase.nl/), oftewel NMD.
+Om milieukosten van materialen of producten te kunnen berekenen is een ‘milieukostenindicator’ bedacht. Je komt dit vaak tegen met de benaming MKI. Hierin zijn alle negatieve milieueffecten opgenomen over de gehele levensfase van een product. De eenheid is in Euro. In deze MKI schuilen dus alle milieu impacts voor de hele levenscyclus van een product, inclusief alle bijbehorende processen voor de productie en verwerking hiervan, en alle bovengenoemde impact categorieën. Je kunt de MKI opzoeken in de [Nederlandse Milieu Database](https://milieudatabase.nl/), oftewel NMD. Hoofdstuk [kengetallen milieubelasting](../basis_gegevens/kengetallen_milieubelasting/kengetallen_milieubelasting_intro.md) bevat tabellen met MKI waarden.
 
 
 ## MPG (milieuprestatie gebouw)
@@ -93,11 +93,12 @@ De opsplitsing van het totale beschikbare budget van €0,80 /m2 .jr in deelbudg
 - €0,20 /m2 .jr constructiedeel
 - €0,20 /m2 .jr installatiedeel
 - €0,20 /m2 .jr gevel 
-- €0,20 /m2 .jr inbouwpakket +
+- €0,20 /m2 .jr inbouwpakket         +
+----------------------------------------
 - €0,80 / m2 .jr totaal woongebouw
 
 
-`````{admonition} N.B.
+`````{admonition} Tip
 :class: tip
 Sowieso is het in de praktijk handig om een MPG op te splitsen in losse deelbudgetten voor constructie, gevel, installatie en het inbouwpakket binnen. Dan kun je bijvoorbeeld de gevels van twee verschillende projecten met elkaar vergelijken. Of een constructeur kan per gebouw kijken hoe goed zijn constructies scoren.
 `````
