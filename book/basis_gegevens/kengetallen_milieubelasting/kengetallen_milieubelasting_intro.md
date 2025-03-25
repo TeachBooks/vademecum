@@ -1,6 +1,6 @@
 # Kengetallen Milieubelasting
 
-Dit hoofdstuk bevat tabellen met MKI (milieukostenindicator) waarden. Met de MKI per eenheid product, wordt gedoeld op de milieu-impact gedurende de levensloop van één eenheid product. In de [Nederlandse Milieu Database](https://milieudatabase.nl/) wordt gecatagoriseerd op categorie (1 - 5), norm (A1 en A2) en op scope (A1 – D).
+Dit hoofdstuk bevat tabellen met MKI (milieukostenindicator) waarden. Met de MKI per eenheid product, wordt gedoeld op de milieu-impact gedurende de levensloop van één eenheid product. In de [Nederlandse Milieu Database](https://milieudatabase.nl/) wordt gecatagoriseerd op  norm (A1 en A2), categorie (1 - 5) en op scope (A1 – D).
 
 ```{figure} Images/NMDscreenshot.png
 ---
@@ -8,6 +8,11 @@ scale: 40%
 ---
 [Nederlandse Milieu Database](https://milieudatabase.nl/)
 ```
+
+## Norm
+- **Set A1** is de voorgeschreven set met 11 indicatoren volgens *EN 15804 – 2012/Oude Bepalingsmethode*
+
+- **Set A2** is op basis van de *EN 15804 +A2 (2019)*, die waarschijnlijk op 1 – 7 – 2026 verplicht wordt. 
 
 
 ## Categorieën
@@ -24,14 +29,16 @@ De producten in de Nationale Milieu Database zijn ingedeeld in categorieën:
 ‘Generieke’ producten (categorie 3) worden als terugvaloptie aangeboden in geval er voor de gewenste materiaaloptie in de NMD geen ‘getoetste’ producten (categorie 1 of 2) beschikbaar zijn.
 
 
-## Norm
-- **Set A1** is de voorgeschreven set met 11 indicatoren volgens *EN 15804 – 2012/Oude Bepalingsmethode*
-
-- **Set A2** is op basis van de *EN 15804 +A2 (2019)*, die waarschijnlijk op 1 – 7 – 2026 verplicht wordt. 
-
-
 
 ## Scope
+
+```{figure} Images/MKIindeling.png
+---
+scale: 75%
+---
+Indeling scope
+```
+
 - **A1-A3 productie**: Dit betreft de winning van de grondstoffen tot de aanlevering bij de fabriekspoort - ‘cradle to gate’. 
 
 - **A4**: Transport bouwplaats: Deze module betreft het transport naar de bouwplaats.
