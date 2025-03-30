@@ -107,8 +107,38 @@ Sowieso is het in de praktijk handig om een MPG op te splitsen in losse deelbudg
 ## Stappenplan
 
 1. Teken de draagconstructie 
-2. Bepaal de materialen en producten
+2. Maak een overzicht van de producten en/of materialen:
+
+Product 1: MKI glas = €8.50 /m<sup>2</sup>, afmeting = 6 m2, levensduur = 30 jaar.
+Product 2: ...enzovoort
+
 3. Dimensioneer met vuistregels
 4. Zoek de MKI waardes van de gebruikte materialen
+
+Levensduur gebouw = 50 jaar
+MKI product 1 = €8.50/m2 x 6 m2 x 50jr/30jr = €85,-
+MKI product 2 ...enzovoort
+
+De MKI van het totale gevelfragment bepaal je door de MKI scores van alle producten bij elkaar op te tellen.
+
 5. Bepaal de totale MKI waarde (sommatie)
 6. Reken het om naar MPG deelscore (euro per vierkante meter per jaar)
+
+Formule:
+(MKI van gevelfragment/m2 x m2 van de totale gevel) / (BVO x levensduur van het gebouw)
+
+
+7. Bereken de MPG van het hele gebouw en beoordeel of je aan de wet voldoet
+Formule:
+Antwoord uit 6 + €0,60 <= 0,80
+
+
+8. Probeer verbeteringen door te voeren om in ieder geval onder de €0,15 per m2 BVO.jr voor de gevel te blijven.
+
+Technieken die daarbij vaak gebruikt worden zijn:
+- Minder glas, want om glas te produceren wordt veel CO2 uitgestoten.
+- Milieuvriendelijkere producten kiezen.
+- Minder materiaal gebruiken.
+- Minder losse producten door funces van producten te combineren, zoals een houtskeletbouw element zowel een construceve als een isolerende funce hee=. Nadeel van deze laatste methode is
+dat materialen soms teveel met elkaar verweven worden en bij einde leven moeilijker te scheiden en
+te recyclen zijn.
