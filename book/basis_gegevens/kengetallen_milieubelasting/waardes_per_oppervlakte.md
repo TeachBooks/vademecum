@@ -75,6 +75,17 @@ Gecoate stalen dakplaat of liner tray die het structurele component vormt van ee
 *Bron: Milieudatabase.nl*
 
 
+## houten kanaalplaatvloer
+
+De gegevens voor een houtskeletbouw frame voor vloerelementen kunnen gezien worden als een houten kanaalplaatvloer. Het frame is opgebouwd uit houten stijl- en regelwerk van 38 x 220mm (de 220mm is schaalbaar van 180mm tot 286mm) Het frame heeft een onderlinge stijlafstand van h.o.h. 600mm.
+
+| omschrijving | MKI A1 [€/m$^2$] |  MKI A2 [€/m$^2$] | referentie periode |
+|---|---|---|---|
+| HSB vloerelement 220 mm | 0,59 | 1,70 | 500 jaar|
+
+*Bron: Milieudatabase.nl*
+
+
 ## CLT vloer/wand
 
 Massieve houten plaatelementen voor gebruik als dragende of niet-dragende structurele elementen in gebouwen. Kruisgelamineerd hout, naaldhout (Europees vuren of gelijkwaardig naaldhout) uit duurzaam beheerde bossen, 10 cm dik (verkrijgbaar van 60 tot 360 mm dikte)
@@ -91,6 +102,17 @@ Massieve houten plaatelementen voor gebruik als dragende of niet-dragende struct
 *Bron: Milieudatabase.nl*
 
 
+## HSB wand
+
+Een binnenwand met een houtskeletbouw-frame van vurenhout en dubbelzijdig afgewerkt met gipsvezelplaten. De binnenwand is standaard 95 mm dik. De maximale hoogte is 3.600 mm en de lengte maximaal 8.000 mm.
+
+| omschrijving | MKI A1 [€/m$^2$] |  MKI A2 [€/m$^2$] | referentie periode |
+|---|---|---|---|
+| binnenwand | 1,54 | 2,82 | 75 jaar|
+
+*Bron: Milieudatabase.nl*
+
+
 ## kalkzandsteen wand
 
 De Calduran kalkzandsteen elementen hebben een referentiedikte van 100 mm (B) en een druksterkteklasse CS12 of CS20. Afwijkende diktes en diverse combinaties van afmetingen voor deze blokken zijn beschikbaar (538-648*997mm (H*L)). Raadpleeg hiervoor de technische specificaties op de website van Calduran. De elementen zijn onder andere geschikt voor dragende en niet-dragende binnenspouwbladen en binnenwanden, die naderhand afgewerkt kunnen worden. Ze worden verwerkt met een dunne laag lijmmortel. Het product is inclusief de lijmmortel van de lijmblokken, exclusief afwerking (stucwerk) en eventuele bevestigingsmiddelen.
@@ -103,16 +125,5 @@ De Calduran kalkzandsteen elementen hebben een referentiedikte van 100 mm (B) en
 | 150 mm | 2,30 | 4,50 | 999 jaar|
 | 200 mm | 3,06 | 6,00 | 999 jaar|
 | 214 mm | 3,27 | 6,42 | 999 jaar|
-
-*Bron: Milieudatabase.nl*
-
-
-## HSB wand
-
-Een binnenwand met een houtskeletbouw-frame van vurenhout en dubbelzijdig afgewerkt met gipsvezelplaten. De binnenwand is standaard 95 mm dik. De maximale hoogte is 3.600 mm en de lengte maximaal 8.000 mm.
-
-| omschrijving | MKI A1 [€/m$^2$] |  MKI A2 [€/m$^2$] | referentie periode |
-|---|---|---|---|
-| binnenwand | 1,54 | 2,82 | 75 jaar|
 
 *Bron: Milieudatabase.nl*
