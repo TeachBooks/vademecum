@@ -81,7 +81,15 @@ De gegevens voor een houtskeletbouw frame voor vloerelementen kunnen gezien word
 
 | omschrijving | MKI A1 [€/m$^2$] |  MKI A2 [€/m$^2$] | referentie periode |
 |---|---|---|---|
-| HSB vloerelement 220 mm | 0,59 | 1,70 | 500 jaar|
+| HSB vloerelement 160 mm | 0,43 | 1,70 | 500 jaar|
+| HSB vloerelement 200 mm | 0,54 | 1,70 | 500 jaar|
+| HSB vloerelement 240 mm | 0,64 | 1,70 | 500 jaar|
+| HSB vloerelement 280 mm | 0,75 | 1,70 | 500 jaar|
+| HSB vloerelement 320 mm | 0,86 | 1,70 | 500 jaar|
+| HSB vloerelement 360 mm | 0,97 | 1,70 | 500 jaar|
+| HSB vloerelement 400 mm | 1,07 | 1,70 | 500 jaar|
+| HSB vloerelement 440 mm | 1,18 | 1,70 | 500 jaar|
+| HSB vloerelement 480 mm | 1,29 | 1,70 | 500 jaar|
 
 *Bron: Milieudatabase.nl*
 
