@@ -1,4 +1,4 @@
-# Teken instructies
+# Tekeninstructies
 
 In dit hoofdstuk zijn de teken regels en -conventies voor constructies van gebouwen beschreven.
 
