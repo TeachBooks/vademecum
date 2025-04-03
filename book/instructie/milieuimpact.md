@@ -1,4 +1,4 @@
-# Milieu impact
+# Milieuimpact
 
 Bij allerlei processen in de bouw vinden emissies plaats. Dat kan bijvoorbeeld CO2 zijn bij de verbranding van diesel, maar ook roet en giftige stoffen bij de hoogoven. Deze kunnen verschillende milieu-impacts hebben, zoals klimaatverandering of toxiciteit voor mensen en ecosystemen. Ook kunnen er grondstoffen worden gewonnen uit het milieu, zoals de winning van ijzererts of aardolie. Het gaat hierbij puur om de winning uit de natuur, niet om het mijn bouwproces zelf, want dat is één van de stappen in de levenscyclus. Door winning van grondstoffen wordt de voorraad van deze grondstoffen een heel klein beetje schaarser, waardoor het duurder wordt om grondstoffen in de toekomst te winnen. Dit wordt ook beschouwd als een milieu-impact.
 
@@ -69,9 +69,9 @@ Om milieukosten van materialen of producten te kunnen berekenen is een ‘milieu
 
 ## MPG (milieuprestatie gebouw)
 
-Met een MPG-berekening maak je eigenlijk een levenscyclusanalyse (LCA) van een heel gebouw, net zoals een MKI-score een LCA-score van een product is. Een gebouw bestaat uit verschillende producten en materialen (zoals kozijnen, vloeren en het dak), dus je kunt de LCA van een heel gebouw opknippen in deelberekeningen met een LCA voor elk bouwelement, -product of bouwmateriaal.
+Met een MPG-berekening maak je eigenlijk een levenscyclusanalyse (LCA) van een heel gebouw, net zoals een MKI-score een LCA-score van een product is. De MPG wordt aangeduid in euro per vierkante meter bruto vloeroppervlak (BVO) per jaar (€/(m<sup>2</sup>⋅jr)). De referentiperiode voor nieuwbouw is 50 jaar voor kantoren en 75 jaar voor woningen. Een gebouw bestaat uit verschillende producten en materialen (zoals kozijnen, vloeren en het dak), dus je kunt de LCA van een heel gebouw opknippen in deelberekeningen met een LCA voor elk bouwelement, -product of bouwmateriaal.
 
-De MPG kan dus heel goed gebruikt worden om de milieubelasting van bouwmaterialen bespreekbaar te maken, bijvoorbeeld met een opdrachtgever. Ook kan het helpen bij het maken van ontwerpkeuzes, zoals de keuze van een materiaal (bijvoorbeeld gevelbekleding) of een product (bijvoorbeeld circulair glas), of bij de detaillering van het gebouw. En deze methode is ook geschikt bevonden om op te nemen in de bouwregelgeving (BBL): De maximale MPG voor een nieuw woongebouw is op dit moment 0,8, en voor een nieuw kantoorpand 1,0. In de toekomst zal deze eis aangescherpt worden, wat zou moeten leiden tot een stimulering om de milieubelasting van gebouwen (en van bouwproducten) te verlagen.
+De MPG kan dus heel goed gebruikt worden om de milieubelasting van bouwmaterialen bespreekbaar te maken, bijvoorbeeld met een opdrachtgever. Ook kan het helpen bij het maken van ontwerpkeuzes, zoals de keuze van een materiaal (bijvoorbeeld gevelbekleding) of een product (bijvoorbeeld circulair glas), of bij de detaillering van het gebouw. En deze methode is ook geschikt bevonden om op te nemen in de bouwregelgeving (BBL): De maximale MPG voor een nieuw woongebouw is op dit moment 0,80 €/(m<sup>2</sup>⋅jr), en voor een nieuw kantoorpand 1,00 €/(m<sup>2</sup>⋅jr). In de toekomst zal deze eis aangescherpt worden, wat zou moeten leiden tot een stimulering om de milieubelasting van gebouwen (en van bouwproducten) te verlagen.
 
 Dit is natuurlijk een enorme simplificering van de werkelijke milieu-impact. De MPG is dan ook vooral bedoeld als een indicator voor de milieubelasting van bouwmaterialen, en niet als keiharde waarheid; het is daardoor een ontwerptool.
 
@@ -86,9 +86,9 @@ De MPG voor nieuwbouw kantoren moet lager zijn dan €1,- /m2 .jr. Bij nieuwbouw
 ### Deelbudgetten 
 
 
-De gevel is maar één deel van de totale MPG. Je zult, om de gevel te kunnen vergelijken met de wettelijke norm, een aanname moeten doen voor de overige producten in het gebouw die buiten deze opgave vallen. Je hoeft dat niet te berekenen. Hieronder staat hoe je daar een verantwoorde aanname in kunt maken. Een grove vuistregel is dat in de MPG constructie, installaties, gevel en inbouwpakket binnen ieder even zwaar meewegen, dus voor ieder een kwart. 
+De draagconstructie is maar één deel van de totale MPG. Je zult, om de gevel te kunnen vergelijken met de wettelijke norm, een aanname moeten doen voor de overige producten in het gebouw die buiten deze opgave vallen. Je hoeft dat niet te berekenen. Hieronder staat hoe je daar een verantwoorde aanname in kunt maken. Een grove vuistregel is dat in de MPG constructie, installaties, gevel en inbouwpakket binnen ieder even zwaar meewegen, dus voor ieder een kwart. 
 
-De opsplitsing van het totale beschikbare budget van €0,80 /m2 .jr in deelbudgetten voor woongebouwen is:
+De opsplitsing van het totale beschikbare budget van 0,80 €/(m<sup>2</sup>⋅jr) in deelbudgetten voor woongebouwen is:
 
 - €0,20 /m2 .jr constructiedeel
 - €0,20 /m2 .jr installatiedeel
@@ -104,41 +104,40 @@ Sowieso is het in de praktijk handig om een MPG op te splitsen in losse deelbudg
 `````
 
 
-## Stappenplan
+## Stappenplan MPG-berekening draagconstructie
 
-1. Teken de draagconstructie 
-2. Maak een overzicht van de producten en/of materialen:
+1. Teken de draagconstructieplattegronden en axo (zie hoofdstuk tekeninstructies)
 
-Product 1: MKI glas = €8.50 /m<sup>2</sup>, afmeting = 6 m2, levensduur = 30 jaar.
-Product 2: ...enzovoort
+2. Dimensioneer met vuistregels
 
-3. Dimensioneer met vuistregels
-4. Zoek de MKI waardes van de gebruikte materialen
+3. Maak een overzicht van de producten en/of materialen waarvan de MKI in €/m<sup>2</sup> zijn gegeven (zie hoofdstuk MKI)
 
-Levensduur gebouw = 50 jaar
-MKI product 1 = €8.50/m2 x 6 m2 x 50jr/30jr = €85,-
-MKI product 2 ...enzovoort
+**tabel**
+Product 1: MKI kanaalplaatvloer = 2,65 €/m<sup>2</sup>, afmeting = ... m<sup>2</sup>, levensduur = ... jaar.
 
-De MKI van het totale gevelfragment bepaal je door de MKI scores van alle producten bij elkaar op te tellen.
+4. Maak een overzicht van de producten en/of materialen waarvan de MKI in €/kg zijn gegeven (zie hoofdstuk MKI)
 
-5. Bepaal de totale MKI waarde (sommatie)
-6. Reken het om naar MPG deelscore (euro per vierkante meter per jaar)
+**tabel**
+Product 2: MKI ... = ... €/m<sup>2</sup>, afmeting = ... m<sup>2</sup>, levensduur = ... jaar.
+
+5. Bepaal de totale MKI waarde van de gehele draagconstructie door de MKI scores van alle producten bij elkaar op te tellen.
+
+6. Reken het om naar MPG deelscore (€/(m<sup>2</sup>⋅jr))
 
 Formule:
-(MKI van gevelfragment/m2 x m2 van de totale gevel) / (BVO x levensduur van het gebouw)
+totale MKI / (BVO x referentieperiode)
+
+7. Toets of de MPG waarde binnen de gestelde eis voor het deelbudget valt. Als dit niet het geval is, verbeter je ontwerp om te voldoen aan de MPG-eis.
+
+Neem als vuistregel aan dat het deelbudget van de draagconstructie 1/4 van de totale MPG-eis is.
 
 
-7. Bereken de MPG van het hele gebouw en beoordeel of je aan de wet voldoet
-Formule:
-Antwoord uit 6 + €0,60 <= 0,80
+`````{admonition} Tip
+:class: tip
+Probeer verbeteringen door te voeren om in ieder geval onder de 0,15 €/m<sup>2</sup>⋅jr voor de draagconstructie te blijven.
 
+- Probeer materiaalgebruik te reduceren door slimme gridmaten te kiezen. 
+- Kies materialen met een lage milieubelasting, bijvoorbeeld biobased materialen. (zie hoofdstuk MKI)
+- Voer een nauwkeurige berekening uit voor het bepalen van de afmetingen van de draagconstructie-onderdelen, en kijk waar de verdere reducties mogelijk zijn. De vuistregeld geven een conservatieve inschatting van de dimensies van de draagconstructie. Met een nauwkeurige berekening krijg je meer realistische waarden. 
 
-8. Probeer verbeteringen door te voeren om in ieder geval onder de €0,15 per m2 BVO.jr voor de gevel te blijven.
-
-Technieken die daarbij vaak gebruikt worden zijn:
-- Minder glas, want om glas te produceren wordt veel CO2 uitgestoten.
-- Milieuvriendelijkere producten kiezen.
-- Minder materiaal gebruiken.
-- Minder losse producten door funces van producten te combineren, zoals een houtskeletbouw element zowel een construceve als een isolerende funce hee=. Nadeel van deze laatste methode is
-dat materialen soms teveel met elkaar verweven worden en bij einde leven moeilijker te scheiden en
-te recyclen zijn.
+`````
