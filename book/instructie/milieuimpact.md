@@ -32,13 +32,13 @@ Categorieen MPG
 
 In een LCA wordt een product geanalyseerd van wieg tot graf (cradle-2-grave). Dat betekent dat alle processtappen voor de productie, transport, toepassing en afvalverwerking van dat product worden meegenomen in de analyse. 
 
-Een voorbeeld: **een stalen H-profiel**
-- Voor dit stalen profiel wordt de productie van de balk uit ruw staal meegenomen, 
-- maar ook de winning van het ijzererts, 
-- de productie van staal in een hoogoven, 
-- het transport van ijzererts naar de hoogoven, van hoogoven naar staalproducent en transport van het H-profiel naar de bouwplaats. 
-- Daarbij worden ook alle bijbehorende materialen en processen meegenomen, zoals de productie van de kolen voor de hoogoven en de productie van diesel voor het transport. 
-- Ook de afvalverwerking na gebruik wordt meegenomen, zoals hergebruik, recycling of afvalverbranding.
+> Een voorbeeld: **een stalen H-profiel**
+> - Voor dit stalen profiel wordt de productie van de balk uit ruw staal meegenomen, 
+> - maar ook de winning van het ijzererts, 
+> - de productie van staal in een hoogoven, 
+> - het transport van ijzererts naar de hoogoven, van hoogoven naar staalproducent en transport van het H-profiel naar de bouwplaats. 
+> - Daarbij worden ook alle bijbehorende materialen en processen meegenomen, zoals de productie van de kolen voor de hoogoven en de productie van diesel voor het transport. 
+> - Ook de afvalverwerking na gebruik wordt meegenomen, zoals hergebruik, recycling of afvalverbranding.
 
 
 ```{figure} ../Images/LCAafbeelding.png
@@ -80,7 +80,7 @@ Dit is natuurlijk een enorme simplificering van de werkelijke milieu-impact. De 
 
 ### Bouwbesluit EN15804
 
-De MPG voor nieuwbouw kantoren moet lager zijn dan €1,- /m2 .jr. Bij nieuwbouw van woningen of woongebouwen ligt de grens op €0,80 /m2 .jr. Voor de ingang van de nieuwe Omgevingswet op 1 januari 2024 kon je dit vinden in het Bouwbesluit 2012, afdeling 5.2 milieu nieuwbouw, artikel 5.9 duurzaam bouwen. Tegenwoordig staat dit in de BBL (Besluit bouwwerken leefomgeving). De waarden zijn nog steeds gelijk. Nalezen kan via deze [link](https://iplo.nl/regelgeving/regels-voor-activiteiten/technische-bouwactiviteit/nieuwbouw/rijksregels/milieuprestatie/).
+De MPG voor nieuwbouw kantoren moet lager zijn dan 1,00 €/(m<sup>2</sup>⋅jr). Bij nieuwbouw van woningen of woongebouwen ligt de grens op 0,80 €/(m<sup>2</sup>⋅jr). Voor de ingang van de nieuwe Omgevingswet op 1 januari 2024 kon je dit vinden in het Bouwbesluit 2012, afdeling 5.2 milieu nieuwbouw, artikel 5.9 duurzaam bouwen. Tegenwoordig staat dit in de BBL (Besluit bouwwerken leefomgeving). De waarden zijn nog steeds gelijk. Nalezen kan via deze [link](https://iplo.nl/regelgeving/regels-voor-activiteiten/technische-bouwactiviteit/nieuwbouw/rijksregels/milieuprestatie/).
 
 
 ### Deelbudgetten 
@@ -90,12 +90,12 @@ De draagconstructie is maar één deel van de totale MPG. Je zult, om de gevel t
 
 De opsplitsing van het totale beschikbare budget van 0,80 €/(m<sup>2</sup>⋅jr) in deelbudgetten voor woongebouwen is:
 
-- €0,20 /m2 .jr constructiedeel
-- €0,20 /m2 .jr installatiedeel
-- €0,20 /m2 .jr gevel 
-- €0,20 /m2 .jr inbouwpakket         +
+- 0,20 €/(m<sup>2</sup>⋅jr) constructiedeel
+- 0,20 €/(m<sup>2</sup>⋅jr) installatiedeel
+- 0,20 €/(m<sup>2</sup>⋅jr) gevel 
+- 0,20 €/(m<sup>2</sup>⋅jr) inbouwpakket         +
 ----------------------------------------
-- €0,80 / m2 .jr totaal woongebouw
+- 0,80 €/(m<sup>2</sup>⋅jr) totaal woongebouw
 
 
 `````{admonition} Tip
@@ -106,28 +106,48 @@ Sowieso is het in de praktijk handig om een MPG op te splitsen in losse deelbudg
 
 ## Stappenplan MPG-berekening draagconstructie
 
-1. Teken de draagconstructieplattegronden en axo (zie hoofdstuk tekeninstructies)
+<br>
 
-2. Dimensioneer met vuistregels
+**Stap 1.** Teken de draagconstructieplattegronden en axo (zie hoofdstuk [tekeninstructies](../instructie/teken_instructies/teken_instructies_intro.md))
 
-3. Maak een overzicht van de producten en/of materialen waarvan de MKI in €/m<sup>2</sup> zijn gegeven (zie hoofdstuk MKI)
+<br>
 
-**tabel**
-Product 1: MKI kanaalplaatvloer = 2,65 €/m<sup>2</sup>, afmeting = ... m<sup>2</sup>, levensduur = ... jaar.
+**Stap 2.** Dimensioneer met vuistregels
 
-4. Maak een overzicht van de producten en/of materialen waarvan de MKI in €/kg zijn gegeven (zie hoofdstuk MKI)
+<br>
 
-**tabel**
-Product 2: MKI ... = ... €/m<sup>2</sup>, afmeting = ... m<sup>2</sup>, levensduur = ... jaar.
+**Stap 3.** Maak een overzicht van de producten en/of materialen waarvan de MKI in €/m<sup>2</sup> zijn gegeven (zie hoofdstuk [kengetallen milieubelasting](../basis_gegevens/kengetallen_milieubelasting/kengetallen_milieubelasting_intro.md))
 
-5. Bepaal de totale MKI waarde van de gehele draagconstructie door de MKI scores van alle producten bij elkaar op te tellen.
+|   | Omschrijving constructie element | Oppervlakte/verdieping [m<sup>2</sup>] | Aantal lagen [-] | MKI [€/m<sup>2</sup>] | Totale MKI [€] | % totaal |
+|---|---|---|---|---|---|---|
+| Dak/Vloeren | Kanaalplaatvloer w150 A = 0,11 m<sup>2</sup> | ... | ... | 2,65 | ... | ... |
+| Constructieve wanden | 150 mm gewapend beton | ... | ... | 6,57 | ... | ... |
 
-6. Reken het om naar MPG deelscore (€/(m<sup>2</sup>⋅jr))
+<br>
 
-Formule:
-totale MKI / (BVO x referentieperiode)
+**Stap 4.** Maak een overzicht van de producten en/of materialen waarvan de MKI in €/kg zijn gegeven (zie hoofdstuk [kengetallen milieubelasting](../basis_gegevens/kengetallen_milieubelasting/kengetallen_milieubelasting_intro.md))
 
-7. Toets of de MPG waarde binnen de gestelde eis voor het deelbudget valt. Als dit niet het geval is, verbeter je ontwerp om te voldoen aan de MPG-eis.
+|   | Omschrijving constructie element | Gewicht [kg/m] | Lengte per element [m] | Totaal aantal gebouw [-] | MKI [€/kg] | Totale MKI [€] | % totaal |
+|---|---|---|---|---|---|---|---|
+| Kolommen | SHS 250 x 250 x 6 | ... | ... | ... | 0,12 | ... | ... |
+| Liggers | HEA260 | ... | ... | ... | 0,12 | ... | ... |
+| Fundering | Funderingsbalk (600 x 300 mm) | ... | ... | ... | 0,018 | ... | ... |
+
+<br>
+
+**Stap 5.** Bepaal de totale MKI waarde van de gehele draagconstructie door de MKI scores van alle producten bij elkaar op te tellen.
+
+<br>
+
+**Stap 6.** Reken het om naar MPG deelscore (€/(m<sup>2</sup>⋅jr))
+
+$
+MPG = \frac{totale MKI}{BVO \times referentieperiode}
+$
+
+<br>
+
+**Stap 7.** Toets of de MPG waarde binnen de gestelde eis voor het deelbudget valt. Als dit niet het geval is, verbeter je ontwerp om te voldoen aan de MPG-eis.
 
 Neem als vuistregel aan dat het deelbudget van de draagconstructie 1/4 van de totale MPG-eis is.
 
