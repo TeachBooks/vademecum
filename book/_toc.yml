@@ -7,14 +7,28 @@ parts:
   - caption: Instructies
     numbered: 2
     chapters:
-    - file: instructie/sterkte_stijfheid_stabiliteit
-    - file: instructie/veiligheidsfilosofie_en_belastingcombinaties
+    - file: instructie/sterkte_stijfheid_stabiliteit_intro.md
+      sections:
+      - file: instructie/sterkte_stijfheid_stabiliteit/sterkte_stijfheid.md
+      - file: instructie/sterkte_stijfheid_stabiliteit/stabiliteit.md
+    - file: instructie/belastingcombinaties_intro.md
+      sections:
+      - file: instructie/belastingcombinaties/uiterste_grenstoestand.md
+      - file: instructie/belastingcombinaties/bruikbaarheidsgrenstoestand.md
     - file: instructie/ontwerpen_van_draagconstructies
     - file: instructie/teken_instructies/teken_instructies_intro
       sections:
       - file: instructie/teken_instructies/lijnsoorten_arcering
       - file: instructie/teken_instructies/constructie_tekeningen
-    - file: instructie/milieuimpact.md
+    - file: instructie/milieuimpact_intro.md
+      sections:
+      - file: instructie/milieuimpact/categorie.md
+      - file: instructie/milieuimpact/lca.md
+      - file: instructie/milieuimpact/mki.md
+      - file: instructie/milieuimpact/mpg.md
+      - file: instructie/milieuimpact/regelgeving.md
+      - file: instructie/milieuimpact/stappenplan.md
+    
 
 
   - caption: Vuistregels
