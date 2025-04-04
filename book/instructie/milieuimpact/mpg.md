@@ -1,0 +1,7 @@
+# MPG (milieuprestatie gebouw)
+
+Met een MPG-berekening maak je eigenlijk een levenscyclusanalyse (LCA) van een heel gebouw, net zoals een MKI-score een LCA-score van een product is. De MPG wordt aangeduid in euro per vierkante meter bruto vloeroppervlak (BVO) per jaar (€/(m<sup>2</sup>⋅jr)). De referentiperiode voor nieuwbouw is 50 jaar voor kantoren en 75 jaar voor woningen. Een gebouw bestaat uit verschillende producten en materialen (zoals kozijnen, vloeren en het dak), dus je kunt de LCA van een heel gebouw opknippen in deelberekeningen met een LCA voor elk bouwelement, -product of bouwmateriaal.
+
+De MPG kan dus heel goed gebruikt worden om de milieubelasting van bouwmaterialen bespreekbaar te maken, bijvoorbeeld met een opdrachtgever. Ook kan het helpen bij het maken van ontwerpkeuzes, zoals de keuze van een materiaal (bijvoorbeeld gevelbekleding) of een product (bijvoorbeeld circulair glas), of bij de detaillering van het gebouw. En deze methode is ook geschikt bevonden om op te nemen in de bouwregelgeving (BBL): De maximale MPG voor een nieuw woongebouw is op dit moment 0,80 €/(m<sup>2</sup>⋅jr), en voor een nieuw kantoorpand 1,00 €/(m<sup>2</sup>⋅jr). In de toekomst zal deze eis aangescherpt worden, wat zou moeten leiden tot een stimulering om de milieubelasting van gebouwen (en van bouwproducten) te verlagen.
+
+Dit is natuurlijk een enorme simplificering van de werkelijke milieu-impact. De MPG is dan ook vooral bedoeld als een indicator voor de milieubelasting van bouwmaterialen, en niet als keiharde waarheid; het is daardoor een ontwerptool.
