@@ -8,11 +8,11 @@ parts:
   - caption: Instructies
     numbered: 2
     chapters:
-    - file: instructie/sterkte_stijfheid_stabiliteit_intro
+    - file: instructie/sterkte_stijfheid_stabiliteit/sterkte_stijfheid_stabiliteit_intro
       sections:
       - file: instructie/sterkte_stijfheid_stabiliteit/sterkte_stijfheid
       - file: instructie/sterkte_stijfheid_stabiliteit/stabiliteit
-    - file: instructie/belastingcombinaties_intro
+    - file: instructie/belastingcombinaties/belastingcombinaties_intro
       sections:
       - file: instructie/belastingcombinaties/uiterste_grenstoestand
       - file: instructie/belastingcombinaties/bruikbaarheidsgrenstoestand
@@ -21,7 +21,7 @@ parts:
       sections:
       - file: instructie/teken_instructies/lijnsoorten_arcering
       - file: instructie/teken_instructies/constructie_tekeningen
-    - file: instructie/milieuimpact_intro
+    - file: instructie/milieuimpact/milieuimpact_intro
       sections:
       - file: instructie/milieuimpact/categorie
       - file: instructie/milieuimpact/lca
