@@ -8,27 +8,27 @@ parts:
   - caption: Instructies
     numbered: 2
     chapters:
-    - file: instructie/sterkte_stijfheid_stabiliteit_intro.md
+    - file: instructie/sterkte_stijfheid_stabiliteit_intro
       sections:
-      - file: instructie/sterkte_stijfheid_stabiliteit/sterkte_stijfheid.md
-      - file: instructie/sterkte_stijfheid_stabiliteit/stabiliteit.md
-    - file: instructie/belastingcombinaties_intro.md
+      - file: instructie/sterkte_stijfheid_stabiliteit/sterkte_stijfheid
+      - file: instructie/sterkte_stijfheid_stabiliteit/stabiliteit
+    - file: instructie/belastingcombinaties_intro
       sections:
-      - file: instructie/belastingcombinaties/uiterste_grenstoestand.md
-      - file: instructie/belastingcombinaties/bruikbaarheidsgrenstoestand.md
+      - file: instructie/belastingcombinaties/uiterste_grenstoestand
+      - file: instructie/belastingcombinaties/bruikbaarheidsgrenstoestand
     - file: instructie/ontwerpen_van_draagconstructies
     - file: instructie/teken_instructies/teken_instructies_intro
       sections:
       - file: instructie/teken_instructies/lijnsoorten_arcering
       - file: instructie/teken_instructies/constructie_tekeningen
-    - file: instructie/milieuimpact_intro.md
+    - file: instructie/milieuimpact_intro
       sections:
-      - file: instructie/milieuimpact/categorie.md
-      - file: instructie/milieuimpact/lca.md
-      - file: instructie/milieuimpact/mki.md
-      - file: instructie/milieuimpact/mpg.md
-      - file: instructie/milieuimpact/regelgeving.md
-      - file: instructie/milieuimpact/stappenplan.md
+      - file: instructie/milieuimpact/categorie
+      - file: instructie/milieuimpact/lca
+      - file: instructie/milieuimpact/mki
+      - file: instructie/milieuimpact/mpg
+      - file: instructie/milieuimpact/regelgeving
+      - file: instructie/milieuimpact/stappenplan
 
 
   - caption: Vuistregels
@@ -58,9 +58,9 @@ parts:
       - file: ontwerp/beton/wanden
       - file: ontwerp/beton/kolommen
       - file: ontwerp/beton/verbindingen
-    - file: ontwerp/metselwerk/metselwerk_intro.md
+    - file: ontwerp/metselwerk/metselwerk_intro
       sections:
-      - file: ontwerp/metselwerk/kalkzandsteen.md
+      - file: ontwerp/metselwerk/kalkzandsteen
 
 
   - caption: Basis gegevens
@@ -81,22 +81,22 @@ parts:
       - file: basis_gegevens/belastingen/veranderlijke_belastingen_3
       - file: basis_gegevens/belastingen/veranderlijke_belastingen_4
       - file: basis_gegevens/belastingen/bruikbaarheidscriteria
-    - file: basis_gegevens/materiaaleigenschappen/materiaaleigenschappen_intro.md
+    - file: basis_gegevens/materiaaleigenschappen/materiaaleigenschappen_intro
       sections:
-      - file: basis_gegevens/materiaaleigenschappen/staal.md
-      - file: basis_gegevens/materiaaleigenschappen/hout.md
-      - file: basis_gegevens/materiaaleigenschappen/beton.md
-      - file: basis_gegevens/materiaaleigenschappen/betonstaal.md
-    - file: basis_gegevens/dimensietabellen/dimensietabellen_intro.md
+      - file: basis_gegevens/materiaaleigenschappen/staal
+      - file: basis_gegevens/materiaaleigenschappen/hout
+      - file: basis_gegevens/materiaaleigenschappen/beton
+      - file: basis_gegevens/materiaaleigenschappen/betonstaal
+    - file: basis_gegevens/dimensietabellen/dimensietabellen_intro
       sections:
-      - file: basis_gegevens/dimensietabellen/staal.md
-      - file: basis_gegevens/dimensietabellen/hout.md
-      - file: basis_gegevens/dimensietabellen/beton.md
-      - file: basis_gegevens/dimensietabellen/betonstaal.md
-    - file: basis_gegevens/kengetallen_milieubelasting/kengetallen_milieubelasting_intro.md
+      - file: basis_gegevens/dimensietabellen/staal
+      - file: basis_gegevens/dimensietabellen/hout
+      - file: basis_gegevens/dimensietabellen/beton
+      - file: basis_gegevens/dimensietabellen/betonstaal
+    - file: basis_gegevens/kengetallen_milieubelasting/kengetallen_milieubelasting_intro
       sections:
-      - file: basis_gegevens/kengetallen_milieubelasting/waardes_per_kg.md
-      - file: basis_gegevens/kengetallen_milieubelasting/waardes_per_oppervlakte.md
+      - file: basis_gegevens/kengetallen_milieubelasting/waardes_per_kg
+      - file: basis_gegevens/kengetallen_milieubelasting/waardes_per_oppervlakte
 
 
   - caption: Voorbeelden
@@ -112,7 +112,7 @@ parts:
         - file: voorbeelden/staal/ligger
         - file: voorbeelden/staal/vloer
       - file: voorbeelden/staal/milieu_impact_berekening
-    - file: voorbeelden/hout/hout_intro.md
+    - file: voorbeelden/hout/hout_intro
       sections:
       - file: voorbeelden/hout/tekeningen
       - file: voorbeelden/hout/details
