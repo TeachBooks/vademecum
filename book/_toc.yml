@@ -3,32 +3,32 @@ root: intro
 options:
   numbered: 2
 
+
 parts:
   - caption: Instructies
     numbered: 2
     chapters:
     - file: instructie/sterkte_stijfheid_stabiliteit_intro
       sections:
-      - file: instructie/sterkte_stijfheid_stabiliteit/sterkte_stijfheid
-      - file: instructie/sterkte_stijfheid_stabiliteit/stabiliteit
+        - file: instructie/sterkte_stijfheid_stabiliteit/sterkte_stijfheid
+        - file: instructie/sterkte_stijfheid_stabiliteit/stabiliteit
     - file: instructie/belastingcombinaties_intro
       sections:
-      - file: instructie/belastingcombinaties/uiterste_grenstoestand
-      - file: instructie/belastingcombinaties/bruikbaarheidsgrenstoestand
+        - file: instructie/belastingcombinaties/uiterste_grenstoestand
+        - file: instructie/belastingcombinaties/bruikbaarheidsgrenstoestand
     - file: instructie/ontwerpen_van_draagconstructies
     - file: instructie/teken_instructies/teken_instructies_intro
       sections:
-      - file: instructie/teken_instructies/lijnsoorten_arcering
-      - file: instructie/teken_instructies/constructie_tekeningen
+        - file: instructie/teken_instructies/lijnsoorten_arcering
+        - file: instructie/teken_instructies/constructie_tekeningen
     - file: instructie/milieuimpact_intro
       sections:
-      - file: instructie/milieuimpact/categorie
-      - file: instructie/milieuimpact/lca
-      - file: instructie/milieuimpact/mki
-      - file: instructie/milieuimpact/mpg
-      - file: instructie/milieuimpact/regelgeving
-      - file: instructie/milieuimpact/stappenplan
-    
+        - file: instructie/milieuimpact/categorie
+        - file: instructie/milieuimpact/lca
+        - file: instructie/milieuimpact/mki
+        - file: instructie/milieuimpact/mpg
+        - file: instructie/milieuimpact/regelgeving
+        - file: instructie/milieuimpact/stappenplan
 
 
   - caption: Vuistregels
