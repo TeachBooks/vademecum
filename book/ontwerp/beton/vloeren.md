@@ -79,7 +79,6 @@ Voorgespannen, prefab vloerbalksysteem voor grote overspanningen en grote vloerl
 
 ## Bekistingsplaatvloer (breedplaatvloer)
 
-
 ```{figure} ImagesBeton/2.4.1_betonconstructies_bekistingsplaatvloer_1.png
 ---
 scale: 50%
@@ -115,7 +114,7 @@ Leidingen kunnen worden ingestort en de constructieve druklaag kan van zowel een
 
 ```{figure} ImagesBeton/2.4.1betonconstructies_dycorebekisting1.png
 ---
-scale: 50%
+scale: 0%
 ---
 Bekistingsplaatvloer Details
 ```
@@ -132,8 +131,6 @@ Aansluitdetails Bekistingsplaatvloer
 
 ## Kanaalplaatvloer
 
-
-
 ```{figure} ImagesBeton/2.4.1betonconstructies_Tekengebied1.png
 ---
 scale: 50%
@@ -142,6 +139,7 @@ Kanaalplaatvloer
 ```
 
 Kanaalplaatvloeren zijn fabrieksmatig vervaardigde vrijdragende woningscheidende plaatvloeren voor gestapelde woningbouw en de utiliteitsbouw. Deze holle vloerplaten zijn eenzijdig voorgespannen en worden volledig geprefabriceerd. Hiermee wordt een aanzienlijke gewichtsreductie behaald ten opzichte van de massieve vloer, wat kan oplopen tot circa 50%. Door deze gewichtsbesparing kan het totaalgewicht van de draagconstructie aanzienlijk worden verminderd. 
+
 
 **Uitgangspunten voor de toepassing van deze vloer zijn:**
 - Geen sparingen.
@@ -154,16 +152,8 @@ Kanaalplaatvloeren zijn fabrieksmatig vervaardigde vrijdragende woningscheidende
 
 - [www.vbi.nl](http://www.vbi.nl)
 - [www.dycore.nl](http://www.dycore.nl)
-- [www.heembetonvloersystemen.nl](http://www.heembetonvloersystemen.nl)
-
-
-### Toepassingen
-
-In alle gebouwen kunnen kanaalplaten toegepast worden als vloerelementen en dakvloeren. Leidingen en uitsparingen zijn eenvoudig in de fabricage mee te nemen. Interessant is de combinatie met hoedliggers.  
-
-- [www.vbi.nl](http://www.vbi.nl)  
-- [www.dycore.nl](http://www.dycore.nl)  
 - [www.belton.nl/_betonboek/deel5-3-1.pdf](http://www.belton.nl/_betonboek/deel5-3-1.pdf)
+- [www.heembetonvloersystemen.nl](http://www.heembetonvloersystemen.nl)
 
 
 In tegenstelling tot wat men zou verwachten, bieden kanaalplaten ook mogelijkheden voor vrije plattegrondvormen. Niet alleen de in de woningbouw en kantoorbouw bekende rechthoekige plattegrond zijn mogelijk, maar ook rondvormen en afschuinende vlakken. Het is belangrijk te realiseren dat kanaalplaten onder een hoek zijn af te zagen. Onderstaand enkele legplannen van kanaalplaten voor vloeren met afwijkende vormen. De tussenruimtes (grijze arcering in onderstaande tekeningen) worden bekist, gewapend en aangestort.
@@ -186,7 +176,7 @@ De grafiek is een indicatie van de toelaatbare gelijkmatig verdeelde belasting i
 ```{sidebar} Hoogte
 ```{figure} ImagesBeton/Betonvloerdiktes.jpeg
 ---
-scale: 30%
+scale: 20%
 ---
 ```
 
@@ -196,6 +186,7 @@ scale: 30%
 | Volumieke massa | 2400 kg/m³ |
 | Voorspanstaal | FeP 1860 |
 
+<br>
 
 | Type | Hoogte <br> h [mm] | Gewicht <br> G [kN/m²] | Voegen <br> [l/m] | Doorsnede <br> A [m²] | I<sub>zz</sub> x 10<sup>6</sup> <br> [mm⁴] | M<sub>br</sub> <br> [kNm] | max. lengte <br> [m] | pasplaten max. lengte <br> [m] |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -205,7 +196,6 @@ scale: 30%
 | T | 255 | 3,7 | 7,2 | 0,17 | 1364 | 290 | 12 | 9,3 |
 | H | 320 | 4,3 | 8,7 | 0,20 | 2517 | 436 | 15 | 11,5 |
 | K | 400 | 5,0 | 10,9 | 0,23 | 4625 | 593 | 18 | 14,4 |
-
 
 
 ### Uitvoeringsaspecten
@@ -247,7 +237,7 @@ Schijfwerking in kanaalplaatvloer.
 
 **Aansluitdetails (alle typen kanaalplaten)**
 
-| <img src="ImagesBeton/uitsnede1betonvloer.png" alt="1" class="bg-primary" width="200px"> | <img src="ImagesBeton/uitsnede2betonvloer.png" alt="2" class="bg-primary" width="200px"> | <img src="ImagesBeton/uitsnede3betonvloer.png" alt="3" class="bg-primary" width="250px"> |
+| <img src="ImagesBeton/uitsnede1betonvloer.png" alt="1" class="bg-primary" width="200px"> | <img src="ImagesBeton/uitsnede2betonvloer.png" alt="2" class="bg-primary" width="250px"> | <img src="ImagesBeton/uitsnede3betonvloer.png" alt="3" class="bg-primary" width="250px"> |
 |---|---|---|
 | Oplegging op spouwmuur | Bij woningscheidende wanden de <br> kanalen ter plaatse van alle vloer- <br> openingen zoals leidingdoorvoeren,<br> trapgaten, etc., afdichten met mortel, <br> minerale wol of kunststofschuim | Oplegging op console |
 
