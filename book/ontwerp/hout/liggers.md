@@ -43,15 +43,15 @@ De ontwerpgrafiek geldt voor:
             </tr>
             <tr>
                 <td>Verschijningsvormen</td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1.png" alt="1" style="background-color: white;" class="bg-primary" width="200px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-02.png" alt="2" style="background-color: white;" class="bg-primary" width="200px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-03.png" alt="3" style="background-color: white;" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1.png" alt="1" style="background-color: white;" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-02.png" alt="2" style="background-color: white;" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-03.png" alt="3" style="background-color: white;" width="200px"></td>
             </tr>
             <tr>
                 <td>Details</td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-04.png" alt="4" style="background-color: white;" class="bg-primary" width="200px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-05.png" alt="5" style="background-color: white;" class="bg-primary" width="200px"></td>
-                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-06.png" alt="6" style="background-color: white;" class="bg-primary" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-04.png" alt="4" style="background-color: white;" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-05.png" alt="5" style="background-color: white;" width="200px"></td>
+                <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-06.png" alt="6" style="background-color: white;" width="200px"></td>
             </tr>
             <tr>
                 <td></td>
@@ -63,9 +63,7 @@ De ontwerpgrafiek geldt voor:
     </table>
 </div>
 
-</body>
-</html>
-
+<br>
 
 <div style="overflow-y: auto;">
     <table style="width: 100%; border-collapse: collapse;">
