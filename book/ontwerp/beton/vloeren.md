@@ -183,11 +183,20 @@ De grafiek is een indicatie van de toelaatbare gelijkmatig verdeelde belasting i
 
 **Product Specificaties Dycore Kanaalplaatvloeren**
 
+
+
 | Kenmerk | Specificatie |
 | --- | --- |
 | Brandwerendheid | 60-90 minuten |
 | Volumieke massa | 2400 kg/m³ |
 | Voorspanstaal | FeP 1860 |
+
+```{sidebar} Hoogte
+```{figure} ImagesBeton/Betonvloerdiktes.jpeg
+---
+scale: 30%
+---
+```
 
 | Type | Hoogte <br> h [mm] | Gewicht <br> G [kN/m²] | Voegen <br> [l/m] | Doorsnede <br> A [m²] | I<sub>zz</sub> x 10<sup>6</sup> <br> [mm⁴] | M<sub>br</sub> <br> [kNm] | max. lengte <br> [m] | pasplaten max. lengte <br> [m] |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -197,6 +206,7 @@ De grafiek is een indicatie van de toelaatbare gelijkmatig verdeelde belasting i
 | T | 255 | 3,7 | 7,2 | 0,17 | 1364 | 290 | 12 | 9,3 |
 | H | 320 | 4,3 | 8,7 | 0,20 | 2517 | 436 | 15 | 11,5 |
 | K | 400 | 5,0 | 10,9 | 0,23 | 4625 | 593 | 18 | 14,4 |
+
 
 
 ### Uitvoeringsaspecten
