@@ -78,6 +78,18 @@ img:active {
 <br>
 
 <div style="overflow-y: auto;">
+<style>
+img {
+  border: none;
+  outline: none;
+}
+img:focus {
+  outline: none;
+}
+img:active {
+  outline: none;
+}
+</style>
     <table style="width: 100%; border-collapse: collapse;">
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
@@ -119,6 +131,18 @@ img:active {
 
 
 <div style="overflow-y: auto;">
+<style>
+img {
+  border: none;
+  outline: none;
+}
+img:focus {
+  outline: none;
+}
+img:active {
+  outline: none;
+}
+</style>
     <table style="width: 100%; border-collapse: collapse;">
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
@@ -160,6 +184,18 @@ img:active {
 
 
 <div style="overflow-y: auto;">
+<style>
+img {
+  border: none;
+  outline: none;
+}
+img:focus {
+  outline: none;
+}
+img:active {
+  outline: none;
+}
+</style>
     <table style="width: 100%; border-collapse: collapse;">
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
@@ -207,6 +243,18 @@ img:active {
 
 
 <div style="overflow-y: auto;">
+<style>
+img {
+  border: none;
+  outline: none;
+}
+img:focus {
+  outline: none;
+}
+img:active {
+  outline: none;
+}
+</style>
     <table style="width: 100%; border-collapse: collapse;">
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
@@ -254,6 +302,18 @@ img:active {
 
 
 <div style="overflow-y: auto;">
+<style>
+img {
+  border: none;
+  outline: none;
+}
+img:focus {
+  outline: none;
+}
+img:active {
+  outline: none;
+}
+</style>
     <table style="width: 100%; border-collapse: collapse;">
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
@@ -301,6 +361,18 @@ img:active {
 
 
 <div style="overflow-y: auto;">
+<style>
+img {
+  border: none;
+  outline: none;
+}
+img:focus {
+  outline: none;
+}
+img:active {
+  outline: none;
+}
+</style>
     <table style="width: 100%; border-collapse: collapse;">
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
@@ -348,6 +420,18 @@ img:active {
 
 
 <div style="overflow-y: auto;">
+<style>
+img {
+  border: none;
+  outline: none;
+}
+img:focus {
+  outline: none;
+}
+img:active {
+  outline: none;
+}
+</style>
     <table style="width: 100%; border-collapse: collapse;">
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
@@ -389,6 +473,18 @@ img:active {
 
 
 <div style="overflow-y: auto;">
+<style>
+img {
+  border: none;
+  outline: none;
+}
+img:focus {
+  outline: none;
+}
+img:active {
+  outline: none;
+}
+</style>
     <table style="width: 100%; border-collapse: collapse;">
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
@@ -436,6 +532,18 @@ img:active {
 
 
 <div style="overflow-y: auto;">
+<style>
+img {
+  border: none;
+  outline: none;
+}
+img:focus {
+  outline: none;
+}
+img:active {
+  outline: none;
+}
+</style>
     <table style="width: 100%; border-collapse: collapse;">
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
@@ -482,6 +590,18 @@ img:active {
 
 
 <div style="overflow-y: auto;">
+<style>
+img {
+  border: none;
+  outline: none;
+}
+img:focus {
+  outline: none;
+}
+img:active {
+  outline: none;
+}
+</style>
     <table style="width: 100%; border-collapse: collapse;">
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
@@ -528,6 +648,18 @@ img:active {
 
 
 <div style="overflow-y: auto;">
+<style>
+img {
+  border: none;
+  outline: none;
+}
+img:focus {
+  outline: none;
+}
+img:active {
+  outline: none;
+}
+</style>
     <table style="width: 100%; border-collapse: collapse;">
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
@@ -575,6 +707,18 @@ img:active {
 
 
 <div style="overflow-y: auto;">
+<style>
+img {
+  border: none;
+  outline: none;
+}
+img:focus {
+  outline: none;
+}
+img:active {
+  outline: none;
+}
+</style>
     <table style="width: 100%; border-collapse: collapse;">
         <thead style="position: sticky; top: 0; background-color: #f2f2f2;">
             <tr>
