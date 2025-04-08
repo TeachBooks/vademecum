@@ -11,4 +11,7 @@ Voordat je kunt beginnen met ontwerpen moet je eerst een duidelijke voorstelling
 
 Allereerst worden de belastingen, grenstoestanden en belastingcombinaties behandeld. Daarna komen de permanente en veranderlijke belastingen aan bod.
 
-> **Let op:** De informatie in dit hoofdstuk is een eenvoudige vertaling van de normen **NEN-EN 1990** en **NEN-EN 1991** met bijbehorende nationale bijlagen en is enkel geschikt voor ontwerppurpose, dus niet voor de toetsing van de constructieve veiligheid.
+`````{admonition} Let op
+:class: tip
+De informatie in dit hoofdstuk is een eenvoudige vertaling van de normen **NEN-EN 1990** en **NEN-EN 1991** met bijbehorende nationale bijlagen en is enkel geschikt voor ontwerppurpose, dus niet voor de toetsing van de constructieve veiligheid.
+`````

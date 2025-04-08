@@ -73,10 +73,10 @@ Indeling scope
  
 ## Referentieperiode 
 
-Door sommatie over alle fases uit de EN15804 wordt de totale milieu-impact per eenheid product over gehele levensloop verkregen.
+De referentieperiode van het product slaat op de verwachte levensduur van het product. Als de referentieperiode van het product kleiner is dan de referentieperiode van het gebouw (meestal is dat 50 jaar), dan zou je de MKI waardes dus meerdere keren moeten meenemen in de MPG berekening van het gebouw.
 
 
 `````{admonition} Let op!
 :class: tip
-De bepaling van de MKI en achterliggende weegset A2 is nog in beweging, dus de MKI’s zijn een momentopname.
+Onderdelen van de draagconstructie hebben in de regel een referentieperiode van 50 jaar of meer, omdat het niet logisch is om de draagconstructie van een gebouw te vervangen.
 `````

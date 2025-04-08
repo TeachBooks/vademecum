@@ -4,7 +4,7 @@
 
 Teken alleen de onderdelen die onderdeel zijn van de hoofddraagconstructie. Over het algemeen zijn dit de vloeren, balken, kolommen, dragende wanden en windverbanden.
 
-In de draagconstructie plattegrond, zie [Voorbeelden](../voorbeelden/staal/staal_intro.md), tekenen we de constructie waar we doorheen snijden (op ongeveer 1 meter boven de vloer) zoals bij een reguliere plattegrond, met de juiste arcering. De draagconstructie plattegrond is toch anders dan een reguliere plattegrond omdat we ook (vooral) de constructie onder de vloer tekenen. Omdat we deze constructie delen niet direct zien tekenen we die met een streeplijn. Vaak zullen bijvoorbeeld kolommen direct boven elkaar staan, dan zien we uiteraard de streeplijn niet meer, omdat we met een doorgetrokken lijn de doorgesneden kolom boven de vloer tekenen.
+In de draagconstructie plattegrond, zie [Voorbeelden](../../voorbeelden/staal/staal_intro.md), tekenen we de constructie waar we doorheen snijden (op ongeveer 1 meter boven de vloer) zoals bij een reguliere plattegrond, met de juiste arcering. De draagconstructie plattegrond is toch anders dan een reguliere plattegrond omdat we ook (vooral) de constructie onder de vloer tekenen. Omdat we deze constructie delen niet direct zien tekenen we die met een streeplijn. Vaak zullen bijvoorbeeld kolommen direct boven elkaar staan, dan zien we uiteraard de streeplijn niet meer, omdat we met een doorgetrokken lijn de doorgesneden kolom boven de vloer tekenen.
 
 Bij het tekenen van een draagconstructie plattegrond kan je onderstaande tekenvolgorde en lijndiktes als richtlijn aanhouden:
 
@@ -87,7 +87,7 @@ Bij het tekenen van een draagconstructie plattegrond kan je onderstaande tekenvo
 
 ## Geëxplodeerde axonometrie
 
-De Axonometrische tekening is een overzicht van de totale draagconstructie, zie [Voorbeelden](../voorbeelden/staal/staal_intro.md). Het geeft inzicht in de ruimtelijke ordening in zowel het horizontale als verticale vlak. De verticale en horizontale krachtsafdracht van de constructie is vaak goed af te zien aan de Axo omdat alle constructieve delen in een enkel overzicht zijn gegeven. De tweede belangrijke functie van de Axo is om te laten zien hoe de draagconstructie past bij de architectonische ontwerpintentie. Daarom zet je de axo vaak op de presentatieposter.
+De Axonometrische tekening is een overzicht van de totale draagconstructie, zie [Voorbeelden](../../voorbeelden/staal/staal_intro.md). Het geeft inzicht in de ruimtelijke ordening in zowel het horizontale als verticale vlak. De verticale en horizontale krachtsafdracht van de constructie is vaak goed af te zien aan de Axo omdat alle constructieve delen in een enkel overzicht zijn gegeven. De tweede belangrijke functie van de Axo is om te laten zien hoe de draagconstructie past bij de architectonische ontwerpintentie. Daarom zet je de axo vaak op de presentatieposter.
 
 - Plaats de plattegronden van de draagconstructie boven, met voldoende ruimte ertussen (geen overlap).
 
@@ -119,7 +119,7 @@ De Axonometrische tekening is een overzicht van de totale draagconstructie, zie 
 
 ## Constructie details
 
-In het hoofdstuk [Ontwerp](../ontwerp/ontwerp_intro.md) zijn standaardverbindingen van de verschillende materialen gegeven. Deze kan je ofwel direct gebruiken, of aanpassen naar gelang de specifieke eisen aan de verbinding. Verbindingen kunnen erg beeldbepalend zijn in een gebouw. In zulke gevallen is het belangrijk om, als ontwerper, aandacht te geven aan de vormgeving ervan. In andere gevallen is de verbinding niet beeldbepalend in het gebouw, dan wordt het ontwerp ervan vaak overgelaten aan de constructeur of aannemer.
+In het hoofdstuk [Ontwerp](../../ontwerp/ontwerp_intro.md) zijn standaardverbindingen van de verschillende materialen gegeven. Deze kan je ofwel direct gebruiken, of aanpassen naar gelang de specifieke eisen aan de verbinding. Verbindingen kunnen erg beeldbepalend zijn in een gebouw. In zulke gevallen is het belangrijk om, als ontwerper, aandacht te geven aan de vormgeving ervan. In andere gevallen is de verbinding niet beeldbepalend in het gebouw, dan wordt het ontwerp ervan vaak overgelaten aan de constructeur of aannemer.
 
 - Bepaal of het een scharnierende of ingeklemde verbinding is.
 
