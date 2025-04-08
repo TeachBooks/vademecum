@@ -183,7 +183,12 @@ De grafiek is een indicatie van de toelaatbare gelijkmatig verdeelde belasting i
 
 **Product Specificaties Dycore Kanaalplaatvloeren**
 
-
+```{sidebar} Hoogte
+```{figure} ImagesBeton/Betonvloerdiktes.jpeg
+---
+scale: 30%
+---
+```
 
 | Kenmerk | Specificatie |
 | --- | --- |
@@ -191,12 +196,6 @@ De grafiek is een indicatie van de toelaatbare gelijkmatig verdeelde belasting i
 | Volumieke massa | 2400 kg/m³ |
 | Voorspanstaal | FeP 1860 |
 
-```{sidebar} Hoogte
-```{figure} ImagesBeton/Betonvloerdiktes.jpeg
----
-scale: 30%
----
-```
 
 | Type | Hoogte <br> h [mm] | Gewicht <br> G [kN/m²] | Voegen <br> [l/m] | Doorsnede <br> A [m²] | I<sub>zz</sub> x 10<sup>6</sup> <br> [mm⁴] | M<sub>br</sub> <br> [kNm] | max. lengte <br> [m] | pasplaten max. lengte <br> [m] |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -248,12 +247,9 @@ Schijfwerking in kanaalplaatvloer.
 
 **Aansluitdetails (alle typen kanaalplaten)**
 
-
-![Aansluitdetails A320](ImagesBeton/2.4.1_betonconstructies_VBI_A320_3.png)
-
-Oplegging op spouwmuur: bij woningscheidende wanden de kanalen ter plaatse van alle vloeropeningen zoals leidingdoorvoeren, trapgaten, etc., afdichten met mortel, minerale wol of kunststofschuim.  
-Oplegging op console.
-
+| <img src="ImagesBeton/uitsnede1betonvloer.png" alt="1" class="bg-primary" width="200px"> | <img src="ImagesBeton/uitsnede2betonvloer.png" alt="2" class="bg-primary" width="200px"> | <img src="ImagesBeton/uitsnede3betonvloer.png" alt="3" class="bg-primary" width="250px"> |
+|---|---|---|
+| Oplegging op spouwmuur | Bij woningscheidende wanden de <br> kanalen ter plaatse van alle vloer- <br> openingen zoals leidingdoorvoeren,<br> trapgaten, etc., afdichten met mortel, <br> minerale wol of kunststofschuim | Oplegging op console |
 
 ```{figure} ImagesBeton/2.4.1betonconstructies_dycore3.png
 ---
