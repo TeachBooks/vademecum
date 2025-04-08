@@ -187,6 +187,8 @@ scale: 20%
 | Voorspanstaal | FeP 1860 |
 
 <br>
+<br>
+<br>
 
 | Type | Hoogte <br> h [mm] | Gewicht <br> G [kN/m²] | Voegen <br> [l/m] | Doorsnede <br> A [m²] | I<sub>zz</sub> x 10<sup>6</sup> <br> [mm⁴] | M<sub>br</sub> <br> [kNm] | max. lengte <br> [m] | pasplaten max. lengte <br> [m] |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
