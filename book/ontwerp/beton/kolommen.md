@@ -21,6 +21,21 @@ De onderstaande schattingsregels voor betonnen kolommen gelden voor:
 
 <br>
 
+## In Het Werk Gestorte Kolommen
+
+```{figure} ImagesBeton/8.gegevens_beton_in_het_werk_kolom.png
+---
+scale: 50%
+---
+In het werk gestorte betonnen kolommen rond en vierkant.
+```
+
+**Toepassingen:**  
+Tegenwoordig zijn ronde kartonnen bekistingen een goedkope optie aangezien er niet getimmerd hoeft te worden. Herbruikbare bekistingen voor vierkante of rechthoekige kolommen worden ook gebruikt.
+
+- [www.sonoco.com (sonotube bekisting)](http://www.sonoco.com)
+
+
 ## Prefab Kolommen
 
 ```{figure} ImagesBeton/8.gegevens_beton_prefab_kolom.png
@@ -36,17 +51,8 @@ Onderdeel van prefab bouwsystemen met mogelijkheden van 0 tot 2 verdiepingen. Wo
 - [www.CD20.nl](http://www.CD20.nl)  
 - [www.belton.nl/_betonboek/deel5-1.pdf](http://www.belton.nl/_betonboek/deel5-1.pdf)
 
+| Element |  |
+|---|---|
+| Breedte kolom | 1/10 verdiepingshoogte |
 
-## In Het Werk Gestorte Kolommen
 
-```{figure} ImagesBeton/8.gegevens_beton_in_het_werk_kolom.png
----
-scale: 50%
----
-In het werk gestorte betonnen kolommen rond en vierkant.
-```
-
-**Toepassingen:**  
-Tegenwoordig zijn ronde kartonnen bekistingen een goedkope optie aangezien er niet getimmerd hoeft te worden. Herbruikbare bekistingen voor vierkante of rechthoekige kolommen worden ook gebruikt.
-
-- [www.sonoco.com (sonotube bekisting)](http://www.sonoco.com)

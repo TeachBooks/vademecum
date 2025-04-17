@@ -62,10 +62,10 @@ Deze matrix geeft een beeld van verschillende verbindingsdetails van stalen cons
 | Opgelaste kopplaat met twee bouten | Opgelaste plaat met zes bouten | Grote opgelaste plaat met zestien <br> bouten, met ingelaste verstijvingen |
 
 
-| **Eindkolom-ligger** |  |  |
-|---|---|---|
-| <img src="ImagesStaal/staalverbinding_Tekengebied1kopie10.png" alt="1" width="200px"> | <img src="ImagesStaal/staalverbinding_Tekengebied1kopie12.png" alt="2" width="200px"> |   |
-| Opgelaste kopplaat met twee bouten | Opgelaste plaat met vier bouten, met ingelaste <br> verstijvingen van het liggerlijf |  |
+| **Eindkolom-ligger** |  |
+|---|---|
+| <img src="ImagesStaal/staalverbinding_Tekengebied1kopie10.png" alt="1" width="200px"> | <img src="ImagesStaal/staalverbinding_Tekengebied1kopie12.png" alt="2" width="200px"> |
+| Opgelaste kopplaat met twee bouten | Opgelaste plaat met vier bouten, met ingelaste <br> verstijvingen van het liggerlijf |
 
 
 | **Eindkolom-ligger** |  |
