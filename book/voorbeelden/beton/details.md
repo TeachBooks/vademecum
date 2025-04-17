@@ -11,7 +11,7 @@ Gebruik het menu aan de linkerkant om lagen toe te voegen of te verwijderen.
     <iframe src="../../_static/Connection_Concrete_Standard.html" width="750" height="750" frameborder="0"></iframe>
 </div>
 
-Of download het bestand [hier](../../_static/Connection_Concrete_Standard.html) en open het in je web browser.
+<center> Of download het bestand [hier](../../_static/Connection_Concrete_Standard.html) en open het in je web browser. </center>
 
 
 ## Hollow core slab connection
@@ -20,4 +20,4 @@ Of download het bestand [hier](../../_static/Connection_Concrete_Standard.html) 
     <iframe src="../../_static/Connection_Concrete_HollowCore.html" width="750" height="750" frameborder="0"></iframe>
 </div>
 
-Of download het bestand [hier](../../_static/Connection_Concrete_HollowCore.html) en open het in je web browser.
+<center> Of download het bestand [hier](../../_static/Connection_Concrete_HollowCore.html) en open het in je web browser. </center>
