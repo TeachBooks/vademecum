@@ -16,7 +16,6 @@ parts:
       sections:
       - file: instructie/belastingcombinaties/uiterste_grenstoestand
       - file: instructie/belastingcombinaties/bruikbaarheidsgrenstoestand
-    - file: instructie/ontwerpen_van_draagconstructies
     - file: instructie/teken_instructies/teken_instructies_intro
       sections:
       - file: instructie/teken_instructies/lijnsoorten_arcering
@@ -57,7 +56,6 @@ parts:
       - file: ontwerp/beton/liggers    
       - file: ontwerp/beton/wanden
       - file: ontwerp/beton/kolommen
-      - file: ontwerp/beton/verbindingen
     - file: ontwerp/metselwerk/metselwerk_intro
       sections:
       - file: ontwerp/metselwerk/kalkzandsteen
@@ -91,7 +89,6 @@ parts:
       sections:
       - file: basis_gegevens/dimensietabellen/staal
       - file: basis_gegevens/dimensietabellen/hout
-      - file: basis_gegevens/dimensietabellen/beton
       - file: basis_gegevens/dimensietabellen/betonstaal
     - file: basis_gegevens/kengetallen_milieubelasting/kengetallen_milieubelasting_intro
       sections:
@@ -107,28 +104,16 @@ parts:
       - file: voorbeelden/staal/tekeningen
       - file: voorbeelden/staal/details
       - file: voorbeelden/staal/berekeningen
-        sections:
-        - file: voorbeelden/staal/kolom
-        - file: voorbeelden/staal/ligger
-        - file: voorbeelden/staal/vloer
       - file: voorbeelden/staal/milieu_impact_berekening
     - file: voorbeelden/hout/hout_intro
       sections:
       - file: voorbeelden/hout/tekeningen
       - file: voorbeelden/hout/details
       - file: voorbeelden/hout/berekeningen
-        sections:
-        - file: voorbeelden/hout/kolom
-        - file: voorbeelden/hout/ligger
-        - file: voorbeelden/hout/vloer
       - file: voorbeelden/hout/milieu_impact_berekening
     - file: voorbeelden/beton/beton_intro
       sections:
       - file: voorbeelden/beton/tekeningen
       - file: voorbeelden/beton/details
       - file: voorbeelden/beton/berekeningen
-        sections:
-        - file: voorbeelden/beton/kolom
-        - file: voorbeelden/beton/ligger
-        - file: voorbeelden/beton/vloer
       - file: voorbeelden/beton/milieu_impact_berekening
