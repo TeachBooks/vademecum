@@ -9,5 +9,4 @@
     <iframe src="../../_static/Octatube_Steel.html" width="750" height="750" frameborder="0"></iframe>
 </div>
 
-<center> 3D model van het Octatube gebouw in staal.
-Of download het bestand [hier](../../_static/Octatube_Steel.html) en open het in je web browser. </center>
+Of download het bestand [hier](../../_static/Octatube_Steel.html) en open het in je web browser.
