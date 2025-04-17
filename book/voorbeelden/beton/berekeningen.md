@@ -1,58 +1,67 @@
 # Berekeningen
 
+<img src="Images/voorbeeldenberekeningen6.png" alt="tekening" class="bg-primary" width="1000px">
+<img src="Images/voorbeeldenberekeningen5.png" alt="tekeningaxo" width="1000px">
+
 
 ## Vloer
 
-### Zorg dat je de draagconstructie tekeningen hebt.
-
-### Kies het te dimensioneren element. Pas de vuistregel toe.
-
-breedplaatvloer 250 mm
-
-overspanning is 6 meter
-
-vuistregel:
-6/30 = 200 mm
-
-### Kies op basis van de uitkomst de juiste afmetingen van het constructiedeel
-
-minimal 200 mm zijn, is 250 dus voldoet
+>
+>We voeren de berekening uit voor de breedplaatvloer. De overspanning van deze vloer is 6 meter.
+>De vuistregel die we gebruiken: 
+>
+>$ h = \frac{l}{30} $
+>
+>Dus:
+>
+>$ h = \frac{6000}{30} = 200 mm$
+>
+>De vloer heeft een hoogte van 250 mm, dus de vloer voldoet ruim aan de eisen.
+>
+>`````{admonition} Tip
+>:class: tip
+>De vuistregels voor vloeren van beton vind je [hier](../../ontwerp/beton/vloeren.md)
+>`````
+>
 
 
 ## Ligger
 
-### Zorg dat je de draagconstructie tekeningen hebt.
-
-### Kies het te dimensioneren element. Pas de vuistregel toe.
-
-prefab ligger
-500 x 200
-
-overspanning is 7,2 meter
-
-vuistregel:
-1/20 = 0,36 meter
-
-
-### Kies op basis van de uitkomst de juiste afmetingen van het constructiedeel
-
-moet minimaal 360 mm zijn, is 500 mm, dus voldoet
-
+>
+>We voeren de berekening uit voor de prefab ligger. De overspanning is 7,2 meter.
+>De vuistregel die we gebruiken: 
+>
+>$ h = \frac{l}{20} $
+>
+>Dus:
+>
+>$ h = \frac{7200}{20} = 360 mm$
+>
+>De ligger is 500 x 200 mm, dus de ligger voldoet ruim aan de eisen.
+>
+>`````{admonition} Tip
+>:class: tip
+>De vuistregels voor liggers van beton vind je [hier](../../ontwerp/beton/liggers.md)
+>`````
+>
 
 
 ## Kolom
 
-### Zorg dat je de draagconstructie tekeningen hebt.
-
-### Kies het te dimensioneren element. Pas de vuistregel toe.
-
-prefab beton
-200 mm
-
-vuistregel:
-1/10 L 
-3/10 = 300 mm
-
-### Kies op basis van de uitkomst de juiste afmetingen van het constructiedeel
-
-kolom is nu 200 mm, moet 300 zijn, dus **voldoet niet**
+>
+>We voeren de berekening uit voor de prefab kolom. De verdiepingshoogte is 3 meter.
+>De vuistregel die we gebruiken: 
+>
+>$ h = \frac{l}{10} $
+>
+>Dus:
+>
+>$ h = \frac{3000}{10} = 300 mm$
+>
+>De kolom is 200 mm, maar moet 300 mm zijn, dus de kolom voldoet **niet** aan de eisen.
+>
+>`````{admonition} Tip
+>:class: tip
+>De vuistregels voor kolommen van beton vind je [hier](../../ontwerp/beton/kolommen.md)
+>`````
+>
