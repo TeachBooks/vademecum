@@ -7,7 +7,7 @@ Gebruik het menu aan de linkerkant om lagen toe te voegen of te verwijderen.
 
 ## Standard connection
 
-<div style="text-align: center;">
+<div>
     <iframe src="../../_static/Connection_Timber_Standard.html" width="750" height="750" frameborder="0"></iframe>
 </div>
 
@@ -15,7 +15,7 @@ Of download het bestand [hier](../../_static/Octatube_Timber.html) en open het i
 
 ## Advanced connection
 
-<div style="text-align: center;">
+<div>
     <iframe src="../../_static/Connection_Timber_Advanced.html" width="750" height="750" frameborder="0"></iframe>
 </div>
 
