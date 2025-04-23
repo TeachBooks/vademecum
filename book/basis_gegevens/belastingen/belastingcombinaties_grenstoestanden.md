@@ -3,9 +3,8 @@
 De belastingsfactoren worden in de Eurocode partiële factoren genoemd. In sommige andere literatuur worden ze veiligheidsfactoren genoemd. Bij de toepassing van de belastingsfactoren moet er onderscheid gemaakt worden tussen gunstig en ongunstig werkende belastingen. Dit is afhankelijk van de toets die uitgevoerd wordt. Toets je bijvoorbeeld het moment in een ligger op twee steunpunten waarop een neerwaartse belasting (eigengewicht) en een opwaartse belasting (windzuiging) werken, dan zal het moment in de ligger minder kritisch zijn als beide belastingen gelijktijdig optreden. Een van de belastingen werkt dus gunstig.
 
 
-| Gevolgklasse (CC) | $\mathsf{\gamma_{f;g}}$ (permanente belasting) | $\mathsf{\gamma_{f;q}}$ (veranderlijke belasting) |
-|-------------------|--------------------------------------------------|---------------------------------------------------|
-|                   | ongunstig     | gunstig      | ongunstig      | gunstig       |
+| Gevolgklasse (CC) | $\mathsf{\gamma_{f;g}}$ (permanente belasting) ongunstig | $\mathsf{\gamma_{f;g}}$ (permanente belasting) gunstig | $\mathsf{\gamma_{f;q}}$ (veranderlijke belasting) ongunstig | $\mathsf{\gamma_{f;q}}$ (veranderlijke belasting) gunstig |
+|---|---|---|---|---|
 | 1                 | 1,1           | 0,9          | 1,35           | 0             |
 | 2                 | 1,2           | 0,9          | 1,5            | 0             |
 | 3                 | 1,3           | 0,9          | 1,65           | 0             |
