@@ -5,7 +5,7 @@
 ```
 
 
-<div style="text-align: center;">
+<div>
     <iframe src="../../_static/Octatube_Timber.html" width="750" height="750" frameborder="0"></iframe>
 </div>
 

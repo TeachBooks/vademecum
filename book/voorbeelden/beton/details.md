@@ -7,7 +7,7 @@ Gebruik het menu aan de linkerkant om lagen toe te voegen of te verwijderen.
 
 ## Prefab concrete connection
 
-<div style="background-color: white; background-color:rgb(255, 255, 255); text-align: center;">
+<div>
     <iframe src="../../_static/Connection_Concrete_Standard.html" width="750" height="750" frameborder="0"></iframe>
 </div>
 
@@ -16,7 +16,7 @@ Of download het bestand [hier](../../_static/Connection_Concrete_Standard.html) 
 
 ## Hollow core slab connection
 
-<div style="text-align: center;">
+<div>
     <iframe src="../../_static/Connection_Concrete_HollowCore.html" width="750" height="750" frameborder="0"></iframe>
 </div>
 

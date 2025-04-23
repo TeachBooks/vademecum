@@ -7,7 +7,7 @@ Gebruik het menu aan de linkerkant om lagen toe te voegen of te verwijderen.
 
 ## Standard connection
 
-<div style="text-align: center;">
+<div>
     <iframe src="../../_static/Connection_Steel_Standard.html" width="750" height="750" frameborder="0"></iframe>
 </div>
 
@@ -16,7 +16,7 @@ Of download het bestand [hier](../../_static/Connection_Steel_Standard.html) en 
 
 ## Corner connection
 
-<div style="text-align: center;">
+<div>
     <iframe src="../../_static/Connection_Steel_Corner.html" width="750" height="750" frameborder="0"></iframe>
 </div>
 
@@ -25,7 +25,7 @@ Of download het bestand [hier](../../_static/Connection_Steel_Corner.html) en op
 
 ## Truss connection
 
-<div style="text-align: center;">
+<div>
     <iframe src="../../_static/Connection_Steel_Truss.html" width="750" height="750" frameborder="0"></iframe>
 </div>
 
