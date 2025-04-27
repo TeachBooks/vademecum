@@ -2,7 +2,7 @@
 
 
 Hieronder is een overzicht van de producten en/of materialen waarvan de MKI in €/m<sup>2</sup> zijn gegeven (zie hoofdstuk [kengetallen milieubelasting](../../basis_gegevens/kengetallen_milieubelasting/kengetallen_milieubelasting_intro)) en in €/kg zijn gegeven (zie hoofdstuk [kengetallen milieubelasting](../../basis_gegevens/kengetallen_milieubelasting/kengetallen_milieubelasting_intro)).
-De tabellen zijn ingevuld op basis van gegevens draagconstructie tekeningen en berekeningen. De totale MKI waarde van de gehele draagconstructie is bepaald door de MKI scores van alle producten bij elkaar op te tellen (= €75.551,61). 
+De tabellen zijn ingevuld op basis van gegevens draagconstructie tekeningen en berekeningen. De totale MKI waarde van de gehele draagconstructie is bepaald door de MKI scores van alle producten bij elkaar op te tellen. 
 
 <br>
 
@@ -11,6 +11,7 @@ De tabellen zijn ingevuld op basis van gegevens draagconstructie tekeningen en b
 | Vloer 1e verdieping       | staalplaatbetonvloer 150 mm | 600 | 1 | 9,92 | 5.952,00  | 7,87  |
 | Vloer 2e en 3e verdieping | staalplaatbetonvloer 150 mm | 740 | 2 | 9,92 | 14.681,60 | 19,43 |
 | Dak                       | staalplaatbetonvloer 60 mm  | 740 | 1 | 3,97 | 2.937,80  | 3,88  |
+| Totale MKI                |                             |     |   |      | 23.571,40 | 100   |
 
 <br>
 
@@ -24,6 +25,7 @@ De tabellen zijn ingevuld op basis van gegevens draagconstructie tekeningen en b
 | Liggers   | HEB400 | 198.0 | 18  | 22 | 0,12 | 9.408,96  | 12,45 |
 | Liggers   | HEB400 | 198.0 | 6   | 2  | 0,12 | 285,12    | 0,38  |
 | Liggers   | HEA500 | 155.1 | 72  | 15 | 0,12 | 20.100,96 | 26,61 |
+| Totale MKI|        |       |     |    |      | 51.980,21 | 100   |
 
 <br>
 
@@ -33,13 +35,22 @@ $
 MPG = \frac{totale MKI}{BVO \times referentieperiode}
 $
 
+De totale MKI is €75.551,61.
+
+De BVO bevat:
+BG: 45 x 72 = 3330 m2
+1e: 10 x 60 = 600 m2
+2e: 10 x 72 = 720 m2
+Totaal = 4650 m2
+
+De aangenomen levensduur van kantoorpanden is 50 jaar. 
+
 $
-MPG = \frac{75.551,61}{2820 \times 50} = 0,54
+MPG = \frac{75.551,61}{4650 \times 50} = 0,32
 $
 
 <br>
 
-De MPG waarde valt **wel/niet** binnen de gestelde eis voor het deelbudget.
-Neem als vuistregel aan dat het deelbudget van de draagconstructie 1/4 van de totale MPG-eis is.
-(Als het ontwerp niet voldoet dan moet het ontwerp verbeterd worden om te voldoen aan de MPG-eis. (zie hoofdstuk [MPG](../milieuimpact/mpg.md)))
+De aangenomen MPG eis van 1,00 geldt voor kantoren.
 
+De MPG waarde valt dus **niet** binnen de gestelde eis voor het deelbudget (zie hoofdstuk [MPG](../milieuimpact/mpg.md)). Het kan zijn dat dit is gecompenseerd in de andere deelbudgetten en dat daarmee het gebouw als geheel alsnog voldoet aan de MPG eis. Hoe dan ook lijkt het dat er veel ruimte voor verbetering is bij deze draagconstructie voor wat betreft de Milieu Impact.
