@@ -40,13 +40,9 @@ $
 De totale MKI is €.
 
 De BVO bevat:
-
-BG: 45 x 72 + (10 x 2) = 3260 m2
-
-1e: 10 x 57,6 = 576 m2
-
-2e: 10 x 74 = 740 m2
-
+- BG: 45 x 72 + (10 x 2) = 3260 m2
+- 1e: 10 x 57,6 = 576 m2
+- 2e: 10 x 74 = 740 m2
 Totaal = 4576 m2
 
 De aangenomen levensduur van kantoorpanden is 50 jaar. 
