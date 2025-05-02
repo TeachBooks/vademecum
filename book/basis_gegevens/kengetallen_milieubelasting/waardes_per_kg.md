@@ -40,6 +40,6 @@ Doorgaand gewapend beton betreft een betonverharding zonder dwarsvoegen met in l
 
 | omschrijving | MKI A1 [€/kg] | referentie periode |
 |---|---|---|
-| Doorgaand Gewapend Beton C35/45 CEM III | 45,04 | 100 jaar|
+| Doorgaand Gewapend Beton C35/45 CEM III | 0,01 | 100 jaar|
 
 *Bron: Milieudatabase.nl*
