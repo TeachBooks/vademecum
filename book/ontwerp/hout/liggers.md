@@ -51,7 +51,7 @@ img:active {
             <tr>
                 <td></td>
                 <td colspan="2"><img src="ImagesHout/2.3.1houtconstructies_rechte_ligger_toog_1.png" alt="rechte ligger" style="background-color: white;"></td>
-                <td><strong>gezaagde balken</strong><br>l=2 tot 6m<br>h=l/15 à l/20 <br> <strong>gelamineerd hout</strong><br>l=6 à 30m<br>h.o.h<5m<br>h=l/17<br>h.o.h=5-8m<br>h=l/16</td>
+                <td><strong>gezaagde balken</strong><br>l=2 tot 6m<br>h=l/15 tot l/20 <br> <strong>gelamineerd hout</strong><br>l=6 tot 30m<br>h.o.h<5m<br>h=l/17<br>h.o.h=5-8m<br>h=l/16</td>
             </tr>
             <tr>
                 <td>Verschijningsvormen</td>
@@ -104,7 +104,7 @@ img:active {
             <tr>
                 <td></td>
                 <td colspan="2"><img src="ImagesHout/2.3.1houtconstructies_rechte_ligger_overstek_1.png" alt="rechte ligger" style="background-color: white;"></td>
-                <td><strong>gelamineerd hout</strong><br>l=6 tot 30m <br> h.o.h.=3,6 à 5,4 <br> a=0,25 · l <br> h=l/16 à l/21 <br> h.o.h.=3 à 5m <br> a=0,4 · l <br> h=l/18 à l/24</td>
+                <td><strong>gelamineerd hout</strong><br>l=6 tot 30m <br> h.o.h.=3,6 tot 5,4 <br> a=0,25 · l <br> h=l/16 tot l/21 <br> h.o.h.=3 tot 5m <br> a=0,4 · l <br> h=l/18 tot l/24</td>
             </tr>
             <tr>
                 <td>Verschijningsvormen</td>
@@ -157,7 +157,7 @@ img:active {
             <tr>
                 <td></td>
                 <td colspan="2"><img src="ImagesHout/2.3.1houtconstructies_zadeldaklikker_rand_1.png" alt="rechte ligger" style="background-color: white;"></td>
-                <td><strong>gelamineerd hout</strong><br>l=6 tot 30m <br> h<sub>1</sub>=l/14 à l/18 <br> h<sub>2</sub>=l/18 à l/22</td>
+                <td><strong>gelamineerd hout</strong><br>l=6 tot 30m <br> h<sub>1</sub>=l/14 tot l/18 <br> h<sub>2</sub>=l/18 tot l/22</td>
             </tr>
             <tr>
                 <td>Verschijningsvormen</td>
@@ -216,7 +216,7 @@ img:active {
             <tr>
                 <td></td>
                 <td colspan="2"><img src="ImagesHout/2.3.1houtconstructies_zadeldaklikker_randen_1.png" alt="rechte ligger" style="background-color: white;"></td>
-                <td><strong>gelamineerd hout</strong><br> l=7 tot 40m <br> h.o.h.=5 à 7m <br> h=l/14 à l/18<br> f=l/5 à l/10 <br> r>6m</td>
+                <td><strong>gelamineerd hout</strong><br> l=7 tot 40m <br> h.o.h.=5 tot 7m <br> h=l/14 tot l/18<br> f=l/5 tot l/10 <br> r>6m</td>
             </tr>
             <tr>
                 <td>Verschijningsvormen</td>
@@ -275,7 +275,7 @@ img:active {
             <tr>
                 <td></td>
                 <td colspan="2"><img src="ImagesHout/2.3.1houtconstructies_ligger_steunpunten_1.png" alt="rechte ligger" style="background-color: white;"></td>
-                <td><strong>gelamineerd hout</strong><br> l=6 tot 30m <br> h.o.h. (<)5m <br> h=l/34 <br> h.o.h.=5 à 8m <br> h=l/30</td>
+                <td><strong>gelamineerd hout</strong><br> l=6 tot 30m <br> h.o.h. (<)5m <br> h=l/34 <br> h.o.h.=5 tot 8m <br> h=l/30</td>
             </tr>
             <tr>
                 <td>Verschijningsvormen</td>
@@ -334,7 +334,7 @@ img:active {
             <tr>
                 <td></td>
                 <td colspan="2"><img src="ImagesHout/2.3.1houtconstructies_rechte_vakwerkligger_1.png" alt="rechte ligger" style="background-color: white;"></td>
-                <td><strong>gezaagd hout</strong><br> l=5 tot 25m <br> h.o.h.=2,5 à 6m <br> h=l/10 à l/14 <br> <br> <strong>gelamineerd hout</strong> <br> l=20 tot 80m <br> h.o.h.=2,5 à 6m <br> h=l/10 à l/15 </td>
+                <td><strong>gezaagd hout</strong><br> l=5 tot 25m <br> h.o.h.=2,5 tot 6m <br> h=l/10 tot l/14 <br> <br> <strong>gelamineerd hout</strong> <br> l=20 tot 80m <br> h.o.h.=2,5 tot 6m <br> h=l/10 tot l/15 </td>
             </tr>
             <tr>
                 <td>Verschijningsvormen</td>
@@ -393,7 +393,7 @@ img:active {
             <tr>
                 <td></td>
                 <td colspan="2"><img src="ImagesHout/2.3.1houtconstructies_trapezium_vakwerk_1.png" alt="rechte ligger" style="background-color: white;"></td>
-                <td><strong>gelamineerd hout</strong><br> l=7,5 tot 30m <br> h.o.h.=3 à 7m <br> h=l/10 à l/15</td>
+                <td><strong>gelamineerd hout</strong><br> l=7,5 tot 30m <br> h.o.h.=3 tot 7m <br> h=l/10 tot l/15</td>
             </tr>
             <tr>
                 <td>Verschijningsvormen</td>
@@ -446,7 +446,7 @@ img:active {
             <tr>
                 <td></td>
                 <td colspan="2"><img src="ImagesHout/2.3.1houtconstructies_onderspannen_ligger_1.png" alt="rechte ligger" style="background-color: white;"></td>
-                <td><strong>gelamineerd hout</strong> <br> l=8 tot 80m <br> h=l/15 à 1/20 </td>
+                <td><strong>gelamineerd hout</strong> <br> l=8 tot 80m <br> h=l/15 tot 1/20 </td>
             </tr>
             <tr>
                 <td>Verschijningsvormen</td>
@@ -505,7 +505,7 @@ img:active {
             <tr>
                 <td></td>
                 <td colspan="2"><img src="ImagesHout/2.3.1houtconstructies_portaalspant_1.png" alt="rechte ligger" style="background-color: white;"></td>
-                <td><strong>gelamineerd hout</strong> <br> l=10 tot 40m <br> h.o.h.=4 à 8m <br> h=l/15 à l/23</td>
+                <td><strong>gelamineerd hout</strong> <br> l=10 tot 40m <br> h.o.h.=4 tot 8m <br> h=l/15 tot l/23</td>
             </tr>
             <tr>
                 <td>Verschijningsvormen</td>
@@ -563,7 +563,7 @@ img:active {
             <tr>
                 <td></td>
                 <td colspan="2"><img src="ImagesHout/2.3.1houtconstructies_drie_scharnieren_1.png" alt="rechte ligger" style="background-color: white;"></td>
-                <td><strong>gelamineerd hout, zonder trekband</strong> <br> l=15 tot 50m <br> f=l/3 <br> h.o.h.=5 à 8m <br> h=l/30 à l/50 <br> <strong>gelamineerd hout, met trekband</strong> <br> l=15 à 50m <br> f=l/6 <br> h.o.h.=5 à 8m <br> h=l/30 à l/50</td>
+                <td><strong>gelamineerd hout, zonder trekband</strong> <br> l=15 tot 50m <br> f=l/3 <br> h.o.h.=5 tot 8m <br> h=l/30 tot l/50 <br> <strong>gelamineerd hout, met trekband</strong> <br> l=15 tot 50m <br> f=l/6 <br> h.o.h.=5 tot 8m <br> h=l/30 tot l/50</td>
             </tr>
             <tr>
                 <td>Verschijningsvormen</td>
@@ -621,13 +621,13 @@ img:active {
             <tr>
                 <td></td>
                 <td colspan="2"><img src="ImagesHout/2.3.1houtconstructies_drie_scharnieren_gebogen_1.png" alt="rechte ligger" style="background-color: white;"></td>
-                <td><strong>spant met geknikte hoeken</strong> <br> l=15 tot 50m <br> α ≈ 20° <br> h.o.h.=4 à 5m <br> h<sub>knik</sub> = (l+g)/28 <br> h<sub>voet</sub> = 0,4 <cdot> h<sub>knik</sub></td>
+                <td><strong>spant met geknikte hoeken</strong> <br> l=15 tot 50m <br> α ≈ 20° <br> h.o.h.=4 tot 5m <br> h<sub>knik</sub> = (l+g)/28 <br> h<sub>voet</sub> = 0,4 <cdot> h<sub>knik</sub></td>
             </tr>
             <tr>
                 <td>Verschijningsvormen</td>
                 <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1kopie10.png" alt="1" style="background-color: white;" width="200px"></td>
                 <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-58.png" alt="2" style="background-color: white;" width="200px"></td>
-                <td><strong>spant met gebogen hoeken</strong> <br> l=15 tot 50m <br> α ≈ 20° <br> h.o.h.=4 à 5m <br> h<sub>knik</sub> = (l+g)/28 <br> h<sub>voet</sub> = 0,4 <cdot> h<sub>knik</sub></td>
+                <td><strong>spant met gebogen hoeken</strong> <br> l=15 tot 50m <br> α ≈ 20° <br> h.o.h.=4 tot 5m <br> h<sub>knik</sub> = (l+g)/28 <br> h<sub>voet</sub> = 0,4 <cdot> h<sub>knik</sub></td>
             </tr>
             <tr>
                 <td>Details</td>
@@ -680,13 +680,13 @@ img:active {
             <tr>
                 <td></td>
                 <td colspan="2"><img src="ImagesHout/2.3.1houtconstructies_boogspant_1.png" alt="rechte ligger" style="background-color: white;"></td>
-                <td><strong>gelamineerd hout</strong> <br> l=20 tot 100m <br> f=l/5 à l/7 <br> h.o.h. (<)5m <br> h=l/45 <br> h.o.h.=5 tot 9m <br> h=l/40</td>
+                <td><strong>gelamineerd hout</strong> <br> l=20 tot 100m <br> f=l/5 tot l/7 <br> h.o.h. (<)5m <br> h=l/45 <br> h.o.h.=5 tot 9m <br> h=l/40</td>
             </tr>
             <tr>
                 <td>Verschijningsvormen</td>
                 <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen_Tekengebied1kopie10.png" alt="1" style="background-color: white;"  width="200px"></td>
                 <td><img src="ImagesHout/AfbeeldingenHoutOntwerpen-58.png" alt="2" style="background-color: white;" width="200px"></td>
-                <td><strong>vakwerk gelamineerd hout</strong> <br> l=50 tot 120m <br> f=l/5 à l/8 <br> h.o.h.=5 tot 10m <br> h=l/20 à h=l/40</td>
+                <td><strong>vakwerk gelamineerd hout</strong> <br> l=50 tot 120m <br> f=l/5 tot l/8 <br> h.o.h.=5 tot 10m <br> h=l/20 tot h=l/40</td>
             </tr>
             <tr>
                 <td>Details</td>

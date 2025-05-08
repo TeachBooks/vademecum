@@ -11,7 +11,7 @@ De tabellen zijn ingevuld op basis van gegevens draagconstructie tekeningen en b
 | Vloer 1e verdieping       | staalplaatbetonvloer 150 mm | 600 | 1 | 9,92 | 5.952,00  | 7,87  |
 | Vloer 2e en 3e verdieping | staalplaatbetonvloer 150 mm | 740 | 2 | 9,92 | 14.681,60 | 19,43 |
 | Dak                       | staalplaatbetonvloer 60 mm  | 740 | 1 | 3,97 | 2.937,80  | 3,88  |
-| Totale MKI                |                             |     |   |      | 23.571,40 | 100   |
+| Totale MKI                |                             |     |   |      | 23.571,40 | 31,20 |
 
 <br>
 
@@ -25,7 +25,7 @@ De tabellen zijn ingevuld op basis van gegevens draagconstructie tekeningen en b
 | Liggers   | HEB400 | 198.0 | 18  | 22 | 0,12 | 9.408,96  | 12,45 |
 | Liggers   | HEB400 | 198.0 | 6   | 2  | 0,12 | 285,12    | 0,38  |
 | Liggers   | HEA500 | 155.1 | 72  | 15 | 0,12 | 20.100,96 | 26,61 |
-| Totale MKI|        |       |     |    |      | 51.980,21 | 100   |
+| Totale MKI|        |       |     |    |      | 51.980,21 | 68,80 |
 
 <br>
 
@@ -53,6 +53,6 @@ $
 
 <br>
 
-De aangenomen MPG eis van 1,00 geldt voor kantoren.
+De aangenomen MPG eis van 1,00 geldt voor kantoren. Het deelbudget voor de constructie nemen we aan als 25% van het totale gebouw budget, oftewel 0,25 €/m2.
 
 De MPG waarde valt dus **niet** binnen de gestelde eis voor het deelbudget (zie hoofdstuk [MPG](../milieuimpact/mpg.md)). Het kan zijn dat dit is gecompenseerd in de andere deelbudgetten en dat daarmee het gebouw als geheel alsnog voldoet aan de MPG eis. Hoe dan ook lijkt het dat er veel ruimte voor verbetering is bij deze draagconstructie voor wat betreft de Milieu Impact.
