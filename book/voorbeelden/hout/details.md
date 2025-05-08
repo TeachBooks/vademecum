@@ -1,11 +1,8 @@
 # Details
 
-Verken de structurele verbindingen van beton via interactieve 3D-visualisaties. Dit gedeelte belicht zowel standaard- als geavanceerde verbindingstechnieken en toont hun toepassingen en voordelen in de houtbouw.  
+De constructieve verbinding is getoont via interactieve 3D-visualisaties. Je kan het menu in de linker-bovenhoek gebruiken om lagen aan en uit te zetten om de verbinding beter te kunnen bekijken.
 
-Gebruik het menu aan de linkerkant om lagen toe te voegen of te verwijderen.
-
-
-## Standard connection
+<br>
 
 <div>
     <iframe src="../../_static/Connection_Timber_Standard.html" width="750" height="750" frameborder="0"></iframe>
@@ -13,7 +10,7 @@ Gebruik het menu aan de linkerkant om lagen toe te voegen of te verwijderen.
 
 Of download het bestand [hier](../../_static/Octatube_Timber.html) en open het in je web browser. 
 
-## Advanced connection
+<br>
 
 <div>
     <iframe src="../../_static/Connection_Timber_Advanced.html" width="750" height="750" frameborder="0"></iframe>
