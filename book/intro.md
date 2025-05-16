@@ -11,6 +11,9 @@ Online beschikbaar via: [Besluit Bouwwerken Leefomgeving](https://wetten.overhei
 ## Eurocodes
 Online beschikbaar voor studenten van de TU Delft via [tudelft library](https://www.tudelft.nl/library) in databases ->NEN-Connect. Voor de eisen aan het constructief ontwerp verwijst het Bouwbesluit onder meer naar de Eurocodes. In Nederland worden de Eurocodes uitgegeven door het NEN (Nederlands Normalisatie-instituut). Met deze normenreeks (NEN-EN 1990 t/m. NEN-EN 1999 en de bij elk deel daarvan behorende nationale bijlage) kan worden aangetoond dat een bouwwerk op het gebied van constructieve veiligheid voldoet aan de prestatie-eisen van het Bouwbesluit. Voor een overzicht van de huidige Eurocodes zie bijlage A.
 
+```{note} We werken graag met je samen!
+Als je fouten tegenkomt, laat het ons dan weten via dit [Microsoft Formulier](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=TVJuCSlpMECM04q0LeCIe5YWi3LE3X1Pm5WMbF_3dNBUQ1BTNktTVFBBUzVRVDVTTjJLQ0swSkVQVi4u). Ook suggesties of aanvullingen zijn van harte welkom!
+```
 
 ## Auteursrecht informatie
 
