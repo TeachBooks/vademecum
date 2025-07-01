@@ -22,6 +22,7 @@ $$
 | $+$                  | betekent "te combineren met"               |
 | $\sum$      | betekent "de gecombineerde uitkomst van"   |
 
+<br>
 
 **Frequentie combinatie**
 
@@ -45,6 +46,7 @@ $$
 | $+$                  | betekent "te combineren met"               |
 | $\sum$      | betekent "de gecombineerde uitkomst van"   |
 
+<br>
 
 **Quasi-blijvende combinatie**  
 De quasi-blijvende combinatie wordt gebruikt voor langetermijneffecten (krimp en kruip) en voor het uiterlijk van de constructie. 

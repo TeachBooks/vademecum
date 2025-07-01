@@ -1,7 +1,7 @@
 # Bruikbaarheidscriteria
 
 ```{note}
-zie NEN-EN 1990 bijlage A.1.4.2
+Zie NEN-EN 1990 bijlage A.1.4.2
 ```
 
 Bruikbaarheidsgrenstoestanden van gebouwen behoren criteria in aanmerking te nemen met betrekking tot, bijvoorbeeld, vloerstijfheid, vloerniveauverschillen, zijdelingse uitwijkingen van verdiepingen en/of van het gebouw en stijfheid van het dak. Stijfheidscriteria mogen zijn uitgedrukt in termen van grenzen voor verticale doorbuigingen en voor trillingen. Zijdelingse uitwijkingscriteria mogen zijn uitgedrukt in termen van grenzen voor horizontale verplaatsingen.

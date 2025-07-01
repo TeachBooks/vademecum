@@ -1,6 +1,6 @@
 # Stabiliteit
 
-## stabiliteitswanden (schijven)
+## Stabiliteitswanden (schijven)
 
 Voor rechthoekige wanden (zonder flenzen aan de uiteindes) gelden de waardes in onderstaande tabel. Hierbij is aangenomen dat de wanden elke 8 meter worden geplaatst.
 

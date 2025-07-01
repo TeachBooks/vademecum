@@ -15,7 +15,7 @@ De opsplitsing van het totale beschikbare budget van 0,80 €/(m<sup>2</sup>⋅j
 - 0,20 €/(m<sup>2</sup>⋅jr) constructiedeel
 - 0,20 €/(m<sup>2</sup>⋅jr) installatiedeel
 - 0,20 €/(m<sup>2</sup>⋅jr) gevel 
-- 0,20 €/(m<sup>2</sup>⋅jr) inbouwpakket         +
+- 0,20 €/(m<sup>2</sup>⋅jr) inbouwpakket &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +
 ----------------------------------------
 - 0,80 €/(m<sup>2</sup>⋅jr) totaal woongebouw
 

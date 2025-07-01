@@ -12,21 +12,16 @@ Schattingsregels voor kolommen zijn minder nauwkeurig dan voor vloeren en ligger
 - Een geschoorde constructie (dat wil zeggen dat de standzekerheid van het gebouw wordt gewaarborgd door de wanden of windverbanden en niet door momentvaste verbindingen).
 
 
-`````{admonition} Houten kolom
-:class: tip
+>**Houten kolom**
+>
+><img src="ImagesHout/grafiek_hout.jpg" alt="Houten kolom" width="400px">
+>
+>* Rode lijn (boven): Tot max. 5 bouwlagen
+>* Blauwe lijn (onder): Tot max. 3 bouwlagen
+>
+>* De kolomafmeting die gevonden wordt geldt voor de richting waarin de kolom zal uitknikken. Dit is gewoonlijk de zwakke richting, tenzij knikverkorters zijn toegepast. In de grafiek is uitgegaan van een vierkante kolom.
+>* De kniklengte van de kolom is doorgaans gelijk aan de verdiepingshoogte.
 
-
-<img src="ImagesHout/grafiek_hout.jpg" alt="Houten kolom" width="400px">
-
-
-* Rode lijn (boven): Tot max. 5 bouwlagen
-* Blauwe lijn (onder): Tot max. 3 bouwlagen
-
-* De kolomafmeting die gevonden wordt geldt voor de richting waarin de kolom zal uitknikken. Dit is gewoonlijk de zwakke richting, tenzij knikverkorters zijn toegepast. In de grafiek is uitgegaan van een vierkante kolom.
-* De kniklengte van de kolom is doorgaans gelijk aan de verdiepingshoogte.
-
-
-`````
 
 
 **Gelamineerde kolommen**  
@@ -38,18 +33,14 @@ De ontwerpgrafiek geldt voor:
 - Gevolgklasse CC2.
 - Een geschoorde constructie (dat wil zeggen dat de standzekerheid van het gebouw wordt gewaarborgd door de wanden of windverbanden en niet door momentvaste verbindingen).
 
-`````{admonition} Gelamineerde kolom
-:class: tip
-
-
-<img src="ImagesHout/gelamineerd.jpg" alt="Gelamineerde kolom" width="400px">
-
-
-* Oranje lijn (boven): q=2 kN/m² en tot max. 5 bouwlagen
-* Grijze lijn (midden): q=5 kN/m² en tot max. 5 bouwlagen
-* Blauwe lijn (onder): q=2 kN/m² en tot max. 3 bouwlagen
-
-* De kolomafmeting die gevonden wordt geldt voor de richting waarin de kolom zal uitknikken. Dit is gewoonlijk de zwakke richting, tenzij knikverkorters zijn toegepast. In de grafiek is uitgegaan van een vierkante kolom.
-* De kniklengte van de kolom is doorgaans gelijk aan de verdiepingshoogte.
-
-`````
+>**Gelamineerde kolom**
+>
+><img src="ImagesHout/gelamineerd.jpg" alt="Gelamineerde kolom" width="400px">
+>
+>
+>* Oranje lijn (boven): q=2 kN/m² en tot max. 5 bouwlagen
+>* Grijze lijn (midden): q=5 kN/m² en tot max. 5 bouwlagen
+>* Blauwe lijn (onder): q=2 kN/m² en tot max. 3 bouwlagen
+>
+>* De kolomafmeting die gevonden wordt geldt voor de richting waarin de kolom zal uitknikken. Dit is gewoonlijk de zwakke richting, tenzij knikverkorters zijn toegepast. In de grafiek is uitgegaan van een vierkante kolom.
+>* De kniklengte van de kolom is doorgaans gelijk aan de verdiepingshoogte.

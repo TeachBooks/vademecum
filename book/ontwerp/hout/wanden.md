@@ -14,41 +14,22 @@ Voor dragende wanden geldt hetzelfde als voor kolommen, behalve dat ze ook een s
 * De stijlen worden doorgaans aan weerszijden bekleed met 9mm OSB- of multiplexplaten.
 
 
-`````{admonition} CLT wand 80 mm
-:class: tip
+>**CLT wand 80 mm**
+>
+><img src="ImagesHout/CLT03.jpg" alt="CLT wand 80 mm" width="400px">
+>
+>© Swedish Wood
 
 
-<img src="ImagesHout/CLT03.jpg" alt="CLT wand 80 mm" width="400px">
+>**CLT wand 100 mm**
+>
+><img src="ImagesHout/CLT04.jpg" alt="CLT wand 100 mm" width="400px">
+>
+>© Swedish Wood
 
 
-© Swedish Wood
-
-
-`````
-
-
-`````{admonition} CLT wand 100 mm
-:class: tip
-
-
-<img src="ImagesHout/CLT04.jpg" alt="CLT wand 100 mm" width="400px">
-
-
-© Swedish Wood
-
-
-`````
-
-
-`````{admonition} CLT wand 120 mm
-:class: tip
-
-
-<img src="ImagesHout/CLT05.jpg" alt="CLT wand 120 mm" width="400px">
-
-
-© Swedish Wood
-
-
-`````
-
+>**CLT wand 120 mm**
+>
+><img src="ImagesHout/CLT05.jpg" alt="CLT wand 120 mm" width="400px">
+>
+>© Swedish Wood
