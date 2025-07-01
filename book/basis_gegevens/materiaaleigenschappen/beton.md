@@ -50,6 +50,6 @@
 
 | Diagram | | |
 |---|---|---|
-| <img src="Images/8gegevens_beton_spanning_rek.png" alt="Spannings-rek diagram" class="bg-primary" width="300px"> | $\mathsf{\sigma_c}$ <br> $\mathsf{\epsilon_c}$ <br> $\mathsf{f_{ck}}$ <br> $\mathsf{f_{cd}}$ <br> $\mathsf{\epsilon_{c3}}$ <br> $\mathsf{\epsilon'_{bu}}$ <br> $\mathsf{\epsilon_{c3}}$ <br> $\mathsf{\epsilon_{cu3}}$ | : drukspanning van het beton <br> : rek van het beton <br> : karakteristieke waarde druksterkte <br> : rekenwaarde druksterkte <br> : betonstuik bij het begin van de plastische vervorming <br> : grenswaarde van de betonstuik <br> : 1,75 ‰ * <br> : 3,50 ‰ * |
+| <img src="Images/8gegevens_beton_spanning_rek.png" alt="Spannings-rek diagram" class="bg-primary" width="300px"> | $\mathsf{\sigma_c}$ <br> $\mathsf{\epsilon_c}$ <br> $\mathsf{f_{ck}}$ <br> $\mathsf{f_{cd}}$ <br> $\mathsf{\epsilon_{c3}}$ <br> $\mathsf{\epsilon'_{bu}}$ <br> $\mathsf{\epsilon_{c3}}$ <br> $\mathsf{\epsilon_{cu3}}$ | drukspanning van het beton <br> rek van het beton <br> karakteristieke waarde druksterkte <br> rekenwaarde druksterkte <br> betonstuik bij het begin van de plastische vervorming <br> grenswaarde van de betonstuik <br> 1,75 ‰ * <br> 3,50 ‰ * |
 
 $^{*}$ Deze waardes zijn geldig voor de sterkteklassen in bovenstaande tabel, niet bij hogere sterkteklassen.

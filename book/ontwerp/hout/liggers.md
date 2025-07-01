@@ -10,18 +10,14 @@ De ontwerpgrafiek geldt voor:
 - Liggerbreedte is ca. 1/3 van de liggerhoogte.
 
 
-`````{admonition} Gelamineerde ligger
-:class: tip
+>**Gelamineerde ligger**
+>
+><img src="ImagesHout/ligger.jpg" alt="Gelamineerde ligger" width="400px">
+>
+>* Grijze lijn: q=5 kN/m² (bijeenkomstruimte)
+>* Oranje lijn: q=2,5 kN/m² (kantoorfunctie)
+>* Blauwe lijn: q=1,75 kN/m² (woonfunctie)
 
-
-<img src="ImagesHout/ligger.jpg" alt="Gelamineerde ligger" width="400px">
-
-
-* Grijze lijn: q=5 kN/m² (bijeenkomstruimte)
-* Oranje lijn: q=2,5 kN/m² (kantoorfunctie)
-* Blauwe lijn: q=1,75 kN/m² (woonfunctie)
-
-`````
 
 ## Houtconstructies met liggers
 

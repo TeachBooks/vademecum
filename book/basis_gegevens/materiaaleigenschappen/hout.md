@@ -175,7 +175,9 @@ Het vochtgehalte en de belastingsduur beïnvloeden de sterkte- en stijfheidseige
 
 ## Uiterste grenstoestanden
 
+```{note}
 Zie NEN-EN 1995-1-1+C1+A1:2011 2.2.2 Uiterste grenstoestanden.
+```
 
 <br>
 
@@ -192,7 +194,7 @@ Het effect van het vochtgehalte en de belastingsduur worden met de $\mathsf{k_{m
 |  |  | 2 | 0,60 | 0,70 | 0,80 | 0,90 | 1,10 |
 |  |  | 3 | 0,50 | 0,55 | 0,65 | 0,70 | 0,90 |
 
-**Waarden van $\mathsf{k_{mod}}$ - NEN-EN 1995-1-1+C1+A1:2011**
+*Waarden van $\mathsf{k_{mod}}$ - NEN-EN 1995-1-1+C1+A1:2011*
 
 <br>
 
@@ -205,7 +207,7 @@ Het effect van het vochtgehalte en de belastingsduur worden met de $\mathsf{k_{m
 | Verbindingen | 1,30 |
 | Metalen hechtplaten | 1,25 |
 
-**Waarden van materiaal veiligheidsfactor $\mathsf{\gamma_M}$**
+*Waarden van materiaal veiligheidsfactor $\mathsf{\gamma_M}$*
 
 <br>
 
@@ -234,7 +236,7 @@ $$
 | $G_d$ | = rekenwaarde van de afschuivingsmodulus |
 | $G_{mean}$ | = karakteristieke waarde van de afschuivingsmodulus |
 
----
+<br>
 
 ## Bruikbaarheidsgrenstoestanden
 
@@ -245,7 +247,7 @@ De vervorming van een constructie die het gevolg is van belastingen moet binnen 
 | Gezaagd hout | EN 14081-1 | 0,60 | 0,80 | 2,00 |
 | Gelijmd gelamineerd hout | EN 14080 | 0,60 | 0,80 | 2,00 |
 
-Tabel 3.2 — Waarden van $\mathsf{k_{def}}$ voor hout en houtachtige materialen - NEN-EN 1995-1-1+C1+A1:2011
+*Tabel 3.2 — Waarden van $\mathsf{k_{def}}$ voor hout en houtachtige materialen - NEN-EN 1995-1-1+C1+A1:2011*
 
 <br>
 
