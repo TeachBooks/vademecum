@@ -9,13 +9,18 @@ scale: 40%
 [Nederlandse Milieu Database](https://milieudatabase.nl/)
 ```
 
-### Norm
+<br>
+
+**Norm**
+
 - **Set A1** is de voorgeschreven set met 11 indicatoren volgens *EN 15804 – 2012/Oude Bepalingsmethode*
 
 - **Set A2** is op basis van de *EN 15804 +A2 (2019)*, die waarschijnlijk op 1 – 7 – 2026 verplicht wordt. 
 
+<br>
 
-## Categorieën
+**Categorieën**
+
 De producten in de Nationale Milieu Database zijn ingedeeld in categorieën:
 
 - **Categorie 1**: merkgebonden data, getoetst door een onafhankelijke, gekwalificeerde derde partij volgens het NMD-Toetsingsprotocol. Aangeleverd door fabrikanten/producenten en toeleveranciers.
@@ -28,9 +33,9 @@ De producten in de Nationale Milieu Database zijn ingedeeld in categorieën:
 
 ‘Generieke’ producten (categorie 3) worden als terugvaloptie aangeboden in geval er voor de gewenste materiaaloptie in de NMD geen ‘getoetste’ producten (categorie 1 of 2) beschikbaar zijn.
 
+<br>
 
-
-### Scope
+**Scope**
 
 ```{figure} Images/MKIindeling.png
 ---
@@ -69,9 +74,9 @@ Indeling scope
 
 - **D**: Buiten-levensloop: Module D betreft de milieu-impact die buiten de systeemgrens van het bouwwerk is gealloceerd. Dit kunnen zowel positieve als negatieve posten zijn. <!-- Voorbeeld toevoegen -->
 
-
+<br>
  
-### Referentieperiode 
+**Referentieperiode** 
 
 De referentieperiode van het product slaat op de verwachte levensduur van het product. Als de referentieperiode van het product kleiner is dan de referentieperiode van het gebouw (meestal is dat 50 jaar), dan zou je de MKI waardes dus meerdere keren moeten meenemen in de MPG berekening van het gebouw.
 
