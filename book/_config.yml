@@ -1,6 +1,6 @@
 title: Vademecum
 author: 
-logo: figures/voorblad.png #add your own logo here
+logo: figures/logovdm.png #add your own logo here
 
 execute:
   execute_notebooks: "off"
