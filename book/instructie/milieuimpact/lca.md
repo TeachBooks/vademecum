@@ -11,7 +11,7 @@ Life Cycle Analysis
 ```
 
 
-```{figure} Images/MKIindeling.png
+```{figure} ../Images/MKIindeling.png
 ---
 scale: 75%
 ---
@@ -65,7 +65,7 @@ De Bepalingsmethode Milieuprestatie Bouwwerken, is een uniforme meetmethode om d
 
 ```{figure} ../Images/bepalingsmethodejs.jpg
 ---
-scale: 30%
+scale: 50%
 ---
 Bepalingsmethode
 ```

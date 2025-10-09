@@ -2,7 +2,7 @@
 
 ```{figure} figures/logovdm4.png
 ---
-scale: 100%
+scale: 30%
 ---
 ```
 
