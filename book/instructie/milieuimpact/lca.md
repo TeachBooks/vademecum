@@ -5,7 +5,7 @@ In een LCA wordt een product geanalyseerd van wieg tot graf (cradle-2-grave). Da
 
 ```{figure} ../Images/LCAafbeelding.png
 ---
-scale: 80%
+scale: 60%
 ---
 Life Cycle Analysis
 ```

@@ -1,5 +1,11 @@
 # Vademecum voor draagconstructies van gebouwen
 
+```{figure} figures/logovdm4.png
+---
+scale: 100%
+---
+```
+
 Dit vademecum is samengesteld voor studenten Bouwkunde aan de TU Delft en dient als hulpmiddel bij ontwerpprojecten en vakoefeningen. De informatie is bedoeld voor onderwijsdoeleinden en niet voor een uiteindelijke constructieve toetsing van werkelijke constructies. 
 Het document bestaat uit vier componenten: Instructies, Vuistregels, Basis gegevens en Voorbeelden.
 
@@ -49,6 +55,8 @@ Als je fouten tegenkomt, laat het ons dan weten via dit [Microsoft Formulier](ht
 - Roel Schipper
 - Sander Pasterkamp
 - Marco Schuurman
+- Arjen Meijer
+- Rebecca Hartwell
 - Minke van den Boogaard
 - Niels van Vliet
 - Guus Meinema
