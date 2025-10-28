@@ -2,21 +2,16 @@
 
 In een LCA wordt een product geanalyseerd van wieg tot graf (cradle-2-grave). Dat betekent dat alle processtappen voor de productie, transport, toepassing en afvalverwerking van dat product worden meegenomen in de analyse. 
 
+<br>
 
-```{figure} ../Images/LCAafbeelding.png
----
-scale: 60%
----
-Life Cycle Analysis
-```
+![LCA](../Images/LCAafbeelding.png)
 
+<br>
 
-```{figure} ../Images/MKIindeling.png
----
-scale: 75%
----
-Indeling scope
-```
+![LCA](../Images/MKIindeling.png)
+
+<br>
+
 
 - **A1-A3 productie**: Dit betreft de winning van de grondstoffen tot de aanlevering bij de fabriekspoort - ‘cradle to gate’. 
 
@@ -63,9 +58,5 @@ Indeling scope
 Het **Besluit bouwwerken leefomgeving (Bbl)** stelt eisen aan de milieuprestatie van een woonfunctie, een kantoorgebouw en neven gebruiksfuncties daarvan (artikel 4.159 Bbl). De milieuprestatie wordt bepaald volgens de Bepalingsmethode Milieuprestatie Bouwwerken.
 De Bepalingsmethode Milieuprestatie Bouwwerken, is een uniforme meetmethode om de milieuprestatie van bouwwerken eenduidig, controleerbaar en reproduceerbaar te berekenen. Het creëert hiermee een gelijk speelveld voor alle betrokken partijen. De milieuprestatie van diverse bouwontwerpen kan worden vergeleken, met als doel de uiteindelijke milieu-impact van een bouwwerk te verlagen. 
 
-```{figure} ../Images/bepalingsmethodejs.jpg
----
-scale: 50%
----
-Bepalingsmethode
-```
+
+![LCA](../Images/bepalingsmethodejs.jpg)
