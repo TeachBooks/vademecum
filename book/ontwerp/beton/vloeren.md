@@ -112,21 +112,12 @@ Leidingen kunnen worden ingestort en de constructieve druklaag kan van zowel een
 |  | 70 mm / 1,68 kN/m² |
 |  | 80 mm / 1,92 kN/m² |
 
-```{figure} ImagesBeton/2.4.1betonconstructies_dycorebekisting1.png
----
-scale: 0%
----
-Bekistingsplaatvloer Details
-```
+![aansluitdetails](ImagesBeton/2.4.1betonconstructies_dycorebekisting1.png)
+
 
 ### Aansluitdetails
 
-```{figure} ImagesBeton/2.4.1betonconstructies_dycorebekisting2.png
----
-scale: 50%
----
-Aansluitdetails Bekistingsplaatvloer
-```
+<img src="ImagesBeton/2.4.1betonconstructies_dycorebekisting2.png" alt="aansluitdetails" width="400px">
 
 
 ## Kanaalplaatvloer
@@ -243,9 +234,4 @@ Schijfwerking in kanaalplaatvloer.
 |---|---|---|
 | Oplegging op spouwmuur | Bij woningscheidende wanden de <br> kanalen ter plaatse van alle vloer- <br> openingen zoals leidingdoorvoeren,<br> trapgaten, etc., afdichten met mortel, <br> minerale wol of kunststofschuim | Oplegging op console |
 
-```{figure} ImagesBeton/2.4.1betonconstructies_dycore3.png
----
-scale: 50%
----
-Aansluitdetails Dycore
-```
+<img src="ImagesBeton/2.4.1betonconstructies_dycore3.png" alt="aansluitdetails" width="400px">
