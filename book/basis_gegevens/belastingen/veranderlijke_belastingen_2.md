@@ -57,17 +57,12 @@ name: Parameters
 
 De verschillende windzones voor de gevels van een gebouw zijn hieronder weergegeven. Het aantal windzones op de gevel varieert van 1 tot 3, afhankelijk van de waardes van $e$ en $d$. Voor gebouwen met een zadeldak gelden dezelfde zones. De waarde van $h$ dient dan genomen te worden als de hoogte van de nok boven maaiveldniveau. De parameters $e$ en $d$jaa zijn hierboven gedefinieerd.
 
-```{figure} Images/544_windzones_gevels.png
----
-scale: 25%
----
-```
+<img src="Images/544_windzones_gevels.png" alt="windzones" width="600px">
 
-```{figure} Images/544_windzones_gevels_2.png
----
-scale: 25%
----
-```
+<br>
+
+<img src="Images/544_windzones_gevels_2.png" alt="windzones" width="700px">
+
 
 
 <div style="max-height: 400px; overflow-y: auto;">
@@ -97,12 +92,8 @@ scale: 25%
 
 ## Windzones voor platte daken
 
-```{figure} Images/545_windonzes_platte_daken.png
----
-scale: 25%
-name: Windzones platte daken
----
-```
+<img src="Images/545_windonzes_platte_daken.png" alt="windzones" width="300px">
+
 
 <div style="max-height: 400px; overflow-y: auto;">
     <table style="width: 100%; border-collapse: collapse;">
@@ -130,11 +121,8 @@ Op andere randen zijn mogelijk lagere krachtcoëfficiënten van toepassing, zie 
 
 ## Windzones voor zadeldaken
 
-```{figure} Images/546_windzones_duopitched.png
----
-scale: 25%
----
-```
+<img src="Images/546_windzones_duopitched.png" alt="windzones" width="600px">
+
 
 
 <div style="max-height: 400px; overflow-y: auto;">
