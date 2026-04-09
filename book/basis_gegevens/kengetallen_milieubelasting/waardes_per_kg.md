@@ -36,10 +36,10 @@ Naaldhout, sterkteklassen volgens EN 14080 Volumieke massa van 507 kg/m$^3$
 
 ## Gewapend Beton
 
-Doorgaand gewapend beton betreft een betonverharding zonder dwarsvoegen met in langsrichting een enkel wapeningsnet. Betreft beton met sterkteklasse C35/45 CEM III. Voor de volume verhouding beton:wapening is 99,3:0,7% aangehouden. Het totaal gewicht bedraagt 2428,9 kg/m3
+Doorgaand gewapend beton betreft een betonverharding zonder dwarsvoegen met in langsrichting een enkel wapeningsnet. Betreft beton met sterkteklasse C35/45 CEM III. Voor de volume verhouding beton:wapening is 99,3:0,7% aangehouden. Het totaal gewicht bedraagt 2428,9 kg/m<sup>3</sup>
 
 | omschrijving | MKI A1 [€/kg] | referentie periode |
 |---|---|---|
-| Doorgaand Gewapend Beton C35/45 CEM III | 0,01 | 100 jaar|
+| Doorgaand Gewapend Beton C35/45 CEM III | 0,02 | 100 jaar|
 
 *Bron: Milieudatabase.nl*

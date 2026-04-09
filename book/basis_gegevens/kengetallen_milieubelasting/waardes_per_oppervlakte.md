@@ -30,10 +30,12 @@ Kanaalplaatvloeren zijn vrijdragende systeemvloeren van voorgespannen prefab bet
 
 *Bron: Milieudatabase.nl*
 
+Op een kanaalplaatvloer wordt een zogenaamde druklaag van gewapend beton gestort met een dikte van rond de 80mm om de losse kanaalplaten tot een enkele schijf te maken. De MKI van het gestorte beton per vierkante [euro/m<sup>2</sup>] meter kan worden berekend door de MKI waarde van beton (0,02 euro/kg) te vermenigvuldigen met het soortelijk gewicht van beton (2400 kg/m<sup>3</sup>) en de toegepaste betondikte [m]. Dus bijvoorbeeld voor een druklaaglaag met dikte van 80mm is dat 0,02 euro/kg * 2400 kg/m<sup>3</sup> * 0,08 m = 3,84 euro/m<sup>2</sup>
+
 
 ## Breedplaat vloer
 
-Een breedplaatvloer bestaat uit prefab vloerelementen die door middel van ingestorte tralieliggers wordt verbonden met een in het werk te storten constructief meewerkende, gewapende druklaag. De vloer kan worden toegepast als verdieping- en dakvloer in zowel de woning als utiliteitsbouw. Het betreft een breedplaatvloer van 50 mm dik exclusief druklaag, bevestigingsmiddelen en eventuele isolatie. De levensduur van dit product is 100 jaar. Het gewicht per m2 is 129.483 kg. Afmeting Elementhoogte (mm) (50 Standaard breedte mm) 2997 Werkende breedte (mm) 3000 Pasplaat breedte (mm) Vanaf 550 Constructie Staalkwaliteit wapening B500 Brandwerendheid (minuten) Tot 90 Milieuklasse XC1-XC3 Oppervlakte bovenzijde Ruw Sterkteklasse (beton) Vanaf C30/37
+Een breedplaatvloer bestaat uit prefab vloerelementen die door middel van ingestorte tralieliggers wordt verbonden met een in het werk te storten constructief meewerkende, gewapende druklaag. De vloer kan worden toegepast als verdieping- en dakvloer in zowel de woning als utiliteitsbouw. Het betreft een breedplaatvloer van 50 mm dik exclusief druklaag, bevestigingsmiddelen en eventuele isolatie. De levensduur van dit product is 100 jaar. Het gewicht per m<sup>2</sup> is 129.483 kg. Afmeting Elementhoogte (mm) (50 Standaard breedte mm) 2997 Werkende breedte (mm) 3000 Pasplaat breedte (mm) Vanaf 550 Constructie Staalkwaliteit wapening B500 Brandwerendheid (minuten) Tot 90 Milieuklasse XC1-XC3 Oppervlakte bovenzijde Ruw Sterkteklasse (beton) Vanaf C30/37
 
 | omschrijving | MKI A1 [€/m$^2$] | referentie periode |
 |---|---|---|
@@ -44,6 +46,8 @@ Een breedplaatvloer bestaat uit prefab vloerelementen die door middel van ingest
 | Breedplaatvloer Bpv 80 mm | 3,57 | 100 jaar|
 
 *Bron: Milieudatabase.nl*
+
+Een breedplaatvloer bestaat uit een prefab deel dat als verloren bekisting werkt Dit is de breedplaat zelf. Daarop wordt beton gestort tot de benodigde vloerdikte is bereikt. De MKI van het gestorte beton per vierkante [euro/m<sup>2</sup>] meter kan worden berekend door de MKI waarde van beton (0,02 euro/kg) te vermenigvuldigen met het soortelijk gewicht van beton (2400 kg/m<sup>3</sup>) en de toegepaste betondikte [m]. Dus bijvoorbeeld voor een opgestorte betonlaag met dikte van 170mm is dat 0,02 euro/kg * 2400 kg/m<sup>3</sup> * 0,17 m = 8,16 euro/m
 
 
 ## Staalplaat betonvloer
