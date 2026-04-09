@@ -7,14 +7,14 @@
 
 | omschrijving | MKI A1 [€/kg] | referentie periode |
 |---|---|---|
-| Zwaar constructiestaal (7820 kg/m$^3$, incl. conservering) | 0,12 | 100 jaar|
+| Zwaar constructiestaal (7820 kg/m<sup>3</sup>, incl. conservering) | 0,12 | 100 jaar|
 
 *Bron: Milieudatabase.nl*
 
 
 ## Gezaagd hout
 
-Sterkteklassen C16, C18, C24 (NEN-EN 1912) naaldhout, 469 kg/m$^3$ vochtgehalte 15%, milieuprofiel per m$^1$ voor balken van 100 x 100 mm
+Sterkteklassen C16, C18, C24 (NEN-EN 1912) naaldhout, 469 kg/m<sup>3</sup> vochtgehalte 15%, milieuprofiel per m<sup>1</sup> voor balken van 100 x 100 mm
 
 | omschrijving | MKI A1 [€/kg] | referentie periode |
 |---|---|---|
@@ -25,7 +25,7 @@ Sterkteklassen C16, C18, C24 (NEN-EN 1912) naaldhout, 469 kg/m$^3$ vochtgehalte 
 
 ## Gelamineerd hout
 
-Naaldhout, sterkteklassen volgens EN 14080 Volumieke massa van 507 kg/m$^3$
+Naaldhout, sterkteklassen volgens EN 14080 Volumieke massa van 507 kg/m<sup>3</sup>
 
 | omschrijving | MKI A1 [€/kg] | referentie periode |
 |---|---|---|
