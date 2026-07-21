@@ -47,7 +47,7 @@ Een breedplaatvloer bestaat uit prefab vloerelementen die door middel van ingest
 
 *Bron: Milieudatabase.nl*
 
-Een breedplaatvloer bestaat uit een prefab deel dat als verloren bekisting werkt Dit is de breedplaat zelf. Daarop wordt beton gestort tot de benodigde vloerdikte is bereikt. De MKI van het gestorte beton per vierkante [euro/m<sup>2</sup>] meter kan worden berekend door de MKI waarde van beton (0,02 euro/kg) te vermenigvuldigen met het soortelijk gewicht van beton (2400 kg/m<sup>3</sup>) en de toegepaste betondikte [m]. Dus bijvoorbeeld voor een opgestorte betonlaag met dikte van 170mm is dat 0,02 euro/kg * 2400 kg/m<sup>3</sup> * 0,17 m = 8,16 euro/m
+Een breedplaatvloer bestaat uit een prefab deel dat als verloren bekisting werkt Dit is de breedplaat zelf. Daarop wordt beton gestort tot de benodigde vloerdikte is bereikt. De MKI van het gestorte beton per vierkante [euro/m<sup>2</sup>] meter kan worden berekend door de MKI waarde van beton (0,02 euro/kg) te vermenigvuldigen met het soortelijk gewicht van beton (2400 kg/m<sup>3</sup>) en de toegepaste betondikte [m]. Dus bijvoorbeeld voor een opgestorte betonlaag met dikte van 170mm is dat 0,02 euro/kg * 2400 kg/m<sup>3</sup> * 0,17 m = 8,16 euro/m<sup>2</sup>
 
 
 ## Staalplaat betonvloer

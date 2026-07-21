@@ -39,7 +39,7 @@ De gegeven benaming van de lijnsoorten en arceringen gelden voor constructie-tek
 
 | Beschrijving           | Arcering                                           | 1:100 | 1:50 | 1:20 | 1:10 | 1:5 | 1:1 | Opmerking                               |
 |-----------------------|----------------------------------------------------|-------|------|------|------|-----|-----|-----------------------------------------|
-| Hout                  | <img src="Images/06_hout.jpg" alt="Hout" class="bg-primary" width="80px"> |       |      | ✓    | ✓    | ✓   | ✓   |                                         |
+| Hout                  | <img src="Images/06_hout.jpg" alt="Hout" class="bg-primary" width="80px"> | ✓     | ✓    | ✓    | ✓    | ✓   | ✓   |                                         |
 | Hardhout              | <img src="Images/07_hardhout.jpg" alt="Hardhout" class="bg-primary" width="80px"> |       |      | ✓    | ✓    | ✓   | ✓   |                                         |
 | Hout plaatmateriaal   | <img src="Images/08_Hout_plaatmateriaal.jpg" alt="Hout plaatmateriaal" class="bg-primary" width="80px"> |       |      |      | ✓    | ✓   | ✓   |                                         |
 | Lijmverbinding        | <img src="Images/09_lijmverbinding.jpg" alt="Lijmverbinding" class="bg-primary" width="80px"> |       |      |      | ✓    | ✓   | ✓   | Tussen houten onderdelen.               |
