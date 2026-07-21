@@ -58,9 +58,10 @@ Een combinatie van HSB en CLT is daarom zeer geschikt voor de seriematige woning
             <tr>
                 <th style="width: 200px;">Materiaaleigenschap</th>
                 <th></th>
-                <th colspan="20" style="text-align: center;">Sterkteklasse</th>
+                <th colspan="21" style="text-align: center;">Sterkteklasse</th>
             </tr>
             <tr>
+                <th></th>
                 <th></th>
                 <th></th>
                 <th>C14</th>
@@ -86,18 +87,18 @@ Een combinatie van HSB en CLT is daarom zeer geschikt voor de seriematige woning
             </tr>
         </thead>
         <tbody>
-            <tr><td>buigsterkte</td><td>f<sub>m;k</sub></td><td>14</td><td>16</td><td>18</td><td>20</td><td>22</td><td>24</td><td>27</td><td>30</td><td>35</td><td>40</td><td>45</td><td>50</td><td>18</td><td>24</td><td>30</td><td>35</td><td>40</td><td>50</td><td>60</td><td>70</td></tr>
-            <tr><td>treksterkte //</td><td>f<sub>t;0;k</sub></td><td>7,2</td><td>8,5</td><td>10</td><td>11,5</td><td>13</td><td>14,5</td><td>16,5</td><td>19</td><td>22,5</td><td>26</td><td>30</td><td>33,5</td><td>11</td><td>14</td><td>18</td><td>21</td><td>24</td><td>30</td><td>36</td><td>42</td></tr>
-            <tr><td>treksterkte ⊥</td><td>f<sub>t;90;k</sub></td><td>0,4</td><td>0,4</td><td>0,4</td><td>0,4</td><td>0,4</td><td>0,4</td><td>0,4</td><td>0,4</td><td>0,4</td><td>0,4</td><td>0,4</td><td>0,4</td><td>0,6</td><td>0,6</td><td>0,6</td><td>0,6</td><td>0,6</td><td>0,6</td><td>0,6</td><td>0,6</td></tr>
-            <tr><td>druksterkte //</td><td>f<sub>c;0;k</sub></td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>24</td><td>25</td><td>27</td><td>29</td><td>30</td><td>18</td><td>21</td><td>24</td><td>25</td><td>27</td><td>30</td><td>33</td><td>36</td></tr>
-            <tr><td>druksterkte ⊥</td><td>f<sub>c;90;k</sub></td><td>2,0</td><td>2,2</td><td>2,2</td><td>2,3</td><td>2,4</td><td>2,5</td><td>2,5</td><td>2,7</td><td>2,8</td><td>2,8</td><td>3,9</td><td>3,0</td><td>4,8</td><td>4,9</td><td>5,3</td><td>5,4</td><td>5,5</td><td>6,2</td><td>10,5</td><td>12,0</td></tr>
-            <tr><td>schuifsterkte</td><td>f<sub>v;k</sub></td><td>3,0</td><td>3,2</td><td>3,4</td><td>3,6</td><td>3,8</td><td>4,0</td><td>4,0</td><td>4,0</td><td>4,0</td><td>4,0</td><td>4,0</td><td>4,0</td><td>3,5</td><td>3,7</td><td>3,9</td><td>4,1</td><td>4,2</td><td>4,5</td><td>4,8</td><td>5,0</td></tr>
-            <tr><td>elasticiteitsmodulus //</td><td>E<sub>0;mean</sub></td><td>7000</td><td>8000</td><td>9000</td><td>9500</td><td>10000</td><td>11000</td><td>11500</td><td>12000</td><td>13000</td><td>14000</td><td>15000</td><td>16000</td><td>9500</td><td>10000</td><td>11000</td><td>12000</td><td>13000</td><td>14000</td><td>17000</td><td>20000</td></tr>
-            <tr><td>5% elasticiteitsmodulus //</td><td>E<sub>0,05</sub></td><td>4700</td><td>5400</td><td>6000</td><td>6400</td><td>6700</td><td>7400</td><td>7700</td><td>8000</td><td>8700</td><td>9400</td><td>10100</td><td>10700</td><td>8000</td><td>8400</td><td>9200</td><td>10100</td><td>10900</td><td>11800</td><td>14300</td><td>16800</td></tr>
-            <tr><td>elasticiteitsmodulus ⊥</td><td>E<sub>90;mean</sub></td><td>230</td><td>270</td><td>300</td><td>320</td><td>330</td><td>370</td><td>380</td><td>400</td><td>430</td><td>470</td><td>500</td><td>530</td><td>630</td><td>670</td><td>730</td><td>800</td><td>870</td><td>930</td><td>1130</td><td>1330</td></tr>
-            <tr><td>afschuifmodulus</td><td>G<sub>mean</sub></td><td>440</td><td>500</td><td>560</td><td>590</td><td>630</td><td>690</td><td>720</td><td>750</td><td>810</td><td>880</td><td>940</td><td>1000</td><td>590</td><td>630</td><td>690</td><td>750</td><td>810</td><td>880</td><td>1060</td><td>1250</td></tr>
-            <tr><td>5% volumieke massa</td><td>ρ</td><td>290</td><td>310</td><td>320</td><td>330</td><td>340</td><td>350</td><td>360</td><td>380</td><td>390</td><td>400</td><td>410</td><td>430</td><td>475</td><td>485</td><td>530</td><td>540</td><td>550</td><td>620</td><td>700</td><td>800</td></tr>
-            <tr><td>volumieke massa</td><td>ρ</td><td>350</td><td>370</td><td>380</td><td>400</td><td>410</td><td>420</td><td>430</td><td>460</td><td>470</td><td>480</td><td>490</td><td>520</td><td>570</td><td>580</td><td>640</td><td>650</td><td>660</td><td>740</td><td>840</td><td>960</td></tr>
+            <tr><td>buigsterkte</td><td>f<sub>m;k</sub></td><td>[N/mm<sup>2</sup>]</td><td>14</td><td>16</td><td>18</td><td>20</td><td>22</td><td>24</td><td>27</td><td>30</td><td>35</td><td>40</td><td>45</td><td>50</td><td>18</td><td>24</td><td>30</td><td>35</td><td>40</td><td>50</td><td>60</td><td>70</td></tr>
+            <tr><td>treksterkte //</td><td>f<sub>t;0;k</sub><td>[N/mm<sup>2</sup>]</td></td><td>7,2</td><td>8,5</td><td>10</td><td>11,5</td><td>13</td><td>14,5</td><td>16,5</td><td>19</td><td>22,5</td><td>26</td><td>30</td><td>33,5</td><td>11</td><td>14</td><td>18</td><td>21</td><td>24</td><td>30</td><td>36</td><td>42</td></tr>
+            <tr><td>treksterkte ⊥</td><td>f<sub>t;90;k</sub><td>[N/mm<sup>2</sup>]</td></td><td>0,4</td><td>0,4</td><td>0,4</td><td>0,4</td><td>0,4</td><td>0,4</td><td>0,4</td><td>0,4</td><td>0,4</td><td>0,4</td><td>0,4</td><td>0,4</td><td>0,6</td><td>0,6</td><td>0,6</td><td>0,6</td><td>0,6</td><td>0,6</td><td>0,6</td><td>0,6</td></tr>
+            <tr><td>druksterkte //</td><td>f<sub>c;0;k</sub></td><td>[N/mm<sup>2</sup>]</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>24</td><td>25</td><td>27</td><td>29</td><td>30</td><td>18</td><td>21</td><td>24</td><td>25</td><td>27</td><td>30</td><td>33</td><td>36</td></tr>
+            <tr><td>druksterkte ⊥</td><td>f<sub>c;90;k</sub></td><td>[N/mm<sup>2</sup>]</td><td>2,0</td><td>2,2</td><td>2,2</td><td>2,3</td><td>2,4</td><td>2,5</td><td>2,5</td><td>2,7</td><td>2,8</td><td>2,8</td><td>3,9</td><td>3,0</td><td>4,8</td><td>4,9</td><td>5,3</td><td>5,4</td><td>5,5</td><td>6,2</td><td>10,5</td><td>12,0</td></tr>
+            <tr><td>schuifsterkte</td><td>f<sub>v;k</sub><td>[N/mm<sup>2</sup>]</td></td><td>3,0</td><td>3,2</td><td>3,4</td><td>3,6</td><td>3,8</td><td>4,0</td><td>4,0</td><td>4,0</td><td>4,0</td><td>4,0</td><td>4,0</td><td>4,0</td><td>3,5</td><td>3,7</td><td>3,9</td><td>4,1</td><td>4,2</td><td>4,5</td><td>4,8</td><td>5,0</td></tr>
+            <tr><td>elasticiteitsmodulus //</td><td>E<sub>0;mean</sub><td>[N/mm<sup>2</sup>]</td></td><td>7000</td><td>8000</td><td>9000</td><td>9500</td><td>10000</td><td>11000</td><td>11500</td><td>12000</td><td>13000</td><td>14000</td><td>15000</td><td>16000</td><td>9500</td><td>10000</td><td>11000</td><td>12000</td><td>13000</td><td>14000</td><td>17000</td><td>20000</td></tr>
+            <tr><td>5% elasticiteitsmodulus //</td><td>E<sub>0,05</sub></td><td>[N/mm<sup>2</sup>]</td><td>4700</td><td>5400</td><td>6000</td><td>6400</td><td>6700</td><td>7400</td><td>7700</td><td>8000</td><td>8700</td><td>9400</td><td>10100</td><td>10700</td><td>8000</td><td>8400</td><td>9200</td><td>10100</td><td>10900</td><td>11800</td><td>14300</td><td>16800</td></tr>
+            <tr><td>elasticiteitsmodulus ⊥</td><td>E<sub>90;mean</sub></td><td>[N/mm<sup>2</sup>]</td><td>230</td><td>270</td><td>300</td><td>320</td><td>330</td><td>370</td><td>380</td><td>400</td><td>430</td><td>470</td><td>500</td><td>530</td><td>630</td><td>670</td><td>730</td><td>800</td><td>870</td><td>930</td><td>1130</td><td>1330</td></tr>
+            <tr><td>afschuifmodulus</td><td>G<sub>mean</sub></td><td>[N/mm<sup>2</sup>]</td><td>440</td><td>500</td><td>560</td><td>590</td><td>630</td><td>690</td><td>720</td><td>750</td><td>810</td><td>880</td><td>940</td><td>1000</td><td>590</td><td>630</td><td>690</td><td>750</td><td>810</td><td>880</td><td>1060</td><td>1250</td></tr>
+            <tr><td>5% volumieke massa</td><td>ρ</td><td>[kg/m<sup>3</sup>]</td><td>290</td><td>310</td><td>320</td><td>330</td><td>340</td><td>350</td><td>360</td><td>380</td><td>390</td><td>400</td><td>410</td><td>430</td><td>475</td><td>485</td><td>530</td><td>540</td><td>550</td><td>620</td><td>700</td><td>800</td></tr>
+            <tr><td>volumieke massa</td><td>ρ</td><td>[kg/m<sup>3</sup>]</td><td>350</td><td>370</td><td>380</td><td>400</td><td>410</td><td>420</td><td>430</td><td>460</td><td>470</td><td>480</td><td>490</td><td>520</td><td>570</td><td>580</td><td>640</td><td>650</td><td>660</td><td>740</td><td>840</td><td>960</td></tr>
         </tbody>
     </table>
 </div>
@@ -116,29 +117,31 @@ Tabel 1 - Sterkteklasses voor zachthout, gebaseerd op 'edgewise' buigtesten (aan
             <tr>
                 <th style="width: 300px;">Materiaaleigenschap</th>
                 <th></th>
+                <th></th>
                 <th colspan="3">Sterkteklasse</th>
             </tr>
             <tr>
                 <th style="width: 200px;"></th>
                 <th style="width: 100px;"></th>
+                <th style="width: 200px;"></th>
                 <th style="width: 100px;">GL24h</th>
                 <th style="width: 100px;">GL28h</th>
                 <th style="width: 200px;">GL32h</th>
             </tr>
         </thead>
         <tbody>
-            <tr><td>buigsterkte</td><td>f<sub>m;k</sub></td><td>24</td><td>28</td><td>32</td></tr>
-            <tr><td>treksterkte //</td><td>f<sub>t;0;k</sub></td><td>19,2</td><td>22,3</td><td>25,6</td></tr>
-            <tr><td>treksterkte ⊥</td><td>f<sub>t;90;k</sub></td><td>0,5</td><td>0,5</td><td>0,5</td></tr>
-            <tr><td>druksterkte //</td><td>f<sub>c;0;k</sub></td><td>24</td><td>28</td><td>32</td></tr>
-            <tr><td>druksterkte ⊥</td><td>f<sub>c;90;k</sub></td><td>2,5</td><td>2,5</td><td>2,5</td></tr>
-            <tr><td>schuifsterkte</td><td>f<sub>v;k</sub></td><td>3,5</td><td>3,5</td><td>3,5</td></tr>
-            <tr><td>elasticiteitsmodulus //</td><td>E<sub>0;gem</sub></td><td>11500</td><td>12600</td><td>14200</td></tr>
-            <tr><td>5% elasticiteitsmodulus //</td><td>E<sub>0,05</sub></td><td>9600</td><td>10500</td><td>11800</td></tr>
-            <tr><td>elasticiteitsmodulus ⊥</td><td>E<sub>90;gem</sub></td><td>550</td><td>600</td><td>650</td></tr>
-            <tr><td>afschuifmodulus</td><td>G<sub>gem</sub></td><td>740</td><td>820</td><td>920</td></tr>
-            <tr><td>5% volumieke massa</td><td>ρ<sub>k</sub></td><td>410</td><td>420</td><td>430</td></tr>
-            <tr><td>volumieke massa</td><td>ρ<sub>m</sub></td><td>550</td><td>560</td><td>580</td></tr>
+            <tr><td>buigsterkte</td><td>f<sub>m;k</sub></td><td>[N/mm<sup>2</sup>]</td><td>24</td><td>28</td><td>32</td></tr>
+            <tr><td>treksterkte //</td><td>f<sub>t;0;k</sub></td><td>[N/mm<sup>2</sup>]</td><td>19,2</td><td>22,3</td><td>25,6</td></tr>
+            <tr><td>treksterkte ⊥</td><td>f<sub>t;90;k</sub></td><td>[N/mm<sup>2</sup>]</td><td>0,5</td><td>0,5</td><td>0,5</td></tr>
+            <tr><td>druksterkte //</td><td>f<sub>c;0;k</sub></td><td>[N/mm<sup>2</sup>]</td><td>24</td><td>28</td><td>32</td></tr>
+            <tr><td>druksterkte ⊥</td><td>f<sub>c;90;k</sub></td><td>[N/mm<sup>2</sup>]</td><td>2,5</td><td>2,5</td><td>2,5</td></tr>
+            <tr><td>schuifsterkte</td><td>f<sub>v;k</sub></td><td>[N/mm<sup>2</sup>]</td><td>3,5</td><td>3,5</td><td>3,5</td></tr>
+            <tr><td>elasticiteitsmodulus //</td><td>E<sub>0;gem</sub></td><td>[N/mm<sup>2</sup>]</td><td>11500</td><td>12600</td><td>14200</td></tr>
+            <tr><td>5% elasticiteitsmodulus //</td><td>E<sub>0,05</sub></td><td>[N/mm<sup>2</sup>]</td><td>9600</td><td>10500</td><td>11800</td></tr>
+            <tr><td>elasticiteitsmodulus ⊥</td><td>E<sub>90;gem</sub></td><td>[N/mm<sup>2</sup>]</td><td>550</td><td>600</td><td>650</td></tr>
+            <tr><td>afschuifmodulus</td><td>G<sub>gem</sub></td><td>[N/mm<sup>2</sup>]</td><td>740</td><td>820</td><td>920</td></tr>
+            <tr><td>5% volumieke massa</td><td>ρ<sub>k</sub></td><td>[kg/m<sup>3</sup>]</td><td>410</td><td>420</td><td>430</td></tr>
+            <tr><td>volumieke massa</td><td>ρ<sub>m</sub></td><td>[kg/m<sup>3</sup>]</td><td>550</td><td>560</td><td>580</td></tr>
         </tbody>
     </table>
 </div>
